@@ -5914,4 +5914,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	exeggutordragonair: {
 		tier: "OU",
 	},
+	dragonaircharizard: {
+		tier: "OU",
+	},
+	crobatweezing: {
+		tier: "OU",
+	},
+	hitmonchanbeedrill: {
+		tier: "OU",
+	},
+	dragonairexeggutor: {
+		tier: "OU",
+	},
 };
