@@ -17300,4 +17300,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Dragonite"],
 		eggGroups: ["Grass", "Water 1"],
 	},
+	dragonairscyther: {
+		num: 1094,
+		name: "dragonairscyther",
+		types: ["Dragon", "Flying"],
+		baseStats: {hp: 64, atk: 101, def: 75, spa: 65, spd: 73, spe: 93},
+		abilities: {0: "Swarm", 1: "Shed Skin", H: "Marvel Scale"},
+		heightm: 2.75,
+		weightkg: 36.25,
+		color: "Blue",
+		evos: ["ScizorDragonite"],
+		eggGroups: ["Bug", "Water 1"],
+	},
 };
