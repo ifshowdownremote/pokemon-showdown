@@ -17312,4 +17312,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["ScizorDragonite"],
 		eggGroups: ["Bug", "Water 1"],
 	},
+	scytherkabutops: {
+		num: 1095,
+		name: "scytherkabutops",
+		types: ["Bug", "Water"],
+		baseStats: {hp: 66, atk: 113, def: 96, spa: 58, spd: 76, spe: 88},
+		abilities: {0: "Swift Swim", 1: "Swarm", H: "Steadfast"},
+		heightm: 1.4,
+		weightkg: 48.25,
+		color: "Green",
+		evos: ["Scizor"],
+		eggGroups: ["Water 1", "Bug"],
+	},
 };

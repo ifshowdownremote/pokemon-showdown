@@ -5929,4 +5929,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	dragonairscyther: {
 		tier: "OU",
 	},
+	scytherkabutops: {
+		tier: "OU",
+	},
 };
