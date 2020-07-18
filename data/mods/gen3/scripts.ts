@@ -1,21 +1,21 @@
 export const BattleScripts: ModdedBattleScriptsData = {
 	inherit: 'gen4',
 	gen: 3,
-	init() {
-		for (const i in this.data.Pokedex) {
-			delete this.data.Pokedex[i].abilities['H'];
-		}
-		const specialTypes = ['Fire', 'Water', 'Grass', 'Ice', 'Electric', 'Dark', 'Psychic', 'Dragon'];
-		let newCategory = '';
-		for (const i in this.data.Movedex) {
-			if (!this.data.Movedex[i]) console.log(i);
-			if (this.data.Movedex[i].category === 'Status') continue;
-			newCategory = specialTypes.includes(this.data.Movedex[i].type) ? 'Special' : 'Physical';
-			if (newCategory !== this.data.Movedex[i].category) {
-				this.modData('Movedex', i).category = newCategory;
-			}
-		}
-	},
+	// init() {
+		// for (const i in this.data.Pokedex) {
+			// delete this.data.Pokedex[i].abilities['H'];
+		// }
+		// const specialTypes = ['Fire', 'Water', 'Grass', 'Ice', 'Electric', 'Dark', 'Psychic', 'Dragon'];
+		// let newCategory = '';
+		// for (const i in this.data.Movedex) {
+			// if (!this.data.Movedex[i]) console.log(i);
+			// if (this.data.Movedex[i].category === 'Status') continue;
+			// newCategory = specialTypes.includes(this.data.Movedex[i].type) ? 'Special' : 'Physical';
+			// if (newCategory !== this.data.Movedex[i].category) {
+				// this.modData('Movedex', i).category = newCategory;
+			// }
+		// }
+	// },
 	useMoveInner(moveOrMoveName, pokemon, target, sourceEffect, zMove) {
 		if (!sourceEffect && this.effect.id) sourceEffect = this.effect;
 		if (sourceEffect && sourceEffect.id === 'instruct') sourceEffect = null;
