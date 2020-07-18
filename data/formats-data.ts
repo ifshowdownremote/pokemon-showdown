@@ -5932,4 +5932,52 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	scytherkabutops: {
 		tier: "OU",
 	},
+	chanseytangela: {
+		tier: "OU",
+	},
+	magnemitemrmime: {
+		tier: "OU",
+	},
+	mrmimemagnemite: {
+		tier: "OU",
+	},
+	laprasarticuno: {
+		tier: "OU",
+	},
+	hypnogengar: {
+		tier: "OU",
+	},
+	beedrillelectivire: {
+		tier: "OU",
+	},
+	murkrowblastoise: {
+		tier: "OU",
+	},
+	crobatgyarados: {
+		tier: "OU",
+	},
+	togekissclefable: {
+		tier: "OU",
+	},
+	clefabletogekiss: {
+		tier: "OU",
+	},
+	clefablelapras: {
+		tier: "OU",
+	},
+	gengarhypno: {
+		tier: "OU",
+	},
+	scythermarowak: {
+		tier: "OU",
+	},
+	ampharoscharizard: {
+		tier: "OU",
+	},
+	snorlaxdragonite: {
+		tier: "OU",
+	},
+	beedrillscyther: {
+		tier: "OU",
+	},
 };
