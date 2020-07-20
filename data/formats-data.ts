@@ -5944,4 +5944,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	laprasrhyperior: {
 		tier: "OU",
 	},
+	dragonitesunkern: {
+		tier: "OU",
+	},
+	tentacruelnidoking: {
+		tier: "OU",
+	},
 };
