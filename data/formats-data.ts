@@ -5782,19 +5782,28 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
-	mrmimeslowbro: {
+	togekissclefable: {
 		tier: "OU",
 	},
-	magmortarblastoise: {
+	clefabletogekiss: {
+		tier: "OU",
+	},
+	cloysterkingler: {
+		tier: "OU",
+	},
+	kinglercloyster: {
+		tier: "OU",
+	},
+	mrmimeslowbro: {
 		tier: "OU",
 	},
 	slowbromrmime: {
 		tier: "OU",
 	},
-	scytherbeedrill: {
+	beedrillscyther: {
 		tier: "OU",
 	},
-	cloysterkingler: {
+	scytherbeedrill: {
 		tier: "OU",
 	},
 	cloysterleafeon: {
@@ -5839,145 +5848,100 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	heracrossscyther: {
 		tier: "OU",
 	},
+	gengartauros: {
+		tier: "OU",
+	},
 	magnezonegyarados: {
 		tier: "OU",
 	},
 	spiritombaggron: {
 		tier: "OU",
 	},
-	gengartauros: {
+	chanseytangrowth: {
 		tier: "OU",
 	},
-	murkrowsmeargle: {
+	tangrowthchansey: {
 		tier: "OU",
 	},
-	smearglemurkrow: {
+	cloystercharizard: {
 		tier: "OU",
 	},
-	blazikendragonite: {
+	charizardcloyster: {
 		tier: "OU",
 	},
-	infernapeferaligatr: {
+	jynxmagmortar: {
 		tier: "OU",
 	},
-	charizardgyarados: {
-		tier: "OU",
-	},
-	vileplumehypno: {
-		tier: "OU",
-	},
-	gengarrhyperior: {
-		tier: "OU",
-	},
-	magmortarrhyperior: {
-		tier: "OU",
-	},
-	beedrillvenusaur: {
-		tier: "OU",
-	},
-	charizardbulbasaur: {
-		tier: "OU",
-	},
-	exeggutordragonair: {
-		tier: "OU",
-	},
-	murkrowsmeargle: {
-		tier: "OU",
-	},
-	smearglemurkrow: {
-		tier: "OU",
-	},
-	blazikendragonite: {
-		tier: "OU",
-	},
-	infernapeferaligatr: {
-		tier: "OU",
-	},
-	charizardgyarados: {
-		tier: "OU",
-	},
-	vileplumehypno: {
-		tier: "OU",
-	},
-	gengarrhyperior: {
-		tier: "OU",
-	},
-	magmortarrhyperior: {
-		tier: "OU",
-	},
-	beedrillvenusaur: {
-		tier: "OU",
-	},
-	charizardbulbasaur: {
-		tier: "OU",
-	},
-	exeggutordragonair: {
-		tier: "OU",
-	},
-	dragonaircharizard: {
-		tier: "OU",
-	},
-	crobatweezing: {
-		tier: "OU",
-	},
-	hitmonchanbeedrill: {
-		tier: "OU",
-	},
-	dragonairexeggutor: {
+	slowbroexeggutor: {
 		tier: "OU",
 	},
 	dragonairscyther: {
 		tier: "OU",
 	},
-	scytherkabutops: {
+	scytherdragonair: {
 		tier: "OU",
 	},
-	chanseytangela: {
+	mukcloyster: {
 		tier: "OU",
 	},
-	magnemitemrmime: {
+	arboksteelix: {
 		tier: "OU",
 	},
-	mrmimemagnemite: {
+	alakazamgengar: {
 		tier: "OU",
 	},
-	laprasarticuno: {
+	exeggutorcloyster: {
 		tier: "OU",
 	},
-	hypnogengar: {
+	laprasrapidash: {
 		tier: "OU",
 	},
-	beedrillelectivire: {
+	butterfreerhyperior: {
 		tier: "OU",
 	},
-	murkrowblastoise: {
+	starmiekingdra: {
 		tier: "OU",
 	},
-	crobatgyarados: {
+	kingdrastarmie: {
 		tier: "OU",
 	},
-	togekissclefable: {
+	electiviremetagross: {
 		tier: "OU",
 	},
-	clefabletogekiss: {
+	vaporeontangrowth: {
 		tier: "OU",
 	},
-	clefablelapras: {
+	nidokingmarowak: {
 		tier: "OU",
 	},
-	gengarhypno: {
+	alakazamsteelix: {
 		tier: "OU",
 	},
-	scythermarowak: {
+	houndoomrhyperior: {
 		tier: "OU",
 	},
-	ampharoscharizard: {
+	ampharosscyther: {
 		tier: "OU",
 	},
-	snorlaxdragonite: {
+	gengarkangaskhan: {
 		tier: "OU",
 	},
-	beedrillscyther: {
+	dragonairgyarados: {
+		tier: "OU",
+	},
+	laprasaggron: {
+		tier: "OU",
+	},
+	rapidashcharizard: {
+		tier: "OU",
+	},
+	arcaninesteelix: {
+		tier: "OU",
+	},
+	laprasmagmortar: {
+		tier: "OU",
+	},
+	laprasrhyperior: {
 		tier: "OU",
 	},
 };
