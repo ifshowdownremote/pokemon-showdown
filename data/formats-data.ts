@@ -5950,4 +5950,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	tentacruelnidoking: {
 		tier: "OU",
 	},
+	togekisscloyster: {
+		tier: "OU",
+	},
+	scytherrhydon: {
+		tier: "OU",
+	},
 };
