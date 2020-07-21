@@ -1661,13 +1661,13 @@ export const BattleItems: {[itemid: string]: ItemData} = {
 		onModifyDefPriority: 2,
 		onModifyDef(def, pokemon) {
 			if (pokemon.baseSpecies.nfe) {
-				return this.chainModify(1.5);
+				return this.chainModify(1.25);
 			}
 		},
 		onModifySpDPriority: 2,
 		onModifySpD(spd, pokemon) {
 			if (pokemon.baseSpecies.nfe) {
-				return this.chainModify(1.5);
+				return this.chainModify(1.25);
 			}
 		},
 		num: 538,
