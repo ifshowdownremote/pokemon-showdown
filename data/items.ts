@@ -1672,7 +1672,7 @@ export const BattleItems: {[itemid: string]: ItemData} = {
 		},
 		num: 538,
 		gen: 5,
-		desc: "If holder's species can evolve, its Defense and Sp. Def are 1.5x.",
+		desc: "If holder's species can evolve, its Defense and Sp. Def are 1.25x.",
 	},
 	expertbelt: {
 		name: "Expert Belt",
