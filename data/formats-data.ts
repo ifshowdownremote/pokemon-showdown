@@ -5956,4 +5956,61 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	scytherrhydon: {
 		tier: "OU",
 	},
+	mantinemeganium: {
+		tier: "OU",
+	},
+	mantineslowbro: {
+		tier: "OU",
+	},
+	gengarcharizard: {
+		tier: "OU",
+	},
+	fearowcharizard: {
+		tier: "OU",
+	},
+	charizardfearow: {
+		tier: "OU",
+	},
+	gengarmiltank: {
+		tier: "OU",
+	},
+	aegislashchansey: {
+		tier: "OU",
+	},
+	gardevoirgallade: {
+		tier: "OU",
+	},
+	tyranitargarchomp: {
+		tier: "OU",
+	},
+	alakazamstarmie: {
+		tier: "OU",
+	},
+	reshiramzekrom: {
+		tier: "OU",
+	},
+	miloticgyarados: {
+		tier: "OU",
+	},
+	miltankchansey: {
+		tier: "OU",
+	},
+	garchompcrobat: {
+		tier: "OU",
+	},
+	golduckhitmonchan: {
+		tier: "OU",
+	},
+	reshiramslaking: {
+		tier: "OU",
+	},
+	kingdragyarados: {
+		tier: "OU",
+	},
+	starmieweezing: {
+		tier: "OU",
+	},
+	raichutauros: {
+		tier: "OU",
+	},
 };
