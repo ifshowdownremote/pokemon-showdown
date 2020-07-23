@@ -6040,4 +6040,220 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	kinglerferaligatr: {
 		tier: "OU",
 	},
+	magnezonesceptile: {
+		tier: "OU",
+	},
+	heracrosstogekiss: {
+		tier: "OU",
+	},
+	charizardaerodactyl: {
+		tier: "OU",
+	},
+	nidokingcharizard: {
+		tier: "OU",
+	},
+	crobatjynx: {
+		tier: "OU",
+	},
+	weezinggolem: {
+		tier: "OU",
+	},
+	quagsireslowbro: {
+		tier: "OU",
+	},
+	hypnoheracross: {
+		tier: "OU",
+	},
+	charizardkabutops: {
+		tier: "OU",
+	},
+	magnezonesteelix: {
+		tier: "OU",
+	},
+	jynxsteelix: {
+		tier: "OU",
+	},
+	aerodactylgolem: {
+		tier: "OU",
+	},
+	mantinequagsire: {
+		tier: "OU",
+	},
+	vaporeonflareon: {
+		tier: "OU",
+	},
+	espeonjolteon: {
+		tier: "OU",
+	},
+	jolteonumbreon: {
+		tier: "OU",
+	},
+	jolteonespeon: {
+		tier: "OU",
+	},
+	espeonflareon: {
+		tier: "OU",
+	},
+	dewgongquagsire: {
+		tier: "OU",
+	},
+	vaporeonglaceon: {
+		tier: "OU",
+	},
+	espeonumbreon: {
+		tier: "OU",
+	},
+	jolteonflareon: {
+		tier: "OU",
+	},
+	glaceonleafeon: {
+		tier: "OU",
+	},
+	leafeonflareon: {
+		tier: "OU",
+	},
+	quagsireblastoise: {
+		tier: "OU",
+	},
+	umbreonglaceon: {
+		tier: "OU",
+	},
+	umbreonvenusaur: {
+		tier: "OU",
+	},
+	umbreonflareon: {
+		tier: "OU",
+	},
+	marowakscizor: {
+		tier: "OU",
+	},
+	scizormarowak: {
+		tier: "OU",
+	},
+	quagsiregolem: {
+		tier: "OU",
+	},
+	sylveonumbreon: {
+		tier: "OU",
+	},
+	quagsireempoleon: {
+		tier: "OU",
+	},
+	raichuflareon: {
+		tier: "OU",
+	},
+	marowakrhyperior: {
+		tier: "OU",
+	},
+	sceptileexeggutor: {
+		tier: "OU",
+	},
+	crobatgolem: {
+		tier: "OU",
+	},
+	sylveonsandslash: {
+		tier: "OU",
+	},
+	quagsiresandslash: {
+		tier: "OU",
+	},
+	hypnoflareon: {
+		tier: "OU",
+	},
+	dragonairmarowak: {
+		tier: "OU",
+	},
+	charizardexeggutor: {
+		tier: "OU",
+	},
+	quagsireskarmory: {
+		tier: "OU",
+	},
+	jolteonpidgeot: {
+		tier: "OU",
+	},
+	marowaksandslash: {
+		tier: "OU",
+	},
+	hypnosandslash: {
+		tier: "OU",
+	},
+	dragonairgolem: {
+		tier: "OU",
+	},
+	exeggutorlapras: {
+		tier: "OU",
+	},
+	weezingskarmory: {
+		tier: "OU",
+	},
+	pidgeotaerodactyl: {
+		tier: "OU",
+	},
+	electrodevenomoth: {
+		tier: "OU",
+	},
+	ariadossteelix: {
+		tier: "OU",
+	},
+	weezingsteelix: {
+		tier: "OU",
+	},
+	ariadosforretress: {
+		tier: "OU",
+	},
+	golduckelectivire: {
+		tier: "OU",
+	},
+	hitmonchaninfernape: {
+		tier: "OU",
+	},
+	nidokingferaligatr: {
+		tier: "OU",
+	},
+	weezingmuk: {
+		tier: "OU",
+	},
+	mukforretress: {
+		tier: "OU",
+	},
+	gallademuk: {
+		tier: "OU",
+	},
+	golduckexeggutor: {
+		tier: "OU",
+	},
+	hitmonchanferaligatr: {
+		tier: "OU",
+	},
+	hitmonleeferaligatr: {
+		tier: "OU",
+	},
+	togekissskarmory: {
+		tier: "OU",
+	},
+	kinglerrhyperior: {
+		tier: "OU",
+	},
+	mukkingler: {
+		tier: "OU",
+	},
+	mrmimeexeggutor: {
+		tier: "OU",
+	},
+	mrmimeweezing: {
+		tier: "OU",
+	},
+	togekisshitmonchan: {
+		tier: "OU",
+	},
+	tangrowthblastoise: {
+		tier: "OU",
+	},
+	kinglerskarmory: {
+		tier: "OU",
+	},
+	steelixkingler: {
+		tier: "OU",
+	},
 };
