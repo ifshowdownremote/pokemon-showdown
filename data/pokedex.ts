@@ -17712,7 +17712,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	kinglerferaligatr: {
 		num: 10085,
-		name: "kinglatr",
+		name: "kinglerferaligatr",
 		types: ["Water"],
 		baseStats: {hp: 65, atk: 113, def: 105, spa: 59, spd: 61, spe: 77},
 		abilities: {0: "Hyper Cutter", 1: "Torrent", H: "Sheer Force"},
