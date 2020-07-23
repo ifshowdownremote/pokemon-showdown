@@ -6256,4 +6256,28 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	steelixkingler: {
 		tier: "OU",
 	},
+	magnezonetogekiss: {
+		tier: "OU",
+	},
+	zapdosbutterfree: {
+		tier: "OU",
+	},
+	butterfreezapdos: {
+		tier: "OU",
+	},
+	tangrowthumbreon: {
+		tier: "OU",
+	},
+	magmortarrhyperior: {
+		tier: "OU",
+	},
+	venomothelectivire: {
+		tier: "OU",
+	},
+	mrmimetogekiss: {
+		tier: "OU",
+	},
+	politoedzapdos: {
+		tier: "OU",
+	},
 };
