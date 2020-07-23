@@ -5971,9 +5971,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	charizardfearow: {
 		tier: "OU",
 	},
-	gengarmiltank: {
-		tier: "OU",
-	},
 	aegislashchansey: {
 		tier: "OU",
 	},
@@ -5992,9 +5989,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	miloticgyarados: {
 		tier: "OU",
 	},
-	miltankchansey: {
-		tier: "OU",
-	},
 	garchompcrobat: {
 		tier: "OU",
 	},
@@ -6011,6 +6005,39 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	raichutauros: {
+		tier: "OU",
+	},
+	miltankchansey: {
+		tier: "OU",
+	},
+	gengarmiltank: {
+		tier: "OU",
+	},
+	chanseymimejr: {
+		tier: "OU",
+	},
+	hypnogyarados: {
+		tier: "OU",
+	},
+	koffingelectivire: {
+		tier: "OU",
+	},
+	jynxsceptile: {
+		tier: "OU",
+	},
+	sceptilemagnezone: {
+		tier: "OU",
+	},
+	gengartyranitar: {
+		tier: "OU",
+	},
+	pidgeotkingler: {
+		tier: "OU",
+	},
+	jolteongolem: {
+		tier: "OU",
+	},
+	kinglerferaligatr: {
 		tier: "OU",
 	},
 };
