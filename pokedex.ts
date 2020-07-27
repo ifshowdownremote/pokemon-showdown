@@ -1,4 +1,4 @@
-aexport const BattlePokedex: {[speciesid: string]: SpeciesData} = {
+export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	bulbasaur: {
 		num: 1,
 		name: "Bulbasaur",
