@@ -18669,4 +18669,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Undiscovered", "Field"],
 	},
+	raichujynx: {
+		num: 10174,
+		name: "raichujynx",
+		types: ["Electric", "Ice"],
+		baseStats: {hp: 61, atk: 63, def: 41, spa: 98, spd: 85, spe: 100},
+		abilities: {0: "Static", 1: "Forewarn", H: "Lightning Rod"},
+		heightm: 1.1,
+		weightkg: 35.3,
+		color: "Yellow",
+		eggGroups: ["Human-Like", "Field"],
+	},
 };
