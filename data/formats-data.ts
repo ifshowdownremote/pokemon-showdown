@@ -6286,21 +6286,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	aerodactylleafeon: {
 		tier: "OU",
 	},
-	giratinaraichu: {
-		tier: "OU",
-	},
-	regigigasraichu: {
-		tier: "OU",
-	},
-	dialgaraichu: {
-		tier: "OU",
-	},
-	palkiaraichu: {
-		tier: "OU",
-	},
-	arceusraichu: {
-		tier: "OU",
-	},
 	butterfreeslowbro: {
 		tier: "OU",
 	},
