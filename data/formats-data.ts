@@ -6301,4 +6301,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	raichujynx: {
 		tier: "OU",
 	},
+	steelixvenusaur: {
+		tier: "OU",
+	},
+	blastoiseelectivire: {
+		tier: "OU",
+	},
+	electivirerhyperior: {
+		tier: "OU",
+	},
 };
