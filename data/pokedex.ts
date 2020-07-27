@@ -18658,4 +18658,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Flying", "Field"],
 	},
+	raichunidoqueen: {
+		num: 10173,
+		name: "raichunidoqueen",
+		types: ["Electric", "Poison"],
+		baseStats: {hp: 70, atk: 91, def: 76, spa: 85, spd: 81, spe: 87},
+		abilities: {0: "Static", 1: "Rivalry", H: "Lightning Rod"},
+		heightm: 1.05,
+		weightkg: 45,
+		color: "Yellow",
+		eggGroups: ["Undiscovered", "Field"],
+	},
 };
