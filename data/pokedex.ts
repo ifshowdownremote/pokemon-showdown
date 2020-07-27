@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 aexport const BattlePokedex: {[speciesid: string]: SpeciesData} = {
+=======
+t²texport const BattlePokedex: {[speciesid: string]: SpeciesData} = {
+>>>>>>> 698890bd4c421213be69418a2546b6c1ceb8b11b
 	bulbasaur: {
 		num: 1,
 		name: "Bulbasaur",
