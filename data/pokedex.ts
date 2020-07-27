@@ -18647,4 +18647,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Flying", "Field"],
 	},
+	raichucrobat: {
+		num: 10172,
+		name: "raichucrobat",
+		types: ["Electric", "Poison"],
+		baseStats: {hp: 68, atk: 90, def: 71, spa: 83, spd: 80, spe: 123},
+		abilities: {0: "Static", 1: "Infiltrator", H: "Lightning Rod"},
+		heightm: 1.3,
+		weightkg: 52,
+		color: "Yellow",
+		eggGroups: ["Flying", "Field"],
+	},
 };
