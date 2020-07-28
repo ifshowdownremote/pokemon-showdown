@@ -18713,4 +18713,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Monster", "Human-Like"],
 	},
+	flygonmetagross: {
+		num: 10178,
+		name: "flygonmetagross",
+		types: ["Ground", "Psychic"],
+		baseStats: {hp: 80, atk: 123, def: 113, spa: 85, spd: 83, spe: 80},
+		abilities: {0: "Levitate", 1: "Clear Body", H: ""},
+		heightm: 1.8,
+		weightkg: 316,
+		color: "Green",
+		eggGroups: ["Mineral", "Bug"],
+	},
 };
