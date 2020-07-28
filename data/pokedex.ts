@@ -18724,4 +18724,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Mineral", "Bug"],
 	},
+	flygonraichu: {
+		num: 10179,
+		name: "flygonraichu",
+		types: ["Ground", "Electric"],
+		baseStats: {hp: 73, atk: 93, def: 63, spa: 83, spd: 80, spe: 106},
+		abilities: {0: "Levitate", 1: "Static", H: ""},
+		heightm: 1.4,
+		weightkg: 56,
+		color: "Green",
+		eggGroups: ["Field", "Bug"],
+	},
 };
