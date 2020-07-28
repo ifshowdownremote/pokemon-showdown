@@ -18790,4 +18790,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Undiscovered", "Bug"],
 	},
+	flygondragonite: {
+		num: 10185,
+		name: "flygondragonite",
+		types: ["Ground", "Dragon"],
+		baseStats: {hp: 83, atk: 122, def: 90, spa: 86, spd: 86, spe: 86},
+		abilities: {0: "Levitate", 1: "Inner Focus", H: ""},
+		heightm: 2.1,
+		weightkg: 146,
+		color: "Green",
+		eggGroups: ["Water 1", "Bug"],
+	},
 };
