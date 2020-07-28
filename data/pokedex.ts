@@ -18746,4 +18746,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Flying", "Bug"],
 	},
+	flygonclefable: {
+		num: 10181,
+		name: "flygonclefable",
+		types: ["Ground", "Fairy"],
+		baseStats: {hp: 85, atk: 80, def: 75, spa: 85, spd: 83, spe: 73},
+		abilities: {0: "Levitate", 1: "Magic Guard", H: "Unaware"},
+		heightm: 1.65,
+		weightkg: 61,
+		color: "Green",
+		eggGroups: ["Fairy", "Bug"],
+	},
 };
