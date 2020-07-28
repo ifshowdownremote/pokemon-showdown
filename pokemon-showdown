@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+//#!/usr/local/bin/node
 
 // Before running, ensure that the Typescript files have been compiled.
 //
