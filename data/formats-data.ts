@@ -6325,4 +6325,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	flygoncharizard: {
 		tier: "OU",
 	},
+	flygonarticuno: {
+		tier: "OU",
+	},
 };

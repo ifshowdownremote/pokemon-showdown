@@ -18768,4 +18768,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Monster", "Bug"],
 	},
+	flygonarticuno: {
+		num: 10183,
+		name: "flygonarticuno",
+		types: ["Ground", "Ice"],
+		baseStats: {hp: 83, atk: 90, def: 93, spa: 85, spd: 95, spe: 90},
+		abilities: {0: "Levitate", 1: "Pressure", H: ""},
+		heightm: 1.85,
+		weightkg: 68.7,
+		color: "Green",
+		eggGroups: ["Undiscovered", "Bug"],
+	},
 };
