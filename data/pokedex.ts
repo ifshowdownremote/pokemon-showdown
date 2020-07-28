@@ -18779,4 +18779,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Undiscovered", "Bug"],
 	},
+	flygonmoltres: {
+		num: 10184,
+		name: "flygonmoltres",
+		types: ["Ground", "Fire"],
+		baseStats: {hp: 83, atk: 100, def: 86, spa: 95, spd: 81, spe: 93},
+		abilities: {0: "Levitate", 1: "Pressure", H: ""},
+		heightm: 2,
+		weightkg: 71,
+		color: "Green",
+		eggGroups: ["Undiscovered", "Bug"],
+	},
 };
