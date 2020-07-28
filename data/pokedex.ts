@@ -18735,4 +18735,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Field", "Bug"],
 	},
+	flygontogekiss: {
+		num: 10180,
+		name: "flygontogekiss",
+		types: ["Ground", "Flying"],
+		baseStats: {hp: 81, atk: 66, def: 90, spa: 93, spd: 91, spe: 86},
+		abilities: {0: "Levitate", 1: "Serene Grace", H: "Super Luck"},
+		heightm: 1.75,
+		weightkg: 60,
+		color: "Green",
+		eggGroups: ["Flying", "Bug"],
+	},
 };
