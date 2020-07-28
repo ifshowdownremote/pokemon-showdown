@@ -18813,4 +18813,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Dragonair"],
 		eggGroups: ["Water 1", "Bug"],
 	},
+	flygonsandslash: {
+		num: 10187,
+		name: "flygonsandslash",
+		types: ["Dragon", "Ground"],
+		baseStats: {hp: 78, atk: 100, def: 100, spa: 68, spd: 71, spe: 76},
+		abilities: {0: "Levitate", 1: "Sand Veil", H: ""},
+		heightm: 1,
+		weightkg: 55.75,
+		color: "Green",
+		eggGroups: ["Field", "Bug"],
+	},
 };

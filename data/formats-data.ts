@@ -6337,4 +6337,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	flygondratini: {
 		tier: "OU",
 	},
+	flygonsandslash: {
+		tier: "OU",
+	},
 };
