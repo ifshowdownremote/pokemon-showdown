@@ -18757,4 +18757,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Fairy", "Bug"],
 	},
+	flygoncharizard: {
+		num: 10182,
+		name: "flygoncharizard",
+		types: ["Ground", "Fire"],
+		baseStats: {hp: 79, atk: 89, def: 78, spa: 89, spd: 81, spe: 100},
+		abilities: {0: "Levitate", 1: "Blaze", H: ""},
+		heightm: 1.85,
+		weightkg: 86.25,
+		color: "Green",
+		eggGroups: ["Monster", "Bug"],
+	},
 };
