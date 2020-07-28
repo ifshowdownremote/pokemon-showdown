@@ -18824,4 +18824,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Field", "Bug"],
 	},
+	flygonzubat: {
+		num: 10188,
+		name: "flygonzubat",
+		types: ["Ground", "Flying"],
+		baseStats: {hp: 66, atk: 63, def: 50, spa: 63, spd: 66, spe: 70},
+		abilities: {0: "Levitate", 1: "Inner Focus", H: ""},
+		heightm: 1.4,
+		weightkg: 44.75,
+		color: "Green",
+		evos: ["Golbat"],
+		eggGroups: ["Flying", "Bug"],
+	},
 };
