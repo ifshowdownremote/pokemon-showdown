@@ -6349,4 +6349,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	flygonnidoking: {
 		tier: "OU",
 	},
+	nidokinggyarados: {
+		tier: "OU",
+	},
+	nidokingrhyperior: {
+		tier: "OU",
+	},
 };
