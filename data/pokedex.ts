@@ -18848,4 +18848,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Gloom"],
 		eggGroups: ["Grass", "Bug"],
 	},
+	flygonnidoking: {
+		num: 10190,
+		name: "flygonnidoking",
+		types: ["Dragon", "Ground"],
+		baseStats: {hp: 80, atk: 101, def: 78, spa: 81, spd: 78, spe: 90},
+		abilities: {0: "Levitate", 1: "Rivalry", H: "Sheer Force"},
+		heightm: 1.7,
+		weightkg: 72,
+		color: "Green",
+		eggGroups: ["Monster", "Bug"],
+	},
 };
