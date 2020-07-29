@@ -18836,4 +18836,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Golbat"],
 		eggGroups: ["Flying", "Bug"],
 	},
+	flygonoddish: {
+		num: 10189,
+		name: "flygonoddish",
+		types: ["Ground", "Poison"],
+		baseStats: {hp: 68, atk: 66, def: 63, spa: 78, spd: 75, spe: 53},
+		abilities: {0: "Levitate", 1: "Chlorophyll", H: ""},
+		heightm: 1.25,
+		weightkg: 43.7,
+		color: "Green",
+		evos: ["Gloom"],
+		eggGroups: ["Grass", "Bug"],
+	},
 };
