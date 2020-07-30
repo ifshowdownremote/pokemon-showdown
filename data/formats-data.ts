@@ -6364,4 +6364,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	vileplumeninetales: {
 		tier: "OU",
 	},
+	charizardrhyperior: {
+		tier: "OU",
+	},
+	butterfreenidoking: {
+		tier: "OU",
+	},
 };
