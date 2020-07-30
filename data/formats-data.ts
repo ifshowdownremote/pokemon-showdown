@@ -6358,4 +6358,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	zapdosskarmory: {
 		tier: "OU",
 	},
+	electiviremachamp: {
+		tier: "OU",
+	},
+	vileplumeninetales: {
+		tier: "OU",
+	},
 };
