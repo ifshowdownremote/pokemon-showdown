@@ -6355,4 +6355,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	nidokingrhyperior: {
 		tier: "OU",
 	},
+	zapdosskarmory: {
+		tier: "OU",
+	},
 };

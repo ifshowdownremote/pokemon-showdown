@@ -18881,4 +18881,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Purple",
 		eggGroups: ["Monster", "Monster"],
 	},
+	zapdosskarmory: {
+		num: 10193,
+		name: "zapdosskarmory",
+		types: ["Electric", "Flying"],
+		baseStats: {hp: 81, atk: 83, def: 121, spa: 96, spd: 83, spe: 80},
+		abilities: {0: "Pressure", 1: "Sturdy", H: "Static"},
+		heightm: 1.65,
+		weightkg: 51.55,
+		color: "Yellow",
+		eggGroups: ["Flying", "Undiscovered"],
+	},
 };
