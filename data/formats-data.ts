@@ -6369,5 +6369,8 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	butterfreenidoking: {
 		tier: "OU",
+	},	
+	raichuporygonz: {
+		tier: "OU",
 	},
 };
