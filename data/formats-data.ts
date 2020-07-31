@@ -6379,4 +6379,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	raichuinfernape: {
 		tier: "OU",
 	},
+	raichubeedrill: {
+		tier: "OU",
+	},
 };

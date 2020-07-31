@@ -18969,4 +18969,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Field", "Field"],
 	},
+	raichubeedrill: {
+		num: 10246,
+		name: "raichubeedrill",
+		types: ["Electric", "Bug"],
+		baseStats: {hp: 61, atk: 90, def: 45, spa: 75, spd: 80, spe: 86},
+		abilities: {0: "Static", 1: "Sniper", H: "Lightning Rod"},
+		heightm: 0.9,
+		weightkg: 29.75,
+		color: "Yellow",
+		eggGroups: ["Bug", "Field"],
+	},
 };
