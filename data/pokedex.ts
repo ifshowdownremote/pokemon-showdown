@@ -18980,4 +18980,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Bug", "Field"],
 	},
+	venusaurtogetic: {
+		num: 10247,
+		name: "venusaurtogetic",
+		types: ["Grass", "Flying"],
+		baseStats: {hp: 71, atk: 54, def: 84, spa: 93, spd: 101, spe: 53},
+		abilities: {0: "Overgrow", 1: "Serene Grace", H: "Chlorophyll"},
+		heightm: 1.3,
+		weightkg: 51.6,
+		color: "Green",
+		evos: ["Togekiss"],
+		eggGroups: ["Flying", "Monster"],
+	},
 };
