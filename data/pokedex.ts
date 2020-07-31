@@ -18958,4 +18958,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Monster", "Field"],
 	},
+	raichuinfernape: {
+		num: 10245,
+		name: "raichuinfernape",
+		types: ["Electric", "Fire"],
+		baseStats: {hp: 65, atk: 99, def: 65, spa: 94, spd: 77, spe: 108},
+		abilities: {0: "Static", 1: "Iron Fist", H: "Lightning Rod"},
+		heightm: 1.0,
+		weightkg: 42,
+		color: "Yellow",
+		eggGroups: ["Field", "Field"],
+	},
 };
