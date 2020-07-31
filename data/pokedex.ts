@@ -18936,9 +18936,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "White",
 		eggGroups: ["Monster", "Bug"],
 	},
-	raichuporygon-z: {
-		num: 10242,
-		name: "raichuporygon-z",
+	raichuporygonz: {
+		num: 10243,
+		name: "raichuporygonz",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 68, atk: 83, def: 65, spa: 105, spd: 78, spe: 96},
 		abilities: {0: "Static", 1: "Download", H: "Lightning Rod"},
