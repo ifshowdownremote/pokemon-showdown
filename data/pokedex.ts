@@ -18947,4 +18947,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Mineral", "Field"],
 	},
+	raichuferaligatr: {
+		num: 10244,
+		name: "raichuferaligatr",
+		types: ["Electric", "Water"],
+		baseStats: {hp: 68, atk: 100, def: 85, spa: 86, spd: 81, spe: 88},
+		abilities: {0: "Static", 1: "Sheer Force", H: "Lightning Rod"},
+		heightm: 1.5499999999999998,
+		weightkg: 59.4,
+		color: "Yellow",
+		eggGroups: ["Monster", "Field"],
+	},
 };
