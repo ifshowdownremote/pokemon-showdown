@@ -19025,4 +19025,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Brown",
 		eggGroups: ["Mineral", "Flying"],
 	},
+	noctowldragonite: {
+		num: 10271,
+		name: "noctowldragonite",
+		types: ["Flying", "Dragon"],
+		baseStats: {hp: 97, atk: 106, def: 80, spa: 90, spd: 97, spe: 76},
+		abilities: {0: "Insomnia", 1: "Multiscale", H: "Tinted Lens"},
+		heightm: 1.9000000000000001,
+		weightkg: 125.4,
+		color: "Brown",
+		eggGroups: ["Water 1", "Flying"],
+	},
 };

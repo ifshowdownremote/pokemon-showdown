@@ -6394,4 +6394,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	noctowlsteelix: {
 		tier: "OU",
 	},
+	noctowldragonite: {
+		tier: "OU",
+	},
 };
