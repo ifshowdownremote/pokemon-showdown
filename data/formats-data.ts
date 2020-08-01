@@ -5982,10 +5982,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	alakazamstarmie: {
 		tier: "OU",
-	},
-	reshiramzekrom: {
-		tier: "OU",
-	},
+	},	
 	miloticgyarados: {
 		tier: "OU",
 	},
@@ -5994,10 +5991,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	golduckhitmonchan: {
 		tier: "OU",
-	},
-	reshiramslaking: {
-		tier: "OU",
-	},
+	},	
 	kingdragyarados: {
 		tier: "OU",
 	},
@@ -6383,6 +6377,21 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	venusaurtogetic: {
+		tier: "OU",
+	},	
+	reshiramzekrom: {
+		tier: "OU",
+	},
+	dialgaraichu: {
+		tier: "OU",
+	},
+	arceusraichu: {
+		tier: "OU",
+	},
+	palkiaraichu: {
+		tier: "OU",
+	},
+	noctowlsteelix: {
 		tier: "OU",
 	},
 };
