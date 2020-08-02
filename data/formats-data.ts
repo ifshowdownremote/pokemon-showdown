@@ -6442,4 +6442,121 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	sudowoodotangrowth: {
 		tier: "OU",
 	},
+	tangrowthsudowoodo: {
+		tier: "OU",
+	},
+	tangrowthmiltank: {
+		tier: "OU",
+	},
+	tangrowthmilotic: {
+		tier: "OU",
+	},
+	jolteontyranitar: {
+		tier: "OU",
+	},
+	jolteonstarmie: {
+		tier: "OU",
+	},
+	vaporeonhitmonlee: {
+		tier: "OU",
+	},
+	scizorspiritomb: {
+		tier: "OU",
+	},
+	pidgeotmachamp: {
+		tier: "OU",
+	},
+	heracrossmagmortar: {
+		tier: "OU",
+	},
+	miloticgardevoir: {
+		tier: "OU",
+	},
+	flareonhitmonlee: {
+		tier: "OU",
+	},
+	magnezonevenusaur: {
+		tier: "OU",
+	},
+	honchkrowursaring: {
+		tier: "OU",
+	},
+	golduckinfernape: {
+		tier: "OU",
+	},
+	jolteonslaking: {
+		tier: "OU",
+	},
+	charizardmeganium: {
+		tier: "OU",
+	},
+	golemninetales: {
+		tier: "OU",
+	},
+	ninetalesgolem: {
+		tier: "OU",
+	},
+	houndoomgardevoir: {
+		tier: "OU",
+	},
+	houndoomhitmonchan: {
+		tier: "OU",
+	},
+	skarmoryaggron: {
+		tier: "OU",
+	},
+	unowntorterra: {
+		tier: "OU",
+	},
+	taurosgardevoir: {
+		tier: "OU",
+	},
+	arceusgroudon: {
+		tier: "OU",
+	},
+	mewtwodarkrai: {
+		tier: "OU",
+	},
+	jolteoncharizard: {
+		tier: "OU",
+	},
+	wigglytufftorterra: {
+		tier: "OU",
+	},
+	forretressgolem: {
+		tier: "OU",
+	},
+	moltressceptile: {
+		tier: "OU",
+	},
+	porygonmew: {
+		tier: "OU",
+	},
+	absolgardevoir: {
+		tier: "OU",
+	},
+	starmiemetagross: {
+		tier: "OU",
+	},
+	corsolavictreebel: {
+		tier: "OU",
+	},
+	bastiodonchansey: {
+		tier: "OU",
+	},
+	aegislashweezing: {
+		tier: "OU",
+	},
+	beedrillnidoking: {
+		tier: "OU",
+	},
+	pinsirheracross: {
+		tier: "OU",
+	},
+	zoroarkgengar: {
+		tier: "OU",
+	},
+	moltresrapidash: {
+		tier: "OU",
+	},
 };
