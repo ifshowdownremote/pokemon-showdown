@@ -7210,4 +7210,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	jolteonblastoise: {
 		tier: "OU",
 	},
+	celebimewtwo: {
+		tier: "OU",
+	},
+	torterrawailord: {
+		tier: "OU",
+	},
 };
