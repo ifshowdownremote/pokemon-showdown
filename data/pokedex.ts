@@ -19069,4 +19069,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Water 1", "Monster"],
 	},
+	crobatarbok: {
+		num: 10208,
+		name: "crobatarbok",
+		types: ["Flying", "Poison"],
+		baseStats: {hp: 76, atk: 93, def: 72, spa: 68, spd: 79, spe: 96},
+		abilities: {0: "Inner Focus", 1: "Shed Skin", H: "Infiltrator"},
+		heightm: 2.65,
+		weightkg: 70,
+		color: "Purple",
+		eggGroups: ["Field", "Flying"],
+	},
 };

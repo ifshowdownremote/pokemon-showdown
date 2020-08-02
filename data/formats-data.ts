@@ -6406,4 +6406,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	meganiumdragonite: {
 		tier: "OU",
 	},
+	crobatarbok: {
+		tier: "OU",
+	},
 };
