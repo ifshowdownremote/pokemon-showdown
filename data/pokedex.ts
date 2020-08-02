@@ -20813,9 +20813,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Black",
 		eggGroups: ["Monster", "Flying"],
 	},
-	ho-ohblaziken: {
+	hoohblaziken: {
 		num: 10365,
-		name: "ho-ohblaziken",
+		name: "hoohblaziken",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 97, atk: 123, def: 76, spa: 110, spd: 126, spe: 83},
 		abilities: {0: "Pressure", 1: "Speed Boost", H: "Regenerator"},
