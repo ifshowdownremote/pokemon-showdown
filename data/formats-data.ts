@@ -7066,13 +7066,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	jumpluffwobbuffet: {
 		tier: "OU",
 	},
-	pidgeotfarfetch'd: {
-		tier: "OU",
-	},
 	pidgeotgolduck: {
-		tier: "OU",
-	},
-	crobatfarfetch'd: {
 		tier: "OU",
 	},
 	vaporeonespeon: {
