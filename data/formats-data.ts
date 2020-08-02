@@ -7065,5 +7065,125 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	jumpluffwobbuffet: {
 		tier: "OU",
-	},	
+	},
+	farfetchdhooh: {
+		tier: "OU",
+	},
+	darkraiweezing: {
+		tier: "OU",
+	},
+	darkraibutterfree: {
+		tier: "OU",
+	},
+	piplupeevee: {
+		tier: "OU",
+	},
+	garchomparticuno: {
+		tier: "OU",
+	},
+	wobbuffetdragonite: {
+		tier: "OU",
+	},
+	sudowoodogengar: {
+		tier: "OU",
+	},
+	charizardsylveon: {
+		tier: "OU",
+	},
+	venusaurquagsire: {
+		tier: "OU",
+	},
+	alakazamumbreon: {
+		tier: "OU",
+	},
+	dittoeevee: {
+		tier: "OU",
+	},
+	alakazamcelebi: {
+		tier: "OU",
+	},
+	celebimewtwo: {
+		tier: "OU",
+	},
+	ninetalesinfernape: {
+		tier: "OU",
+	},
+	igglybufftorterra: {
+		tier: "OU",
+	},
+	zapdosmantine: {
+		tier: "OU",
+	},
+	zapdosflygon: {
+		tier: "OU",
+	},
+	nidokingsceptile: {
+		tier: "OU",
+	},
+	ursaringursaring: {
+		tier: "OU",
+	},
+	charizardarbok: {
+		tier: "OU",
+	},
+	magikarparceus: {
+		tier: "OU",
+	},
+	rapidashzoroark: {
+		tier: "OU",
+	},
+	blazikenmrmime: {
+		tier: "OU",
+	},
+	wooperwooper: {
+		tier: "OU",
+	},
+	venusaurbutterfree: {
+		tier: "OU",
+	},
+	togekissshedinja: {
+		tier: "OU",
+	},
+	poliwrathmuk: {
+		tier: "OU",
+	},
+	dragonitekangaskhan: {
+		tier: "OU",
+	},
+	laprasaegislash: {
+		tier: "OU",
+	},
+	mewgrovyle: {
+		tier: "OU",
+	},
+	kecleonmewtwo: {
+		tier: "OU",
+	},
+	rhyperiormantine: {
+		tier: "OU",
+	},
+	dusknoirlapras: {
+		tier: "OU",
+	},
+	bisharpsalamence: {
+		tier: "OU",
+	},
+	dusknoirkangaskhan: {
+		tier: "OU",
+	},
+	laprasskarmory: {
+		tier: "OU",
+	},
+	gengarmachamp: {
+		tier: "OU",
+	},
+	mantinesteelix: {
+		tier: "OU",
+	},
+	mantineskarmory: {
+		tier: "OU",
+	},
+	mantinemagnezone: {
+		tier: "OU",
+	},
 };
