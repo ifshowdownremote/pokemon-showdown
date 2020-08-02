@@ -6559,4 +6559,175 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	moltresrapidash: {
 		tier: "OU",
 	},
+	feraligatrelectivire: {
+		tier: "OU",
+	},
+	electivireferaligatr: {
+		tier: "OU",
+	},
+	alakazammachamp: {
+		tier: "OU",
+	},
+	gyaradossalamence: {
+		tier: "OU",
+	},
+	alakazamsalamence: {
+		tier: "OU",
+	},
+	hitmonchanarbok: {
+		tier: "OU",
+	},
+	hitmontoparbok: {
+		tier: "OU",
+	},
+	hitmonleearbok: {
+		tier: "OU",
+	},
+	hitmonchanrhyperior: {
+		tier: "OU",
+	},
+	hitmonchanrhydon: {
+		tier: "OU",
+	},
+	scytherpinsir: {
+		tier: "OU",
+	},
+	beedrillpinsir: {
+		tier: "OU",
+	},
+	chanseydusclops: {
+		tier: "OU",
+	},
+	weezingzapdos: {
+		tier: "OU",
+	},
+	alakazamnidoking: {
+		tier: "OU",
+	},
+	alakazamnidoqueen: {
+		tier: "OU",
+	},
+	crobatnidoqueen: {
+		tier: "OU",
+	},
+	jolteoncrobat: {
+		tier: "OU",
+	},
+	nidokingjolteon: {
+		tier: "OU",
+	},
+	snorlaxshieldon: {
+		tier: "OU",
+	},
+	snorlaxaggron: {
+		tier: "OU",
+	},
+	gengaraggron: {
+		tier: "OU",
+	},
+	gengarrhyperior: {
+		tier: "OU",
+	},
+	starmieaggron: {
+		tier: "OU",
+	},
+	omastaraggron: {
+		tier: "OU",
+	},
+	omastarnidoking: {
+		tier: "OU",
+	},
+	omastarnidoqueen: {
+		tier: "OU",
+	},
+	omastarkabutops: {
+		tier: "OU",
+	},
+	omastaraerodactyl: {
+		tier: "OU",
+	},
+	kabutopsaerodactyl: {
+		tier: "OU",
+	},
+	articunozapdos: {
+		tier: "OU",
+	},
+	zapdosarticuno: {
+		tier: "OU",
+	},
+	ninetalessteelix: {
+		tier: "OU",
+	},
+	stantlersteelix: {
+		tier: "OU",
+	},
+	stantlersudowoodo: {
+		tier: "OU",
+	},
+	stantlerscizor: {
+		tier: "OU",
+	},
+	pinsirscizor: {
+		tier: "OU",
+	},
+	scytherscizor: {
+		tier: "OU",
+	},
+	heracrossscizor: {
+		tier: "OU",
+	},
+	scytherheracross: {
+		tier: "OU",
+	},
+	beedrillheracross: {
+		tier: "OU",
+	},
+	heracrossbeedrill: {
+		tier: "OU",
+	},
+	starmieomastar: {
+		tier: "OU",
+	},
+	starmiesteelix: {
+		tier: "OU",
+	},
+	starmiecloyster: {
+		tier: "OU",
+	},
+	kabutopscloyster: {
+		tier: "OU",
+	},
+	kabutopsbeedrill: {
+		tier: "OU",
+	},
+	beedrillkabutops: {
+		tier: "OU",
+	},
+	zapdoskabutops: {
+		tier: "OU",
+	},
+	moltreskabutops: {
+		tier: "OU",
+	},
+	mewkabutops: {
+		tier: "OU",
+	},
+	weezingkabutops: {
+		tier: "OU",
+	},
+	darkraislaking: {
+		tier: "OU",
+	},
+	weavilekabutops: {
+		tier: "OU",
+	},
+	rayquazaslaking: {
+		tier: "OU",
+	},
+	kabutopsweavile: {
+		tier: "OU",
+	},
+	mukkabutops: {
+		tier: "OU",
+	},
 };
