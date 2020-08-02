@@ -6409,4 +6409,37 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	crobatarbok: {
 		tier: "OU",
 	},
+	arbokcharizard: {
+		tier: "OU",
+	},
+	alakazamampharos: {
+		tier: "OU",
+	},
+	ampharosmachamp: {
+		tier: "OU",
+	},
+	weezingsnorlax: {
+		tier: "OU",
+	},
+	laprasbisharp: {
+		tier: "OU",
+	},
+	mewraichu: {
+		tier: "OU",
+	},
+	articunosudowoodo: {
+		tier: "OU",
+	},
+	sudowoodogolem: {
+		tier: "OU",
+	},
+	sudowoodosnorlax: {
+		tier: "OU",
+	},
+	sudowoodogranbull: {
+		tier: "OU",
+	},
+	sudowoodotangrowth: {
+		tier: "OU",
+	},
 };
