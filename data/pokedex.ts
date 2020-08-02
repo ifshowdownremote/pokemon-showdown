@@ -16757,4 +16757,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	meganiumdragonite: {
+		num: 10272,
+		name: "meganiumdragonite",
+		types: ["Grass", "Dragon"],
+		baseStats: {hp: 83, atk: 116, def: 96, spa: 88, spd: 100, spe: 80},
+		abilities: {0: "Overgrow", 1: "Multiscale", H: "Leaf Guard"},
+		heightm: 2.0,
+		weightkg: 155.25,
+		color: "Green",
+		eggGroups: ["Water 1", "Monster"],
+	},
 };

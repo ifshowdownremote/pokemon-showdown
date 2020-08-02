@@ -5782,4 +5782,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	meganiumdragonite: {
+		tier: "OU",
+	},
 };
