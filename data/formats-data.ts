@@ -7453,4 +7453,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	crobatpidgeot: {
 		tier: "OU",
 	},
+	xatusteelix: {
+		tier: "OU",
+	},
+	shedinjasteelix: {
+		tier: "OU",
+	},
+	venusaursteelix: {
+		tier: "OU",
+	},
 };
