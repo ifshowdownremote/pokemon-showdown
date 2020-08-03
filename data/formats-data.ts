@@ -7429,4 +7429,25 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	mudkipvoltorb: {
 		tier: "OU",
 	},
+	hitmontoparcanine: {
+		tier: "OU",
+	},
+	bellossomglaceon: {
+		tier: "OU",
+	},
+	glaceonbellossom: {
+		tier: "OU",
+	},
+	leafeonbellossom: {
+		tier: "OU",
+	},
+	bellossomleafeon: {
+		tier: "OU",
+	},
+	bellossomvictreebel: {
+		tier: "OU",
+	},
+	victreebelbellossom: {
+		tier: "OU",
+	},
 };
