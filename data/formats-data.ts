@@ -7462,4 +7462,70 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	venusaursteelix: {
 		tier: "OU",
 	},
+	scizorgroudon: {
+		tier: "OU",
+	},
+	groudonscizor: {
+		tier: "OU",
+	},
+	azumarillcloyster: {
+		tier: "OU",
+	},
+	kecleontyranitar: {
+		tier: "OU",
+	},
+	kecleonhitmonchan: {
+		tier: "OU",
+	},
+	venusaurshuckle: {
+		tier: "OU",
+	},
+	yanmegaelectivire: {
+		tier: "OU",
+	},
+	slakingazumarill: {
+		tier: "OU",
+	},
+	groudonazumarill: {
+		tier: "OU",
+	},
+	groudonkyogre: {
+		tier: "OU",
+	},
+	spiritombrhyperior: {
+		tier: "OU",
+	},
+	persiantogekiss: {
+		tier: "OU",
+	},
+	togekisspersian: {
+		tier: "OU",
+	},
+	togeticmagnezone: {
+		tier: "OU",
+	},
+	magnezonetogetic: {
+		tier: "OU",
+	},
+	togekissmagnezone: {
+		tier: "OU",
+	},
+	jynxmagnezone: {
+		tier: "OU",
+	},
+	jynxmagneton: {
+		tier: "OU",
+	},
+	jynxmagnemite: {
+		tier: "OU",
+	},
+	magnemitejynx: {
+		tier: "OU",
+	},
+	magnetonjynx: {
+		tier: "OU",
+	},
+	magnezonejynx: {
+		tier: "OU",
+	},
 };
