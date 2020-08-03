@@ -3112,13 +3112,13 @@ export const BattleItems: {[itemid: string]: ItemData} = {
 		},
 		onModifyAtkPriority: 1,
 		onModifyAtk(atk, pokemon) {
-			if (pokemon.baseSpecies.baseSpecies === 'Pikachu') {
+			if (pokemon.baseSpecies.baseSpecies.endsWith('pikachu')) {
 				return this.chainModify(2);
 			}
 		},
 		onModifySpAPriority: 1,
 		onModifySpA(spa, pokemon) {
-			if (pokemon.baseSpecies.baseSpecies === 'Pikachu') {
+			if (pokemon.baseSpecies.baseSpecies.endsWith('pikachu')) {
 				return this.chainModify(2);
 			}
 		},
