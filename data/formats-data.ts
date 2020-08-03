@@ -7564,4 +7564,304 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	lucariozekrom: {
 		tier: "OU",
 	},
+	pikachulucario: {
+		tier: "OU",
+	},
+	politoedslaking: {
+		tier: "OU",
+	},
+	politoedblissey: {
+		tier: "OU",
+	},
+	slakingblissey: {
+		tier: "OU",
+	},
+	wobbuffetblissey: {
+		tier: "OU",
+	},
+	blisseywobbuffet: {
+		tier: "OU",
+	},
+	golemfearow: {
+		tier: "OU",
+	},
+	lucariomew: {
+		tier: "OU",
+	},
+	charizardblastoise: {
+		tier: "OU",
+	},
+	jigglypuffmachamp: {
+		tier: "OU",
+	},
+	articunogardevoir: {
+		tier: "OU",
+	},
+	zapdosscizor: {
+		tier: "OU",
+	},
+	mamoswinedragonite: {
+		tier: "OU",
+	},
+	regigigasshuckle: {
+		tier: "OU",
+	},
+	palkiadialga: {
+		tier: "OU",
+	},
+	dialgapalkia: {
+		tier: "OU",
+	},
+	palkiakingler: {
+		tier: "OU",
+	},
+	zekromgardevoir: {
+		tier: "OU",
+	},
+	zekromhitmonlee: {
+		tier: "OU",
+	},
+	zekromhitmonchan: {
+		tier: "OU",
+	},
+	zekromdialga: {
+		tier: "OU",
+	},
+	gengargardevoir: {
+		tier: "OU",
+	},
+	reshiramhitmonchan: {
+		tier: "OU",
+	},
+	dialgahitmonchan: {
+		tier: "OU",
+	},
+	glaceonarcanine: {
+		tier: "OU",
+	},
+	arcaninedragonite: {
+		tier: "OU",
+	},
+	dragonitearcanine: {
+		tier: "OU",
+	},
+	dialgagroudon: {
+		tier: "OU",
+	},
+	arbokmilotic: {
+		tier: "OU",
+	},
+	arceusazumarill: {
+		tier: "OU",
+	},
+	omastararceus: {
+		tier: "OU",
+	},
+	ampharospidgeot: {
+		tier: "OU",
+	},
+	mismagiusrampardos: {
+		tier: "OU",
+	},
+	gengarblissey: {
+		tier: "OU",
+	},
+	blastoiseraichu: {
+		tier: "OU",
+	},
+	snorlaxtyranitar: {
+		tier: "OU",
+	},
+	golduckprimeape: {
+		tier: "OU",
+	},
+	dusknoirampharos: {
+		tier: "OU",
+	},
+	dusclopsampharos: {
+		tier: "OU",
+	},
+	wobbuffetmuk: {
+		tier: "OU",
+	},
+	regigigaspidgeot: {
+		tier: "OU",
+	},
+	smeargledoublade: {
+		tier: "OU",
+	},
+	sandslashrampardos: {
+		tier: "OU",
+	},
+	seakingqwilfish: {
+		tier: "OU",
+	},
+	shuckleazumarill: {
+		tier: "OU",
+	},
+	dusknoirninetales: {
+		tier: "OU",
+	},
+	flareontauros: {
+		tier: "OU",
+	},
+	magcargosnorlax: {
+		tier: "OU",
+	},
+	haunterclefable: {
+		tier: "OU",
+	},
+	articunotyranitar: {
+		tier: "OU",
+	},
+	blazikenbutterfree: {
+		tier: "OU",
+	},
+	crobatscizor: {
+		tier: "OU",
+	},
+	butterfreealakazam: {
+		tier: "OU",
+	},
+	arcanineninetales: {
+		tier: "OU",
+	},
+	porygonzslowking: {
+		tier: "OU",
+	},
+	articunorapidash: {
+		tier: "OU",
+	},
+	dugtrioraichu: {
+		tier: "OU",
+	},
+	gardevoirraichu: {
+		tier: "OU",
+	},
+	mismagiusraichu: {
+		tier: "OU",
+	},
+	empoleonraichu: {
+		tier: "OU",
+	},
+	togekissraichu: {
+		tier: "OU",
+	},
+	azumarillraichu: {
+		tier: "OU",
+	},
+	dusknoironix: {
+		tier: "OU",
+	},
+	kabutopspidgeot: {
+		tier: "OU",
+	},
+	parasectgolem: {
+		tier: "OU",
+	},
+	azumarillrampardos: {
+		tier: "OU",
+	},
+	butterfreeraichu: {
+		tier: "OU",
+	},
+	umbreonraichu: {
+		tier: "OU",
+	},
+	arbokraichu: {
+		tier: "OU",
+	},
+	garchompraichu: {
+		tier: "OU",
+	},
+	blazikenraichu: {
+		tier: "OU",
+	},
+	sceptileraichu: {
+		tier: "OU",
+	},
+	shedinjashuckle: {
+		tier: "OU",
+	},
+	shuckleshedinja: {
+		tier: "OU",
+	},
+	jumpluffraichu: {
+		tier: "OU",
+	},
+	nidokingraichu: {
+		tier: "OU",
+	},
+	dittoraichu: {
+		tier: "OU",
+	},
+	slowbroraichu: {
+		tier: "OU",
+	},
+	gengarraichu: {
+		tier: "OU",
+	},
+	venomothraichu: {
+		tier: "OU",
+	},
+	omastarraichu: {
+		tier: "OU",
+	},
+	yanmegaraichu: {
+		tier: "OU",
+	},
+	swampertraichu: {
+		tier: "OU",
+	},
+	clefableraichu: {
+		tier: "OU",
+	},
+	furretraichu: {
+		tier: "OU",
+	},
+	mewtworaichu: {
+		tier: "OU",
+	},
+	darkrairaichu: {
+		tier: "OU",
+	},
+	dodriogarchomp: {
+		tier: "OU",
+	},
+	togekisscharizard: {
+		tier: "OU",
+	},
+	ampharosdragonite: {
+		tier: "OU",
+	},
+	doublademarowak: {
+		tier: "OU",
+	},
+	gyaradosnidoking: {
+		tier: "OU",
+	},
+	aggronshedinja: {
+		tier: "OU",
+	},
+	regigigasazumarill: {
+		tier: "OU",
+	},
+	magnemitehappiny: {
+		tier: "OU",
+	},
+	magikarphappiny: {
+		tier: "OU",
+	},
+	blazikendragonite: {
+		tier: "OU",
+	},
+	unownsmeargle: {
+		tier: "OU",
+	},
+	persianjolteon: {
+		tier: "OU",
+	},
+	jolteonpersian: {
+		tier: "OU",
+	},
 };
