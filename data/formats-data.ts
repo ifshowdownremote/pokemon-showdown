@@ -7531,4 +7531,37 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	typhlosionraichu: {
 		tier: "OU",
 	},
+	porygon2lugia: {
+		tier: "OU",
+	},
+	porygonzlugia: {
+		tier: "OU",
+	},
+	shucklemewtwo: {
+		tier: "OU",
+	},
+	shuckleaggron: {
+		tier: "OU",
+	},
+	shuckleblissey: {
+		tier: "OU",
+	},
+	aggronhitmonchan: {
+		tier: "OU",
+	},
+	aggroncharizard: {
+		tier: "OU",
+	},
+	lucarioblaziken: {
+		tier: "OU",
+	},
+	blazikenlucario: {
+		tier: "OU",
+	},
+	zekromlucario: {
+		tier: "OU",
+	},
+	lucariozekrom: {
+		tier: "OU",
+	},
 };
