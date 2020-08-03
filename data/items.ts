@@ -5864,7 +5864,7 @@ export const BattleItems: {[itemid: string]: ItemData} = {
 		},
 		onModifyAtkPriority: 1,
 		onModifyAtk(atk, pokemon) {
-			if (pokemon.baseSpecies.baseSpecies === 'Cubone' || pokemon.baseSpecies.baseSpecies === 'Marowak') {
+			if (pokemon.baseSpecies.baseSpecies.endsWith('cubone') || pokemon.baseSpecies.baseSpecies.endsWith('marowak')) {
 				return this.chainModify(2);
 			}
 		},
