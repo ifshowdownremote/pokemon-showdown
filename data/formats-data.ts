@@ -7528,4 +7528,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	magnezonejynx: {
 		tier: "OU",
 	},
+	typhlosionraichu: {
+		tier: "OU",
+	},
 };

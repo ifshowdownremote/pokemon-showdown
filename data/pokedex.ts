@@ -23227,4 +23227,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Human-Like", "Mineral"],
 	},
+	typhlosionraichu: {
+		num: 10635,
+		name: "typhlosionraichu",
+		types: ["Fire", "Electric"],
+		baseStats: {hp: 72, atk: 88, def: 62, spa: 102, spd: 83, spe: 106},
+		abilities: {0: "Blaze", 1: "Lightning Rod", H: "Flash Fire"},
+		heightm: 1.25,
+		weightkg: 54.75,
+		color: "Yellow",
+		eggGroups: ["Field", "Field"],
+	},
 };
