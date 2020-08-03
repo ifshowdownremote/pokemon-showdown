@@ -7450,4 +7450,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	victreebelbellossom: {
 		tier: "OU",
 	},
+	crobatpidgeot: {
+		tier: "OU",
+	},
 };

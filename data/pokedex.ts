@@ -22935,4 +22935,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Grass", "Grass"],
 	},
+	crobatpidgeot: {
+		num: 10609,
+		name: "crobatpidgeot",
+		types: ["Poison", "Flying"],
+		baseStats: {hp: 84, atk: 83, def: 76, spa: 70, spd: 76, spe: 110},
+		abilities: {0: "Inner Focus", 1: "Tangled Feet", H: "Infiltrator"},
+		heightm: 1.65,
+		weightkg: 57.25,
+		color: "Purple",
+		eggGroups: ["Flying", "Flying"],
+	},
 };
