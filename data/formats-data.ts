@@ -8419,4 +8419,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	yanmegakabutops: {
 		tier: "OU",
 	},
+	blisseydusclops: {
+		tier: "OU",
+	},
+	magnezoneleafeon: {
+		tier: "OU",
+	},
 };
