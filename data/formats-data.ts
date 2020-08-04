@@ -8347,4 +8347,76 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	snorlaxsteelix: {
 		tier: "OU",
 	},
+	beedrillgarchomp: {
+		tier: "OU",
+	},
+	beedrillgligar: {
+		tier: "OU",
+	},
+	beedrillrhyperior: {
+		tier: "OU",
+	},
+	beedrillgallade: {
+		tier: "OU",
+	},
+	mukgranbull: {
+		tier: "OU",
+	},
+	mukarcanine: {
+		tier: "OU",
+	},
+	yanmegaarcanine: {
+		tier: "OU",
+	},
+	yanmegamuk: {
+		tier: "OU",
+	},
+	shucklechansey: {
+		tier: "OU",
+	},
+	yanmegamachamp: {
+		tier: "OU",
+	},
+	yanmegagarchomp: {
+		tier: "OU",
+	},
+	yanmegasalamence: {
+		tier: "OU",
+	},
+	yanmegacharizard: {
+		tier: "OU",
+	},
+	yanmegakangaskhan: {
+		tier: "OU",
+	},
+	yanmegapinsir: {
+		tier: "OU",
+	},
+	yanmegaheracross: {
+		tier: "OU",
+	},
+	yanmegarhyperior: {
+		tier: "OU",
+	},
+	yanmegagolem: {
+		tier: "OU",
+	},
+	yanmegaaggron: {
+		tier: "OU",
+	},
+	yanmegadusknoir: {
+		tier: "OU",
+	},
+	yanmegabeedrill: {
+		tier: "OU",
+	},
+	yanmegakingler: {
+		tier: "OU",
+	},
+	yanmegaaerodactyl: {
+		tier: "OU",
+	},
+	yanmegakabutops: {
+		tier: "OU",
+	},
 };
