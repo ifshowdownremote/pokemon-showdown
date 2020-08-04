@@ -8425,4 +8425,58 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	magnezoneleafeon: {
 		tier: "OU",
 	},
+	mantinegyarados: {
+		tier: "OU",
+	},
+	spiritombsteelix: {
+		tier: "OU",
+	},
+	steelixspiritomb: {
+		tier: "OU",
+	},
+	mantinespiritomb: {
+		tier: "OU",
+	},
+	dusknoirspiritomb: {
+		tier: "OU",
+	},
+	dusclopsspiritomb: {
+		tier: "OU",
+	},
+	togekissrhyperior: {
+		tier: "OU",
+	},
+	togekissaggron: {
+		tier: "OU",
+	},
+	togekissslowbro: {
+		tier: "OU",
+	},
+	steelixtogekiss: {
+		tier: "OU",
+	},
+	probopasstogekiss: {
+		tier: "OU",
+	},
+	golducktogekiss: {
+		tier: "OU",
+	},
+	omastartogekiss: {
+		tier: "OU",
+	},
+	magcargotogekiss: {
+		tier: "OU",
+	},
+	shuckletogekiss: {
+		tier: "OU",
+	},
+	cradilytogekiss: {
+		tier: "OU",
+	},
+	dusknoirtogekiss: {
+		tier: "OU",
+	},
+	spiritombtogekiss: {
+		tier: "OU",
+	},
 };
