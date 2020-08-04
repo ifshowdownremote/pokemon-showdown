@@ -7864,4 +7864,487 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	jolteonpersian: {
 		tier: "OU",
 	},
+	butterfreeblaziken: {
+		tier: "OU",
+	},
+	palkiaseaking: {
+		tier: "OU",
+	},
+	palkiagallade: {
+		tier: "OU",
+	},
+	palkiavaporeon: {
+		tier: "OU",
+	},
+	palkiarapidash: {
+		tier: "OU",
+	},
+	palkiagliscor: {
+		tier: "OU",
+	},
+	palkiamachamp: {
+		tier: "OU",
+	},
+	palkiajynx: {
+		tier: "OU",
+	},
+	palkiagardevoir: {
+		tier: "OU",
+	},
+	palkiatauros: {
+		tier: "OU",
+	},
+	palkiasteelix: {
+		tier: "OU",
+	},
+	palkiaonix: {
+		tier: "OU",
+	},
+	mamoswineregigigas: {
+		tier: "OU",
+	},
+	aegislashhitmonchan: {
+		tier: "OU",
+	},
+	ninetalesraichu: {
+		tier: "OU",
+	},
+	raichuninetales: {
+		tier: "OU",
+	},
+	zapdosraichu: {
+		tier: "OU",
+	},
+	articunoraichu: {
+		tier: "OU",
+	},
+	moltresraichu: {
+		tier: "OU",
+	},
+	celebiraichu: {
+		tier: "OU",
+	},
+	charizardraichu: {
+		tier: "OU",
+	},
+	beedrillraichu: {
+		tier: "OU",
+	},
+	raichuraichu: {
+		tier: "OU",
+	},
+	weezingraichu: {
+		tier: "OU",
+	},
+	mukraichu: {
+		tier: "OU",
+	},
+	infernaperaichu: {
+		tier: "OU",
+	},
+	fearowraichu: {
+		tier: "OU",
+	},
+	wigglytuffraichu: {
+		tier: "OU",
+	},
+	rapidashraichu: {
+		tier: "OU",
+	},
+	torterraraichu: {
+		tier: "OU",
+	},
+	leafeonraichu: {
+		tier: "OU",
+	},
+	vaporeonraichu: {
+		tier: "OU",
+	},
+	aerodactylraichu: {
+		tier: "OU",
+	},
+	slowkingraichu: {
+		tier: "OU",
+	},
+	slakingraichu: {
+		tier: "OU",
+	},
+	sandslashraichu: {
+		tier: "OU",
+	},
+	magnezoneraichu: {
+		tier: "OU",
+	},
+	magmortarraichu: {
+		tier: "OU",
+	},
+	gyaradosraichu: {
+		tier: "OU",
+	},
+	luxrayraichu: {
+		tier: "OU",
+	},
+	parasectraichu: {
+		tier: "OU",
+	},
+	genesectraichu: {
+		tier: "OU",
+	},
+	golemraichu: {
+		tier: "OU",
+	},
+	alakazamraichu: {
+		tier: "OU",
+	},
+	nidoqueenraichu: {
+		tier: "OU",
+	},
+	pidgeotraichu: {
+		tier: "OU",
+	},
+	golbatraichu: {
+		tier: "OU",
+	},
+	smeargleraichu: {
+		tier: "OU",
+	},
+	salamenceraichu: {
+		tier: "OU",
+	},
+	metagrossraichu: {
+		tier: "OU",
+	},
+	kingdraraichu: {
+		tier: "OU",
+	},
+	dragoniteraichu: {
+		tier: "OU",
+	},
+	leafeonferaligatr: {
+		tier: "OU",
+	},
+	butterfreeluxray: {
+		tier: "OU",
+	},
+	butterfreerapidash: {
+		tier: "OU",
+	},
+	honchkrowraichu: {
+		tier: "OU",
+	},
+	doubladeraichu: {
+		tier: "OU",
+	},
+	murkrowraichu: {
+		tier: "OU",
+	},
+	onixraichu: {
+		tier: "OU",
+	},
+	steelixraichu: {
+		tier: "OU",
+	},
+	aegislashslowbro: {
+		tier: "OU",
+	},
+	jolteoncloyster: {
+		tier: "OU",
+	},
+	sylveonporygonz: {
+		tier: "OU",
+	},
+	sylveonregigigas: {
+		tier: "OU",
+	},
+	sylveonslaking: {
+		tier: "OU",
+	},
+	leafeoncloyster: {
+		tier: "OU",
+	},
+	torterracloyster: {
+		tier: "OU",
+	},
+	darkraishedinja: {
+		tier: "OU",
+	},
+	blisseytyranitar: {
+		tier: "OU",
+	},
+	arcanineraichu: {
+		tier: "OU",
+	},
+	shedinjaraichu: {
+		tier: "OU",
+	},
+	meganiumraichu: {
+		tier: "OU",
+	},
+	dusknoirraichu: {
+		tier: "OU",
+	},
+	dusclopsraichu: {
+		tier: "OU",
+	},
+	golduckraichu: {
+		tier: "OU",
+	},
+	dunsparceraichu: {
+		tier: "OU",
+	},
+	honedgeraichu: {
+		tier: "OU",
+	},
+	porygonzraichu: {
+		tier: "OU",
+	},
+	porygon2raichu: {
+		tier: "OU",
+	},
+	ursaringraichu: {
+		tier: "OU",
+	},
+	bellossomraichu: {
+		tier: "OU",
+	},
+	raikouraichu: {
+		tier: "OU",
+	},
+	chanseyshuckle: {
+		tier: "OU",
+	},
+	enteiraichu: {
+		tier: "OU",
+	},
+	tentacruelraichu: {
+		tier: "OU",
+	},
+	tentacruelpidgeot: {
+		tier: "OU",
+	},
+	tentacruelninetales: {
+		tier: "OU",
+	},
+	leafeonninetales: {
+		tier: "OU",
+	},
+	shedinjaninetales: {
+		tier: "OU",
+	},
+	groudonblastoise: {
+		tier: "OU",
+	},
+	butterfreecharizard: {
+		tier: "OU",
+	},
+	gliscorraichu: {
+		tier: "OU",
+	},
+	wobbuffetshuckle: {
+		tier: "OU",
+	},
+	tangrowthshuckle: {
+		tier: "OU",
+	},
+	tangrowthmetagross: {
+		tier: "OU",
+	},
+	tangrowthslaking: {
+		tier: "OU",
+	},
+	tangrowthdragonite: {
+		tier: "OU",
+	},
+	metagrosstangrowth: {
+		tier: "OU",
+	},
+	parasecttangrowth: {
+		tier: "OU",
+	},
+	jynxgolduck: {
+		tier: "OU",
+	},
+	marowakscyther: {
+		tier: "OU",
+	},
+	electrodetogekiss: {
+		tier: "OU",
+	},
+	tyranitarampharos: {
+		tier: "OU",
+	},
+	tyranitarshuckle: {
+		tier: "OU",
+	},
+	shucklemachamp: {
+		tier: "OU",
+	},
+	bidoofraichu: {
+		tier: "OU",
+	},
+	arcaninegarchomp: {
+		tier: "OU",
+	},
+	articunogarchomp: {
+		tier: "OU",
+	},
+	metagrossgarchomp: {
+		tier: "OU",
+	},
+	garchompmetagross: {
+		tier: "OU",
+	},
+	garchompdragonite: {
+		tier: "OU",
+	},
+	garchompmamoswine: {
+		tier: "OU",
+	},
+	garchompcharizard: {
+		tier: "OU",
+	},
+	garchompbisharp: {
+		tier: "OU",
+	},
+	garchompblastoise: {
+		tier: "OU",
+	},
+	garchompvenusaur: {
+		tier: "OU",
+	},
+	metagrossvenusaur: {
+		tier: "OU",
+	},
+	regigigasvenusaur: {
+		tier: "OU",
+	},
+	regigigascharizard: {
+		tier: "OU",
+	},
+	regigigasreshiram: {
+		tier: "OU",
+	},
+	regigigasrampardos: {
+		tier: "OU",
+	},
+	raichugarchomp: {
+		tier: "OU",
+	},
+	raichugliscor: {
+		tier: "OU",
+	},
+	raichumamoswine: {
+		tier: "OU",
+	},
+	raichumetagross: {
+		tier: "OU",
+	},
+	raichusteelix: {
+		tier: "OU",
+	},
+	raichubutterfree: {
+		tier: "OU",
+	},
+	houndoomsalamence: {
+		tier: "OU",
+	},
+	houndoommamoswine: {
+		tier: "OU",
+	},
+	houndoombutterfree: {
+		tier: "OU",
+	},
+	houndoomgarchomp: {
+		tier: "OU",
+	},
+	houndoomgengar: {
+		tier: "OU",
+	},
+	houndoomhypno: {
+		tier: "OU",
+	},
+	raichurhyperior: {
+		tier: "OU",
+	},
+	smearglebeedrill: {
+		tier: "OU",
+	},
+	zoroarkbeedrill: {
+		tier: "OU",
+	},
+	zoroarksmeargle: {
+		tier: "OU",
+	},
+	charizardsmeargle: {
+		tier: "OU",
+	},
+	charizardshuckle: {
+		tier: "OU",
+	},
+	charizardgarchomp: {
+		tier: "OU",
+	},
+	venusaurgarchomp: {
+		tier: "OU",
+	},
+	blastoisegarchomp: {
+		tier: "OU",
+	},
+	butterfreegarchomp: {
+		tier: "OU",
+	},
+	butterfreeprimeape: {
+		tier: "OU",
+	},
+	butterfreesmeargle: {
+		tier: "OU",
+	},
+	butterfreegardevoir: {
+		tier: "OU",
+	},
+	beedrillgardevoir: {
+		tier: "OU",
+	},
+	darkraigardevoir: {
+		tier: "OU",
+	},
+	hypnogardevoir: {
+		tier: "OU",
+	},
+	charizardgardevoir: {
+		tier: "OU",
+	},
+	raichugardevoir: {
+		tier: "OU",
+	},
+	aegislashgardevoir: {
+		tier: "OU",
+	},
+	aegislashmamoswine: {
+		tier: "OU",
+	},
+	bonslyshedinja: {
+		tier: "OU",
+	},
+	magnemiteshedinja: {
+		tier: "OU",
+	},
+	shedinjamagnemite: {
+		tier: "OU",
+	},
+	dragoniteaggron: {
+		tier: "OU",
+	},
+	blazikenhitmonlee: {
+		tier: "OU",
+	},
+	mamoswinearcanine: {
+		tier: "OU",
+	},
+	steelixsnorlax: {
+		tier: "OU",
+	},
+	snorlaxsteelix: {
+		tier: "OU",
+	},
 };
