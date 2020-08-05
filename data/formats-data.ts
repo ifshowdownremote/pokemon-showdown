@@ -8908,4 +8908,19 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	exeggutorblastoise: {
 		tier: "OU",
 	},
+	mrmimesteelix: {
+		tier: "OU",
+	},
+	mrmimesnorlax: {
+		tier: "OU",
+	},
+	azumarillhitmonchan: {
+		tier: "OU",
+	},
+	hitmonchanazumarill: {
+		tier: "OU",
+	},
+	gastlybeldum: {
+		tier: "OU",
+	},
 };
