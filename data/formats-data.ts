@@ -8923,4 +8923,91 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	gastlybeldum: {
 		tier: "OU",
 	},
+	chanseytangela: {
+		tier: "OU",
+	},
+	cloystermachamp: {
+		tier: "OU",
+	},
+	aerodactylslaking: {
+		tier: "OU",
+	},
+	crobatslaking: {
+		tier: "OU",
+	},
+	electrodegengar: {
+		tier: "OU",
+	},
+	jolteongengar: {
+		tier: "OU",
+	},
+	weavileraichu: {
+		tier: "OU",
+	},
+	feraligatrraichu: {
+		tier: "OU",
+	},
+	mantykeraichu: {
+		tier: "OU",
+	},
+	glaceonraichu: {
+		tier: "OU",
+	},
+	espeonraichu: {
+		tier: "OU",
+	},
+	kecleonraichu: {
+		tier: "OU",
+	},
+	sylveonraichu: {
+		tier: "OU",
+	},
+	charmeleonraichu: {
+		tier: "OU",
+	},
+	moltreshoundoom: {
+		tier: "OU",
+	},
+	houndoommoltres: {
+		tier: "OU",
+	},
+	raichuaegislash: {
+		tier: "OU",
+	},
+	raichudoublade: {
+		tier: "OU",
+	},
+	raichuhoundoom: {
+		tier: "OU",
+	},
+	raichuvenusaur: {
+		tier: "OU",
+	},
+	raichublastoise: {
+		tier: "OU",
+	},
+	raichucharizard: {
+		tier: "OU",
+	},
+	raichuzapdos: {
+		tier: "OU",
+	},
+	raichufearow: {
+		tier: "OU",
+	},
+	raichupidgeot: {
+		tier: "OU",
+	},
+	raichuzoroark: {
+		tier: "OU",
+	},
+	zoroarkraichu: {
+		tier: "OU",
+	},
+	raichuzekrom: {
+		tier: "OU",
+	},
+	raichugroudon: {
+		tier: "OU",
+	},
 };
