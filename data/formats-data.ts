@@ -8752,4 +8752,148 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	rampardoshitmonlee: {
 		tier: "OU",
 	},
+	laprasarticuno: {
+		tier: "OU",
+	},
+	articunolapras: {
+		tier: "OU",
+	},
+	butterfreearticuno: {
+		tier: "OU",
+	},
+	kabutopsklinklang: {
+		tier: "OU",
+	},
+	kabutopsaegislash: {
+		tier: "OU",
+	},
+	mrmimeomastar: {
+		tier: "OU",
+	},
+	hitmonchanpersian: {
+		tier: "OU",
+	},
+	hitmonleepersian: {
+		tier: "OU",
+	},
+	mrmimepersian: {
+		tier: "OU",
+	},
+	mrmimeraichu: {
+		tier: "OU",
+	},
+	mrmimeumbreon: {
+		tier: "OU",
+	},
+	arcaninepersian: {
+		tier: "OU",
+	},
+	yanmegapersian: {
+		tier: "OU",
+	},
+	umbreonarcanine: {
+		tier: "OU",
+	},
+	mantinearcanine: {
+		tier: "OU",
+	},
+	vaporeonarcanine: {
+		tier: "OU",
+	},
+	jolteonarcanine: {
+		tier: "OU",
+	},
+	mrmimejynx: {
+		tier: "OU",
+	},
+	mrmimeelectivire: {
+		tier: "OU",
+	},
+	mrmimemagmortar: {
+		tier: "OU",
+	},
+	mrmimeelectrode: {
+		tier: "OU",
+	},
+	electrodelapras: {
+		tier: "OU",
+	},
+	electrodealakazam: {
+		tier: "OU",
+	},
+	electrodetangrowth: {
+		tier: "OU",
+	},
+	electrodemetagross: {
+		tier: "OU",
+	},
+	mrmimerhyperior: {
+		tier: "OU",
+	},
+	mrmimemetagross: {
+		tier: "OU",
+	},
+	metagrosspersian: {
+		tier: "OU",
+	},
+	metagrosshitmontop: {
+		tier: "OU",
+	},
+	metagrosshitmonchan: {
+		tier: "OU",
+	},
+	rhyperiorhitmontop: {
+		tier: "OU",
+	},
+	snorlaxhitmontop: {
+		tier: "OU",
+	},
+	electrodepersian: {
+		tier: "OU",
+	},
+	raichupersian: {
+		tier: "OU",
+	},
+	vileplumepersian: {
+		tier: "OU",
+	},
+	victreebelpersian: {
+		tier: "OU",
+	},
+	weavilepersian: {
+		tier: "OU",
+	},
+	electivirepersian: {
+		tier: "OU",
+	},
+	poliwrathpersian: {
+		tier: "OU",
+	},
+	empoleonpersian: {
+		tier: "OU",
+	},
+	poliwrathhitmontop: {
+		tier: "OU",
+	},
+	empoleonhitmontop: {
+		tier: "OU",
+	},
+	mrmimepoliwrath: {
+		tier: "OU",
+	},
+	mrmimeblastoise: {
+		tier: "OU",
+	},
+	mrmimevictreebel: {
+		tier: "OU",
+	},
+	mrmimevileplume: {
+		tier: "OU",
+	},
+	mrmimetentacruel: {
+		tier: "OU",
+	},
+	tentacruelpersian: {
+		tier: "OU",
+	},
 };
