@@ -8896,4 +8896,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	tentacruelpersian: {
 		tier: "OU",
 	},
+	exeggutortentacruel: {
+		tier: "OU",
+	},
+	exeggutorvaporeon: {
+		tier: "OU",
+	},
+	exeggutorempoleon: {
+		tier: "OU",
+	},
+	exeggutorblastoise: {
+		tier: "OU",
+	},
 };
