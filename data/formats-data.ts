@@ -8479,4 +8479,277 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	spiritombtogekiss: {
 		tier: "OU",
 	},
+	spiritombmawile: {
+		tier: "OU",
+	},
+	mewtwosylveon: {
+		tier: "OU",
+	},
+	moltresgardevoir: {
+		tier: "OU",
+	},
+	pikachunoctowl: {
+		tier: "OU",
+	},
+	arbokcloyster: {
+		tier: "OU",
+	},
+	arboksalamence: {
+		tier: "OU",
+	},
+	victreebelcharizard: {
+		tier: "OU",
+	},
+	gyaradoskingler: {
+		tier: "OU",
+	},
+	electrodeyanmega: {
+		tier: "OU",
+	},
+	marowakdragonite: {
+		tier: "OU",
+	},
+	chanseyaegislash: {
+		tier: "OU",
+	},
+	jolteonscizor: {
+		tier: "OU",
+	},
+	ledianblastoise: {
+		tier: "OU",
+	},
+	ariadosgiratina: {
+		tier: "OU",
+	},
+	tentacruelgardevoir: {
+		tier: "OU",
+	},
+	tentacrueldragonite: {
+		tier: "OU",
+	},
+	azumarillforretress: {
+		tier: "OU",
+	},
+	azumarilltyranitar: {
+		tier: "OU",
+	},
+	umbreonwailord: {
+		tier: "OU",
+	},
+	honchkrowsceptile: {
+		tier: "OU",
+	},
+	scizorluxray: {
+		tier: "OU",
+	},
+	marowakshedinja: {
+		tier: "OU",
+	},
+	marowakmuk: {
+		tier: "OU",
+	},
+	corsolamuk: {
+		tier: "OU",
+	},
+	flareonraichu: {
+		tier: "OU",
+	},
+	ampharosraichu: {
+		tier: "OU",
+	},
+	machampraichu: {
+		tier: "OU",
+	},
+	houndoomraichu: {
+		tier: "OU",
+	},
+	houndourraichu: {
+		tier: "OU",
+	},
+	gloomraichu: {
+		tier: "OU",
+	},
+	blisseyraichu: {
+		tier: "OU",
+	},
+	chanseyraichu: {
+		tier: "OU",
+	},
+	mudkipraichu: {
+		tier: "OU",
+	},
+	crobatraichu: {
+		tier: "OU",
+	},
+	ivysaurraichu: {
+		tier: "OU",
+	},
+	ponytaraichu: {
+		tier: "OU",
+	},
+	farfetchdraichu: {
+		tier: "OU",
+	},
+	jigglypuffraichu: {
+		tier: "OU",
+	},
+	vulpixraichu: {
+		tier: "OU",
+	},
+	zekromraichu: {
+		tier: "OU",
+	},
+	mawileraichu: {
+		tier: "OU",
+	},
+	kyogreraichu: {
+		tier: "OU",
+	},
+	forretressraichu: {
+		tier: "OU",
+	},
+	reshiramraichu: {
+		tier: "OU",
+	},
+	groudonraichu: {
+		tier: "OU",
+	},
+	rayquazaraichu: {
+		tier: "OU",
+	},
+	lugiaraichu: {
+		tier: "OU",
+	},
+	lucarioraichu: {
+		tier: "OU",
+	},
+	victreebelraichu: {
+		tier: "OU",
+	},
+	mareepraichu: {
+		tier: "OU",
+	},
+	quagsireraichu: {
+		tier: "OU",
+	},
+	misdreavusraichu: {
+		tier: "OU",
+	},
+	sentretraichu: {
+		tier: "OU",
+	},
+	wooperraichu: {
+		tier: "OU",
+	},
+	wobbuffetraichu: {
+		tier: "OU",
+	},
+	sudowoodoraichu: {
+		tier: "OU",
+	},
+	cloysterraichu: {
+		tier: "OU",
+	},
+	skiploomraichu: {
+		tier: "OU",
+	},
+	sunfloraraichu: {
+		tier: "OU",
+	},
+	piloswineraichu: {
+		tier: "OU",
+	},
+	wailordraichu: {
+		tier: "OU",
+	},
+	ambipomraichu: {
+		tier: "OU",
+	},
+	bisharpraichu: {
+		tier: "OU",
+	},
+	delibirdraichu: {
+		tier: "OU",
+	},
+	raichusmeargle: {
+		tier: "OU",
+	},
+	remoraidraichu: {
+		tier: "OU",
+	},
+	noctowlraichu: {
+		tier: "OU",
+	},
+	octilleryraichu: {
+		tier: "OU",
+	},
+	croconawraichu: {
+		tier: "OU",
+	},
+	smoochumraichu: {
+		tier: "OU",
+	},
+	jynxraichu: {
+		tier: "OU",
+	},
+	magcargoraichu: {
+		tier: "OU",
+	},
+	magnetonraichu: {
+		tier: "OU",
+	},
+	magnemiteraichu: {
+		tier: "OU",
+	},
+	magikarpraichu: {
+		tier: "OU",
+	},
+	magbyraichu: {
+		tier: "OU",
+	},
+	lickilickyraichu: {
+		tier: "OU",
+	},
+	lickitungraichu: {
+		tier: "OU",
+	},
+	jolteonraichu: {
+		tier: "OU",
+	},
+	machokeraichu: {
+		tier: "OU",
+	},
+	machopraichu: {
+		tier: "OU",
+	},
+	caterpieraichu: {
+		tier: "OU",
+	},
+	hitmonchanraichu: {
+		tier: "OU",
+	},
+	hitmonleeraichu: {
+		tier: "OU",
+	},
+	skarmoryraichu: {
+		tier: "OU",
+	},
+	hitmontopraichu: {
+		tier: "OU",
+	},
+	gravelerraichu: {
+		tier: "OU",
+	},
+	kinglerraichu: {
+		tier: "OU",
+	},
+	slakinghitmonlee: {
+		tier: "OU",
+	},
+	hitmonleeslaking: {
+		tier: "OU",
+	},
+	rampardoshitmonlee: {
+		tier: "OU",
+	},
 };
