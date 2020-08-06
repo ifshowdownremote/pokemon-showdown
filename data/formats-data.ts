@@ -9631,4 +9631,304 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	machampnosepass: {
 		tier: "OU",
 	},
+	xatuweezing: {
+		tier: "OU",
+	},
+	xatumuk: {
+		tier: "OU",
+	},
+	xatusnorlax: {
+		tier: "OU",
+	},
+	xatuquagsire: {
+		tier: "OU",
+	},
+	xatuslowbro: {
+		tier: "OU",
+	},
+	xatuyanmega: {
+		tier: "OU",
+	},
+	xaturaichu: {
+		tier: "OU",
+	},
+	xatunidoqueen: {
+		tier: "OU",
+	},
+	xatuscyther: {
+		tier: "OU",
+	},
+	xatupinsir: {
+		tier: "OU",
+	},
+	xatuheracross: {
+		tier: "OU",
+	},
+	xatuhitmonlee: {
+		tier: "OU",
+	},
+	xatuhitmonchan: {
+		tier: "OU",
+	},
+	xatuhitmontop: {
+		tier: "OU",
+	},
+	xatujolteon: {
+		tier: "OU",
+	},
+	xatuvaporeon: {
+		tier: "OU",
+	},
+	xatuflareon: {
+		tier: "OU",
+	},
+	xatunidoking: {
+		tier: "OU",
+	},
+	nidokingnidoqueen: {
+		tier: "OU",
+	},
+	nidoqueennidoking: {
+		tier: "OU",
+	},
+	empoleonnidoqueen: {
+		tier: "OU",
+	},
+	victreebelnidoqueen: {
+		tier: "OU",
+	},
+	sandslashnidoqueen: {
+		tier: "OU",
+	},
+	nidoqueensandslash: {
+		tier: "OU",
+	},
+	crobatpersian: {
+		tier: "OU",
+	},
+	persianhitmonchan: {
+		tier: "OU",
+	},
+	persianhitmonlee: {
+		tier: "OU",
+	},
+	persiancrobat: {
+		tier: "OU",
+	},
+	probopasscrobat: {
+		tier: "OU",
+	},
+	crobatmarowak: {
+		tier: "OU",
+	},
+	alakazammarowak: {
+		tier: "OU",
+	},
+	alakazamprimeape: {
+		tier: "OU",
+	},
+	dusknoirgardevoir: {
+		tier: "OU",
+	},
+	omastarscizor: {
+		tier: "OU",
+	},
+	marowakmiltank: {
+		tier: "OU",
+	},
+	sceptilerampardos: {
+		tier: "OU",
+	},
+	probopassprimeape: {
+		tier: "OU",
+	},
+	persianluxray: {
+		tier: "OU",
+	},
+	marowakprobopass: {
+		tier: "OU",
+	},
+	porygonzazumarill: {
+		tier: "OU",
+	},
+	dusknoirmuk: {
+		tier: "OU",
+	},
+	spiritomblucario: {
+		tier: "OU",
+	},
+	steelixmuk: {
+		tier: "OU",
+	},
+	steelixmarowak: {
+		tier: "OU",
+	},
+	porygonzmarowak: {
+		tier: "OU",
+	},
+	porygonzgolduck: {
+		tier: "OU",
+	},
+	porygonzmetagross: {
+		tier: "OU",
+	},
+	cloystershuckle: {
+		tier: "OU",
+	},
+	porygonzgardevoir: {
+		tier: "OU",
+	},
+	kinglersteelix: {
+		tier: "OU",
+	},
+	snorlaxmachoke: {
+		tier: "OU",
+	},
+	snorlaxmachamp: {
+		tier: "OU",
+	},
+	marowakcharizard: {
+		tier: "OU",
+	},
+	kingdramachamp: {
+		tier: "OU",
+	},
+	gardevoirariados: {
+		tier: "OU",
+	},
+	marowakmachamp: {
+		tier: "OU",
+	},
+	marowakcrobat: {
+		tier: "OU",
+	},
+	weezingmachamp: {
+		tier: "OU",
+	},
+	crobatmachamp: {
+		tier: "OU",
+	},
+	weezingtauros: {
+		tier: "OU",
+	},
+	primeapenidoking: {
+		tier: "OU",
+	},
+	blisseymilotic: {
+		tier: "OU",
+	},
+	blisseynidoking: {
+		tier: "OU",
+	},
+	blisseygardevoir: {
+		tier: "OU",
+	},
+	sandslasharbok: {
+		tier: "OU",
+	},
+	kabutopsbastiodon: {
+		tier: "OU",
+	},
+	kabutopscradily: {
+		tier: "OU",
+	},
+	kabutopsrampardos: {
+		tier: "OU",
+	},
+	groudonkangaskhan: {
+		tier: "OU",
+	},
+	groudonrampardos: {
+		tier: "OU",
+	},
+	victreebeltorterra: {
+		tier: "OU",
+	},
+	kabutopstorterra: {
+		tier: "OU",
+	},
+	kabutopsgliscor: {
+		tier: "OU",
+	},
+	mawilegliscor: {
+		tier: "OU",
+	},
+	mawilecloyster: {
+		tier: "OU",
+	},
+	hitmonchankabutops: {
+		tier: "OU",
+	},
+	dragonitegenesect: {
+		tier: "OU",
+	},
+	ariadoskingler: {
+		tier: "OU",
+	},
+	lanturnpidgeot: {
+		tier: "OU",
+	},
+	magcargoquagsire: {
+		tier: "OU",
+	},
+	mismagiushitmonlee: {
+		tier: "OU",
+	},
+	mismagiushitmonchan: {
+		tier: "OU",
+	},
+	beedrillprimeape: {
+		tier: "OU",
+	},
+	gengarprimeape: {
+		tier: "OU",
+	},
+	spiritombtorterra: {
+		tier: "OU",
+	},
+	primeapearbok: {
+		tier: "OU",
+	},
+	persianprimeape: {
+		tier: "OU",
+	},
+	bisharpgarchomp: {
+		tier: "OU",
+	},
+	bisharpgardevoir: {
+		tier: "OU",
+	},
+	dusknoirmewtwo: {
+		tier: "OU",
+	},
+	dusknoirinfernape: {
+		tier: "OU",
+	},
+	porygonzmewtwo: {
+		tier: "OU",
+	},
+	porygonzinfernape: {
+		tier: "OU",
+	},
+	porygonzninetales: {
+		tier: "OU",
+	},
+	beedrillmilotic: {
+		tier: "OU",
+	},
+	voltorbraticate: {
+		tier: "OU",
+	},
+	arceustentacruel: {
+		tier: "OU",
+	},
+	blisseychansey: {
+		tier: "OU",
+	},
+	mawilespiritomb: {
+		tier: "OU",
+	},
+	honchkrowvenusaur: {
+		tier: "OU",
+	},
 };
