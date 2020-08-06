@@ -9100,4 +9100,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	articunoshieldon: {
 		tier: "OU",
 	},
+	moltrespoliwrath: {
+		tier: "OU",
+	},
+	moltresporygon: {
+		tier: "OU",
+	},
+	moltresempoleon: {
+		tier: "OU",
+	},
 };
