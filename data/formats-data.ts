@@ -9088,4 +9088,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	steelixelectabuzz: {
 		tier: "OU",
 	},
+	articunosteelix: {
+		tier: "OU",
+	},
+	articunotorchic: {
+		tier: "OU",
+	},
+	articunohitmonchan: {
+		tier: "OU",
+	},
+	articunoshieldon: {
+		tier: "OU",
+	},
 };
