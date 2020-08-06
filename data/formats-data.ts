@@ -7142,7 +7142,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	togekissshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	poliwrathmuk: {
 		tier: "OU",
@@ -7187,7 +7187,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	azumarillshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	mewsmeargle: {
 		tier: "OU",
@@ -7280,13 +7280,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	umbreonshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	slakingshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	aegislashshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	laprassandslash: {
 		tier: "OU",
@@ -7388,7 +7388,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	shedinjaforretress: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	weezingumbreon: {
 		tier: "OU",
@@ -7406,7 +7406,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	shedinjarayquaza: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	marowakswampert: {
 		tier: "OU",
@@ -7457,7 +7457,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	shedinjasteelix: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	venusaursteelix: {
 		tier: "OU",
@@ -7781,10 +7781,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	shedinjashuckle: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	shuckleshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	jumpluffraichu: {
 		tier: "OU",
@@ -7841,7 +7841,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	aggronshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	regigigasazumarill: {
 		tier: "OU",
@@ -8066,7 +8066,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	darkraishedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	blisseytyranitar: {
 		tier: "OU",
@@ -8075,7 +8075,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	shedinjaraichu: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	meganiumraichu: {
 		tier: "OU",
@@ -8129,7 +8129,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	shedinjaninetales: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	groudonblastoise: {
 		tier: "OU",
@@ -8324,13 +8324,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	bonslyshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	magnemiteshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	shedinjamagnemite: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	dragoniteaggron: {
 		tier: "OU",
@@ -8543,7 +8543,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	marowakshedinja: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	marowakmuk: {
 		tier: "OU",
@@ -9038,6 +9038,45 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	xatuchansey: {
+		tier: "OU",
+	},
+	steelixweezing: {
+		tier: "OU",
+	},
+	crobatalakazam: {
+		tier: "OU",
+	},
+	jolteonalakazam: {
+		tier: "OU",
+	},
+	alakazamjolteon: {
+		tier: "OU",
+	},
+	bidoofmagikarp: {
+		tier: "OU",
+	},
+	espeonblissey: {
+		tier: "OU",
+	},
+	espeonchansey: {
+		tier: "OU",
+	},
+	rhyperiorshedinja: {
+		tier: "Uber",
+	},
+	vaporeonblissey: {
+		tier: "OU",
+	},
+	blisseyvaporeon: {
+		tier: "OU",
+	},
+	shedinjaweezing: {
+		tier: "Uber",
+	},
+	weezingshedinja: {
+		tier: "Uber",
+	},
+	weezingsquirtle: {
 		tier: "OU",
 	},
 };
