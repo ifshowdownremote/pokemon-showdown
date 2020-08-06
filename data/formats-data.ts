@@ -9010,4 +9010,73 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	raichugroudon: {
 		tier: "OU",
 	},
+	houndoomexeggutor: {
+		tier: "OU",
+	},
+	houndoomquagsire: {
+		tier: "OU",
+	},
+	ariadosraichu: {
+		tier: "OU",
+	},
+	girafarigraichu: {
+		tier: "OU",
+	},
+	raichuariados: {
+		tier: "OU",
+	},
+	quagsirehoundoom: {
+		tier: "OU",
+	},
+	exeggutorhoundoom: {
+		tier: "OU",
+	},
+	victreebelhoundoom: {
+		tier: "OU",
+	},
+	vileplumehoundoom: {
+		tier: "OU",
+	},
+	zapdosnidoking: {
+		tier: "OU",
+	},
+	politoedraichu: {
+		tier: "OU",
+	},
+	poliwrathraichu: {
+		tier: "OU",
+	},
+	mamoswineraichu: {
+		tier: "OU",
+	},
+	omastargengar: {
+		tier: "OU",
+	},
+	palkialuxray: {
+		tier: "OU",
+	},
+	forretresshitmonchan: {
+		tier: "OU",
+	},
+	forretresshitmonlee: {
+		tier: "OU",
+	},
+	umbreonforretress: {
+		tier: "OU",
+	},
+	aegislashbisharp: {
+		tier: "OU",
+	},
+	bisharpaegislash: {
+		tier: "OU",
+	},
+	bisharphitmonlee: {
+		tier: "OU",
+	},
+	ninetalesmewtwo: {
+		tier: "OU",
+	},
+	electrodeflareon: {
+		tier: "OU",
+	},
 };
