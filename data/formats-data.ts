@@ -9028,4 +9028,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	quagsirehoundoom: {
 		tier: "OU",
 	},	
+	gengaromastar: {
+		tier: "OU",
+	},
+	gengarmagnezone: {
+		tier: "OU",
+	},
+	xatublissey: {
+		tier: "OU",
+	},
+	xatuchansey: {
+		tier: "OU",
+	},
 };
