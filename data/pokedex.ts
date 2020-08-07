@@ -30255,4 +30255,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Monster", "Mineral"],
 	},
+	ariadosweezing: {
+		num: 11606,
+		name: "ariadosweezing",
+		types: ["Bug", "Poison"],
+		baseStats: {hp: 68, atk: 90, def: 103, spa: 68, spd: 70, spe: 53},
+		abilities: {0: "Swarm", 1: "Neutralizing Gas", H: "Sniper"},
+		heightm: 1.15,
+		weightkg: 21.5,
+		color: "Red",
+		eggGroups: ["Amorphous", "Bug"],
+	},
 };

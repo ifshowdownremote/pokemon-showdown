@@ -9424,4 +9424,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	klinklangmarowak: {
 		tier: "OU",
 	},
+	ariadosweezing: {
+		tier: "OU",
+	},
 };
