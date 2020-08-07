@@ -9466,4 +9466,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	blazikenslaking: {
 		tier: "OU",
 	},
+	jynxmantine: {
+		tier: "OU",
+	},
 };

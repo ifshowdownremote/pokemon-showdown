@@ -30415,4 +30415,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Red",
 		eggGroups: ["Field", "Field"],
 	},
+	jynxmantine: {
+		num: 11620,
+		name: "jynxmantine",
+		types: ["Ice", "Flying"],
+		baseStats: {hp: 71, atk: 43, def: 58, spa: 103, spd: 110, spe: 78},
+		abilities: {0: "Oblivious", 1: "Water Absorb", H: "Dry Skin"},
+		heightm: 1.75,
+		weightkg: 130.3,
+		color: "Red",
+		eggGroups: ["Water 1", "Human-Like"],
+	},
 };
