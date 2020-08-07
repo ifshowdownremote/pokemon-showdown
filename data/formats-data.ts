@@ -9322,4 +9322,106 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	aegislashtangrowth: {
 		tier: "OU",
 	},
+	gardevoircharizard: {
+		tier: "OU",
+	},
+	jynxkingdra: {
+		tier: "OU",
+	},
+	fearowpinsir: {
+		tier: "OU",
+	},
+	weavilehitmontop: {
+		tier: "OU",
+	},
+	hitmontopweavile: {
+		tier: "OU",
+	},
+	persianweavile: {
+		tier: "OU",
+	},
+	persianprimeape: {
+		tier: "OU",
+	},
+	primeapepersian: {
+		tier: "OU",
+	},
+	klinklangpersian: {
+		tier: "OU",
+	},
+	klinklanghitmontop: {
+		tier: "OU",
+	},
+	hitmontopklinklang: {
+		tier: "OU",
+	},
+	scytherklinklang: {
+		tier: "OU",
+	},
+	klinklangscyther: {
+		tier: "OU",
+	},
+	hitmontopmarowak: {
+		tier: "OU",
+	},
+	marowakhitmontop: {
+		tier: "OU",
+	},
+	steelixtyranitar: {
+		tier: "OU",
+	},
+	tyranitarsteelix: {
+		tier: "OU",
+	},
+	tyranitarlapras: {
+		tier: "OU",
+	},
+	laprastyranitar: {
+		tier: "OU",
+	},
+	nidokingtyphlosion: {
+		tier: "OU",
+	},
+	typhlosionnidoking: {
+		tier: "OU",
+	},
+	typhlosionprimeape: {
+		tier: "OU",
+	},
+	nidokingprimeape: {
+		tier: "OU",
+	},
+	hitmonchanprimeape: {
+		tier: "OU",
+	},
+	hitmonleeprimeape: {
+		tier: "OU",
+	},
+	primeapehitmontop: {
+		tier: "OU",
+	},
+	primeapehitmonchan: {
+		tier: "OU",
+	},
+	primeapehitmonlee: {
+		tier: "OU",
+	},
+	probopassmrmime: {
+		tier: "OU",
+	},
+	persianprobopass: {
+		tier: "OU",
+	},
+	probopasspersian: {
+		tier: "OU",
+	},
+	mrmimeprobopass: {
+		tier: "OU",
+	},
+	marowakklinklang: {
+		tier: "OU",
+	},
+	klinklangmarowak: {
+		tier: "OU",
+	},
 };
