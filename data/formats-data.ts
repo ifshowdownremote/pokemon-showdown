@@ -9109,4 +9109,217 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	moltresempoleon: {
 		tier: "OU",
 	},
+	shucklereshiram: {
+		tier: "OU",
+	},
+	shucklezekrom: {
+		tier: "OU",
+	},
+	reshiramshuckle: {
+		tier: "OU",
+	},
+	zekromshuckle: {
+		tier: "OU",
+	},
+	raichushedinja: {
+		tier: "Uber",
+	},
+	raichurayquaza: {
+		tier: "OU",
+	},
+	raichualakazam: {
+		tier: "OU",
+	},
+	primeaperaichu: {
+		tier: "OU",
+	},
+	politoedraichu: {
+		tier: "OU",
+	},
+	miloticraichu: {
+		tier: "OU",
+	},
+	ariadosblissey: {
+		tier: "OU",
+	},
+	ariadoschansey: {
+		tier: "OU",
+	},
+	chanseyariados: {
+		tier: "OU",
+	},
+	blisseyariados: {
+		tier: "OU",
+	},
+	blisseygarchomp: {
+		tier: "OU",
+	},
+	chanseygarchomp: {
+		tier: "OU",
+	},
+	dittogarchomp: {
+		tier: "OU",
+	},
+	alakazamgarchomp: {
+		tier: "OU",
+	},
+	rayquazagarchomp: {
+		tier: "OU",
+	},
+	zapdosgarchomp: {
+		tier: "OU",
+	},
+	moltresgarchomp: {
+		tier: "OU",
+	},
+	garchompgengar: {
+		tier: "OU",
+	},
+	garchompmoltres: {
+		tier: "OU",
+	},
+	garchompgardevoir: {
+		tier: "OU",
+	},
+	garchompkyogre: {
+		tier: "OU",
+	},
+	garchomplickilicky: {
+		tier: "OU",
+	},
+	garchompgliscor: {
+		tier: "OU",
+	},
+	garchomppikachu: {
+		tier: "OU",
+	},
+	garchompmarowak: {
+		tier: "OU",
+	},
+	garchompgroudon: {
+		tier: "OU",
+	},
+	garchompaggron: {
+		tier: "OU",
+	},
+	garchomptangrowth: {
+		tier: "OU",
+	},
+	scizorraichu: {
+		tier: "OU",
+	},
+	scytherraichu: {
+		tier: "OU",
+	},
+	aggronraichu: {
+		tier: "OU",
+	},
+	blisseytangrowth: {
+		tier: "OU",
+	},
+	gabiteraichu: {
+		tier: "OU",
+	},
+	ninetalesgarchomp: {
+		tier: "OU",
+	},
+	gliscorgarchomp: {
+		tier: "OU",
+	},
+	kyogregarchomp: {
+		tier: "OU",
+	},
+	lickilickygarchomp: {
+		tier: "OU",
+	},
+	hauntergarchomp: {
+		tier: "OU",
+	},
+	genesectgarchomp: {
+		tier: "OU",
+	},
+	gengargarchomp: {
+		tier: "OU",
+	},
+	dunsparcegarchomp: {
+		tier: "OU",
+	},
+	sceptilegarchomp: {
+		tier: "OU",
+	},
+	salamencegarchomp: {
+		tier: "OU",
+	},
+	celebigarchomp: {
+		tier: "OU",
+	},
+	glaceongarchomp: {
+		tier: "OU",
+	},
+	arceusgarchomp: {
+		tier: "OU",
+	},
+	garchomparceus: {
+		tier: "OU",
+	},
+	garchompdunsparce: {
+		tier: "OU",
+	},
+	garchompgarchomp: {
+		tier: "OU",
+	},
+	scizorpinsir: {
+		tier: "OU",
+	},
+	mewtwogardevoir: {
+		tier: "OU",
+	},
+	gardevoirmewtwo: {
+		tier: "OU",
+	},
+	pikachucrobat: {
+		tier: "OU",
+	},
+	crobatpikachu: {
+		tier: "OU",
+	},
+	shucklemrmime: {
+		tier: "OU",
+	},
+	mrmimeshuckle: {
+		tier: "OU",
+	},
+	steelixshuckle: {
+		tier: "OU",
+	},
+	shucklesteelix: {
+		tier: "OU",
+	},
+	mewshuckle: {
+		tier: "OU",
+	},
+	bastiodonquagsire: {
+		tier: "OU",
+	},
+	metagrossgiratina: {
+		tier: "OU",
+	},
+	weavilecloyster: {
+		tier: "OU",
+	},
+	cloysterweavile: {
+		tier: "OU",
+	},
+	blazikenweavile: {
+		tier: "OU",
+	},
+	weavileblaziken: {
+		tier: "OU",
+	},
+	tangrowthaegislash: {
+		tier: "OU",
+	},
+	aegislashtangrowth: {
+		tier: "OU",
+	},
 };
