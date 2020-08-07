@@ -9469,4 +9469,103 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	jynxmantine: {
 		tier: "OU",
 	},
+	darkraiumbreon: {
+		tier: "OU",
+	},
+	gengarjolteon: {
+		tier: "OU",
+	},
+	beedrillabsol: {
+		tier: "OU",
+	},
+	absolbeedrill: {
+		tier: "OU",
+	},
+	absolweavile: {
+		tier: "OU",
+	},
+	weavileabsol: {
+		tier: "OU",
+	},
+	togekissmeganium: {
+		tier: "OU",
+	},
+	tentacrueltangrowth: {
+		tier: "OU",
+	},
+	chanseytogetic: {
+		tier: "OU",
+	},
+	espeonpersian: {
+		tier: "OU",
+	},
+	venusaurblastoise: {
+		tier: "OU",
+	},
+	salamencetauros: {
+		tier: "OU",
+	},
+	alakazamtauros: {
+		tier: "OU",
+	},
+	blisseyshuckle: {
+		tier: "OU",
+	},
+	aegislashregigigas: {
+		tier: "OU",
+	},
+	garchompdodrio: {
+		tier: "OU",
+	},
+	garchompbeedrill: {
+		tier: "OU",
+	},
+	dragonitegarchomp: {
+		tier: "OU",
+	},
+	seadragarchomp: {
+		tier: "OU",
+	},
+	kingdragarchomp: {
+		tier: "OU",
+	},
+	garchompkingdra: {
+		tier: "OU",
+	},
+	blastoisemetagross: {
+		tier: "OU",
+	},
+	metagrossblastoise: {
+		tier: "OU",
+	},
+	gardevoirgarchomp: {
+		tier: "OU",
+	},
+	giratinablastoise: {
+		tier: "OU",
+	},
+	garchompgallade: {
+		tier: "OU",
+	},
+	galladeraichu: {
+		tier: "OU",
+	},
+	galladegarchomp: {
+		tier: "OU",
+	},
+	raichugallade: {
+		tier: "OU",
+	},
+	eeveeraichu: {
+		tier: "OU",
+	},
+	raichueevee: {
+		tier: "OU",
+	},
+	raichupineco: {
+		tier: "OU",
+	},
+	pinecoraichu: {
+		tier: "OU",
+	},
 };
