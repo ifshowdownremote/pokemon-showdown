@@ -9703,4 +9703,70 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	tangrowthclefairy: {
 		tier: "OU",
 	},
+	clefableweezing: {
+		tier: "OU",
+	},
+	weezingclefable: {
+		tier: "OU",
+	},
+	venusaurclefable: {
+		tier: "OU",
+	},
+	clefablevenusaur: {
+		tier: "OU",
+	},
+	espeonslaking: {
+		tier: "OU",
+	},
+	slakingespeon: {
+		tier: "OU",
+	},
+	venusaurespeon: {
+		tier: "OU",
+	},
+	espeonsteelix: {
+		tier: "OU",
+	},
+	steelixespeon: {
+		tier: "OU",
+	},
+	espeoninfernape: {
+		tier: "OU",
+	},
+	espeonvenusaur: {
+		tier: "OU",
+	},
+	infernapeespeon: {
+		tier: "OU",
+	},
+	giratinazoroark: {
+		tier: "OU",
+	},
+	zoroarkgiratina: {
+		tier: "OU",
+	},
+	shucklerayquaza: {
+		tier: "OU",
+	},
+	rayquazashuckle: {
+		tier: "OU",
+	},
+	aegislashmarowak: {
+		tier: "OU",
+	},
+	regigigasmarowak: {
+		tier: "OU",
+	},
+	togekissmoltres: {
+		tier: "OU",
+	},
+	metagrossmarowak: {
+		tier: "OU",
+	},
+	zekrommarowak: {
+		tier: "OU",
+	},
+	rayquazaazumarill: {
+		tier: "OU",
+	},
 };
