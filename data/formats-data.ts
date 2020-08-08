@@ -9679,4 +9679,28 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	garchompscizor: {
 		tier: "OU",
 	},
+	cloysterazumarill: {
+		tier: "OU",
+	},
+	meowthmeowth: {
+		tier: "OU",
+	},
+	mamoswineprimeape: {
+		tier: "OU",
+	},
+	weepinbelldoduo: {
+		tier: "OU",
+	},
+	chikoritacombusken: {
+		tier: "OU",
+	},
+	combuskenchikorita: {
+		tier: "OU",
+	},
+	clefairytangrowth: {
+		tier: "OU",
+	},
+	tangrowthclefairy: {
+		tier: "OU",
+	},
 };
