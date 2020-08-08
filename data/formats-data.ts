@@ -9622,4 +9622,61 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	lugiavenomoth: {
 		tier: "OU",
 	},
+	slowkinggroudon: {
+		tier: "OU",
+	},
+	slowbrogroudon: {
+		tier: "OU",
+	},
+	slowbrotorterra: {
+		tier: "OU",
+	},
+	slowbromamoswine: {
+		tier: "OU",
+	},
+	slowkingmamoswine: {
+		tier: "OU",
+	},
+	slowkingtorterra: {
+		tier: "OU",
+	},
+	slowkingswampert: {
+		tier: "OU",
+	},
+	slowbroswampert: {
+		tier: "OU",
+	},
+	slowbronidoqueen: {
+		tier: "OU",
+	},
+	slowkingnidoqueen: {
+		tier: "OU",
+	},
+	slowkingnidoking: {
+		tier: "OU",
+	},
+	slowbronidoking: {
+		tier: "OU",
+	},
+	weezingtyranitar: {
+		tier: "OU",
+	},
+	zekromtyranitar: {
+		tier: "OU",
+	},
+	garchomptyranitar: {
+		tier: "OU",
+	},
+	salamencetyranitar: {
+		tier: "OU",
+	},
+	rayquazatyranitar: {
+		tier: "OU",
+	},
+	scizorgarchomp: {
+		tier: "OU",
+	},
+	garchompscizor: {
+		tier: "OU",
+	},
 };
