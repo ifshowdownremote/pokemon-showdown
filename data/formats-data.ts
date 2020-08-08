@@ -9568,4 +9568,58 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	pinecoraichu: {
 		tier: "OU",
 	},
+	clefableblissey: {
+		tier: "OU",
+	},
+	blisseyclefable: {
+		tier: "OU",
+	},
+	tangelaclefable: {
+		tier: "OU",
+	},
+	clefairytangela: {
+		tier: "OU",
+	},
+	tangelaclefairy: {
+		tier: "OU",
+	},
+	clefabletangela: {
+		tier: "OU",
+	},
+	clefablegroudon: {
+		tier: "OU",
+	},
+	clefablesteelix: {
+		tier: "OU",
+	},
+	steelixclefable: {
+		tier: "OU",
+	},
+	gliscorquagsire: {
+		tier: "OU",
+	},
+	rhydonmantine: {
+		tier: "OU",
+	},
+	marowakmantine: {
+		tier: "OU",
+	},
+	groudonmantine: {
+		tier: "OU",
+	},
+	gliscormantine: {
+		tier: "OU",
+	},
+	donphanmantine: {
+		tier: "OU",
+	},
+	kyogremantine: {
+		tier: "OU",
+	},
+	venomothlugia: {
+		tier: "OU",
+	},
+	lugiavenomoth: {
+		tier: "OU",
+	},
 };
