@@ -9769,4 +9769,196 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	rayquazaazumarill: {
 		tier: "OU",
 	},
+	charizardvenusaur: {
+		tier: "OU",
+	},
+	charizardbutterfree: {
+		tier: "OU",
+	},
+	charizardbeedrill: {
+		tier: "OU",
+	},
+	charizardpidgeot: {
+		tier: "OU",
+	},
+	charizardraticate: {
+		tier: "OU",
+	},
+	charizardsandslash: {
+		tier: "OU",
+	},
+	charizardnidoqueen: {
+		tier: "OU",
+	},
+	charizardclefable: {
+		tier: "OU",
+	},
+	charizardnidoking: {
+		tier: "OU",
+	},
+	charizardninetales: {
+		tier: "OU",
+	},
+	charizardwigglytuff: {
+		tier: "OU",
+	},
+	shedinjabulbasaur: {
+		tier: "Uber",
+	},
+	shedinjacharmander: {
+		tier: "Uber",
+	},
+	shedinjasquirtle: {
+		tier: "Uber",
+	},
+	shedinjaivysaur: {
+		tier: "Uber",
+	},
+	shedinjacharizard: {
+		tier: "Uber",
+	},
+	shedinjachimchar: {
+		tier: "Uber",
+	},
+	shedinjavenusaur: {
+		tier: "Uber",
+	},
+	shedinjacharmeleon: {
+		tier: "Uber",
+	},
+	shedinjazoroark: {
+		tier: "Uber",
+	},
+	shedinjagenesect: {
+		tier: "Uber",
+	},
+	shedinjawartortle: {
+		tier: "Uber",
+	},
+	shedinjablastoise: {
+		tier: "Uber",
+	},
+	shedinjacaterpie: {
+		tier: "Uber",
+	},
+	dragonitesylveon: {
+		tier: "OU",
+	},
+	sylveondragonite: {
+		tier: "OU",
+	},
+	genesectmetagross: {
+		tier: "OU",
+	},
+	garchompmawile: {
+		tier: "OU",
+	},
+	rayquazamawile: {
+		tier: "OU",
+	},
+	clefabledialga: {
+		tier: "OU",
+	},
+	clefablepalkia: {
+		tier: "OU",
+	},
+	sylveonpalkia: {
+		tier: "OU",
+	},
+	sylveondialga: {
+		tier: "OU",
+	},
+	gengarumbreon: {
+		tier: "OU",
+	},
+	dusclopsumbreon: {
+		tier: "OU",
+	},
+	dusknoirumbreon: {
+		tier: "OU",
+	},
+	umbreondusclops: {
+		tier: "OU",
+	},
+	umbreondusknoir: {
+		tier: "OU",
+	},
+	giratinaumbreon: {
+		tier: "OU",
+	},
+	giratinatyranitar: {
+		tier: "OU",
+	},
+	parasectbastiodon: {
+		tier: "OU",
+	},
+	parasectbisharp: {
+		tier: "OU",
+	},
+	parasectmagnezone: {
+		tier: "OU",
+	},
+	parasectscizor: {
+		tier: "OU",
+	},
+	umbreonaegislash: {
+		tier: "OU",
+	},
+	aegislashparasect: {
+		tier: "OU",
+	},
+	magnezoneparasect: {
+		tier: "OU",
+	},
+	dialgaparasect: {
+		tier: "OU",
+	},
+	metagrossparasect: {
+		tier: "OU",
+	},
+	salamencezekrom: {
+		tier: "OU",
+	},
+	garchompzekrom: {
+		tier: "OU",
+	},
+	zekromgarchomp: {
+		tier: "OU",
+	},
+	zekromsalamence: {
+		tier: "OU",
+	},
+	arceusarceus: {
+		tier: "OU",
+	},
+	unownunown: {
+		tier: "OU",
+	},
+	klinklangparasect: {
+		tier: "OU",
+	},
+	shucklebidoof: {
+		tier: "OU",
+	},
+	bidoofshuckle: {
+		tier: "OU",
+	},
+	zoroarkregigigas: {
+		tier: "OU",
+	},
+	regigigaszoroark: {
+		tier: "OU",
+	},
+	zoroarkslaking: {
+		tier: "OU",
+	},
+	slakingzoroark: {
+		tier: "OU",
+	},
+	dialgazekrom: {
+		tier: "OU",
+	},
+	blazikenarceus: {
+		tier: "OU",
+	},
 };
