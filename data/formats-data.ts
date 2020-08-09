@@ -9961,4 +9961,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	blazikenarceus: {
 		tier: "OU",
 	},
+	shucklearceus: {
+		tier: "OU",
+	},
+	genesectblastoise: {
+		tier: "OU",
+	},
+	scizorpikachu: {
+		tier: "OU",
+	},
 };
