@@ -10099,4 +10099,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	slakingregigigas: {
 		tier: "OU",
 	},
+	chanseytogekiss: {
+		tier: "OU",
+	},
+	togekisschansey: {
+		tier: "OU",
+	},
+	hoohrapidash: {
+		tier: "OU",
+	},
+	politoedporygon2: {
+		tier: "OU",
+	},
+	togekisssceptile: {
+		tier: "OU",
+	},
+	empoleonmetagross: {
+		tier: "OU",
+	},
 };
