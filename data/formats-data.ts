@@ -9970,4 +9970,133 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	scizorpikachu: {
 		tier: "OU",
 	},
+	rayquazaregigigas: {
+		tier: "OU",
+	},
+	crobatrayquaza: {
+		tier: "OU",
+	},
+	rayquazacrobat: {
+		tier: "OU",
+	},
+	blazikenhitmonchan: {
+		tier: "OU",
+	},
+	blazikenhitmontop: {
+		tier: "OU",
+	},
+	blazikenpersian: {
+		tier: "OU",
+	},
+	blazikendewgong: {
+		tier: "OU",
+	},
+	blazikenkangaskhan: {
+		tier: "OU",
+	},
+	blazikenambipom: {
+		tier: "OU",
+	},
+	blazikenmew: {
+		tier: "OU",
+	},
+	rayquazalucario: {
+		tier: "OU",
+	},
+	dragonitelucario: {
+		tier: "OU",
+	},
+	salamencelucario: {
+		tier: "OU",
+	},
+	salamencearcanine: {
+		tier: "OU",
+	},
+	rayquazaarcanine: {
+		tier: "OU",
+	},
+	enteirayquaza: {
+		tier: "OU",
+	},
+	rayquazaentei: {
+		tier: "OU",
+	},
+	rayquazasuicune: {
+		tier: "OU",
+	},
+	raikourayquaza: {
+		tier: "OU",
+	},
+	suicunerayquaza: {
+		tier: "OU",
+	},
+	rayquazaraikou: {
+		tier: "OU",
+	},
+	murkrowslaking: {
+		tier: "OU",
+	},
+	slakingmurkrow: {
+		tier: "OU",
+	},
+	murkrowrayquaza: {
+		tier: "OU",
+	},
+	murkrowgroudon: {
+		tier: "OU",
+	},
+	blisseymurkrow: {
+		tier: "OU",
+	},
+	murkrowblissey: {
+		tier: "OU",
+	},
+	rayquazamurkrow: {
+		tier: "OU",
+	},
+	groudonmurkrow: {
+		tier: "OU",
+	},
+	murkrowchansey: {
+		tier: "OU",
+	},
+	chanseymurkrow: {
+		tier: "OU",
+	},
+	togeticmurkrow: {
+		tier: "OU",
+	},
+	murkrowtangela: {
+		tier: "OU",
+	},
+	murkrowtogetic: {
+		tier: "OU",
+	},
+	tangelamurkrow: {
+		tier: "OU",
+	},
+	mewmurkrow: {
+		tier: "OU",
+	},
+	murkrowmew: {
+		tier: "OU",
+	},
+	parasectmurkrow: {
+		tier: "OU",
+	},
+	murkrowparasect: {
+		tier: "OU",
+	},
+	ariadosmurkrow: {
+		tier: "OU",
+	},
+	murkrowariados: {
+		tier: "OU",
+	},
+	regigigasslaking: {
+		tier: "OU",
+	},
+	slakingregigigas: {
+		tier: "OU",
+	},
 };
