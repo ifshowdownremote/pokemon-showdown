@@ -10117,4 +10117,19 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	empoleonmetagross: {
 		tier: "OU",
 	},
+	azumarillarcanine: {
+		tier: "OU",
+	},
+	clefablegiratina: {
+		tier: "OU",
+	},
+	clefabledragonite: {
+		tier: "OU",
+	},
+	palkiaclefable: {
+		tier: "OU",
+	},
+	dialgaclefable: {
+		tier: "OU",
+	},
 };
