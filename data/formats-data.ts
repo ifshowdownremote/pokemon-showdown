@@ -10186,4 +10186,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	aggroncranidos: {
 		tier: "OU",
 	},
+	machamprhyperior: {
+		tier: "OU",
+	},
+	rhyperiormachamp: {
+		tier: "OU",
+	},
+	scizorhitmonlee: {
+		tier: "OU",
+	},
+	hitmonleescizor: {
+		tier: "OU",
+	},
 };
