@@ -10132,4 +10132,58 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	dialgaclefable: {
 		tier: "OU",
 	},
+	arbokpidgeot: {
+		tier: "OU",
+	},
+	pidgeotsandslash: {
+		tier: "OU",
+	},
+	rapidashsandslash: {
+		tier: "OU",
+	},
+	sandslashrapidash: {
+		tier: "OU",
+	},
+	rapidashnidoking: {
+		tier: "OU",
+	},
+	bellossomampharos: {
+		tier: "OU",
+	},
+	bellossomlapras: {
+		tier: "OU",
+	},
+	bellossomexeggutor: {
+		tier: "OU",
+	},
+	bellossomcharizard: {
+		tier: "OU",
+	},
+	bellossomhitmonchan: {
+		tier: "OU",
+	},
+	bellossomkingdra: {
+		tier: "OU",
+	},
+	bellossomstarmie: {
+		tier: "OU",
+	},
+	yanmegavenomoth: {
+		tier: "OU",
+	},
+	venusaurvenomoth: {
+		tier: "OU",
+	},
+	ampharosvenomoth: {
+		tier: "OU",
+	},
+	swampertvenomoth: {
+		tier: "OU",
+	},
+	swampertcranidos: {
+		tier: "OU",
+	},
+	aggroncranidos: {
+		tier: "OU",
+	},
 };
