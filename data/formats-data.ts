@@ -10222,4 +10222,55 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	flygonsylveon: {
 		tier: "OU",
 	},
+	snorlaxmachamp: {
+		tier: "OU",
+	},
+	machampsnorlax: {
+		tier: "OU",
+	},
+	bisharpdusknoir: {
+		tier: "OU",
+	},
+	dusknoirbisharp: {
+		tier: "OU",
+	},
+	electivirebisharp: {
+		tier: "OU",
+	},
+	bisharpelectivire: {
+		tier: "OU",
+	},
+	zekromelectivire: {
+		tier: "OU",
+	},
+	electivirezekrom: {
+		tier: "OU",
+	},
+	magmortarreshiram: {
+		tier: "OU",
+	},
+	zekrommagmortar: {
+		tier: "OU",
+	},
+	magmortarzekrom: {
+		tier: "OU",
+	},
+	reshirammagmortar: {
+		tier: "OU",
+	},
+	salamencescizor: {
+		tier: "OU",
+	},
+	scizorsalamence: {
+		tier: "OU",
+	},
+	shuckledragonite: {
+		tier: "OU",
+	},
+	hitmonleecharizard: {
+		tier: "OU",
+	},
+	charizardhitmonlee: {
+		tier: "OU",
+	},
 };
