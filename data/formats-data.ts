@@ -10273,4 +10273,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	charizardhitmonlee: {
 		tier: "OU",
 	},
+	quagsiredialga: {
+		tier: "OU",
+	},
+	dialgaquagsire: {
+		tier: "OU",
+	},
 };
