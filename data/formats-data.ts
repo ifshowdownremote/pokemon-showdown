@@ -10279,4 +10279,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	dialgaquagsire: {
 		tier: "OU",
 	},
+	doubladeflygon: {
+		tier: "OU",
+	},
+	scizorflygon: {
+		tier: "OU",
+	},
+	politoedempoleon: {
+		tier: "OU",
+	},
+	skarmoryswampert: {
+		tier: "OU",
+	},
+	azumarillregigigas: {
+		tier: "OU",
+	},
+	machampwigglytuff: {
+		tier: "OU",
+	},
 };
