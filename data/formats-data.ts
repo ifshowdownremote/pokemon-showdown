@@ -10297,4 +10297,25 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	machampwigglytuff: {
 		tier: "OU",
 	},
+	leafeonrapidash: {
+		tier: "OU",
+	},
+	rapidashleafeon: {
+		tier: "OU",
+	},
+	leafeonarcanine: {
+		tier: "OU",
+	},
+	arcanineleafeon: {
+		tier: "OU",
+	},
+	sandslashskarmory: {
+		tier: "OU",
+	},
+	groudonskarmory: {
+		tier: "OU",
+	},
+	articunokyogre: {
+		tier: "OU",
+	},
 };
