@@ -33595,4 +33595,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Blue",
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
+	rapidashazumarill: {
+		num: 11904,
+		name: "rapidashazumarill",
+		types: ["Fire", "Water"],
+		baseStats: {hp: 76, atk: 66, def: 76, spa: 73, spd: 80, spe: 68},
+		abilities: {0: "Run Away", 1: "Huge Power", H: "Flame Body"},
+		heightm: 1.25,
+		weightkg: 61.75,
+		color: "Yellow",
+		eggGroups: ["Water 1", "Field"],
+	},
 };

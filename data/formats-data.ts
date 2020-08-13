@@ -10318,4 +10318,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	articunokyogre: {
 		tier: "OU",
 	},
+	rapidashazumarill: {
+		tier: "OU",
+	},
 };
