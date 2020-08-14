@@ -10333,4 +10333,19 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	miltankdonphan: {
 		tier: "OU",
 	},
+	vaporeonlapras: {
+		tier: "OU",
+	},
+	flareonlapras: {
+		tier: "OU",
+	},
+	jolteonlapras: {
+		tier: "OU",
+	},
+	espeonlapras: {
+		tier: "OU",
+	},
+	absollapras: {
+		tier: "OU",
+	},
 };
