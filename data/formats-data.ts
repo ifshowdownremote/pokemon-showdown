@@ -10321,4 +10321,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	rapidashazumarill: {
 		tier: "OU",
 	},
+	lanturnlapras: {
+		tier: "OU",
+	},
+	skarmorylugia: {
+		tier: "OU",
+	},
+	magmortarquagsire: {
+		tier: "OU",
+	},
+	miltankdonphan: {
+		tier: "OU",
+	},
 };
