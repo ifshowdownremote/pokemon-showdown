@@ -10348,4 +10348,106 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	absollapras: {
 		tier: "OU",
 	},
+	zoroarksylveon: {
+		tier: "OU",
+	},
+	sylveonzoroark: {
+		tier: "OU",
+	},
+	gardevoirzoroark: {
+		tier: "OU",
+	},
+	togekisszoroark: {
+		tier: "OU",
+	},
+	zoroarkgardevoir: {
+		tier: "OU",
+	},
+	togeticzoroark: {
+		tier: "OU",
+	},
+	zoroarktogekiss: {
+		tier: "OU",
+	},
+	zoroarktogetic: {
+		tier: "OU",
+	},
+	golduckpersian: {
+		tier: "OU",
+	},
+	persiangolduck: {
+		tier: "OU",
+	},
+	scythergolduck: {
+		tier: "OU",
+	},
+	golduckscyther: {
+		tier: "OU",
+	},
+	golduckscizor: {
+		tier: "OU",
+	},
+	scizorgolduck: {
+		tier: "OU",
+	},
+	golduckambipom: {
+		tier: "OU",
+	},
+	ambipomgolduck: {
+		tier: "OU",
+	},
+	golduckhitmontop: {
+		tier: "OU",
+	},
+	hitmontopgolduck: {
+		tier: "OU",
+	},
+	golduckseaking: {
+		tier: "OU",
+	},
+	seakinggolduck: {
+		tier: "OU",
+	},
+	zoroarkrayquaza: {
+		tier: "OU",
+	},
+	rayquazazoroark: {
+		tier: "OU",
+	},
+	donphanmiltank: {
+		tier: "OU",
+	},
+	magmortarrapidash: {
+		tier: "OU",
+	},
+	venusaurgranbull: {
+		tier: "OU",
+	},
+	blastoisescyther: {
+		tier: "OU",
+	},
+	scizorblastoise: {
+		tier: "OU",
+	},
+	blastoisescizor: {
+		tier: "OU",
+	},
+	scytherblastoise: {
+		tier: "OU",
+	},
+	blastoisepersian: {
+		tier: "OU",
+	},
+	persianblastoise: {
+		tier: "OU",
+	},
+	ampharosarbok: {
+		tier: "OU",
+	},
+	arbokampharos: {
+		tier: "OU",
+	},
+	mantinearbok: {
+		tier: "OU",
+	},
 };
