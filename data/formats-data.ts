@@ -10450,4 +10450,154 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	mantinearbok: {
 		tier: "OU",
 	},
+	zoroarkmachamp: {
+		tier: "OU",
+	},
+	machampzoroark: {
+		tier: "OU",
+	},
+	zoroarkblaziken: {
+		tier: "OU",
+	},
+	hitmonleezoroark: {
+		tier: "OU",
+	},
+	zoroarkhitmonlee: {
+		tier: "OU",
+	},
+	blazikenzoroark: {
+		tier: "OU",
+	},
+	flygonmagnezone: {
+		tier: "OU",
+	},
+	magnezoneflygon: {
+		tier: "OU",
+	},
+	flygonmagneton: {
+		tier: "OU",
+	},
+	magnetonflygon: {
+		tier: "OU",
+	},
+	weezingmagnezone: {
+		tier: "OU",
+	},
+	magnetonweezing: {
+		tier: "OU",
+	},
+	magnezoneweezing: {
+		tier: "OU",
+	},
+	weezingmagneton: {
+		tier: "OU",
+	},
+	magnetonmagmortar: {
+		tier: "OU",
+	},
+	magmortarmagneton: {
+		tier: "OU",
+	},
+	magnezonemagmortar: {
+		tier: "OU",
+	},
+	magmortarmagnezone: {
+		tier: "OU",
+	},
+	magnezonetauros: {
+		tier: "OU",
+	},
+	taurosmagnezone: {
+		tier: "OU",
+	},
+	starmietauros: {
+		tier: "OU",
+	},
+	taurosstarmie: {
+		tier: "OU",
+	},
+	tauroskangaskhan: {
+		tier: "OU",
+	},
+	kangaskhantauros: {
+		tier: "OU",
+	},
+	kangaskhanmachamp: {
+		tier: "OU",
+	},
+	machampkangaskhan: {
+		tier: "OU",
+	},
+	hypnotauros: {
+		tier: "OU",
+	},
+	taurospinsir: {
+		tier: "OU",
+	},
+	taurosblastoise: {
+		tier: "OU",
+	},
+	pinsirtauros: {
+		tier: "OU",
+	},
+	blastoisetauros: {
+		tier: "OU",
+	},
+	blastoiseblaziken: {
+		tier: "OU",
+	},
+	blazikenblastoise: {
+		tier: "OU",
+	},
+	kingdratauros: {
+		tier: "OU",
+	},
+	tauroskingdra: {
+		tier: "OU",
+	},
+	tauroskingler: {
+		tier: "OU",
+	},
+	kinglertauros: {
+		tier: "OU",
+	},
+	nidokingtauros: {
+		tier: "OU",
+	},
+	taurosarbok: {
+		tier: "OU",
+	},
+	arboktauros: {
+		tier: "OU",
+	},
+	taurosnidoking: {
+		tier: "OU",
+	},
+	arboknidoking: {
+		tier: "OU",
+	},
+	nidokingarbok: {
+		tier: "OU",
+	},
+	arbokelectivire: {
+		tier: "OU",
+	},
+	electiviretauros: {
+		tier: "OU",
+	},
+	electivirearbok: {
+		tier: "OU",
+	},
+	tauroselectivire: {
+		tier: "OU",
+	},
+	umbreongiratina: {
+		tier: "OU",
+	},
+	kyogregroudon: {
+		tier: "OU",
+	},
+	mantinegroudon: {
+		tier: "OU",
+	},
 };
