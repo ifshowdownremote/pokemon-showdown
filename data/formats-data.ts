@@ -10684,4 +10684,157 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	raichugolem: {
 		tier: "OU",
 	},
+	electiviremagnezone: {
+		tier: "OU",
+	},
+	arcaninemagnezone: {
+		tier: "OU",
+	},
+	magnezonearcanine: {
+		tier: "OU",
+	},
+	magnezonecharizard: {
+		tier: "OU",
+	},
+	charizardmagnezone: {
+		tier: "OU",
+	},
+	typhlosionmagnezone: {
+		tier: "OU",
+	},
+	magnezonetyphlosion: {
+		tier: "OU",
+	},
+	snorlaxmiltank: {
+		tier: "OU",
+	},
+	miltanksnorlax: {
+		tier: "OU",
+	},
+	miltankdusclops: {
+		tier: "OU",
+	},
+	dusclopsmiltank: {
+		tier: "OU",
+	},
+	dusknoirmiltank: {
+		tier: "OU",
+	},
+	miltankdusknoir: {
+		tier: "OU",
+	},
+	kangaskhandusknoir: {
+		tier: "OU",
+	},
+	dusclopssnorlax: {
+		tier: "OU",
+	},
+	snorlaxdusknoir: {
+		tier: "OU",
+	},
+	dusknoirsnorlax: {
+		tier: "OU",
+	},
+	snorlaxdusclops: {
+		tier: "OU",
+	},
+	kangaskhandusclops: {
+		tier: "OU",
+	},
+	dusclopskangaskhan: {
+		tier: "OU",
+	},
+	miltankkangaskhan: {
+		tier: "OU",
+	},
+	kangaskhanmiltank: {
+		tier: "OU",
+	},
+	rapidashtauros: {
+		tier: "OU",
+	},
+	taurosrapidash: {
+		tier: "OU",
+	},
+	quagsiremiltank: {
+		tier: "OU",
+	},
+	miltankquagsire: {
+		tier: "OU",
+	},
+	miloticquagsire: {
+		tier: "OU",
+	},
+	quagsiremilotic: {
+		tier: "OU",
+	},
+	skarmoryquagsire: {
+		tier: "OU",
+	},
+	tyranitarquagsire: {
+		tier: "OU",
+	},
+	quagsiretyranitar: {
+		tier: "OU",
+	},
+	quagsiregarchomp: {
+		tier: "OU",
+	},
+	quagsirelapras: {
+		tier: "OU",
+	},
+	laprasquagsire: {
+		tier: "OU",
+	},
+	politoedquagsire: {
+		tier: "OU",
+	},
+	poliwrathquagsire: {
+		tier: "OU",
+	},
+	quagsirepoliwrath: {
+		tier: "OU",
+	},
+	scytherpoliwrath: {
+		tier: "OU",
+	},
+	poliwrathscyther: {
+		tier: "OU",
+	},
+	scizorpoliwrath: {
+		tier: "OU",
+	},
+	poliwrathgliscor: {
+		tier: "OU",
+	},
+	poliwrathscizor: {
+		tier: "OU",
+	},
+	gliscorpoliwrath: {
+		tier: "OU",
+	},
+	taurospoliwrath: {
+		tier: "OU",
+	},
+	poliwrathskarmory: {
+		tier: "OU",
+	},
+	poliwrathkangaskhan: {
+		tier: "OU",
+	},
+	poliwrathtauros: {
+		tier: "OU",
+	},
+	hitmonleepoliwrath: {
+		tier: "OU",
+	},
+	hitmonchanpoliwrath: {
+		tier: "OU",
+	},
+	hitmontoppoliwrath: {
+		tier: "OU",
+	},
+	poliwrathhitmonchan: {
+		tier: "OU",
+	},
 };
