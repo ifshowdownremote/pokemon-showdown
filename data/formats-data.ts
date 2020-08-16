@@ -10837,4 +10837,367 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	poliwrathhitmonchan: {
 		tier: "OU",
 	},
+	poliwrathhitmonlee: {
+		tier: "OU",
+	},
+	infernapepoliwrath: {
+		tier: "OU",
+	},
+	poliwrathinfernape: {
+		tier: "OU",
+	},
+	poliwrathpolitoed: {
+		tier: "OU",
+	},
+	politoedpoliwrath: {
+		tier: "OU",
+	},
+	poliwrathempoleon: {
+		tier: "OU",
+	},
+	empoleonpoliwrath: {
+		tier: "OU",
+	},
+	sceptilepoliwrath: {
+		tier: "OU",
+	},
+	poliwrathsceptile: {
+		tier: "OU",
+	},
+	magmortarsceptile: {
+		tier: "OU",
+	},
+	sceptilemagmortar: {
+		tier: "OU",
+	},
+	sceptileelectivire: {
+		tier: "OU",
+	},
+	weezingtauros: {
+		tier: "OU",
+	},
+	electiviresceptile: {
+		tier: "OU",
+	},
+	electrodesceptile: {
+		tier: "OU",
+	},
+	sceptileelectrode: {
+		tier: "OU",
+	},
+	taurosweezing: {
+		tier: "OU",
+	},
+	ampharostauros: {
+		tier: "OU",
+	},
+	granbulltauros: {
+		tier: "OU",
+	},
+	taurosgranbull: {
+		tier: "OU",
+	},
+	taurosampharos: {
+		tier: "OU",
+	},
+	feraligatrgranbull: {
+		tier: "OU",
+	},
+	granbullferaligatr: {
+		tier: "OU",
+	},
+	sceptileferaligatr: {
+		tier: "OU",
+	},
+	feraligatrempoleon: {
+		tier: "OU",
+	},
+	feraligatrsceptile: {
+		tier: "OU",
+	},
+	empoleonferaligatr: {
+		tier: "OU",
+	},
+	empoleongyarados: {
+		tier: "OU",
+	},
+	gyaradosempoleon: {
+		tier: "OU",
+	},
+	gyaradosbeedrill: {
+		tier: "OU",
+	},
+	beedrillgyarados: {
+		tier: "OU",
+	},
+	magnezoneninetales: {
+		tier: "OU",
+	},
+	ninetalesmagnezone: {
+		tier: "OU",
+	},
+	golduckmagnezone: {
+		tier: "OU",
+	},
+	magnezonegolduck: {
+		tier: "OU",
+	},
+	starmiegolduck: {
+		tier: "OU",
+	},
+	electivirestarmie: {
+		tier: "OU",
+	},
+	starmieelectivire: {
+		tier: "OU",
+	},
+	starmieelectrode: {
+		tier: "OU",
+	},
+	golduckstarmie: {
+		tier: "OU",
+	},
+	electrodestarmie: {
+		tier: "OU",
+	},
+	raichuflygon: {
+		tier: "OU",
+	},
+	arcaninesuicune: {
+		tier: "OU",
+	},
+	persianquagsire: {
+		tier: "OU",
+	},
+	suicunearcanine: {
+		tier: "OU",
+	},
+	gyaradospersian: {
+		tier: "OU",
+	},
+	persiangyarados: {
+		tier: "OU",
+	},
+	persianpidgeot: {
+		tier: "OU",
+	},
+	pidgeotpersian: {
+		tier: "OU",
+	},
+	pidgeotnidoking: {
+		tier: "OU",
+	},
+	wigglytuffweezing: {
+		tier: "OU",
+	},
+	dusclopswigglytuff: {
+		tier: "OU",
+	},
+	wigglytuffdusclops: {
+		tier: "OU",
+	},
+	weezingwigglytuff: {
+		tier: "OU",
+	},
+	shucklewigglytuff: {
+		tier: "OU",
+	},
+	wigglytuffshuckle: {
+		tier: "OU",
+	},
+	gengarwigglytuff: {
+		tier: "OU",
+	},
+	parasectbellossom: {
+		tier: "OU",
+	},
+	bellossomparasect: {
+		tier: "OU",
+	},
+	venomothparasect: {
+		tier: "OU",
+	},
+	parasectvenomoth: {
+		tier: "OU",
+	},
+	vaporeonparasect: {
+		tier: "OU",
+	},
+	jolteonparasect: {
+		tier: "OU",
+	},
+	gengarparasect: {
+		tier: "OU",
+	},
+	persianparasect: {
+		tier: "OU",
+	},
+	parasectpersian: {
+		tier: "OU",
+	},
+	aerodactylparasect: {
+		tier: "OU",
+	},
+	magmortargolem: {
+		tier: "OU",
+	},
+	electiviregolem: {
+		tier: "OU",
+	},
+	magcargogolem: {
+		tier: "OU",
+	},
+	vaporeongolem: {
+		tier: "OU",
+	},
+	laprasgolem: {
+		tier: "OU",
+	},
+	laprasgolbat: {
+		tier: "OU",
+	},
+	laprasgolduck: {
+		tier: "OU",
+	},
+	dewgonghoundoom: {
+		tier: "OU",
+	},
+	umbreondewgong: {
+		tier: "OU",
+	},
+	dewgongumbreon: {
+		tier: "OU",
+	},
+	houndoomdewgong: {
+		tier: "OU",
+	},
+	dewgongvenusaur: {
+		tier: "OU",
+	},
+	venusaurdewgong: {
+		tier: "OU",
+	},
+	quagsirevenusaur: {
+		tier: "OU",
+	},
+	typhlosiongolem: {
+		tier: "OU",
+	},
+	feraligatrgolem: {
+		tier: "OU",
+	},
+	sandslashaggron: {
+		tier: "OU",
+	},
+	mukaggron: {
+		tier: "OU",
+	},
+	aggronsandslash: {
+		tier: "OU",
+	},
+	aggronmuk: {
+		tier: "OU",
+	},
+	pidgeotscyther: {
+		tier: "OU",
+	},
+	pidgeotscizor: {
+		tier: "OU",
+	},
+	pidgeottyphlosion: {
+		tier: "OU",
+	},
+	pidgeotgolduck: {
+		tier: "OU",
+	},
+	pidgeotalakazam: {
+		tier: "OU",
+	},
+	pidgeotsalamence: {
+		tier: "OU",
+	},
+	pidgeotkingdra: {
+		tier: "OU",
+	},
+	pidgeotsceptile: {
+		tier: "OU",
+	},
+	sceptilepidgeot: {
+		tier: "OU",
+	},
+	pidgeotrapidash: {
+		tier: "OU",
+	},
+	rapidashpidgeot: {
+		tier: "OU",
+	},
+	pidgeotmoltres: {
+		tier: "OU",
+	},
+	moltrespersian: {
+		tier: "OU",
+	},
+	moltrespidgeot: {
+		tier: "OU",
+	},
+	moltresarcanine: {
+		tier: "OU",
+	},
+	kyogredragonair: {
+		tier: "OU",
+	},
+	dragonairkyogre: {
+		tier: "OU",
+	},
+	kyogremilotic: {
+		tier: "OU",
+	},
+	milotickyogre: {
+		tier: "OU",
+	},
+	politoedmilotic: {
+		tier: "OU",
+	},
+	miloticpolitoed: {
+		tier: "OU",
+	},
+	dragonairpolitoed: {
+		tier: "OU",
+	},
+	politoeddragonair: {
+		tier: "OU",
+	},
+	politoeddragonite: {
+		tier: "OU",
+	},
+	dragonitepolitoed: {
+		tier: "OU",
+	},
+	dragonitepidgeot: {
+		tier: "OU",
+	},
+	pidgeotdragonite: {
+		tier: "OU",
+	},
+	pidgeotdragonair: {
+		tier: "OU",
+	},
+	dragonairpidgeot: {
+		tier: "OU",
+	},
+	kingdrapolitoed: {
+		tier: "OU",
+	},
+	politoedkingdra: {
+		tier: "OU",
+	},
+	politoedseaking: {
+		tier: "OU",
+	},
+	seakingpolitoed: {
+		tier: "OU",
+	},
+	raichunidoking: {
+		tier: "OU",
+	},
 };
