@@ -10600,4 +10600,88 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	mantinegroudon: {
 		tier: "OU",
 	},
+	tentacruelmiltank: {
+		tier: "OU",
+	},
+	raichuraticate: {
+		tier: "OU",
+	},
+	raichugiratina: {
+		tier: "OU",
+	},
+	raichupoliwrath: {
+		tier: "OU",
+	},
+	raichurattata: {
+		tier: "OU",
+	},
+	poliwrathraichu: {
+		tier: "OU",
+	},
+	raichusmoochum: {
+		tier: "OU",
+	},
+	jynxjolteon: {
+		tier: "OU",
+	},
+	jynxjynx: {
+		tier: "OU",
+	},
+	raichujigglypuff: {
+		tier: "OU",
+	},
+	raichujumpluff: {
+		tier: "OU",
+	},
+	raichublaziken: {
+		tier: "OU",
+	},
+	raichuonix: {
+		tier: "OU",
+	},
+	raichudragonite: {
+		tier: "OU",
+	},
+	raichuoddish: {
+		tier: "OU",
+	},
+	raichukingdra: {
+		tier: "OU",
+	},
+	raichudialga: {
+		tier: "OU",
+	},
+	raichuledian: {
+		tier: "OU",
+	},
+	ledianraichu: {
+		tier: "OU",
+	},
+	raichurhydon: {
+		tier: "OU",
+	},
+	donphanraichu: {
+		tier: "OU",
+	},
+	raichubastiodon: {
+		tier: "OU",
+	},
+	raichudonphan: {
+		tier: "OU",
+	},
+	bastiodonraichu: {
+		tier: "OU",
+	},
+	raichumilotic: {
+		tier: "OU",
+	},
+	raichumiltank: {
+		tier: "OU",
+	},
+	miltankraichu: {
+		tier: "OU",
+	},
+	raichugolem: {
+		tier: "OU",
+	},
 };
