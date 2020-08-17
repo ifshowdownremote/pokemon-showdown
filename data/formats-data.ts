@@ -11200,4 +11200,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	raichunidoking: {
 		tier: "OU",
 	},
+	zekromgroudon: {
+		tier: "OU",
+	},
+	zekromgliscor: {
+		tier: "OU",
+	},
+	gliscorzekrom: {
+		tier: "OU",
+	},
 };
