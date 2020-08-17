@@ -11209,4 +11209,235 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	gliscorzekrom: {
 		tier: "OU",
 	},
+	charizardursaring: {
+		tier: "OU",
+	},
+	ursaringrhyperior: {
+		tier: "OU",
+	},
+	nidokingursaring: {
+		tier: "OU",
+	},
+	aggronursaring: {
+		tier: "OU",
+	},
+	slakingursaring: {
+		tier: "OU",
+	},
+	sandslashursaring: {
+		tier: "OU",
+	},
+	gyaradosursaring: {
+		tier: "OU",
+	},
+	arbokursaring: {
+		tier: "OU",
+	},
+	alakazamursaring: {
+		tier: "OU",
+	},
+	salamenceursaring: {
+		tier: "OU",
+	},
+	hitmonleeursaring: {
+		tier: "OU",
+	},
+	hitmontopursaring: {
+		tier: "OU",
+	},
+	exeggutorursaring: {
+		tier: "OU",
+	},
+	starmieursaring: {
+		tier: "OU",
+	},
+	ursaringrhydon: {
+		tier: "OU",
+	},
+	moltresursaring: {
+		tier: "OU",
+	},
+	ursaringgyarados: {
+		tier: "OU",
+	},
+	ursaringvenusaur: {
+		tier: "OU",
+	},
+	ursaringhitmonchan: {
+		tier: "OU",
+	},
+	ursaringhitmonlee: {
+		tier: "OU",
+	},
+	ursaringhitmontop: {
+		tier: "OU",
+	},
+	ursaringnidoking: {
+		tier: "OU",
+	},
+	ursaringaggron: {
+		tier: "OU",
+	},
+	ursaringelectivire: {
+		tier: "OU",
+	},
+	ursaringlapras: {
+		tier: "OU",
+	},
+	ursaringmagmortar: {
+		tier: "OU",
+	},
+	ursaringdragonite: {
+		tier: "OU",
+	},
+	dragoniteursaring: {
+		tier: "OU",
+	},
+	garchompursaring: {
+		tier: "OU",
+	},
+	golduckursaring: {
+		tier: "OU",
+	},
+	gengarursaring: {
+		tier: "OU",
+	},
+	ursaringgolduck: {
+		tier: "OU",
+	},
+	ursaringflareon: {
+		tier: "OU",
+	},
+	flareonursaring: {
+		tier: "OU",
+	},
+	flareongolduck: {
+		tier: "OU",
+	},
+	jolteonheracross: {
+		tier: "OU",
+	},
+	crobatflareon: {
+		tier: "OU",
+	},
+	ursaringheracross: {
+		tier: "OU",
+	},
+	heracrossursaring: {
+		tier: "OU",
+	},
+	heracrosstauros: {
+		tier: "OU",
+	},
+	taurosheracross: {
+		tier: "OU",
+	},
+	kingdrakyogre: {
+		tier: "OU",
+	},
+	kyogrekingdra: {
+		tier: "OU",
+	},
+	kyogredewgong: {
+		tier: "OU",
+	},
+	dewgongkyogre: {
+		tier: "OU",
+	},
+	starmiekyogre: {
+		tier: "OU",
+	},
+	kyogrestarmie: {
+		tier: "OU",
+	},
+	sceptilekyogre: {
+		tier: "OU",
+	},
+	umbreonkyogre: {
+		tier: "OU",
+	},
+	kyogresceptile: {
+		tier: "OU",
+	},
+	kyogreumbreon: {
+		tier: "OU",
+	},
+	gyaradoskyogre: {
+		tier: "OU",
+	},
+	kyogregyarados: {
+		tier: "OU",
+	},
+	kyogrelapras: {
+		tier: "OU",
+	},
+	lapraskyogre: {
+		tier: "OU",
+	},
+	feraligatrkyogre: {
+		tier: "OU",
+	},
+	kyogreferaligatr: {
+		tier: "OU",
+	},
+	kyogreempoleon: {
+		tier: "OU",
+	},
+	empoleonkyogre: {
+		tier: "OU",
+	},
+	groudonmagmortar: {
+		tier: "OU",
+	},
+	charizardgroudon: {
+		tier: "OU",
+	},
+	groudoncharizard: {
+		tier: "OU",
+	},
+	groudonmagcargo: {
+		tier: "OU",
+	},
+	magcargogroudon: {
+		tier: "OU",
+	},
+	magmortargroudon: {
+		tier: "OU",
+	},
+	groudongolem: {
+		tier: "OU",
+	},
+	golemgroudon: {
+		tier: "OU",
+	},
+	groudonrhyperior: {
+		tier: "OU",
+	},
+	groudonrhydon: {
+		tier: "OU",
+	},
+	rhyperiorgroudon: {
+		tier: "OU",
+	},
+	rhydongroudon: {
+		tier: "OU",
+	},
+	rapidashgroudon: {
+		tier: "OU",
+	},
+	groudonrapidash: {
+		tier: "OU",
+	},
+	groudontyphlosion: {
+		tier: "OU",
+	},
+	typhlosiongroudon: {
+		tier: "OU",
+	},
+	pidgeotkyogre: {
+		tier: "OU",
+	},
+	kyogrepidgeot: {
+		tier: "OU",
+	},
 };
