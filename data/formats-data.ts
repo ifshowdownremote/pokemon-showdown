@@ -11440,4 +11440,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	kyogrepidgeot: {
 		tier: "OU",
 	},
+	raichuaerodactyl: {
+		tier: "OU",
+	},
+	houndoommagnezone: {
+		tier: "OU",
+	},
+	magnezonehoundoom: {
+		tier: "OU",
+	},
 };
