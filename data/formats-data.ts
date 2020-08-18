@@ -11449,4 +11449,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	magnezonehoundoom: {
 		tier: "OU",
 	},
+	kabutopsraichu: {
+		tier: "OU",
+	},
 };

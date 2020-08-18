@@ -37781,4 +37781,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Field", "Mineral"],
 	},
+	kabutopsraichu: {
+		num: 12281,
+		name: "kabutopsraichu",
+		types: ["Rock", "Electric"],
+		baseStats: {hp: 60, atk: 98, def: 71, spa: 73, spd: 73, spe: 100},
+		abilities: {0: "Swift Swim", 1: "Lightning Rod", H: "Weak Armor"},
+		heightm: 1.05,
+		weightkg: 35.25,
+		color: "Brown",
+		eggGroups: ["Field", "Water 1"],
+	},
 };
