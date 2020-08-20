@@ -11452,4 +11452,442 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	kabutopsraichu: {
 		tier: "OU",
 	},
+	kangaskhanblastoise: {
+		tier: "OU",
+	},
+	nidoqueenblastoise: {
+		tier: "OU",
+	},
+	kinglerblastoise: {
+		tier: "OU",
+	},
+	kingdrablastoise: {
+		tier: "OU",
+	},
+	salamenceblastoise: {
+		tier: "OU",
+	},
+	jolteonblastoise: {
+		tier: "OU",
+	},
+	electrodeblastoise: {
+		tier: "OU",
+	},
+	skarmoryblastoise: {
+		tier: "OU",
+	},
+	blastoiseskarmory: {
+		tier: "OU",
+	},
+	togekissblastoise: {
+		tier: "OU",
+	},
+	ursaringblastoise: {
+		tier: "OU",
+	},
+	tentacruelblastoise: {
+		tier: "OU",
+	},
+	blastoisetentacruel: {
+		tier: "OU",
+	},
+	tentacruelweezing: {
+		tier: "OU",
+	},
+	tentacruelempoleon: {
+		tier: "OU",
+	},
+	tentacruelmagmortar: {
+		tier: "OU",
+	},
+	tentacruelelectivire: {
+		tier: "OU",
+	},
+	tentacruelsteelix: {
+		tier: "OU",
+	},
+	tentacruelcloyster: {
+		tier: "OU",
+	},
+	tentacruelampharos: {
+		tier: "OU",
+	},
+	tentacruelivysaur: {
+		tier: "OU",
+	},
+	tentacruelnoctowl: {
+		tier: "OU",
+	},
+	tentacruellanturn: {
+		tier: "OU",
+	},
+	tentacrueloctillery: {
+		tier: "OU",
+	},
+	tentacruelarbok: {
+		tier: "OU",
+	},
+	arbokoctillery: {
+		tier: "OU",
+	},
+	tentacruelsandslash: {
+		tier: "OU",
+	},
+	sandslashmarowak: {
+		tier: "OU",
+	},
+	scythersandslash: {
+		tier: "OU",
+	},
+	gliscorsandslash: {
+		tier: "OU",
+	},
+	scizorsandslash: {
+		tier: "OU",
+	},
+	beedrillsandslash: {
+		tier: "OU",
+	},
+	hitmonleesandslash: {
+		tier: "OU",
+	},
+	kangaskhansandslash: {
+		tier: "OU",
+	},
+	hitmonchansandslash: {
+		tier: "OU",
+	},
+	hitmontopsandslash: {
+		tier: "OU",
+	},
+	clefairysandslash: {
+		tier: "OU",
+	},
+	persiansandslash: {
+		tier: "OU",
+	},
+	dragonitesandslash: {
+		tier: "OU",
+	},
+	kingdrasandslash: {
+		tier: "OU",
+	},
+	dragonairsandslash: {
+		tier: "OU",
+	},
+	jolteonsandslash: {
+		tier: "OU",
+	},
+	salamencesandslash: {
+		tier: "OU",
+	},
+	crobatsandslash: {
+		tier: "OU",
+	},
+	heracrosssandslash: {
+		tier: "OU",
+	},
+	crobatferaligatr: {
+		tier: "OU",
+	},
+	feraligatrsandslash: {
+		tier: "OU",
+	},
+	mismagiusferaligatr: {
+		tier: "OU",
+	},
+	mismagiusklinklang: {
+		tier: "OU",
+	},
+	mismagiusalakazam: {
+		tier: "OU",
+	},
+	mismagiusninetales: {
+		tier: "OU",
+	},
+	mismagiusarmaldo: {
+		tier: "OU",
+	},
+	sandslasharmaldo: {
+		tier: "OU",
+	},
+	armaldosandslash: {
+		tier: "OU",
+	},
+	armaldogallade: {
+		tier: "OU",
+	},
+	armaldosalamence: {
+		tier: "OU",
+	},
+	salamencemagmortar: {
+		tier: "OU",
+	},
+	sandslashmagmortar: {
+		tier: "OU",
+	},
+	sandslashlapras: {
+		tier: "OU",
+	},
+	sandslashexeggutor: {
+		tier: "OU",
+	},
+	exeggutorsandslash: {
+		tier: "OU",
+	},
+	ampharosexeggutor: {
+		tier: "OU",
+	},
+	gardevoirexeggutor: {
+		tier: "OU",
+	},
+	alakazamexeggutor: {
+		tier: "OU",
+	},
+	gengarexeggutor: {
+		tier: "OU",
+	},
+	parasectexeggutor: {
+		tier: "OU",
+	},
+	arbokexeggutor: {
+		tier: "OU",
+	},
+	aerodactylexeggutor: {
+		tier: "OU",
+	},
+	aerodactylmagmortar: {
+		tier: "OU",
+	},
+	aerodactylmagnezone: {
+		tier: "OU",
+	},
+	aerodactylcharizard: {
+		tier: "OU",
+	},
+	aerodactylmagneton: {
+		tier: "OU",
+	},
+	aerodactyldragonair: {
+		tier: "OU",
+	},
+	aerodactyldragonite: {
+		tier: "OU",
+	},
+	aerodactylampharos: {
+		tier: "OU",
+	},
+	ampharosaerodactyl: {
+		tier: "OU",
+	},
+	nidokingaerodactyl: {
+		tier: "OU",
+	},
+	gengarslowbro: {
+		tier: "OU",
+	},
+	nidokingslowbro: {
+		tier: "OU",
+	},
+	parasectslowbro: {
+		tier: "OU",
+	},
+	ampharosslowbro: {
+		tier: "OU",
+	},
+	arbokslowbro: {
+		tier: "OU",
+	},
+	jynxslowbro: {
+		tier: "OU",
+	},
+	magnezoneslowking: {
+		tier: "OU",
+	},
+	mantineslowking: {
+		tier: "OU",
+	},
+	magmortarslowking: {
+		tier: "OU",
+	},
+	magmortarslowbro: {
+		tier: "OU",
+	},
+	kangaskhanmagmortar: {
+		tier: "OU",
+	},
+	kangaskhancharizard: {
+		tier: "OU",
+	},
+	kangaskhanaerodactyl: {
+		tier: "OU",
+	},
+	aerodactylgyarados: {
+		tier: "OU",
+	},
+	tangrowthvenusaur: {
+		tier: "OU",
+	},
+	kangaskhanhitmontop: {
+		tier: "OU",
+	},
+	kangaskhanhitmonchan: {
+		tier: "OU",
+	},
+	kabutopsgyarados: {
+		tier: "OU",
+	},
+	kabutopsferaligatr: {
+		tier: "OU",
+	},
+	kabutopssandslash: {
+		tier: "OU",
+	},
+	kabutopsmuk: {
+		tier: "OU",
+	},
+	kabutopskingdra: {
+		tier: "OU",
+	},
+	kabutopsdragonite: {
+		tier: "OU",
+	},
+	kingdrakabutops: {
+		tier: "OU",
+	},
+	kabutopslapras: {
+		tier: "OU",
+	},
+	kabutopsblastoise: {
+		tier: "OU",
+	},
+	blastoisekabutops: {
+		tier: "OU",
+	},
+	kabutopsflareon: {
+		tier: "OU",
+	},
+	jolteonkabutops: {
+		tier: "OU",
+	},
+	vaporeonkabutops: {
+		tier: "OU",
+	},
+	vaporeonscyther: {
+		tier: "OU",
+	},
+	jolteonscyther: {
+		tier: "OU",
+	},
+	jolteongliscor: {
+		tier: "OU",
+	},
+	jolteonsceptile: {
+		tier: "OU",
+	},
+	kabutopssceptile: {
+		tier: "OU",
+	},
+	sceptilekabutops: {
+		tier: "OU",
+	},
+	arcaninekabutops: {
+		tier: "OU",
+	},
+	kabutopsarcanine: {
+		tier: "OU",
+	},
+	gyaradosarcanine: {
+		tier: "OU",
+	},
+	nidokingarcanine: {
+		tier: "OU",
+	},
+	magmortararcanine: {
+		tier: "OU",
+	},
+	arcaninemagmortar: {
+		tier: "OU",
+	},
+	ninetalesarcanine: {
+		tier: "OU",
+	},
+	magmortarscyther: {
+		tier: "OU",
+	},
+	magmortarscizor: {
+		tier: "OU",
+	},
+	magmortargliscor: {
+		tier: "OU",
+	},
+	electrodeelectivire: {
+		tier: "OU",
+	},
+	electrodevaporeon: {
+		tier: "OU",
+	},
+	electrodemuk: {
+		tier: "OU",
+	},
+	electrodekangaskhan: {
+		tier: "OU",
+	},
+	electrodegyarados: {
+		tier: "OU",
+	},
+	electrodecharizard: {
+		tier: "OU",
+	},
+	electrodeaerodactyl: {
+		tier: "OU",
+	},
+	electrodeparasect: {
+		tier: "OU",
+	},
+	electrodeprobopass: {
+		tier: "OU",
+	},
+	electrodepawniard: {
+		tier: "OU",
+	},
+	electrodedunsparce: {
+		tier: "OU",
+	},
+	electrodevenusaur: {
+		tier: "OU",
+	},
+	electrodebutterfree: {
+		tier: "OU",
+	},
+	venomothelectrode: {
+		tier: "OU",
+	},
+	butterfreeelectrode: {
+		tier: "OU",
+	},
+	gengarelectrode: {
+		tier: "OU",
+	},
+	gengarbutterfree: {
+		tier: "OU",
+	},
+	butterfreegengar: {
+		tier: "OU",
+	},
+	granbullgengar: {
+		tier: "OU",
+	},
+	venomothgengar: {
+		tier: "OU",
+	},
+	gengarvenomoth: {
+		tier: "OU",
+	},
+	gengargranbull: {
+		tier: "OU",
+	},
+	gengarkabutops: {
+		tier: "OU",
+	},
 };
