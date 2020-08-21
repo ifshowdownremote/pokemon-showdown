@@ -12121,4 +12121,160 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	bulbasaurcharizard: {
 		tier: "OU",
 	},
+	arboktyranitar: {
+		tier: "OU",
+	},
+	raikougyarados: {
+		tier: "OU",
+	},
+	noctowlquagsire: {
+		tier: "OU",
+	},
+	darkraibastiodon: {
+		tier: "OU",
+	},
+	cradilygyarados: {
+		tier: "OU",
+	},
+	smeargletorterra: {
+		tier: "OU",
+	},
+	salamencewailord: {
+		tier: "OU",
+	},
+	wailordmamoswine: {
+		tier: "OU",
+	},
+	jumpluffsudowoodo: {
+		tier: "OU",
+	},
+	hypnometagross: {
+		tier: "OU",
+	},
+	hitmontopgarchomp: {
+		tier: "OU",
+	},
+	electrodegliscor: {
+		tier: "OU",
+	},
+	venomothgarchomp: {
+		tier: "OU",
+	},
+	garchompvenomoth: {
+		tier: "OU",
+	},
+	garchomphitmonlee: {
+		tier: "OU",
+	},
+	voltorbgliscor: {
+		tier: "OU",
+	},
+	hitmonleegarchomp: {
+		tier: "OU",
+	},
+	remoraidmoltres: {
+		tier: "OU",
+	},
+	unownparasect: {
+		tier: "OU",
+	},
+	remoraidgarchomp: {
+		tier: "OU",
+	},
+	unowndelibird: {
+		tier: "OU",
+	},
+	skarmorygarchomp: {
+		tier: "OU",
+	},
+	garchompremoraid: {
+		tier: "OU",
+	},
+	garchompskarmory: {
+		tier: "OU",
+	},
+	delibirdunown: {
+		tier: "OU",
+	},
+	smoochumgarchomp: {
+		tier: "OU",
+	},
+	garchompmonferno: {
+		tier: "OU",
+	},
+	magmortargarchomp: {
+		tier: "OU",
+	},
+	garchompmagmortar: {
+		tier: "OU",
+	},
+	mamoswinegarchomp: {
+		tier: "OU",
+	},
+	monfernogarchomp: {
+		tier: "OU",
+	},
+	garchompinfernape: {
+		tier: "OU",
+	},
+	spiritombdusknoir: {
+		tier: "OU",
+	},
+	infernapegarchomp: {
+		tier: "OU",
+	},
+	spiritombdusclops: {
+		tier: "OU",
+	},
+	dunsparcegranbull: {
+		tier: "OU",
+	},
+	dunsparceelectivire: {
+		tier: "OU",
+	},
+	sunfloramismagius: {
+		tier: "OU",
+	},
+	crobatkingler: {
+		tier: "OU",
+	},
+	flareongranbull: {
+		tier: "OU",
+	},
+	victreebelflareon: {
+		tier: "OU",
+	},
+	pinsirdugtrio: {
+		tier: "OU",
+	},
+	starmiedugtrio: {
+		tier: "OU",
+	},
+	dittocorsola: {
+		tier: "OU",
+	},
+	hypnoqwilfish: {
+		tier: "OU",
+	},
+	butterfreehitmonlee: {
+		tier: "OU",
+	},
+	tentacrueldonphan: {
+		tier: "OU",
+	},
+	noctowlhypno: {
+		tier: "OU",
+	},
+	ninetalesexeggutor: {
+		tier: "OU",
+	},
+	exeggutorninetales: {
+		tier: "OU",
+	},
+	meganiumarcanine: {
+		tier: "OU",
+	},
+	arcaninemeganium: {
+		tier: "OU",
+	},
 };
