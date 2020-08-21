@@ -11920,4 +11920,205 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	mukweavile: {
 		tier: "OU",
 	},
+	electivirescyther: {
+		tier: "OU",
+	},
+	garchompscyther: {
+		tier: "OU",
+	},
+	pidgeotseaking: {
+		tier: "OU",
+	},
+	seakingpidgeot: {
+		tier: "OU",
+	},
+	seakingaerodactyl: {
+		tier: "OU",
+	},
+	aerodactylseaking: {
+		tier: "OU",
+	},
+	gyaradosseaking: {
+		tier: "OU",
+	},
+	seakinggyarados: {
+		tier: "OU",
+	},
+	seakingnoctowl: {
+		tier: "OU",
+	},
+	noctowlseaking: {
+		tier: "OU",
+	},
+	azumarillrhyperior: {
+		tier: "OU",
+	},
+	azumarillsandslash: {
+		tier: "OU",
+	},
+	azumarillmarowak: {
+		tier: "OU",
+	},
+	azumarillkabutops: {
+		tier: "OU",
+	},
+	azumarillquagsire: {
+		tier: "OU",
+	},
+	azumarillnidoqueen: {
+		tier: "OU",
+	},
+	azumarillnidoking: {
+		tier: "OU",
+	},
+	azumarilldugtrio: {
+		tier: "OU",
+	},
+	azumarillgolem: {
+		tier: "OU",
+	},
+	azumarillgliscor: {
+		tier: "OU",
+	},
+	azumarillmamoswine: {
+		tier: "OU",
+	},
+	azumarillgarchomp: {
+		tier: "OU",
+	},
+	azumarillflygon: {
+		tier: "OU",
+	},
+	azumarillonix: {
+		tier: "OU",
+	},
+	azumarilllarvitar: {
+		tier: "OU",
+	},
+	azumarillpupitar: {
+		tier: "OU",
+	},
+	azumarillswampert: {
+		tier: "OU",
+	},
+	seakingskarmory: {
+		tier: "OU",
+	},
+	seakingdragonite: {
+		tier: "OU",
+	},
+	seakingtogekiss: {
+		tier: "OU",
+	},
+	seakingmantine: {
+		tier: "OU",
+	},
+	seakingyanmega: {
+		tier: "OU",
+	},
+	seakingjumpluff: {
+		tier: "OU",
+	},
+	seakingcrobat: {
+		tier: "OU",
+	},
+	seakingfearow: {
+		tier: "OU",
+	},
+	seakingfarfetchd: {
+		tier: "OU",
+	},
+	seakingbutterfree: {
+		tier: "OU",
+	},
+	seakingscyther: {
+		tier: "OU",
+	},
+	seakinglugia: {
+		tier: "OU",
+	},
+	seakingdodrio: {
+		tier: "OU",
+	},
+	seakingxatu: {
+		tier: "OU",
+	},
+	seakinghonchkrow: {
+		tier: "OU",
+	},
+	seakingdelibird: {
+		tier: "OU",
+	},
+	cradilyflygon: {
+		tier: "OU",
+	},
+	cradilyquagsire: {
+		tier: "OU",
+	},
+	cradilyswampert: {
+		tier: "OU",
+	},
+	cradilymamoswine: {
+		tier: "OU",
+	},
+	cradilynidoqueen: {
+		tier: "OU",
+	},
+	cradilynidoking: {
+		tier: "OU",
+	},
+	cradilygarchomp: {
+		tier: "OU",
+	},
+	cradilygliscor: {
+		tier: "OU",
+	},
+	cradilytorterra: {
+		tier: "OU",
+	},
+	cradilyninetales: {
+		tier: "OU",
+	},
+	cradilyarcanine: {
+		tier: "OU",
+	},
+	cradilymagmortar: {
+		tier: "OU",
+	},
+	cradilymagcargo: {
+		tier: "OU",
+	},
+	cradilycharizard: {
+		tier: "OU",
+	},
+	cradilyblaziken: {
+		tier: "OU",
+	},
+	cradilytyphlosion: {
+		tier: "OU",
+	},
+	cradilyflareon: {
+		tier: "OU",
+	},
+	cradilyinfernape: {
+		tier: "OU",
+	},
+	cradilymoltres: {
+		tier: "OU",
+	},
+	cradilyhooh: {
+		tier: "OU",
+	},
+	cradilyentei: {
+		tier: "OU",
+	},
+	cradilyhoundoom: {
+		tier: "OU",
+	},
+	charizardbulbasaur: {
+		tier: "OU",
+	},
+	bulbasaurcharizard: {
+		tier: "OU",
+	},
 };
