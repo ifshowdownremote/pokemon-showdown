@@ -11890,4 +11890,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	gengarkabutops: {
 		tier: "OU",
 	},
+	electrodeespeon: {
+		tier: "OU",
+	},
+	espeonelectrode: {
+		tier: "OU",
+	},
 };
