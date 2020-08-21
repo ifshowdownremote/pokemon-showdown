@@ -11896,4 +11896,28 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	espeonelectrode: {
 		tier: "OU",
 	},
+	espeondarkrai: {
+		tier: "OU",
+	},
+	darkraiespeon: {
+		tier: "OU",
+	},
+	togekissweavile: {
+		tier: "OU",
+	},
+	weaviletogekiss: {
+		tier: "OU",
+	},
+	weezingweavile: {
+		tier: "OU",
+	},
+	weavileweezing: {
+		tier: "OU",
+	},
+	weavilemuk: {
+		tier: "OU",
+	},
+	mukweavile: {
+		tier: "OU",
+	},
 };
