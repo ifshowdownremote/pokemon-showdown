@@ -12277,4 +12277,64 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	arcaninemeganium: {
 		tier: "OU",
 	},
+	raticatemilotic: {
+		tier: "OU",
+	},
+	raticatesandslash: {
+		tier: "OU",
+	},
+	raticateaerodactyl: {
+		tier: "OU",
+	},
+	raticatearbok: {
+		tier: "OU",
+	},
+	raticatedunsparce: {
+		tier: "OU",
+	},
+	corsolamilotic: {
+		tier: "OU",
+	},
+	corsolaarbok: {
+		tier: "OU",
+	},
+	corsolasandslash: {
+		tier: "OU",
+	},
+	corsoladunsparce: {
+		tier: "OU",
+	},
+	corsolaaerodactyl: {
+		tier: "OU",
+	},
+	raticateweavile: {
+		tier: "OU",
+	},
+	corsolaweavile: {
+		tier: "OU",
+	},
+	gliscorlapras: {
+		tier: "OU",
+	},
+	gliscorsnorlax: {
+		tier: "OU",
+	},
+	gliscortangrowth: {
+		tier: "OU",
+	},
+	gliscorrhyperior: {
+		tier: "OU",
+	},
+	shucklesceptile: {
+		tier: "OU",
+	},
+	raticatearmaldo: {
+		tier: "OU",
+	},
+	raticateskarmory: {
+		tier: "OU",
+	},
+	raticatekabutops: {
+		tier: "OU",
+	},
 };
