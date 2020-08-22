@@ -12412,4 +12412,142 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	dragonitegliscor: {
 		tier: "OU",
 	},
+	dragoniteklinklang: {
+		tier: "OU",
+	},
+	klinklangdragonite: {
+		tier: "OU",
+	},
+	slowkingbellossom: {
+		tier: "OU",
+	},
+	slowkingvenusaur: {
+		tier: "OU",
+	},
+	aerodactylpinsir: {
+		tier: "OU",
+	},
+	slowkingcelebi: {
+		tier: "OU",
+	},
+	charizardpinsir: {
+		tier: "OU",
+	},
+	sceptilepinsir: {
+		tier: "OU",
+	},
+	kabutopspinsir: {
+		tier: "OU",
+	},
+	slowkingtangrowth: {
+		tier: "OU",
+	},
+	pawniardpinsir: {
+		tier: "OU",
+	},
+	dragonitepinsir: {
+		tier: "OU",
+	},
+	dragonairpinsir: {
+		tier: "OU",
+	},
+	slowkingtangela: {
+		tier: "OU",
+	},
+	nidokingpinsir: {
+		tier: "OU",
+	},
+	onixpinsir: {
+		tier: "OU",
+	},
+	steelixpinsir: {
+		tier: "OU",
+	},
+	granbullpinsir: {
+		tier: "OU",
+	},
+	pinsirgranbull: {
+		tier: "OU",
+	},
+	arcaninepinsir: {
+		tier: "OU",
+	},
+	pinsirgolem: {
+		tier: "OU",
+	},
+	slowkingmeganium: {
+		tier: "OU",
+	},
+	pinsirarcanine: {
+		tier: "OU",
+	},
+	golempinsir: {
+		tier: "OU",
+	},
+	rapidashpinsir: {
+		tier: "OU",
+	},
+	armaldopinsir: {
+		tier: "OU",
+	},
+	kangaskhanpinsir: {
+		tier: "OU",
+	},
+	dodriopinsir: {
+		tier: "OU",
+	},
+	starmiepinsir: {
+		tier: "OU",
+	},
+	electivirepinsir: {
+		tier: "OU",
+	},
+	swampertpinsir: {
+		tier: "OU",
+	},
+	magmortarpinsir: {
+		tier: "OU",
+	},
+	gyaradospinsir: {
+		tier: "OU",
+	},
+	pinsirswampert: {
+		tier: "OU",
+	},
+	infernapepinsir: {
+		tier: "OU",
+	},
+	pinsirinfernape: {
+		tier: "OU",
+	},
+	azumarillpinsir: {
+		tier: "OU",
+	},
+	pinsirazumarill: {
+		tier: "OU",
+	},
+	pinsirgarchomp: {
+		tier: "OU",
+	},
+	garchomppinsir: {
+		tier: "OU",
+	},
+	pidgeotpinsir: {
+		tier: "OU",
+	},
+	persianpinsir: {
+		tier: "OU",
+	},
+	empoleonpinsir: {
+		tier: "OU",
+	},
+	aggronpinsir: {
+		tier: "OU",
+	},
+	poliwrathpinsir: {
+		tier: "OU",
+	},
+	hitmonleepinsir: {
+		tier: "OU",
+	},
 };
