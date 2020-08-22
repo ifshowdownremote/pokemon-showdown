@@ -12337,4 +12337,79 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	raticatekabutops: {
 		tier: "OU",
 	},
+	shuckleursaring: {
+		tier: "OU",
+	},
+	shucklepinsir: {
+		tier: "OU",
+	},
+	shucklehitmontop: {
+		tier: "OU",
+	},
+	shucklehitmonchan: {
+		tier: "OU",
+	},
+	shucklehitmonlee: {
+		tier: "OU",
+	},
+	shuckleheracross: {
+		tier: "OU",
+	},
+	dragonitemetagross: {
+		tier: "OU",
+	},
+	metagrossdragonite: {
+		tier: "OU",
+	},
+	doubladedragonite: {
+		tier: "OU",
+	},
+	doubladezekrom: {
+		tier: "OU",
+	},
+	zekromscizor: {
+		tier: "OU",
+	},
+	rayquazascizor: {
+		tier: "OU",
+	},
+	salamenceklinklang: {
+		tier: "OU",
+	},
+	rayquazaklinklang: {
+		tier: "OU",
+	},
+	garchompklinklang: {
+		tier: "OU",
+	},
+	zekromklinklang: {
+		tier: "OU",
+	},
+	scizordragonite: {
+		tier: "OU",
+	},
+	scizorrayquaza: {
+		tier: "OU",
+	},
+	scizordialga: {
+		tier: "OU",
+	},
+	scizorpalkia: {
+		tier: "OU",
+	},
+	scizorgiratina: {
+		tier: "OU",
+	},
+	scizorcrobat: {
+		tier: "OU",
+	},
+	gliscorzapdos: {
+		tier: "OU",
+	},
+	gliscordragonite: {
+		tier: "OU",
+	},
+	dragonitegliscor: {
+		tier: "OU",
+	},
 };
