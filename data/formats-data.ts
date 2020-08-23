@@ -12607,4 +12607,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	hoohmismagius: {
 		tier: "OU",
 	},
+	clefablekyogre: {
+		tier: "OU",
+	},
+	blisseytogekiss: {
+		tier: "OU",
+	},
 };
