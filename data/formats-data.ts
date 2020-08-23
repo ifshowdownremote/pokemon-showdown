@@ -12550,4 +12550,61 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	hitmonleepinsir: {
 		tier: "OU",
 	},
+	hitmonchanpinsir: {
+		tier: "OU",
+	},
+	hitmontoppinsir: {
+		tier: "OU",
+	},
+	pinsirhitmontop: {
+		tier: "OU",
+	},
+	pinsirhitmonchan: {
+		tier: "OU",
+	},
+	kyogretangrowth: {
+		tier: "OU",
+	},
+	hoohaegislash: {
+		tier: "OU",
+	},
+	hoohdusclops: {
+		tier: "OU",
+	},
+	caterpiewailord: {
+		tier: "OU",
+	},
+	crobatpinsir: {
+		tier: "OU",
+	},
+	crobatscyther: {
+		tier: "OU",
+	},
+	crobatheracross: {
+		tier: "OU",
+	},
+	crobatinfernape: {
+		tier: "OU",
+	},
+	crobathypno: {
+		tier: "OU",
+	},
+	weezinggengar: {
+		tier: "OU",
+	},
+	gengarweezing: {
+		tier: "OU",
+	},
+	tangrowthweezing: {
+		tier: "OU",
+	},
+	weezingtangrowth: {
+		tier: "OU",
+	},
+	hoohmisdreavus: {
+		tier: "OU",
+	},
+	hoohmismagius: {
+		tier: "OU",
+	},
 };
