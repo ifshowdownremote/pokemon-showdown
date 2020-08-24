@@ -42083,4 +42083,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Pink",
 		eggGroups: ["Flying", "Fairy"],
 	},
+	metapodkakuna: {
+		num: 12669,
+		name: "metapodkakuna",
+		types: ["Bug", "Poison"],
+		baseStats: {hp: 48, atk: 23, def: 51, spa: 25, spd: 25, spe: 33},
+		abilities: {0: "Shed Skin", 1: "Shed Skin", H: ""},
+		heightm: 0.6499999999999999,
+		weightkg: 9.95,
+		color: "Green",
+		evos: ["BeedrillButterfree"],
+		eggGroups: ["Bug", "Bug"],
+	},
 };

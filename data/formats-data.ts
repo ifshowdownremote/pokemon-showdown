@@ -12613,4 +12613,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	blisseytogekiss: {
 		tier: "OU",
 	},
+	metapodkakuna: {
+		tier: "OU",
+	},
 };
