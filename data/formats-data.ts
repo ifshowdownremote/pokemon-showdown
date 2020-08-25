@@ -12616,4 +12616,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	metapodkakuna: {
 		tier: "OU",
 	},
+	dragonairwailord: {
+		tier: "OU",
+	},
+	dragonairvaporeon: {
+		tier: "OU",
+	},
+	dragonairmilotic: {
+		tier: "OU",
+	},
+	dragonairquagsire: {
+		tier: "OU",
+	},
+	electrodemawile: {
+		tier: "OU",
+	},
+	electrodesalamence: {
+		tier: "OU",
+	},
 };
