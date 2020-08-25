@@ -12634,4 +12634,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	electrodesalamence: {
 		tier: "OU",
 	},
+	umbreonweezing: {
+		tier: "OU",
+	},
 };

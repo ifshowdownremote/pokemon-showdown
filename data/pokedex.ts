@@ -42165,4 +42165,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Red",
 		eggGroups: ["Dragon", "Mineral"],
 	},
+	umbreonweezing: {
+		num: 12676,
+		name: "umbreonweezing",
+		types: ["Dark", "Poison"],
+		baseStats: {hp: 85, atk: 81, def: 116, spa: 68, spd: 110, spe: 61},
+		abilities: {0: "Synchronize", 1: "Neutralizing Gas", H: "Inner Focus"},
+		heightm: 1.1,
+		weightkg: 18.25,
+		color: "Black",
+		eggGroups: ["Amorphous", "Field"],
+	},
 };
