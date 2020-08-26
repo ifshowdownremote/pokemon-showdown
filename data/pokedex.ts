@@ -42176,4 +42176,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Black",
 		eggGroups: ["Amorphous", "Field"],
 	},
+	salamenceelectrode: {
+		num: 12677,
+		name: "salamenceelectrode",
+		types: ["Dragon", "Electric"],
+		baseStats: {hp: 83, atk: 78, def: 73, spa: 100, spd: 80, spe: 133},
+		abilities: {0: "Intimidate", 1: "Static", H: "Moxie"},
+		heightm: 1.35,
+		weightkg: 84.6,
+		color: "Blue",
+		eggGroups: ["Mineral", "Dragon"],
+	},
 };
