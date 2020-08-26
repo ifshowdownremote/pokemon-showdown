@@ -9500,7 +9500,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	venusaurblastoise: {
-		tier: "UNDEFINED",
+		tier: "NEW",
 	},
 	salamencetauros: {
 		tier: "OU",
