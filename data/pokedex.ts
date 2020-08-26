@@ -42187,4 +42187,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Blue",
 		eggGroups: ["Mineral", "Dragon"],
 	},
+	salamencejigglypuff: {
+		num: 12678,
+		name: "salamencejigglypuff",
+		types: ["Dragon", "Fairy"],
+		baseStats: {hp: 101, atk: 75, def: 40, spa: 88, spd: 61, spe: 46},
+		abilities: {0: "Intimidate", 1: "Competitive", H: "Moxie"},
+		heightm: 1.0,
+		weightkg: 54.05,
+		color: "Blue",
+		evos: ["Wigglytuff"],
+		eggGroups: ["Fairy", "Dragon"],
+	},
 };
