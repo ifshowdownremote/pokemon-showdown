@@ -12641,6 +12641,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	salamencejigglypuff: {
-		tier: "Unreleased",
+		tier: "Illegal",
 	},
 };
