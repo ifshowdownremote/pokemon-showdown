@@ -36,7 +36,7 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 		banlist: [
 			'Eternatus', 'Kyurem-Black', 'Kyurem-White', 'Lunala', 'Magearna', 'Marshadow', 'Melmetal', 'Mewtwo', 'Necrozma-Dawn-Wings',
 			'Necrozma-Dusk-Mane', 'Reshiram', 'Solgaleo', 'Urshifu-Rapid-Strike', 'Zacian', 'Zamazenta', 'Zekrom',
-			'Damp Rock', 'Smooth Rock', 'Moody', 'Shadow Tag', 'Baton Pass',
+			'Damp Rock', 'Smooth Rock', 'Moody', 'Shadow Tag', 'Baton Pass', 'NEW',
 		],
 	},
 	{
@@ -67,7 +67,7 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 		mod: 'gen8',
 		gameType: 'doubles',
 		ruleset: ['Standard Doubles', 'Dynamax Clause'],
-		banlist: ['DUber', 'Beat Up'],
+		banlist: ['DUber', 'Beat Up', 'NEW'],
 	},
 
 ];
