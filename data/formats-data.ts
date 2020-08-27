@@ -12761,6 +12761,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	chanseymawile: {
-		tier: "ZU",
+		tier: "(PU)",
 	},
 };
