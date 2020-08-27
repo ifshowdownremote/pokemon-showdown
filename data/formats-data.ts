@@ -12643,4 +12643,73 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	salamencejigglypuff: {
 		tier: "Illegal",
 	},
+	gliscorkyogre: {
+		tier: "NEW",
+	},
+	kyogregliscor: {
+		tier: "NEW",
+	},
+	kyogrelugia: {
+		tier: "NEW",
+	},
+	aggronlugia: {
+		tier: "NEW",
+	},
+	aegislashlugia: {
+		tier: "NEW",
+	},
+	groudonlugia: {
+		tier: "NEW",
+	},
+	palkialugia: {
+		tier: "NEW",
+	},
+	dialgalugia: {
+		tier: "NEW",
+	},
+	giratinalugia: {
+		tier: "NEW",
+	},
+	doubladelugia: {
+		tier: "NEW",
+	},
+	regigigaslugia: {
+		tier: "NEW",
+	},
+	misdreavuslugia: {
+		tier: "NEW",
+	},
+	mismagiuslugia: {
+		tier: "NEW",
+	},
+	misdreavushooh: {
+		tier: "NEW",
+	},
+	mismagiushooh: {
+		tier: "NEW",
+	},
+	celebilugia: {
+		tier: "NEW",
+	},
+	arceuslugia: {
+		tier: "NEW",
+	},
+	kyogreelectrode: {
+		tier: "NEW",
+	},
+	electrodekyogre: {
+		tier: "NEW",
+	},
+	jolteonkyogre: {
+		tier: "NEW",
+	},
+	kyogrejolteon: {
+		tier: "NEW",
+	},
+	feraligatrzekrom: {
+		tier: "NEW",
+	},
+	zekromferaligatr: {
+		tier: "NEW",
+	},
 };
