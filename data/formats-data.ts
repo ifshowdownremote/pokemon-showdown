@@ -12730,4 +12730,37 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	beedrillhitmontop: {
 		tier: "UU",
 	},
+	aegislashblaziken: {
+		tier: "UU",
+	},
+	blazikenaegislash: {
+		tier: "UU",
+	},
+	blazikenmetagross: {
+		tier: "UU",
+	},
+	metagrossblaziken: {
+		tier: "UU",
+	},
+	dialgablaziken: {
+		tier: "UU",
+	},
+	blazikendialga: {
+		tier: "UU",
+	},
+	chanseywigglytuff: {
+		tier: "UU",
+	},
+	chanseyazumarill: {
+		tier: "UU",
+	},
+	chanseygardevoir: {
+		tier: "UU",
+	},
+	chanseymrmime: {
+		tier: "UU",
+	},
+	chanseymawile: {
+		tier: "ZU",
+	},
 };
