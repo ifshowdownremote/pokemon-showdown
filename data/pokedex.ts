@@ -42647,4 +42647,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Blissey"],
 		eggGroups: ["Field", "Fairy"],
 	},
+	beedrilllugia: {
+		num: 12327,
+		name: "beedrilllugia",
+		types: ["Bug", "Flying"],
+		baseStats: {hp: 78, atk: 90, def: 100, spa: 60, spd: 104, spe: 98},
+		abilities: {0: "Swarm", 1: "Multiscale", H: "Sniper"},
+		heightm: 3.1,
+		weightkg: 122.75,
+		color: "Yellow",
+		eggGroups: ["Undiscovered", "Bug"],
+	},
 };

@@ -12723,10 +12723,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	persianbeedrill: {
 		tier: "(PU)",
-	},
+	},        
 	hitmontopbeedrill: {
-		tier: "(PU)",
-	},
+                tier: "RU",
+        },
 	beedrillhitmontop: {
 		tier: "(PU)",
 	},
@@ -12761,6 +12761,9 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	chanseymawile: {
+		tier: "(PU)",
+	},
+	beedrilllugia: {
 		tier: "(PU)",
 	},
 };
