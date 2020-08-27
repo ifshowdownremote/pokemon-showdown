@@ -7497,10 +7497,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	persiantogekiss: {
 		tier: "OU",
-	},
+	},        
 	togekisspersian: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	togeticmagnezone: {
 		tier: "OU",
 	},
@@ -12764,6 +12764,15 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	beedrilllugia: {
+		tier: "(PU)",
+	},
+	kakunametapod: {
+		tier: "(PU)",
+	},
+	weedlecaterpie: {
+		tier: "(PU)",
+	},
+	caterpieweedle: {
 		tier: "(PU)",
 	},
 };
