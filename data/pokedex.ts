@@ -42694,4 +42694,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["KakunaMetapod"],
 		eggGroups: ["Bug", "Bug"],
 	},
+	dialgahooh: {
+		num: 12331,
+		name: "dialgahooh",
+		types: ["Steel", "Flying"],
+		baseStats: {hp: 102, atk: 126, def: 100, spa: 136, spd: 118, spe: 90},
+		abilities: {0: "Pressure", 1: "Regenerator", H: "Telepathy"},
+		heightm: 4.6,
+		weightkg: 441,
+		color: "White",
+		eggGroups: ["Undiscovered", "Undiscovered"],
+	},
 };
