@@ -12713,52 +12713,52 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	ambipombeedrill: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	beedrillambipom: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	beedrillpersian: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	persianbeedrill: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	hitmontopbeedrill: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	beedrillhitmontop: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	aegislashblaziken: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	blazikenaegislash: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	blazikenmetagross: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	metagrossblaziken: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	dialgablaziken: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	blazikendialga: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	chanseywigglytuff: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	chanseyazumarill: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	chanseygardevoir: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	chanseymrmime: {
-		tier: "UU",
+		tier: "(PU)",
 	},
 	chanseymawile: {
 		tier: "(PU)",
