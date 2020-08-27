@@ -12712,4 +12712,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	zekromferaligatr: {
 		tier: "OU",
 	},
+	ambipombeedrill: {
+		tier: "PU",
+	},
+	beedrillambipom: {
+		tier: "PU",
+	},
+	beedrillpersian: {
+		tier: "PU",
+	},
+	persianbeedrill: {
+		tier: "PU",
+	},
+	hitmontopbeedrill: {
+		tier: "PU",
+	},
+	beedrillhitmontop: {
+		tier: "PU",
+	},
 };
