@@ -12641,75 +12641,75 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	salamencejigglypuff: {
-		tier: "Illegal",
+		tier: "OU",
 	},
 	gliscorkyogre: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	kyogregliscor: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	kyogrelugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	aggronlugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	aegislashlugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	groudonlugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	palkialugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	dialgalugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	giratinalugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	doubladelugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	regigigaslugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	misdreavuslugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	mismagiuslugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	misdreavushooh: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	mismagiushooh: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	celebilugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	arceuslugia: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	kyogreelectrode: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	electrodekyogre: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	jolteonkyogre: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	kyogrejolteon: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	feraligatrzekrom: {
-		tier: "NEW",
+		tier: "OU",
 	},
 	zekromferaligatr: {
-		tier: "NEW",
+		tier: "OU",
 	},
 };

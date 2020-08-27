@@ -16760,7 +16760,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	togekissclefable: {
 		num: 10000,
 		name: "togekissclefable",
-		types: ["Flying", "Fairy"],
+		types: ["Fairy", "Flying"],
 		baseStats: {hp: 88, atk: 63, def: 80, spa: 111, spd: 106, spe: 66},
 		abilities: {0: "Hustle", 1: "Magic Guard", H: "Super Luck"},
 		heightm: 1.4,
@@ -16782,7 +16782,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	cloysterkingler: {
 		num: 10002,
 		name: "cloysterkingler",
-		types: ["Ice", "Water"],
+		types: ["Water", "Ice"],
 		baseStats: {hp: 51, atk: 118, def: 136, spa: 73, spd: 46, spe: 73},
 		abilities: {0: "Shell Armor", 1: "Hyper Cutter", H: "Overcoat"},
 		heightm: 1.4,
@@ -16804,7 +16804,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	mrmimeslowbro: {
 		num: 10004,
 		name: "mrmimeslowbro",
-		types: ["Fairy", "Psychic"],
+		types: ["Psychic", "Water"],
 		baseStats: {hp: 58, atk: 65, def: 95, spa: 100, spd: 106, spe: 50},
 		abilities: {0: "Soundproof", 1: "Own Tempo", H: "Technician"},
 		heightm: 1.4500000000000002,
@@ -16918,7 +16918,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	magmortarkingdra: {
 		num: 10014,
 		name: "magmortarkingdra",
-		types: ["Fire", "Water"],
+		types: ["Fire", "Dragon"],
 		baseStats: {hp: 75, atk: 95, def: 85, spa: 115, spd: 95, spe: 84},
 		abilities: {0: "Flame Body", 1: "Sniper", H: "Vital Spirit"},
 		heightm: 1.7000000000000002,
@@ -17133,7 +17133,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	mukcloyster: {
 		num: 10033,
 		name: "mukcloyster",
-		types: ["Poison", "Water"],
+		types: ["Poison", "Ice"],
 		baseStats: {hp: 86, atk: 98, def: 145, spa: 71, spd: 81, spe: 63},
 		abilities: {0: "Stench", 1: "Skill Link", H: "Poison Touch"},
 		heightm: 1.35,
@@ -17221,7 +17221,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	electiviremetagross: {
 		num: 10041,
 		name: "electiviremetagross",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 76, atk: 131, def: 109, spa: 95, spd: 86, spe: 78},
 		abilities: {0: "Motor Drive", 1: "Light Metal", H: "Vital Spirit"},
 		heightm: 1.7000000000000002,
@@ -17601,7 +17601,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	chanseymimejr: {
 		num: 10075,
 		name: "chanseymimejr",
-		types: ["Normal", "Psychic"],
+		types: ["Normal", "Fairy"],
 		baseStats: {hp: 173, atk: 18, def: 31, spa: 46, spd: 100, spe: 56},
 		abilities: {0: "Natural Cure", 1: "Filter", H: "Healer"},
 		heightm: 0.8500000000000001,
@@ -17647,7 +17647,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	sceptilemagnezone: {
 		num: 10079,
 		name: "sceptilemagnezone",
-		types: ["Grass", "Steel"],
+		types: ["Grass", "Electric"],
 		baseStats: {hp: 70, atk: 75, def: 98, spa: 113, spd: 86, spe: 80},
 		abilities: {0: "Overgrow", 1: "Sturdy", H: "Unburden"},
 		heightm: 1.45,
@@ -17779,7 +17779,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	hypnoheracross: {
 		num: 10091,
 		name: "hypnoheracross",
-		types: ["Psychic", "Bug"],
+		types: ["Psychic", "Fighting"],
 		baseStats: {hp: 83, atk: 107, def: 73, spa: 62, spd: 108, spe: 79},
 		abilities: {0: "Insomnia", 1: "Guts", H: "Inner Focus"},
 		heightm: 1.55,
@@ -17966,7 +17966,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	quagsireblastoise: {
 		num: 10108,
 		name: "quagsireblastoise",
-		types: ["Ground", "Water"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 89, atk: 83, def: 95, spa: 71, spd: 78, spe: 63},
 		abilities: {0: "Damp", 1: "Rain Dish", H: "Unaware"},
 		heightm: 1.5,
@@ -18010,7 +18010,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	marowakscizor: {
 		num: 10112,
 		name: "marowakscizor",
-		types: ["Ground", "Steel"],
+		types: ["Ground", "Bug"],
 		baseStats: {hp: 63, atk: 113, def: 103, spa: 51, spd: 80, spe: 58},
 		abilities: {0: "Rock Head", 1: "Technician", H: "Battle Armor"},
 		heightm: 1.4,
@@ -18232,7 +18232,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	weezingskarmory: {
 		num: 10132,
 		name: "weezingskarmory",
-		types: ["Poison", "Steel"],
+		types: ["Poison", "Flying"],
 		baseStats: {hp: 65, atk: 83, def: 133, spa: 70, spd: 70, spe: 66},
 		abilities: {0: "Levitate", 1: "Sturdy", H: "Stench"},
 		heightm: 1.45,
@@ -18254,7 +18254,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	electrodevenomoth: {
 		num: 10134,
 		name: "electrodevenomoth",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Poison"],
 		baseStats: {hp: 63, atk: 60, def: 63, spa: 83, spd: 78, spe: 110},
 		abilities: {0: "Soundproof", 1: "Tinted Lens", H: "Aftermath"},
 		heightm: 1.35,
@@ -18342,7 +18342,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	mukforretress: {
 		num: 10142,
 		name: "mukforretress",
-		types: ["Poison", "Bug"],
+		types: ["Poison", "Steel"],
 		baseStats: {hp: 95, atk: 95, def: 118, spa: 63, spd: 86, spe: 43},
 		abilities: {0: "Stench", 1: "Overcoat", H: "Poison Touch"},
 		heightm: 1.2,
@@ -18364,7 +18364,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	golduckexeggutor: {
 		num: 10144,
 		name: "golduckexeggutor",
-		types: ["Water", "Grass"],
+		types: ["Water", "Psychic"],
 		baseStats: {hp: 85, atk: 90, def: 82, spa: 105, spd: 78, spe: 65},
 		abilities: {0: "Damp", 1: "Harvest", H: "Swift Swim"},
 		heightm: 1.85,
@@ -18408,7 +18408,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	kinglerrhyperior: {
 		num: 10148,
 		name: "kinglerrhyperior",
-		types: ["Water", "Ground"],
+		types: ["Water", "Rock"],
 		baseStats: {hp: 75, atk: 136, def: 125, spa: 51, spd: 51, spe: 51},
 		abilities: {0: "Hyper Cutter", 1: "Solid Rock", H: "Sheer Force"},
 		heightm: 1.85,
@@ -18430,7 +18430,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	mrmimeexeggutor: {
 		num: 10150,
 		name: "mrmimeexeggutor",
-		types: ["Fairy", "Psychic"],
+		types: ["Psychic", "Grass"],
 		baseStats: {hp: 58, atk: 78, def: 78, spa: 108, spd: 105, spe: 66},
 		abilities: {0: "Soundproof", 1: "Harvest", H: "Technician"},
 		heightm: 1.65,
@@ -18474,7 +18474,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	kinglerskarmory: {
 		num: 10154,
 		name: "kinglerskarmory",
-		types: ["Water", "Steel"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 58, atk: 96, def: 131, spa: 46, spd: 56, spe: 71},
 		abilities: {0: "Hyper Cutter", 1: "Sturdy", H: "Sheer Force"},
 		heightm: 1.5,
@@ -18540,7 +18540,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	magmortarrhyperior: {
 		num: 10160,
 		name: "magmortarrhyperior",
-		types: ["Fire", "Ground"],
+		types: ["Fire", "Rock"],
 		baseStats: {hp: 88, atk: 125, def: 109, spa: 101, spd: 81, spe: 54},
 		abilities: {0: "Flame Body", 1: "Solid Rock", H: "Vital Spirit"},
 		heightm: 2.0,
@@ -18639,7 +18639,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	raichutogekiss: {
 		num: 10169,
 		name: "raichutogekiss",
-		types: ["Electric", "Fairy"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 68, atk: 63, def: 81, spa: 100, spd: 91, spe: 90},
 		abilities: {0: "Static", 1: "Serene Grace", H: "Lightning Rod"},
 		heightm: 1.15,
@@ -18650,7 +18650,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	raichucrobat: {
 		num: 10170,
 		name: "raichucrobat",
-		types: ["Electric", "Poison"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 68, atk: 90, def: 71, spa: 83, spd: 80, spe: 123},
 		abilities: {0: "Static", 1: "Infiltrator", H: "Lightning Rod"},
 		heightm: 1.3,
@@ -18661,7 +18661,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	raichunidoqueen: {
 		num: 10171,
 		name: "raichunidoqueen",
-		types: ["Electric", "Poison"],
+		types: ["Electric", "Ground"],
 		baseStats: {hp: 70, atk: 91, def: 76, spa: 85, spd: 81, spe: 87},
 		abilities: {0: "Static", 1: "Rivalry", H: "Lightning Rod"},
 		heightm: 1.05,
@@ -18672,7 +18672,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	raichujynx: {
 		num: 10172,
 		name: "raichujynx",
-		types: ["Electric", "Ice"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 61, atk: 63, def: 41, spa: 98, spd: 85, spe: 100},
 		abilities: {0: "Static", 1: "Forewarn", H: "Lightning Rod"},
 		heightm: 1.1,
@@ -18705,7 +18705,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	electivirerhyperior: {
 		num: 10175,
 		name: "electivirerhyperior",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Rock"],
 		baseStats: {hp: 88, atk: 134, def: 109, spa: 81, spd: 75, spe: 58},
 		abilities: {0: "Motor Drive", 1: "Solid Rock", H: "Vital Spirit"},
 		heightm: 2.1,
@@ -18816,7 +18816,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	flygonsandslash: {
 		num: 10185,
 		name: "flygonsandslash",
-		types: ["Dragon", "Ground"],
+		types: ["Ground", "Dragon"],
 		baseStats: {hp: 78, atk: 100, def: 100, spa: 68, spd: 71, spe: 76},
 		abilities: {0: "Levitate", 1: "Sand Veil", H: ""},
 		heightm: 1,
@@ -18851,7 +18851,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	flygonnidoking: {
 		num: 10188,
 		name: "flygonnidoking",
-		types: ["Dragon", "Ground"],
+		types: ["Ground", "Poison"],
 		baseStats: {hp: 80, atk: 101, def: 78, spa: 81, spd: 78, spe: 90},
 		abilities: {0: "Levitate", 1: "Rivalry", H: "Sheer Force"},
 		heightm: 1.7,
@@ -18961,7 +18961,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	raichuinfernape: {
 		num: 10198,
 		name: "raichuinfernape",
-		types: ["Electric", "Fire"],
+		types: ["Electric", "Fighting"],
 		baseStats: {hp: 65, atk: 99, def: 65, spa: 94, spd: 77, spe: 108},
 		abilities: {0: "Static", 1: "Iron Fist", H: "Lightning Rod"},
 		heightm: 1.0,
@@ -18972,7 +18972,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	raichubeedrill: {
 		num: 10199,
 		name: "raichubeedrill",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Poison"],
 		baseStats: {hp: 61, atk: 90, def: 45, spa: 75, spd: 80, spe: 86},
 		abilities: {0: "Static", 1: "Sniper", H: "Lightning Rod"},
 		heightm: 0.9,
@@ -19072,7 +19072,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	crobatarbok: {
 		num: 10208,
 		name: "crobatarbok",
-		types: ["Flying", "Poison"],
+		types: ["Poison", "Flying"],
 		baseStats: {hp: 76, atk: 93, def: 72, spa: 68, spd: 79, spe: 96},
 		abilities: {0: "Inner Focus", 1: "Shed Skin", H: "Infiltrator"},
 		heightm: 2.65,
@@ -19237,7 +19237,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	jolteontyranitar: {
 		num: 10223,
 		name: "jolteontyranitar",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Dark"],
 		baseStats: {hp: 76, atk: 111, def: 93, spa: 105, spd: 96, spe: 84},
 		abilities: {0: "Volt Absorb", 1: "Unnerve", H: "Quick Feet"},
 		heightm: 1.4,
@@ -19248,7 +19248,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	jolteonstarmie: {
 		num: 10224,
 		name: "jolteonstarmie",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 63, atk: 71, def: 76, spa: 106, spd: 91, spe: 120},
 		abilities: {0: "Volt Absorb", 1: "Natural Cure", H: "Quick Feet"},
 		heightm: 0.9500000000000001,
@@ -19303,7 +19303,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	miloticgardevoir: {
 		num: 10229,
 		name: "miloticgardevoir",
-		types: ["Water", "Psychic"],
+		types: ["Water", "Fairy"],
 		baseStats: {hp: 86, atk: 63, def: 69, spa: 108, spd: 121, spe: 80},
 		abilities: {0: "Marvel Scale", 1: "Trace", H: "Cute Charm"},
 		heightm: 3.9000000000000004,
@@ -19347,7 +19347,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	golduckinfernape: {
 		num: 10233,
 		name: "golduckinfernape",
-		types: ["Water", "Fire"],
+		types: ["Water", "Fighting"],
 		baseStats: {hp: 78, atk: 96, def: 73, spa: 98, spd: 77, spe: 100},
 		abilities: {0: "Damp", 1: "Iron Fist", H: "Swift Swim"},
 		heightm: 1.45,
@@ -19435,7 +19435,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	unowntorterra: {
 		num: 10241,
 		name: "unowntorterra",
-		types: ["Psychic", "Grass"],
+		types: ["Psychic", "Ground"],
 		baseStats: {hp: 63, atk: 96, def: 86, spa: 73, spd: 60, spe: 53},
 		abilities: {0: "Levitate", 1: "Overgrow", H: ""},
 		heightm: 1.35,
@@ -19446,7 +19446,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	taurosgardevoir: {
 		num: 10242,
 		name: "taurosgardevoir",
-		types: ["Normal", "Psychic"],
+		types: ["Normal", "Fairy"],
 		baseStats: {hp: 72, atk: 76, def: 75, spa: 68, spd: 85, spe: 90},
 		abilities: {0: "Intimidate", 1: "Trace", H: "Sheer Force"},
 		heightm: 1.5,
@@ -19535,7 +19535,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	absolgardevoir: {
 		num: 10250,
 		name: "absolgardevoir",
-		types: ["Dark", "Psychic"],
+		types: ["Dark", "Fairy"],
 		baseStats: {hp: 66, atk: 86, def: 63, spa: 91, spd: 78, spe: 78},
 		abilities: {0: "Pressure", 1: "Trace", H: "Justified"},
 		heightm: 1.4,
@@ -19624,7 +19624,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	moltresrapidash: {
 		num: 10258,
 		name: "moltresrapidash",
-		types: ["Fire"],
+		types: ["Fire", "Flying"],
 		baseStats: {hp: 81, atk: 100, def: 76, spa: 110, spd: 83, spe: 100},
 		abilities: {0: "Pressure", 1: "Flash Fire", H: "Flame Body"},
 		heightm: 1.85,
@@ -19679,7 +19679,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	alakazamsalamence: {
 		num: 10263,
 		name: "alakazamsalamence",
-		types: ["Psychic", "Dragon"],
+		types: ["Psychic", "Flying"],
 		baseStats: {hp: 68, atk: 106, def: 68, spa: 126, spd: 90, spe: 106},
 		abilities: {0: "Synchronize", 1: "Moxie", H: "Magic Guard"},
 		heightm: 1.5,
@@ -19723,7 +19723,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	hitmonchanrhyperior: {
 		num: 10267,
 		name: "hitmonchanrhyperior",
-		types: ["Fighting", "Ground"],
+		types: ["Fighting", "Rock"],
 		baseStats: {hp: 71, atk: 128, def: 113, spa: 41, spd: 91, spe: 52},
 		abilities: {0: "Keen Eye", 1: "Solid Rock", H: "Inner Focus"},
 		heightm: 1.9,
@@ -19734,7 +19734,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	hitmonchanrhydon: {
 		num: 10268,
 		name: "hitmonchanrhydon",
-		types: ["Fighting", "Ground"],
+		types: ["Fighting", "Rock"],
 		baseStats: {hp: 68, atk: 121, def: 106, spa: 38, spd: 88, spe: 52},
 		abilities: {0: "Keen Eye", 1: "Rock Head", H: "Inner Focus"},
 		heightm: 1.65,
@@ -19746,7 +19746,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	scytherpinsir: {
 		num: 10269,
 		name: "scytherpinsir",
-		types: ["Bug"],
+		types: ["Bug", "Flying"],
 		baseStats: {hp: 68, atk: 120, def: 93, spa: 55, spd: 76, spe: 91},
 		abilities: {0: "Swarm", 1: "Mold Breaker", H: "Steadfast"},
 		heightm: 1.5,
@@ -19758,7 +19758,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	beedrillpinsir: {
 		num: 10270,
 		name: "beedrillpinsir",
-		types: ["Poison", "Bug"],
+		types: ["Bug", "Poison"],
 		baseStats: {hp: 65, atk: 113, def: 80, spa: 48, spd: 76, spe: 81},
 		abilities: {0: "Swarm", 1: "Mold Breaker", H: "Sniper"},
 		heightm: 1.25,
@@ -19792,7 +19792,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	alakazamnidoking: {
 		num: 10273,
 		name: "alakazamnidoking",
-		types: ["Psychic", "Poison"],
+		types: ["Psychic", "Ground"],
 		baseStats: {hp: 63, atk: 84, def: 66, spa: 118, spd: 88, spe: 96},
 		abilities: {0: "Synchronize", 1: "Rivalry", H: "Magic Guard"},
 		heightm: 1.45,
@@ -19803,7 +19803,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	alakazamnidoqueen: {
 		num: 10274,
 		name: "alakazamnidoqueen",
-		types: ["Psychic", "Poison"],
+		types: ["Psychic", "Ground"],
 		baseStats: {hp: 66, atk: 78, def: 73, spa: 115, spd: 91, spe: 90},
 		abilities: {0: "Synchronize", 1: "Rivalry", H: "Magic Guard"},
 		heightm: 1.4,
@@ -19825,7 +19825,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	jolteoncrobat: {
 		num: 10276,
 		name: "jolteoncrobat",
-		types: ["Electric", "Poison"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 71, atk: 81, def: 73, spa: 96, spd: 90, spe: 130},
 		abilities: {0: "Volt Absorb", 1: "Infiltrator", H: "Quick Feet"},
 		heightm: 1.3,
@@ -19847,7 +19847,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	snorlaxshieldon: {
 		num: 10278,
 		name: "snorlaxshieldon",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Steel"],
 		baseStats: {hp: 116, atk: 64, def: 100, spa: 57, spd: 102, spe: 30},
 		abilities: {0: "Immunity", 1: "Soundproof", H: "Gluttony"},
 		heightm: 1.3,
@@ -19859,7 +19859,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	snorlaxaggron: {
 		num: 10279,
 		name: "snorlaxaggron",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 130, atk: 110, def: 141, spa: 63, spd: 93, spe: 43},
 		abilities: {0: "Immunity", 1: "Rock Head", H: "Gluttony"},
 		heightm: 2.1,
@@ -19936,7 +19936,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	omastarkabutops: {
 		num: 10286,
 		name: "omastarkabutops",
-		types: ["Rock", "Water"],
+		types: ["Water", "Rock"],
 		baseStats: {hp: 66, atk: 96, def: 111, spa: 98, spd: 70, spe: 71},
 		abilities: {0: "Swift Swim", 1: "Battle Armor", H: "Weak Armor"},
 		heightm: 1.15,
@@ -20024,7 +20024,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	stantlerscizor: {
 		num: 10294,
 		name: "stantlerscizor",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Bug"],
 		baseStats: {hp: 72, atk: 118, def: 87, spa: 75, spd: 70, spe: 71},
 		abilities: {0: "Intimidate", 1: "Technician", H: "Sap Sipper"},
 		heightm: 1.6,
@@ -20046,7 +20046,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	scytherscizor: {
 		num: 10296,
 		name: "scytherscizor",
-		types: ["Bug"],
+		types: ["Bug", "Steel"],
 		baseStats: {hp: 70, atk: 123, def: 93, spa: 55, spd: 80, spe: 78},
 		abilities: {0: "Swarm", 1: "Technician", H: "Steadfast"},
 		heightm: 1.65,
@@ -20058,7 +20058,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	heracrossscizor: {
 		num: 10297,
 		name: "heracrossscizor",
-		types: ["Fighting", "Bug"],
+		types: ["Bug", "Steel"],
 		baseStats: {hp: 76, atk: 128, def: 91, spa: 45, spd: 90, spe: 71},
 		abilities: {0: "Swarm", 1: "Technician", H: "Moxie"},
 		heightm: 1.65,
@@ -20191,7 +20191,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	mewkabutops: {
 		num: 10309,
 		name: "mewkabutops",
-		types: ["Psychic", "Rock"],
+		types: ["Psychic", "Water"],
 		baseStats: {hp: 86, atk: 110, def: 103, spa: 88, spd: 90, spe: 86},
 		abilities: {0: "Synchronize", 1: "Battle Armor", H: "Weak Armor"},
 		heightm: 0.8500000000000001,
@@ -20202,7 +20202,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	weezingkabutops: {
 		num: 10310,
 		name: "weezingkabutops",
-		types: ["Poison", "Rock"],
+		types: ["Poison", "Water"],
 		baseStats: {hp: 63, atk: 106, def: 110, spa: 78, spd: 70, spe: 73},
 		abilities: {0: "Levitate", 1: "Battle Armor", H: "Stench"},
 		heightm: 1.25,
@@ -20257,7 +20257,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	mukkabutops: {
 		num: 10315,
 		name: "mukkabutops",
-		types: ["Poison", "Rock"],
+		types: ["Poison", "Water"],
 		baseStats: {hp: 90, atk: 111, def: 95, spa: 65, spd: 90, spe: 70},
 		abilities: {0: "Stench", 1: "Battle Armor", H: "Poison Touch"},
 		heightm: 1.25,
@@ -20312,7 +20312,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	bellossomomastar: {
 		num: 10320,
 		name: "bellossomomastar",
-		types: ["Grass", "Water"],
+		types: ["Grass", "Rock"],
 		baseStats: {hp: 73, atk: 66, def: 115, spa: 98, spd: 90, spe: 53},
 		abilities: {0: "Chlorophyll", 1: "Shell Armor", H: "Healer"},
 		heightm: 0.7,
@@ -20323,7 +20323,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	bellossomxatu: {
 		num: 10321,
 		name: "bellossomxatu",
-		types: ["Grass", "Psychic"],
+		types: ["Grass", "Flying"],
 		baseStats: {hp: 71, atk: 76, def: 78, spa: 91, spd: 90, spe: 80},
 		abilities: {0: "Chlorophyll", 1: "Early Bird", H: "Healer"},
 		heightm: 0.95,
@@ -20434,7 +20434,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	hitmonchancloyster: {
 		num: 10331,
 		name: "hitmonchancloyster",
-		types: ["Fighting", "Water"],
+		types: ["Fighting", "Ice"],
 		baseStats: {hp: 50, atk: 98, def: 146, spa: 51, spd: 88, spe: 72},
 		abilities: {0: "Keen Eye", 1: "Skill Link", H: "Inner Focus"},
 		heightm: 1.45,
@@ -20603,7 +20603,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	groudonmetagross: {
 		num: 10346,
 		name: "groudonmetagross",
-		types: ["Ground", "Steel"],
+		types: ["Ground", "Psychic"],
 		baseStats: {hp: 93, atk: 140, def: 133, spa: 98, spd: 90, spe: 76},
 		abilities: {0: "Drought", 1: "Clear Body", H: ""},
 		heightm: 2.55,
@@ -20670,7 +20670,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	marowakaegislash: {
 		num: 10352,
 		name: "marowakaegislash",
-		types: ["Ground", "Steel"],
+		types: ["Ground", "Ghost"],
 		baseStats: {hp: 60, atk: 60, def: 130, spa: 50, spd: 100, spe: 55},
 		abilities: {0: "Rock Head", 1: "Stance Change", H: "Battle Armor"},
 		heightm: 1.35,
@@ -20738,7 +20738,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	garchomppalkia: {
 		num: 10358,
 		name: "garchomppalkia",
-		types: ["Ground", "Dragon"],
+		types: ["Dragon", "Water"],
 		baseStats: {hp: 102, atk: 123, def: 98, spa: 103, spd: 96, spe: 100},
 		abilities: {0: "Sand Veil", 1: "Telepathy", H: "Rough Skin"},
 		heightm: 3.05,
@@ -20850,7 +20850,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	golduckaggron: {
 		num: 10368,
 		name: "golduckaggron",
-		types: ["Water", "Steel"],
+		types: ["Water", "Rock"],
 		baseStats: {hp: 76, atk: 100, def: 146, spa: 83, spd: 73, spe: 61},
 		abilities: {0: "Damp", 1: "Rock Head", H: "Swift Swim"},
 		heightm: 1.9,
@@ -20873,7 +20873,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	golducknidoqueen: {
 		num: 10370,
 		name: "golducknidoqueen",
-		types: ["Water", "Poison"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 83, atk: 88, def: 84, spa: 88, spd: 81, spe: 79},
 		abilities: {0: "Damp", 1: "Rivalry", H: "Swift Swim"},
 		heightm: 1.5,
@@ -20884,7 +20884,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	golducknidoking: {
 		num: 10371,
 		name: "golducknidoking",
-		types: ["Water", "Poison"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 80, atk: 95, def: 77, spa: 91, spd: 78, spe: 85},
 		abilities: {0: "Damp", 1: "Rivalry", H: "Swift Swim"},
 		heightm: 1.5499999999999998,
@@ -20917,7 +20917,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	taurosrayquaza: {
 		num: 10374,
 		name: "taurosrayquaza",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 85, atk: 133, def: 91, spa: 76, spd: 76, spe: 100},
 		abilities: {0: "Intimidate", 1: "Air Lock", H: "Sheer Force"},
 		heightm: 4.2,
@@ -21291,7 +21291,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	feraligatrtyranitar: {
 		num: 10408,
 		name: "feraligatrtyranitar",
-		types: ["Water", "Rock"],
+		types: ["Water", "Dark"],
 		baseStats: {hp: 90, atk: 124, def: 106, spa: 84, spd: 88, spe: 66},
 		abilities: {0: "Torrent", 1: "Unnerve", H: "Sheer Force"},
 		heightm: 2.15,
@@ -21494,7 +21494,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	girafarigambipom: {
 		num: 10426,
 		name: "girafarigambipom",
-		types: ["Psychic", "Normal"],
+		types: ["Normal", "Psychic"],
 		baseStats: {hp: 71, atk: 93, def: 65, spa: 80, spd: 65, spe: 105},
 		abilities: {0: "Inner Focus", 1: "Pickup", H: "Sap Sipper"},
 		heightm: 1.35,
@@ -21512,9 +21512,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 15.75,
 		color: "Blue",
 		eggGroups: ["Amorphous", "Fairy"],
-	},		
+	},
 	farfetchdhooh: {
-		num: 10481,
+		num: 10428,
 		name: "farfetchdhooh",
 		types: ["Flying"],
 		baseStats: {hp: 70, atk: 116, def: 78, spa: 75, spd: 92, spe: 80},
@@ -21525,7 +21525,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	darkraiweezing: {
-		num: 10482,
+		num: 10429,
 		name: "darkraiweezing",
 		types: ["Dark", "Poison"],
 		baseStats: {hp: 68, atk: 90, def: 110, spa: 118, spd: 83, spe: 81},
@@ -21536,9 +21536,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Undiscovered"],
 	},
 	darkraibutterfree: {
-		num: 10483,
+		num: 10430,
 		name: "darkraibutterfree",
-		types: ["Dark", "Bug"],
+		types: ["Dark", "Flying"],
 		baseStats: {hp: 66, atk: 60, def: 63, spa: 120, spd: 86, spe: 88},
 		abilities: {0: "Bad Dreams", 1: "Compound Eyes", H: ""},
 		heightm: 1.3,
@@ -21547,7 +21547,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	piplupeevee: {
-		num: 10484,
+		num: 10431,
 		name: "piplupeevee",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 53, atk: 53, def: 51, spa: 55, spd: 59, spe: 50},
@@ -21559,7 +21559,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	garchomparticuno: {
-		num: 10485,
+		num: 10432,
 		name: "garchomparticuno",
 		types: ["Dragon", "Ice"],
 		baseStats: {hp: 102, atk: 100, def: 98, spa: 85, spd: 98, spe: 90},
@@ -21570,7 +21570,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	wobbuffetdragonite: {
-		num: 10486,
+		num: 10433,
 		name: "wobbuffetdragonite",
 		types: ["Psychic", "Dragon"],
 		baseStats: {hp: 157, atk: 100, def: 82, spa: 55, spd: 72, spe: 64},
@@ -21581,7 +21581,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Amorphous"],
 	},
 	sudowoodogengar: {
-		num: 10487,
+		num: 10434,
 		name: "sudowoodogengar",
 		types: ["Rock", "Ghost"],
 		baseStats: {hp: 66, atk: 76, def: 78, spa: 63, spd: 68, spe: 83},
@@ -21592,7 +21592,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Mineral"],
 	},
 	charizardsylveon: {
-		num: 10488,
+		num: 10435,
 		name: "charizardsylveon",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 83, atk: 71, def: 69, spa: 109, spd: 100, spe: 73},
@@ -21603,7 +21603,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	venusaurquagsire: {
-		num: 10489,
+		num: 10436,
 		name: "venusaurquagsire",
 		types: ["Grass", "Ground"],
 		baseStats: {hp: 85, atk: 84, def: 84, spa: 88, spd: 88, spe: 50},
@@ -21614,7 +21614,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	alakazamumbreon: {
-		num: 10490,
+		num: 10437,
 		name: "alakazamumbreon",
 		types: ["Psychic", "Dark"],
 		baseStats: {hp: 68, atk: 60, def: 88, spa: 110, spd: 106, spe: 83},
@@ -21625,7 +21625,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	dittoeevee: {
-		num: 10491,
+		num: 10438,
 		name: "dittoeevee",
 		types: ["Normal"],
 		baseStats: {hp: 50, atk: 52, def: 49, spa: 47, spd: 53, spe: 52},
@@ -21637,7 +21637,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Ditto"],
 	},
 	alakazamcelebi: {
-		num: 10492,
+		num: 10439,
 		name: "alakazamcelebi",
 		types: ["Psychic", "Grass"],
 		baseStats: {hp: 70, atk: 83, def: 81, spa: 123, spd: 96, spe: 106},
@@ -21648,9 +21648,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Human-Like"],
 	},
 	celebimewtwo: {
-		num: 10493,
+		num: 10440,
 		name: "celebimewtwo",
-		types: ["Grass", "Psychic"],
+		types: ["Psychic", "Grass"],
 		baseStats: {hp: 102, atk: 106, def: 93, spa: 118, spd: 96, spe: 120},
 		abilities: {0: "Natural Cure", 1: "Pressure", H: ""},
 		heightm: 1.3,
@@ -21659,7 +21659,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	ninetalesinfernape: {
-		num: 10494,
+		num: 10441,
 		name: "ninetalesinfernape",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 74, atk: 94, def: 72, spa: 88, spd: 90, spe: 105},
@@ -21670,7 +21670,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	igglybufftorterra: {
-		num: 10495,
+		num: 10442,
 		name: "igglybufftorterra",
 		types: ["Normal", "Ground"],
 		baseStats: {hp: 91, atk: 82, def: 75, spa: 51, spd: 41, spe: 42},
@@ -21682,7 +21682,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	zapdosmantine: {
-		num: 10496,
+		num: 10443,
 		name: "zapdosmantine",
 		types: ["Electric", "Flying"],
 		baseStats: {hp: 88, atk: 56, def: 75, spa: 110, spd: 106, spe: 80},
@@ -21693,7 +21693,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	zapdosflygon: {
-		num: 10497,
+		num: 10444,
 		name: "zapdosflygon",
 		types: ["Electric", "Dragon"],
 		baseStats: {hp: 86, atk: 96, def: 81, spa: 110, spd: 86, spe: 100},
@@ -21704,7 +21704,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	nidokingsceptile: {
-		num: 10498,
+		num: 10445,
 		name: "nidokingsceptile",
 		types: ["Poison", "Grass"],
 		baseStats: {hp: 77, atk: 90, def: 69, spa: 91, spd: 78, spe: 108},
@@ -21715,7 +21715,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	ursaringursaring: {
-		num: 10499,
+		num: 10446,
 		name: "ursaringursaring",
 		types: ["Normal"],
 		baseStats: {hp: 90, atk: 130, def: 75, spa: 75, spd: 75, spe: 55},
@@ -21726,7 +21726,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	charizardarbok: {
-		num: 10500,
+		num: 10447,
 		name: "charizardarbok",
 		types: ["Fire", "Poison"],
 		baseStats: {hp: 72, atk: 91, def: 72, spa: 94, spd: 83, spe: 86},
@@ -21737,7 +21737,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	magikarparceus: {
-		num: 10501,
+		num: 10448,
 		name: "magikarparceus",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 53, atk: 83, def: 98, spa: 50, spd: 53, spe: 106},
@@ -21749,7 +21749,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 2"],
 	},
 	rapidashzoroark: {
-		num: 10502,
+		num: 10449,
 		name: "rapidashzoroark",
 		types: ["Fire", "Dark"],
 		baseStats: {hp: 63, atk: 103, def: 63, spa: 93, spd: 73, spe: 105},
@@ -21760,7 +21760,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	blazikenmrmime: {
-		num: 10503,
+		num: 10450,
 		name: "blazikenmrmime",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 66, atk: 70, def: 66, spa: 106, spd: 86, spe: 86},
@@ -21771,7 +21771,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	wooperwooper: {
-		num: 10504,
+		num: 10451,
 		name: "wooperwooper",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 55, atk: 45, def: 45, spa: 25, spd: 25, spe: 15},
@@ -21783,7 +21783,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	venusaurbutterfree: {
-		num: 10505,
+		num: 10452,
 		name: "venusaurbutterfree",
 		types: ["Grass", "Flying"],
 		baseStats: {hp: 73, atk: 57, def: 61, spa: 96, spd: 93, spe: 73},
@@ -21794,7 +21794,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	togekissshedinja: {
-		num: 10506,
+		num: 10453,
 		name: "togekissshedinja",
 		types: ["Fairy", "Ghost"],
 		baseStats: {hp: 1, atk: 76, def: 61, spa: 90, spd: 86, spe: 53},
@@ -21805,7 +21805,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Flying"],
 	},
 	poliwrathmuk: {
-		num: 10507,
+		num: 10454,
 		name: "poliwrathmuk",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 95, atk: 101, def: 81, spa: 68, spd: 93, spe: 56},
@@ -21816,7 +21816,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Water 1"],
 	},
 	dragonitekangaskhan: {
-		num: 10508,
+		num: 10455,
 		name: "dragonitekangaskhan",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 95, atk: 108, def: 85, spa: 80, spd: 93, spe: 86},
@@ -21827,7 +21827,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	laprasaegislash: {
-		num: 10509,
+		num: 10456,
 		name: "laprasaegislash",
 		types: ["Water", "Ghost"],
 		baseStats: {hp: 106, atk: 61, def: 120, spa: 73, spd: 110, spe: 60},
@@ -21838,7 +21838,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	mewgrovyle: {
-		num: 10510,
+		num: 10457,
 		name: "mewgrovyle",
 		types: ["Psychic", "Grass"],
 		baseStats: {hp: 83, atk: 76, def: 63, spa: 95, spd: 88, spe: 96},
@@ -21850,7 +21850,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	kecleonmewtwo: {
-		num: 10511,
+		num: 10458,
 		name: "kecleonmewtwo",
 		types: ["Normal", "Psychic"],
 		baseStats: {hp: 75, atk: 103, def: 83, spa: 91, spd: 110, spe: 100},
@@ -21861,7 +21861,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	rhyperiormantine: {
-		num: 10512,
+		num: 10459,
 		name: "rhyperiormantine",
 		types: ["Ground", "Flying"],
 		baseStats: {hp: 105, atk: 73, def: 90, spa: 63, spd: 83, spe: 60},
@@ -21872,9 +21872,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	dusknoirlapras: {
-		num: 10513,
+		num: 10460,
 		name: "dusknoirlapras",
-		types: ["Ghost", "Water"],
+		types: ["Ghost", "Ice"],
 		baseStats: {hp: 73, atk: 90, def: 98, spa: 71, spd: 121, spe: 55},
 		abilities: {0: "Pressure", 1: "Shell Armor", H: "Frisk"},
 		heightm: 2.35,
@@ -21883,7 +21883,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	bisharpsalamence: {
-		num: 10514,
+		num: 10461,
 		name: "bisharpsalamence",
 		types: ["Dark", "Flying"],
 		baseStats: {hp: 75, atk: 131, def: 86, spa: 76, spd: 73, spe: 90},
@@ -21894,7 +21894,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Human-Like"],
 	},
 	dusknoirkangaskhan: {
-		num: 10515,
+		num: 10462,
 		name: "dusknoirkangaskhan",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 65, atk: 96, def: 98, spa: 56, spd: 116, spe: 75},
@@ -21905,7 +21905,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	laprasskarmory: {
-		num: 10516,
+		num: 10463,
 		name: "laprasskarmory",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 108, atk: 81, def: 120, spa: 70, spd: 86, spe: 66},
@@ -21916,7 +21916,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	gengarmachamp: {
-		num: 10517,
+		num: 10464,
 		name: "gengarmachamp",
 		types: ["Ghost", "Fighting"],
 		baseStats: {hp: 70, atk: 108, def: 73, spa: 108, spd: 78, spe: 73},
@@ -21927,7 +21927,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	mantinesteelix: {
-		num: 10518,
+		num: 10465,
 		name: "mantinesteelix",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 81, atk: 70, def: 156, spa: 71, spd: 115, spe: 43},
@@ -21938,7 +21938,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	mantineskarmory: {
-		num: 10519,
+		num: 10466,
 		name: "mantineskarmory",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 78, atk: 66, def: 116, spa: 66, spd: 116, spe: 70},
@@ -21949,7 +21949,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	mantinemagnezone: {
-		num: 10520,
+		num: 10467,
 		name: "mantinemagnezone",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 80, atk: 60, def: 100, spa: 96, spd: 123, spe: 63},
@@ -21960,7 +21960,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	azumarillshedinja: {
-		num: 10521,
+		num: 10468,
 		name: "azumarillshedinja",
 		types: ["Water", "Ghost"],
 		baseStats: {hp: 1, atk: 76, def: 56, spa: 50, spd: 63, spe: 43},
@@ -21971,7 +21971,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	mewsmeargle: {
-		num: 10522,
+		num: 10469,
 		name: "mewsmeargle",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 85, atk: 46, def: 56, spa: 73, spd: 81, spe: 83},
@@ -21982,7 +21982,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	blisseyditto: {
-		num: 10523,
+		num: 10470,
 		name: "blisseyditto",
 		types: ["Normal"],
 		baseStats: {hp: 186, atk: 35, def: 35, spa: 66, spd: 106, spe: 50},
@@ -21993,7 +21993,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Ditto", "Fairy"],
 	},
 	chanseyditto: {
-		num: 10524,
+		num: 10471,
 		name: "chanseyditto",
 		types: ["Normal"],
 		baseStats: {hp: 182, atk: 33, def: 33, spa: 39, spd: 86, spe: 48},
@@ -22005,7 +22005,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Ditto", "Fairy"],
 	},
 	hoohtogekiss: {
-		num: 10525,
+		num: 10472,
 		name: "hoohtogekiss",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 99, atk: 76, def: 93, spa: 113, spd: 141, spe: 83},
@@ -22016,7 +22016,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	politoedsceptile: {
-		num: 10526,
+		num: 10473,
 		name: "politoedsceptile",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 83, atk: 81, def: 68, spa: 95, spd: 95, spe: 103},
@@ -22027,7 +22027,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	feraligatrazumarill: {
-		num: 10527,
+		num: 10474,
 		name: "feraligatrazumarill",
 		types: ["Water", "Fairy"],
 		baseStats: {hp: 90, atk: 68, def: 86, spa: 72, spd: 82, spe: 59},
@@ -22038,7 +22038,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	kyogrezapdos: {
-		num: 10528,
+		num: 10475,
 		name: "kyogrezapdos",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 96, atk: 93, def: 86, spa: 141, spd: 123, spe: 96},
@@ -22049,7 +22049,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	parasectsteelix: {
-		num: 10529,
+		num: 10476,
 		name: "parasectsteelix",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 65, atk: 88, def: 160, spa: 58, spd: 75, spe: 30},
@@ -22060,9 +22060,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	seakinggliscor: {
-		num: 10530,
+		num: 10477,
 		name: "seakinggliscor",
-		types: ["Water", "Ground"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 78, atk: 94, def: 105, spa: 58, spd: 78, spe: 86},
 		abilities: {0: "Swift Swim", 1: "Sand Veil", H: "Lightning Rod"},
 		heightm: 1.65,
@@ -22071,7 +22071,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 2"],
 	},
 	snorlaxtangrowth: {
-		num: 10531,
+		num: 10478,
 		name: "snorlaxtangrowth",
 		types: ["Normal", "Grass"],
 		baseStats: {hp: 140, atk: 103, def: 105, spa: 80, spd: 90, spe: 43},
@@ -22082,7 +22082,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Monster"],
 	},
 	mrmimecharizard: {
-		num: 10532,
+		num: 10479,
 		name: "mrmimecharizard",
 		types: ["Psychic", "Fire"],
 		baseStats: {hp: 52, atk: 71, def: 73, spa: 103, spd: 108, spe: 96},
@@ -22093,9 +22093,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	blisseyaggron: {
-		num: 10533,
+		num: 10480,
 		name: "blisseyaggron",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 193, atk: 76, def: 123, spa: 70, spd: 110, spe: 51},
 		abilities: {0: "Natural Cure", 1: "Rock Head", H: "Healer"},
 		heightm: 1.8,
@@ -22104,7 +22104,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Fairy"],
 	},
 	arboksandslash: {
-		num: 10534,
+		num: 10481,
 		name: "arboksandslash",
 		types: ["Poison", "Ground"],
 		baseStats: {hp: 65, atk: 98, def: 96, spa: 58, spd: 71, spe: 70},
@@ -22115,9 +22115,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	primeapecrobat: {
-		num: 10535,
+		num: 10482,
 		name: "primeapecrobat",
-		types: ["Fighting", "Poison"],
+		types: ["Fighting", "Flying"],
 		baseStats: {hp: 71, atk: 95, def: 73, spa: 63, spd: 73, spe: 118},
 		abilities: {0: "Vital Spirit", 1: "Infiltrator", H: "Defiant"},
 		heightm: 1.4,
@@ -22126,7 +22126,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	vileplumeraichu: {
-		num: 10536,
+		num: 10483,
 		name: "vileplumeraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 70, atk: 86, def: 65, spa: 103, spd: 86, spe: 90},
@@ -22137,7 +22137,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	gyaradosgolem: {
-		num: 10537,
+		num: 10484,
 		name: "gyaradosgolem",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 90, atk: 121, def: 113, spa: 58, spd: 88, spe: 57},
@@ -22148,7 +22148,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 2"],
 	},
 	skarmorygardevoir: {
-		num: 10538,
+		num: 10485,
 		name: "skarmorygardevoir",
 		types: ["Steel", "Fairy"],
 		baseStats: {hp: 66, atk: 70, def: 90, spa: 68, spd: 85, spe: 76},
@@ -22159,7 +22159,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Flying"],
 	},
 	vaporeonjolteon: {
-		num: 10539,
+		num: 10486,
 		name: "vaporeonjolteon",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 108, atk: 65, def: 60, spa: 110, spd: 95, spe: 108},
@@ -22170,7 +22170,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	scizorrampardos: {
-		num: 10540,
+		num: 10487,
 		name: "scizorrampardos",
 		types: ["Steel", "Rock"],
 		baseStats: {hp: 79, atk: 153, def: 73, spa: 58, spd: 70, spe: 60},
@@ -22181,7 +22181,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	bisharpgolduck: {
-		num: 10541,
+		num: 10488,
 		name: "bisharpgolduck",
 		types: ["Dark", "Water"],
 		baseStats: {hp: 70, atk: 96, def: 85, spa: 71, spd: 73, spe: 80},
@@ -22192,7 +22192,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	torterrawailord: {
-		num: 10542,
+		num: 10489,
 		name: "torterrawailord",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 120, atk: 96, def: 65, spa: 80, spd: 71, spe: 58},
@@ -22203,7 +22203,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	corsolaweepinbell: {
-		num: 10543,
+		num: 10490,
 		name: "corsolaweepinbell",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 65, atk: 78, def: 65, spa: 71, spd: 78, spe: 48},
@@ -22215,7 +22215,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Water 1"],
 	},
 	rhyperiorcharizard: {
-		num: 10544,
+		num: 10491,
 		name: "rhyperiorcharizard",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 102, atk: 102, def: 95, spa: 73, spd: 65, spe: 80},
@@ -22226,7 +22226,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	jolteongolduck: {
-		num: 10545,
+		num: 10492,
 		name: "jolteongolduck",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 70, atk: 76, def: 72, spa: 105, spd: 90, spe: 100},
@@ -22237,7 +22237,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	weezingkyogre: {
-		num: 10546,
+		num: 10493,
 		name: "weezingkyogre",
 		types: ["Poison", "Water"],
 		baseStats: {hp: 76, atk: 96, def: 100, spa: 106, spd: 93, spe: 80},
@@ -22248,7 +22248,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Amorphous"],
 	},
 	golduckjolteon: {
-		num: 10547,
+		num: 10494,
 		name: "golduckjolteon",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 75, atk: 70, def: 66, spa: 100, spd: 85, spe: 115},
@@ -22259,9 +22259,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	tangrowthlanturn: {
-		num: 10548,
+		num: 10495,
 		name: "tangrowthlanturn",
-		types: ["Grass", "Water"],
+		types: ["Grass", "Electric"],
 		baseStats: {hp: 108, atk: 72, def: 80, spa: 98, spd: 58, spe: 61},
 		abilities: {0: "Chlorophyll", 1: "Illuminate", H: "Regenerator"},
 		heightm: 1.6,
@@ -22270,7 +22270,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Grass"],
 	},
 	kabutopsmarowak: {
-		num: 10549,
+		num: 10496,
 		name: "kabutopsmarowak",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 60, atk: 91, def: 108, spa: 60, spd: 73, spe: 56},
@@ -22281,7 +22281,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	magcargometagross: {
-		num: 10550,
+		num: 10497,
 		name: "magcargometagross",
 		types: ["Fire", "Psychic"],
 		baseStats: {hp: 66, atk: 106, def: 126, spa: 91, spd: 83, spe: 56},
@@ -22292,7 +22292,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	probopassmetagross: {
-		num: 10551,
+		num: 10498,
 		name: "probopassmetagross",
 		types: ["Rock", "Psychic"],
 		baseStats: {hp: 66, atk: 108, def: 135, spa: 81, spd: 130, spe: 60},
@@ -22303,9 +22303,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	umbreonshedinja: {
-		num: 10552,
+		num: 10499,
 		name: "umbreonshedinja",
-		types: ["Dark", "Bug"],
+		types: ["Dark", "Ghost"],
 		baseStats: {hp: 1, atk: 81, def: 66, spa: 50, spd: 96, spe: 48},
 		abilities: {0: "Synchronize", 1: "Wonder Guard", H: "Inner Focus"},
 		heightm: 0.9,
@@ -22314,9 +22314,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	slakingshedinja: {
-		num: 10553,
+		num: 10500,
 		name: "slakingshedinja",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Ghost"],
 		baseStats: {hp: 1, atk: 113, def: 63, spa: 73, spd: 53, spe: 60},
 		abilities: {0: "Truant", 1: "Wonder Guard", H: ""},
 		heightm: 1.4,
@@ -22325,7 +22325,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	aegislashshedinja: {
-		num: 10554,
+		num: 10501,
 		name: "aegislashshedinja",
 		types: ["Steel", "Ghost"],
 		baseStats: {hp: 1, atk: 76, def: 76, spa: 43, spd: 103, spe: 46},
@@ -22336,7 +22336,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	laprassandslash: {
-		num: 10555,
+		num: 10502,
 		name: "laprassandslash",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 111, atk: 95, def: 100, spa: 71, spd: 81, spe: 63},
@@ -22347,7 +22347,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	gengarpersian: {
-		num: 10556,
+		num: 10503,
 		name: "gengarpersian",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 61, atk: 68, def: 60, spa: 108, spd: 71, spe: 113},
@@ -22358,7 +22358,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	gardevoirraticate: {
-		num: 10557,
+		num: 10504,
 		name: "gardevoirraticate",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 63, atk: 75, def: 61, spa: 100, spd: 100, spe: 91},
@@ -22369,7 +22369,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	ninetaleshitmonlee: {
-		num: 10558,
+		num: 10505,
 		name: "ninetaleshitmonlee",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 65, atk: 105, def: 60, spa: 65, spd: 103, spe: 91},
@@ -22380,7 +22380,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	venusaurpoliwrath: {
-		num: 10559,
+		num: 10506,
 		name: "venusaurpoliwrath",
 		types: ["Grass", "Fighting"],
 		baseStats: {hp: 83, atk: 90, def: 91, spa: 90, spd: 96, spe: 73},
@@ -22391,7 +22391,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	nidokingomastar: {
-		num: 10560,
+		num: 10507,
 		name: "nidokingomastar",
 		types: ["Poison", "Rock"],
 		baseStats: {hp: 77, atk: 74, def: 109, spa: 95, spd: 73, spe: 65},
@@ -22402,7 +22402,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	blastoisedonphan: {
-		num: 10561,
+		num: 10508,
 		name: "blastoisedonphan",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 82, atk: 107, def: 113, spa: 76, spd: 90, spe: 59},
@@ -22413,7 +22413,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	yanmegametagross: {
-		num: 10562,
+		num: 10509,
 		name: "yanmegametagross",
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 84, atk: 115, def: 115, spa: 109, spd: 67, spe: 78},
@@ -22424,7 +22424,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	forretressmagnezone: {
-		num: 10563,
+		num: 10510,
 		name: "forretressmagnezone",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 73, atk: 76, def: 123, spa: 83, spd: 70, spe: 53},
@@ -22435,7 +22435,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	forretressmetagross: {
-		num: 10564,
+		num: 10511,
 		name: "forretressmetagross",
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 76, atk: 120, def: 133, spa: 71, spd: 70, spe: 60},
@@ -22446,7 +22446,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	blastoisehitmontop: {
-		num: 10565,
+		num: 10512,
 		name: "blastoisehitmontop",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 69, atk: 91, def: 96, spa: 68, spd: 106, spe: 72},
@@ -22457,7 +22457,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	lickilickyhitmontop: {
-		num: 10566,
+		num: 10513,
 		name: "lickilickyhitmontop",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 90, atk: 91, def: 95, spa: 65, spd: 100, spe: 63},
@@ -22468,7 +22468,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	tyranitarhitmontop: {
-		num: 10567,
+		num: 10514,
 		name: "tyranitarhitmontop",
 		types: ["Rock", "Fighting"],
 		baseStats: {hp: 83, atk: 108, def: 100, spa: 75, spd: 103, spe: 67},
@@ -22479,7 +22479,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	steelixhitmontop: {
-		num: 10568,
+		num: 10515,
 		name: "steelixhitmontop",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 66, atk: 91, def: 130, spa: 48, spd: 80, spe: 56},
@@ -22490,7 +22490,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	dragonitehitmontop: {
-		num: 10569,
+		num: 10516,
 		name: "dragonitehitmontop",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 77, atk: 108, def: 95, spa: 78, spd: 103, spe: 73},
@@ -22501,7 +22501,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 1"],
 	},
 	aggronhitmontop: {
-		num: 10570,
+		num: 10517,
 		name: "aggronhitmontop",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 63, atk: 100, def: 123, spa: 51, spd: 76, spe: 63},
@@ -22512,7 +22512,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	garchomphitmontop: {
-		num: 10571,
+		num: 10518,
 		name: "garchomphitmontop",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 88, atk: 106, def: 95, spa: 65, spd: 93, spe: 80},
@@ -22523,7 +22523,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	yanmegahitmontop: {
-		num: 10572,
+		num: 10519,
 		name: "yanmegahitmontop",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 74, atk: 88, def: 92, spa: 89, spd: 74, spe: 78},
@@ -22534,9 +22534,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	hitmontopyanmega: {
-		num: 10573,
+		num: 10520,
 		name: "hitmontopyanmega",
-		types: ["Fighting", "Bug"],
+		types: ["Fighting", "Flying"],
 		baseStats: {hp: 62, atk: 82, def: 89, spa: 62, spd: 92, spe: 86},
 		abilities: {0: "Intimidate", 1: "Tinted Lens", H: "Steadfast"},
 		heightm: 1.65,
@@ -22545,9 +22545,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	miloticgliscor: {
-		num: 10574,
+		num: 10521,
 		name: "miloticgliscor",
-		types: ["Water", "Ground"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 88, atk: 83, def: 109, spa: 81, spd: 108, spe: 90},
 		abilities: {0: "Marvel Scale", 1: "Sand Veil", H: "Cute Charm"},
 		heightm: 4.1,
@@ -22556,7 +22556,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	golemazumarill: {
-		num: 10575,
+		num: 10522,
 		name: "golemazumarill",
 		types: ["Rock", "Fairy"],
 		baseStats: {hp: 86, atk: 73, def: 96, spa: 56, spd: 70, spe: 48},
@@ -22567,7 +22567,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Mineral"],
 	},
 	sylveonmewtwo: {
-		num: 10576,
+		num: 10523,
 		name: "sylveonmewtwo",
 		types: ["Fairy", "Psychic"],
 		baseStats: {hp: 98, atk: 95, def: 81, spa: 124, spd: 116, spe: 106},
@@ -22578,9 +22578,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	machampazumarill: {
-		num: 10577,
+		num: 10524,
 		name: "machampazumarill",
-		types: ["Fighting", "Water"],
+		types: ["Fighting", "Fairy"],
 		baseStats: {hp: 93, atk: 76, def: 80, spa: 63, spd: 83, spe: 51},
 		abilities: {0: "Guts", 1: "Huge Power", H: "Steadfast"},
 		heightm: 1.2000000000000002,
@@ -22589,7 +22589,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	slowbroaegislash: {
-		num: 10578,
+		num: 10525,
 		name: "slowbroaegislash",
 		types: ["Water", "Ghost"],
 		baseStats: {hp: 83, atk: 58, def: 130, spa: 83, spd: 100, spe: 50},
@@ -22600,7 +22600,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	klinklangrampardos: {
-		num: 10579,
+		num: 10526,
 		name: "klinklangrampardos",
 		types: ["Steel", "Rock"],
 		baseStats: {hp: 72, atk: 143, def: 78, spa: 68, spd: 73, spe: 68},
@@ -22611,7 +22611,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	bidoofsmeargle: {
-		num: 10580,
+		num: 10527,
 		name: "bidoofsmeargle",
 		types: ["Normal"],
 		baseStats: {hp: 57, atk: 28, def: 36, spa: 30, spd: 41, spe: 60},
@@ -22623,7 +22623,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dunsparcemilotic: {
-		num: 10581,
+		num: 10528,
 		name: "dunsparcemilotic",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 98, atk: 63, def: 76, spa: 76, spd: 85, spe: 69},
@@ -22634,7 +22634,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	miloticdragonair: {
-		num: 10582,
+		num: 10529,
 		name: "miloticdragonair",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 83, atk: 76, def: 69, spa: 90, spd: 106, spe: 73},
@@ -22646,7 +22646,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	blisseysteelix: {
-		num: 10583,
+		num: 10530,
 		name: "blisseysteelix",
 		types: ["Normal", "Steel"],
 		baseStats: {hp: 195, atk: 60, def: 136, spa: 68, spd: 111, spe: 38},
@@ -22657,9 +22657,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Fairy"],
 	},
 	blisseyslowking: {
-		num: 10584,
+		num: 10531,
 		name: "blisseyslowking",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Psychic"],
 		baseStats: {hp: 201, atk: 53, def: 56, spa: 83, spd: 126, spe: 38},
 		abilities: {0: "Natural Cure", 1: "Own Tempo", H: "Healer"},
 		heightm: 1.75,
@@ -22668,7 +22668,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Fairy"],
 	},
 	dragonitedusclops: {
-		num: 10585,
+		num: 10532,
 		name: "dragonitedusclops",
 		types: ["Dragon", "Ghost"],
 		baseStats: {hp: 74, atk: 91, def: 118, spa: 86, spd: 110, spe: 43},
@@ -22680,7 +22680,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Water 1"],
 	},
 	slowkingblissey: {
-		num: 10586,
+		num: 10533,
 		name: "slowkingblissey",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 148, atk: 31, def: 33, spa: 91, spd: 118, spe: 46},
@@ -22691,7 +22691,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Monster"],
 	},
 	slowkingaegislash: {
-		num: 10587,
+		num: 10534,
 		name: "slowkingaegislash",
 		types: ["Water", "Ghost"],
 		baseStats: {hp: 83, atk: 58, def: 120, spa: 83, spd: 120, spe: 50},
@@ -22702,7 +22702,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	shedinjaforretress: {
-		num: 10588,
+		num: 10535,
 		name: "shedinjaforretress",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 1, atk: 90, def: 108, spa: 40, spd: 40, spe: 40},
@@ -22713,7 +22713,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	weezingumbreon: {
-		num: 10589,
+		num: 10536,
 		name: "weezingumbreon",
 		types: ["Poison", "Dark"],
 		baseStats: {hp: 75, atk: 73, def: 113, spa: 76, spd: 90, spe: 63},
@@ -22724,7 +22724,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	aegislashraichu: {
-		num: 10590,
+		num: 10537,
 		name: "aegislashraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 60, atk: 76, def: 83, spa: 63, spd: 120, spe: 93},
@@ -22735,7 +22735,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	beedrillhitmonchan: {
-		num: 10591,
+		num: 10538,
 		name: "beedrillhitmonchan",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 60, atk: 100, def: 66, spa: 41, spd: 90, spe: 75},
@@ -22746,7 +22746,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	infernapeempoleon: {
-		num: 10592,
+		num: 10539,
 		name: "infernapeempoleon",
 		types: ["Fire", "Steel"],
 		baseStats: {hp: 78, atk: 92, def: 82, spa: 106, spd: 81, spe: 76},
@@ -22757,7 +22757,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	empoleoninfernape: {
-		num: 10593,
+		num: 10540,
 		name: "empoleoninfernape",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 81, atk: 98, def: 76, spa: 108, spd: 91, spe: 92},
@@ -22768,7 +22768,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	shedinjarayquaza: {
-		num: 10594,
+		num: 10541,
 		name: "shedinjarayquaza",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 1, atk: 130, def: 75, spa: 70, spd: 50, spe: 76},
@@ -22779,7 +22779,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	marowakswampert: {
-		num: 10595,
+		num: 10542,
 		name: "marowakswampert",
 		types: ["Ground", "Water"],
 		baseStats: {hp: 73, atk: 100, def: 96, spa: 61, spd: 83, spe: 55},
@@ -22790,7 +22790,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	taurosferaligatr: {
-		num: 10596,
+		num: 10543,
 		name: "taurosferaligatr",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 78, atk: 103, def: 98, spa: 53, spd: 74, spe: 88},
@@ -22801,7 +22801,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	snorlaxchansey: {
-		num: 10597,
+		num: 10544,
 		name: "snorlaxchansey",
 		types: ["Normal"],
 		baseStats: {hp: 190, atk: 40, def: 25, spa: 55, spd: 108, spe: 43},
@@ -22813,7 +22813,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Monster"],
 	},
 	venusaurchansey: {
-		num: 10598,
+		num: 10545,
 		name: "venusaurchansey",
 		types: ["Grass", "Normal"],
 		baseStats: {hp: 136, atk: 30, def: 31, spa: 78, spd: 101, spe: 60},
@@ -22825,9 +22825,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Monster"],
 	},
 	ampharostyranitar: {
-		num: 10599,
+		num: 10546,
 		name: "ampharostyranitar",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Dark"],
 		baseStats: {hp: 93, atk: 114, def: 101, spa: 108, spd: 93, spe: 59},
 		abilities: {0: "Static", 1: "Unnerve", H: "Plus"},
 		heightm: 1.7,
@@ -22836,9 +22836,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	hitmonleeazumarill: {
-		num: 10600,
+		num: 10547,
 		name: "hitmonleeazumarill",
-		types: ["Fighting", "Water"],
+		types: ["Fighting", "Fairy"],
 		baseStats: {hp: 66, atk: 73, def: 71, spa: 43, spd: 100, spe: 62},
 		abilities: {0: "Limber", 1: "Huge Power", H: "Unburden"},
 		heightm: 1.15,
@@ -22847,7 +22847,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	mudkipvoltorb: {
-		num: 10601,
+		num: 10548,
 		name: "mudkipvoltorb",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 46, atk: 43, def: 50, spa: 51, spd: 51, spe: 80},
@@ -22859,7 +22859,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	hitmontoparcanine: {
-		num: 10602,
+		num: 10549,
 		name: "hitmontoparcanine",
 		types: ["Fighting", "Fire"],
 		baseStats: {hp: 63, atk: 105, def: 85, spa: 56, spd: 100, spe: 86},
@@ -22870,7 +22870,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	bellossomglaceon: {
-		num: 10603,
+		num: 10550,
 		name: "bellossomglaceon",
 		types: ["Grass", "Ice"],
 		baseStats: {hp: 71, atk: 66, def: 105, spa: 103, spd: 98, spe: 60},
@@ -22881,7 +22881,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	glaceonbellossom: {
-		num: 10604,
+		num: 10551,
 		name: "glaceonbellossom",
 		types: ["Ice", "Grass"],
 		baseStats: {hp: 68, atk: 73, def: 100, spa: 116, spd: 96, spe: 55},
@@ -22892,7 +22892,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Field"],
 	},
 	leafeonbellossom: {
-		num: 10605,
+		num: 10552,
 		name: "leafeonbellossom",
 		types: ["Grass"],
 		baseStats: {hp: 68, atk: 90, def: 106, spa: 70, spd: 76, spe: 65},
@@ -22903,7 +22903,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Field"],
 	},
 	bellossomleafeon: {
-		num: 10606,
+		num: 10553,
 		name: "bellossomleafeon",
 		types: ["Grass"],
 		baseStats: {hp: 71, atk: 100, def: 118, spa: 80, spd: 88, spe: 80},
@@ -22914,7 +22914,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	bellossomvictreebel: {
-		num: 10607,
+		num: 10554,
 		name: "bellossomvictreebel",
 		types: ["Grass", "Poison"],
 		baseStats: {hp: 76, atk: 96, def: 75, spa: 93, spd: 90, spe: 63},
@@ -22925,9 +22925,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Grass"],
 	},
 	victreebelbellossom: {
-		num: 10608,
+		num: 10555,
 		name: "victreebelbellossom",
-		types: ["Poison", "Grass"],
+		types: ["Grass", "Poison"],
 		baseStats: {hp: 78, atk: 88, def: 85, spa: 96, spd: 80, spe: 56},
 		abilities: {0: "Chlorophyll", 1: "Healer", H: "Gluttony"},
 		heightm: 1.05,
@@ -22936,7 +22936,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Grass"],
 	},
 	crobatpidgeot: {
-		num: 10609,
+		num: 10556,
 		name: "crobatpidgeot",
 		types: ["Poison", "Flying"],
 		baseStats: {hp: 84, atk: 83, def: 76, spa: 70, spd: 76, spe: 110},
@@ -22947,7 +22947,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Flying"],
 	},
 	xatusteelix: {
-		num: 10610,
+		num: 10557,
 		name: "xatusteelix",
 		types: ["Psychic", "Steel"],
 		baseStats: {hp: 68, atk: 81, def: 156, spa: 81, spd: 68, spe: 51},
@@ -22958,7 +22958,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Flying"],
 	},
 	shedinjasteelix: {
-		num: 10611,
+		num: 10558,
 		name: "shedinjasteelix",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 1, atk: 86, def: 148, spa: 38, spd: 41, spe: 33},
@@ -22969,7 +22969,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	venusaursteelix: {
-		num: 10612,
+		num: 10559,
 		name: "venusaursteelix",
 		types: ["Grass", "Steel"],
 		baseStats: {hp: 78, atk: 84, def: 161, spa: 85, spd: 88, spe: 46},
@@ -22980,7 +22980,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	scizorgroudon: {
-		num: 10613,
+		num: 10560,
 		name: "scizorgroudon",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 80, atk: 143, def: 126, spa: 70, spd: 83, spe: 81},
@@ -22991,9 +22991,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	groudonscizor: {
-		num: 10614,
+		num: 10561,
 		name: "groudonscizor",
-		types: ["Ground", "Steel"],
+		types: ["Ground", "Bug"],
 		baseStats: {hp: 90, atk: 136, def: 113, spa: 85, spd: 86, spe: 73},
 		abilities: {0: "Drought", 1: "Technician", H: "Light Metal"},
 		heightm: 2.65,
@@ -23002,7 +23002,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	azumarillcloyster: {
-		num: 10615,
+		num: 10562,
 		name: "azumarillcloyster",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 83, atk: 80, def: 146, spa: 68, spd: 68, spe: 63},
@@ -23013,9 +23013,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Water 1"],
 	},
 	kecleontyranitar: {
-		num: 10616,
+		num: 10563,
 		name: "kecleontyranitar",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Dark"],
 		baseStats: {hp: 73, atk: 119, def: 96, spa: 71, spd: 113, spe: 54},
 		abilities: {0: "Color Change", 1: "Unnerve", H: "Protean"},
 		heightm: 1,
@@ -23024,7 +23024,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	kecleonhitmonchan: {
-		num: 10617,
+		num: 10564,
 		name: "kecleonhitmonchan",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 56, atk: 100, def: 76, spa: 51, spd: 116, spe: 64},
@@ -23035,7 +23035,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	venusaurshuckle: {
-		num: 10618,
+		num: 10565,
 		name: "venusaurshuckle",
 		types: ["Grass", "Rock"],
 		baseStats: {hp: 60, atk: 34, def: 181, spa: 70, spd: 143, spe: 30},
@@ -23046,7 +23046,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	yanmegaelectivire: {
-		num: 10619,
+		num: 10566,
 		name: "yanmegaelectivire",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 82, atk: 107, def: 73, spa: 109, spd: 65, spe: 95},
@@ -23057,9 +23057,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	slakingazumarill: {
-		num: 10620,
+		num: 10567,
 		name: "slakingazumarill",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Fairy"],
 		baseStats: {hp: 133, atk: 86, def: 86, spa: 83, spd: 70, spe: 66},
 		abilities: {0: "Truant", 1: "Huge Power", H: "Sap Sipper"},
 		heightm: 1.4,
@@ -23068,9 +23068,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	groudonazumarill: {
-		num: 10621,
+		num: 10568,
 		name: "groudonazumarill",
-		types: ["Ground", "Water"],
+		types: ["Ground", "Fairy"],
 		baseStats: {hp: 100, atk: 83, def: 100, spa: 86, spd: 86, spe: 63},
 		abilities: {0: "Drought", 1: "Huge Power", H: "Sap Sipper"},
 		heightm: 2.15,
@@ -23079,7 +23079,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	groudonkyogre: {
-		num: 10622,
+		num: 10569,
 		name: "groudonkyogre",
 		types: ["Ground", "Water"],
 		baseStats: {hp: 100, atk: 116, def: 106, spa: 116, spd: 106, spe: 90},
@@ -23090,7 +23090,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	spiritombrhyperior: {
-		num: 10623,
+		num: 10570,
 		name: "spiritombrhyperior",
 		types: ["Ghost", "Rock"],
 		baseStats: {hp: 71, atk: 124, def: 122, spa: 79, spd: 90, spe: 38},
@@ -23101,9 +23101,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	persiantogekiss: {
-		num: 10624,
+		num: 10571,
 		name: "persiantogekiss",
-		types: ["Normal", "Fairy"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 71, atk: 56, def: 83, spa: 83, spd: 81, spe: 91},
 		abilities: {0: "Limber", 1: "Serene Grace", H: "Unnerve"},
 		heightm: 1.25,
@@ -23112,7 +23112,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	togekisspersian: {
-		num: 10625,
+		num: 10572,
 		name: "togekisspersian",
 		types: ["Fairy", "Normal"],
 		baseStats: {hp: 78, atk: 63, def: 71, spa: 101, spd: 98, spe: 103},
@@ -23123,7 +23123,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	togeticmagnezone: {
-		num: 10626,
+		num: 10573,
 		name: "togeticmagnezone",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 60, atk: 60, def: 105, spa: 96, spd: 100, spe: 53},
@@ -23135,7 +23135,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Flying"],
 	},
 	magnezonetogetic: {
-		num: 10627,
+		num: 10574,
 		name: "magnezonetogetic",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 65, atk: 50, def: 95, spa: 113, spd: 95, spe: 46},
@@ -23147,7 +23147,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Mineral"],
 	},
 	togekissmagnezone: {
-		num: 10628,
+		num: 10575,
 		name: "togekissmagnezone",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 80, atk: 63, def: 108, spa: 123, spd: 106, spe: 66},
@@ -23158,7 +23158,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Flying"],
 	},
 	jynxmagnezone: {
-		num: 10629,
+		num: 10576,
 		name: "jynxmagnezone",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 66, atk: 63, def: 88, spa: 120, spd: 93, spe: 71},
@@ -23169,7 +23169,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	jynxmagneton: {
-		num: 10630,
+		num: 10577,
 		name: "jynxmagneton",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 60, atk: 56, def: 75, spa: 116, spd: 86, spe: 78},
@@ -23181,7 +23181,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	jynxmagnemite: {
-		num: 10631,
+		num: 10578,
 		name: "jynxmagnemite",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 51, atk: 40, def: 58, spa: 108, spd: 81, spe: 61},
@@ -23193,7 +23193,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	magnemitejynx: {
-		num: 10632,
+		num: 10579,
 		name: "magnemitejynx",
 		types: ["Steel", "Psychic"],
 		baseStats: {hp: 38, atk: 45, def: 46, spa: 101, spd: 68, spe: 78},
@@ -23205,7 +23205,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	magnetonjynx: {
-		num: 10633,
+		num: 10580,
 		name: "magnetonjynx",
 		types: ["Steel", "Psychic"],
 		baseStats: {hp: 55, atk: 53, def: 55, spa: 118, spd: 78, spe: 86},
@@ -23217,7 +23217,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	magnezonejynx: {
-		num: 10634,
+		num: 10581,
 		name: "magnezonejynx",
 		types: ["Steel", "Psychic"],
 		baseStats: {hp: 68, atk: 56, def: 61, spa: 125, spd: 91, spe: 83},
@@ -23228,7 +23228,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	typhlosionraichu: {
-		num: 10635,
+		num: 10582,
 		name: "typhlosionraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 72, atk: 88, def: 62, spa: 102, spd: 83, spe: 106},
@@ -23239,9 +23239,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	porygon2lugia: {
-		num: 10636,
+		num: 10583,
 		name: "porygon2lugia",
-		types: ["Normal", "Psychic"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 92, atk: 86, def: 116, spa: 100, spd: 114, spe: 93},
 		abilities: {0: "Trace", 1: "Multiscale", H: "Analytic"},
 		heightm: 2.9,
@@ -23251,9 +23251,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	porygonzlugia: {
-		num: 10637,
+		num: 10584,
 		name: "porygonzlugia",
-		types: ["Normal", "Psychic"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 92, atk: 86, def: 110, spa: 120, spd: 101, spe: 103},
 		abilities: {0: "Adaptability", 1: "Multiscale", H: "Analytic"},
 		heightm: 3.0500000000000003,
@@ -23262,7 +23262,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	shucklemewtwo: {
-		num: 10638,
+		num: 10585,
 		name: "shucklemewtwo",
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 48, atk: 76, def: 136, spa: 58, spd: 183, spe: 88},
@@ -23273,7 +23273,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	shuckleaggron: {
-		num: 10639,
+		num: 10586,
 		name: "shuckleaggron",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 36, atk: 76, def: 196, spa: 26, spd: 173, spe: 35},
@@ -23284,7 +23284,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	shuckleblissey: {
-		num: 10640,
+		num: 10587,
 		name: "shuckleblissey",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 98, atk: 10, def: 83, spa: 31, spd: 198, spe: 38},
@@ -23295,7 +23295,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Bug"],
 	},
 	aggronhitmonchan: {
-		num: 10641,
+		num: 10588,
 		name: "aggronhitmonchan",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 63, atk: 106, def: 112, spa: 51, spd: 76, spe: 67},
@@ -23306,7 +23306,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	aggroncharizard: {
-		num: 10642,
+		num: 10589,
 		name: "aggroncharizard",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 72, atk: 92, def: 112, spa: 76, spd: 68, spe: 83},
@@ -23317,9 +23317,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	lucarioblaziken: {
-		num: 10643,
+		num: 10590,
 		name: "lucarioblaziken",
-		types: ["Steel", "Fighting"],
+		types: ["Fighting", "Fire"],
 		baseStats: {hp: 73, atk: 116, def: 70, spa: 113, spd: 70, spe: 83},
 		abilities: {0: "Steadfast", 1: "Speed Boost", H: "Justified"},
 		heightm: 1.5499999999999998,
@@ -23328,7 +23328,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	blazikenlucario: {
-		num: 10644,
+		num: 10591,
 		name: "blazikenlucario",
 		types: ["Fire", "Steel"],
 		baseStats: {hp: 76, atk: 113, def: 70, spa: 111, spd: 70, spe: 86},
@@ -23339,7 +23339,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	zekromlucario: {
-		num: 10645,
+		num: 10592,
 		name: "zekromlucario",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 90, atk: 123, def: 86, spa: 118, spd: 90, spe: 90},
@@ -23350,7 +23350,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	lucariozekrom: {
-		num: 10646,
+		num: 10593,
 		name: "lucariozekrom",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 80, atk: 136, def: 103, spa: 116, spd: 80, spe: 90},
@@ -23361,9 +23361,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	pikachulucario: {
-		num: 10647,
+		num: 10594,
 		name: "pikachulucario",
-		types: ["Electric", "Fighting"],
+		types: ["Electric", "Steel"],
 		baseStats: {hp: 46, atk: 91, def: 60, spa: 71, spd: 56, spe: 90},
 		abilities: {0: "Static", 1: "Inner Focus", H: "Lightning Rod"},
 		heightm: 0.8,
@@ -23373,7 +23373,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	politoedslaking: {
-		num: 10648,
+		num: 10595,
 		name: "politoedslaking",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 110, atk: 131, def: 91, spa: 91, spd: 88, spe: 90},
@@ -23384,7 +23384,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	politoedblissey: {
-		num: 10649,
+		num: 10596,
 		name: "politoedblissey",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 145, atk: 31, def: 31, spa: 85, spd: 111, spe: 60},
@@ -23395,7 +23395,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Water 1"],
 	},
 	slakingblissey: {
-		num: 10650,
+		num: 10597,
 		name: "slakingblissey",
 		types: ["Normal"],
 		baseStats: {hp: 185, atk: 60, def: 40, spa: 88, spd: 88, spe: 70},
@@ -23406,7 +23406,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Field"],
 	},
 	wobbuffetblissey: {
-		num: 10651,
+		num: 10598,
 		name: "wobbuffetblissey",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 211, atk: 17, def: 26, spa: 47, spd: 83, spe: 47},
@@ -23417,7 +23417,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	blisseywobbuffet: {
-		num: 10652,
+		num: 10599,
 		name: "blisseywobbuffet",
 		types: ["Normal", "Psychic"],
 		baseStats: {hp: 233, atk: 25, def: 42, spa: 61, spd: 109, spe: 40},
@@ -23428,7 +23428,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Fairy"],
 	},
 	golemfearow: {
-		num: 10653,
+		num: 10600,
 		name: "golemfearow",
 		types: ["Rock", "Flying"],
 		baseStats: {hp: 75, atk: 100, def: 86, spa: 57, spd: 63, spe: 81},
@@ -23439,7 +23439,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Mineral"],
 	},
 	lucariomew: {
-		num: 10654,
+		num: 10601,
 		name: "lucariomew",
 		types: ["Fighting", "Psychic"],
 		baseStats: {hp: 80, atk: 103, def: 90, spa: 110, spd: 80, spe: 96},
@@ -23450,7 +23450,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	charizardblastoise: {
-		num: 10655,
+		num: 10602,
 		name: "charizardblastoise",
 		types: ["Fire", "Water"],
 		baseStats: {hp: 78, atk: 83, def: 92, spa: 101, spd: 91, spe: 85},
@@ -23461,7 +23461,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	jigglypuffmachamp: {
-		num: 10656,
+		num: 10603,
 		name: "jigglypuffmachamp",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 106, atk: 101, def: 60, spa: 51, spd: 45, spe: 43},
@@ -23473,7 +23473,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Fairy"],
 	},
 	articunogardevoir: {
-		num: 10657,
+		num: 10604,
 		name: "articunogardevoir",
 		types: ["Ice", "Fairy"],
 		baseStats: {hp: 82, atk: 71, def: 76, spa: 105, spd: 121, spe: 81},
@@ -23484,7 +23484,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	zapdosscizor: {
-		num: 10658,
+		num: 10605,
 		name: "zapdosscizor",
 		types: ["Electric", "Bug"],
 		baseStats: {hp: 83, atk: 116, def: 95, spa: 101, spd: 86, spe: 76},
@@ -23495,7 +23495,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	mamoswinedragonite: {
-		num: 10659,
+		num: 10606,
 		name: "mamoswinedragonite",
 		types: ["Ice", "Dragon"],
 		baseStats: {hp: 103, atk: 132, def: 90, spa: 80, spd: 73, spe: 80},
@@ -23506,9 +23506,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	regigigasshuckle: {
-		num: 10660,
+		num: 10607,
 		name: "regigigasshuckle",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 80, atk: 60, def: 190, spa: 56, spd: 150, spe: 36},
 		abilities: {0: "Slow Start", 1: "Gluttony", H: "Contrary"},
 		heightm: 2.15,
@@ -23517,7 +23517,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	palkiadialga: {
-		num: 10661,
+		num: 10608,
 		name: "palkiadialga",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 93, atk: 120, def: 113, spa: 150, spd: 113, spe: 93},
@@ -23528,7 +23528,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	dialgapalkia: {
-		num: 10662,
+		num: 10609,
 		name: "dialgapalkia",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 96, atk: 120, def: 106, spa: 150, spd: 106, spe: 96},
@@ -23539,9 +23539,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	palkiakingler: {
-		num: 10663,
+		num: 10610,
 		name: "palkiakingler",
-		types: ["Dragon", "Water"],
+		types: ["Water", "Dragon"],
 		baseStats: {hp: 78, atk: 126, def: 110, spa: 116, spd: 96, spe: 83},
 		abilities: {0: "Pressure", 1: "Shell Armor", H: "Telepathy"},
 		heightm: 2.75,
@@ -23550,7 +23550,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Undiscovered"],
 	},
 	zekromgardevoir: {
-		num: 10664,
+		num: 10611,
 		name: "zekromgardevoir",
 		types: ["Dragon", "Fairy"],
 		baseStats: {hp: 89, atk: 93, def: 83, spa: 121, spd: 105, spe: 83},
@@ -23561,7 +23561,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	zekromhitmonlee: {
-		num: 10665,
+		num: 10612,
 		name: "zekromhitmonlee",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 83, atk: 130, def: 75, spa: 91, spd: 103, spe: 88},
@@ -23572,7 +23572,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	zekromhitmonchan: {
-		num: 10666,
+		num: 10613,
 		name: "zekromhitmonchan",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 83, atk: 120, def: 92, spa: 91, spd: 103, spe: 80},
@@ -23583,9 +23583,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	zekromdialga: {
-		num: 10667,
+		num: 10614,
 		name: "zekromdialga",
-		types: ["Electric", "Dragon"],
+		types: ["Dragon", "Steel"],
 		baseStats: {hp: 100, atk: 130, def: 120, spa: 130, spd: 100, spe: 90},
 		abilities: {0: "Teravolt", 1: "Pressure", H: ""},
 		heightm: 4.15,
@@ -23594,7 +23594,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	gengargardevoir: {
-		num: 10668,
+		num: 10615,
 		name: "gengargardevoir",
 		types: ["Ghost", "Fairy"],
 		baseStats: {hp: 62, atk: 65, def: 63, spa: 128, spd: 88, spe: 90},
@@ -23605,7 +23605,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	reshiramhitmonchan: {
-		num: 10669,
+		num: 10616,
 		name: "reshiramhitmonchan",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 83, atk: 110, def: 86, spa: 111, spd: 116, spe: 80},
@@ -23616,7 +23616,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	dialgahitmonchan: {
-		num: 10670,
+		num: 10617,
 		name: "dialgahitmonchan",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 83, atk: 110, def: 92, spa: 111, spd: 103, spe: 80},
@@ -23627,7 +23627,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	glaceonarcanine: {
-		num: 10671,
+		num: 10618,
 		name: "glaceonarcanine",
 		types: ["Ice", "Fire"],
 		baseStats: {hp: 73, atk: 93, def: 90, spa: 120, spd: 90, spe: 85},
@@ -23638,7 +23638,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	arcaninedragonite: {
-		num: 10672,
+		num: 10619,
 		name: "arcaninedragonite",
 		types: ["Fire", "Dragon"],
 		baseStats: {hp: 90, atk: 126, def: 90, spa: 100, spd: 86, spe: 85},
@@ -23649,7 +23649,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	dragonitearcanine: {
-		num: 10673,
+		num: 10620,
 		name: "dragonitearcanine",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 90, atk: 118, def: 85, spa: 100, spd: 93, spe: 90},
@@ -23660,7 +23660,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dialgagroudon: {
-		num: 10674,
+		num: 10621,
 		name: "dialgagroudon",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 100, atk: 140, def: 133, spa: 133, spd: 96, spe: 90},
@@ -23671,7 +23671,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	arbokmilotic: {
-		num: 10675,
+		num: 10622,
 		name: "arbokmilotic",
 		types: ["Poison", "Water"],
 		baseStats: {hp: 71, atk: 71, def: 75, spa: 76, spd: 94, spe: 80},
@@ -23682,9 +23682,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	arceusazumarill: {
-		num: 10676,
+		num: 10623,
 		name: "arceusazumarill",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Fairy"],
 		baseStats: {hp: 113, atk: 73, def: 93, spa: 100, spd: 106, spe: 73},
 		abilities: {0: "Multitype", 1: "Huge Power", H: "Sap Sipper"},
 		heightm: 2.0,
@@ -23693,7 +23693,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	omastararceus: {
-		num: 10677,
+		num: 10624,
 		name: "omastararceus",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 86, atk: 100, def: 121, spa: 116, spd: 86, spe: 98},
@@ -23704,7 +23704,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	ampharospidgeot: {
-		num: 10678,
+		num: 10625,
 		name: "ampharospidgeot",
 		types: ["Electric", "Flying"],
 		baseStats: {hp: 87, atk: 78, def: 78, spa: 100, spd: 83, spe: 85},
@@ -23715,7 +23715,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	mismagiusrampardos: {
-		num: 10679,
+		num: 10626,
 		name: "mismagiusrampardos",
 		types: ["Ghost", "Rock"],
 		baseStats: {hp: 72, atk: 130, def: 60, spa: 91, spd: 86, spe: 73},
@@ -23726,7 +23726,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	gengarblissey: {
-		num: 10680,
+		num: 10627,
 		name: "gengarblissey",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 125, atk: 28, def: 26, spa: 111, spd: 95, spe: 73},
@@ -23737,7 +23737,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	blastoiseraichu: {
-		num: 10681,
+		num: 10628,
 		name: "blastoiseraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 72, atk: 87, def: 70, spa: 86, spd: 96, spe: 99},
@@ -23748,9 +23748,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	snorlaxtyranitar: {
-		num: 10682,
+		num: 10629,
 		name: "snorlaxtyranitar",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Dark"],
 		baseStats: {hp: 140, atk: 126, def: 95, spa: 75, spd: 106, spe: 50},
 		abilities: {0: "Immunity", 1: "Unnerve", H: "Gluttony"},
 		heightm: 2.05,
@@ -23759,7 +23759,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	golduckprimeape: {
-		num: 10683,
+		num: 10630,
 		name: "golduckprimeape",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 75, atk: 97, def: 66, spa: 83, spd: 76, spe: 91},
@@ -23770,7 +23770,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dusknoirampharos: {
-		num: 10684,
+		num: 10631,
 		name: "dusknoirampharos",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 60, atk: 83, def: 101, spa: 81, spd: 120, spe: 51},
@@ -23781,7 +23781,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	dusclopsampharos: {
-		num: 10685,
+		num: 10632,
 		name: "dusclopsampharos",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 56, atk: 73, def: 100, spa: 78, spd: 116, spe: 45},
@@ -23793,7 +23793,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	wobbuffetmuk: {
-		num: 10686,
+		num: 10633,
 		name: "wobbuffetmuk",
 		types: ["Psychic", "Poison"],
 		baseStats: {hp: 161, atk: 81, def: 69, spa: 43, spd: 72, spe: 44},
@@ -23804,7 +23804,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Amorphous"],
 	},
 	regigigaspidgeot: {
-		num: 10687,
+		num: 10634,
 		name: "regigigaspidgeot",
 		types: ["Normal", "Flying"],
 		baseStats: {hp: 101, atk: 106, def: 86, spa: 76, spd: 96, spe: 100},
@@ -23815,9 +23815,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	smeargledoublade: {
-		num: 10688,
+		num: 10635,
 		name: "smeargledoublade",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Ghost"],
 		baseStats: {hp: 56, atk: 80, def: 111, spa: 28, spd: 46, spe: 48},
 		abilities: {0: "Own Tempo", 1: "No Guard", H: "Moody"},
 		heightm: 1.0,
@@ -23827,7 +23827,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	sandslashrampardos: {
-		num: 10689,
+		num: 10636,
 		name: "sandslashrampardos",
 		types: ["Ground", "Rock"],
 		baseStats: {hp: 82, atk: 143, def: 76, spa: 51, spd: 53, spe: 60},
@@ -23838,7 +23838,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	seakingqwilfish: {
-		num: 10690,
+		num: 10637,
 		name: "seakingqwilfish",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 75, atk: 94, def: 78, spa: 61, spd: 71, spe: 79},
@@ -23849,7 +23849,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 2"],
 	},
 	shuckleazumarill: {
-		num: 10691,
+		num: 10638,
 		name: "shuckleazumarill",
 		types: ["Bug", "Fairy"],
 		baseStats: {hp: 46, atk: 36, def: 130, spa: 26, spd: 180, spe: 35},
@@ -23860,7 +23860,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	dusknoirninetales: {
-		num: 10692,
+		num: 10639,
 		name: "dusknoirninetales",
 		types: ["Ghost", "Fire"],
 		baseStats: {hp: 54, atk: 84, def: 95, spa: 70, spd: 123, spe: 81},
@@ -23871,7 +23871,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	flareontauros: {
-		num: 10693,
+		num: 10640,
 		name: "flareontauros",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 68, atk: 110, def: 83, spa: 76, spd: 96, spe: 95},
@@ -23882,7 +23882,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	magcargosnorlax: {
-		num: 10694,
+		num: 10641,
 		name: "magcargosnorlax",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 93, atk: 90, def: 83, spa: 81, spd: 90, spe: 30},
@@ -23893,7 +23893,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	haunterclefable: {
-		num: 10695,
+		num: 10642,
 		name: "haunterclefable",
 		types: ["Ghost", "Fairy"],
 		baseStats: {hp: 61, atk: 63, def: 63, spa: 108, spd: 66, spe: 71},
@@ -23905,7 +23905,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	articunotyranitar: {
-		num: 10696,
+		num: 10643,
 		name: "articunotyranitar",
 		types: ["Ice", "Dark"],
 		baseStats: {hp: 93, atk: 117, def: 106, spa: 95, spd: 116, spe: 69},
@@ -23916,7 +23916,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	blazikenbutterfree: {
-		num: 10697,
+		num: 10644,
 		name: "blazikenbutterfree",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 73, atk: 70, def: 56, spa: 103, spd: 73, spe: 73},
@@ -23927,7 +23927,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	crobatscizor: {
-		num: 10698,
+		num: 10645,
 		name: "crobatscizor",
 		types: ["Poison", "Bug"],
 		baseStats: {hp: 80, atk: 116, def: 93, spa: 65, spd: 80, spe: 86},
@@ -23938,7 +23938,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	butterfreealakazam: {
-		num: 10699,
+		num: 10646,
 		name: "butterfreealakazam",
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 58, atk: 48, def: 46, spa: 105, spd: 85, spe: 103},
@@ -23949,7 +23949,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	arcanineninetales: {
-		num: 10700,
+		num: 10647,
 		name: "arcanineninetales",
 		types: ["Fire"],
 		baseStats: {hp: 84, atk: 87, def: 76, spa: 93, spd: 86, spe: 98},
@@ -23960,9 +23960,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	porygonzslowking: {
-		num: 10701,
+		num: 10648,
 		name: "porygonzslowking",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Psychic"],
 		baseStats: {hp: 88, atk: 76, def: 76, spa: 123, spd: 86, spe: 50},
 		abilities: {0: "Adaptability", 1: "Own Tempo", H: "Analytic"},
 		heightm: 1.45,
@@ -23971,7 +23971,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	articunorapidash: {
-		num: 10702,
+		num: 10649,
 		name: "articunorapidash",
 		types: ["Ice", "Fire"],
 		baseStats: {hp: 81, atk: 95, def: 80, spa: 90, spd: 110, spe: 98},
@@ -23982,7 +23982,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	dugtrioraichu: {
-		num: 10703,
+		num: 10650,
 		name: "dugtrioraichu",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 43, atk: 93, def: 53, spa: 63, spd: 73, spe: 113},
@@ -23993,7 +23993,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	gardevoirraichu: {
-		num: 10704,
+		num: 10651,
 		name: "gardevoirraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 65, atk: 81, def: 58, spa: 113, spd: 103, spe: 100},
@@ -24004,7 +24004,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	mismagiusraichu: {
-		num: 10705,
+		num: 10652,
 		name: "mismagiusraichu",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 60, atk: 80, def: 56, spa: 100, spd: 96, spe: 108},
@@ -24015,7 +24015,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	empoleonraichu: {
-		num: 10706,
+		num: 10653,
 		name: "empoleonraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 76, atk: 88, def: 66, spa: 104, spd: 94, spe: 93},
@@ -24026,7 +24026,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	togekissraichu: {
-		num: 10707,
+		num: 10654,
 		name: "togekissraichu",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 76, atk: 76, def: 68, spa: 110, spd: 103, spe: 100},
@@ -24037,7 +24037,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	azumarillraichu: {
-		num: 10708,
+		num: 10655,
 		name: "azumarillraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 86, atk: 76, def: 63, spa: 70, spd: 80, spe: 90},
@@ -24048,7 +24048,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dusknoironix: {
-		num: 10709,
+		num: 10656,
 		name: "dusknoironix",
 		types: ["Ghost", "Rock"],
 		baseStats: {hp: 41, atk: 63, def: 151, spa: 53, spd: 105, spe: 61},
@@ -24060,7 +24060,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	kabutopspidgeot: {
-		num: 10710,
+		num: 10657,
 		name: "kabutopspidgeot",
 		types: ["Rock", "Flying"],
 		baseStats: {hp: 67, atk: 91, def: 85, spa: 66, spd: 70, spe: 94},
@@ -24071,7 +24071,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	parasectgolem: {
-		num: 10711,
+		num: 10658,
 		name: "parasectgolem",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 66, atk: 111, def: 113, spa: 58, spd: 75, spe: 40},
@@ -24082,7 +24082,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	azumarillrampardos: {
-		num: 10712,
+		num: 10659,
 		name: "azumarillrampardos",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 99, atk: 126, def: 66, spa: 61, spd: 70, spe: 55},
@@ -24093,7 +24093,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	butterfreeraichu: {
-		num: 10713,
+		num: 10660,
 		name: "butterfreeraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 60, atk: 75, def: 53, spa: 90, spd: 80, spe: 96},
@@ -24104,7 +24104,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	umbreonraichu: {
-		num: 10714,
+		num: 10661,
 		name: "umbreonraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 83, atk: 81, def: 73, spa: 70, spd: 113, spe: 95},
@@ -24115,7 +24115,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	arbokraichu: {
-		num: 10715,
+		num: 10662,
 		name: "arbokraichu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 60, atk: 91, def: 59, spa: 73, spd: 79, spe: 100},
@@ -24126,7 +24126,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	garchompraichu: {
-		num: 10716,
+		num: 10663,
 		name: "garchompraichu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 92, atk: 103, def: 68, spa: 83, spd: 83, spe: 107},
@@ -24137,7 +24137,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	blazikenraichu: {
-		num: 10717,
+		num: 10664,
 		name: "blazikenraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 73, atk: 100, def: 60, spa: 103, spd: 73, spe: 100},
@@ -24148,7 +24148,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	sceptileraichu: {
-		num: 10718,
+		num: 10665,
 		name: "sceptileraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 66, atk: 88, def: 58, spa: 100, spd: 83, spe: 113},
@@ -24159,7 +24159,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	shedinjashuckle: {
-		num: 10719,
+		num: 10666,
 		name: "shedinjashuckle",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 1, atk: 36, def: 168, spa: 23, spd: 96, spe: 16},
@@ -24170,7 +24170,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	shuckleshedinja: {
-		num: 10720,
+		num: 10667,
 		name: "shuckleshedinja",
 		types: ["Bug", "Ghost"],
 		baseStats: {hp: 1, atk: 63, def: 106, spa: 16, spd: 163, spe: 28},
@@ -24181,7 +24181,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	jumpluffraichu: {
-		num: 10721,
+		num: 10668,
 		name: "jumpluffraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 70, atk: 78, def: 60, spa: 66, spd: 90, spe: 110},
@@ -24192,7 +24192,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	nidokingraichu: {
-		num: 10722,
+		num: 10669,
 		name: "nidokingraichu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 74, atk: 94, def: 62, spa: 86, spd: 76, spe: 101},
@@ -24203,7 +24203,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	dittoraichu: {
-		num: 10723,
+		num: 10670,
 		name: "dittoraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 52, atk: 76, def: 52, spa: 62, spd: 58, spe: 89},
@@ -24214,7 +24214,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Ditto"],
 	},
 	slowbroraichu: {
-		num: 10724,
+		num: 10671,
 		name: "slowbroraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 83, atk: 85, def: 73, spa: 96, spd: 80, spe: 83},
@@ -24225,7 +24225,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	gengarraichu: {
-		num: 10725,
+		num: 10672,
 		name: "gengarraichu",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 60, atk: 81, def: 56, spa: 116, spd: 76, spe: 110},
@@ -24236,7 +24236,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	venomothraichu: {
-		num: 10726,
+		num: 10673,
 		name: "venomothraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 66, atk: 81, def: 56, spa: 90, spd: 76, spe: 103},
@@ -24247,7 +24247,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	omastarraichu: {
-		num: 10727,
+		num: 10674,
 		name: "omastarraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 66, atk: 80, def: 78, spa: 106, spd: 73, spe: 91},
@@ -24258,7 +24258,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	yanmegaraichu: {
-		num: 10728,
+		num: 10675,
 		name: "yanmegaraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 77, atk: 85, def: 65, spa: 107, spd: 64, spe: 105},
@@ -24269,7 +24269,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	swampertraichu: {
-		num: 10729,
+		num: 10676,
 		name: "swampertraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 86, atk: 96, def: 66, spa: 86, spd: 86, spe: 93},
@@ -24280,7 +24280,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	clefableraichu: {
-		num: 10730,
+		num: 10677,
 		name: "clefableraichu",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 83, atk: 83, def: 61, spa: 93, spd: 86, spe: 93},
@@ -24291,7 +24291,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	furretraichu: {
-		num: 10731,
+		num: 10678,
 		name: "furretraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 76, atk: 85, def: 58, spa: 60, spd: 63, spe: 103},
@@ -24302,7 +24302,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	mewtworaichu: {
-		num: 10732,
+		num: 10679,
 		name: "mewtworaichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 90, atk: 96, def: 66, spa: 132, spd: 86, spe: 116},
@@ -24313,7 +24313,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	darkrairaichu: {
-		num: 10733,
+		num: 10680,
 		name: "darkrairaichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 66, atk: 90, def: 66, spa: 120, spd: 86, spe: 115},
@@ -24324,7 +24324,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	dodriogarchomp: {
-		num: 10734,
+		num: 10681,
 		name: "dodriogarchomp",
 		types: ["Flying", "Ground"],
 		baseStats: {hp: 76, atk: 123, def: 86, spa: 66, spd: 68, spe: 104},
@@ -24335,7 +24335,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	togekisscharizard: {
-		num: 10735,
+		num: 10682,
 		name: "togekisscharizard",
 		types: ["Fairy", "Fire"],
 		baseStats: {hp: 82, atk: 72, def: 83, spa: 116, spd: 105, spe: 93},
@@ -24346,7 +24346,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	ampharosdragonite: {
-		num: 10736,
+		num: 10683,
 		name: "ampharosdragonite",
 		types: ["Electric", "Dragon"],
 		baseStats: {hp: 90, atk: 114, def: 91, spa: 110, spd: 93, spe: 71},
@@ -24357,7 +24357,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	doublademarowak: {
-		num: 10737,
+		num: 10684,
 		name: "doublademarowak",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 59, atk: 90, def: 123, spa: 46, spd: 59, spe: 41},
@@ -24369,7 +24369,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	gyaradosnidoking: {
-		num: 10738,
+		num: 10685,
 		name: "gyaradosnidoking",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 90, atk: 109, def: 77, spa: 68, spd: 91, spe: 83},
@@ -24380,7 +24380,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 2"],
 	},
 	aggronshedinja: {
-		num: 10739,
+		num: 10686,
 		name: "aggronshedinja",
 		types: ["Steel", "Ghost"],
 		baseStats: {hp: 1, atk: 96, def: 90, spa: 50, spd: 50, spe: 43},
@@ -24391,9 +24391,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	regigigasazumarill: {
-		num: 10740,
+		num: 10687,
 		name: "regigigasazumarill",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Fairy"],
 		baseStats: {hp: 106, atk: 86, def: 90, spa: 73, spd: 100, spe: 66},
 		abilities: {0: "Slow Start", 1: "Huge Power", H: "Sap Sipper"},
 		heightm: 2.25,
@@ -24402,7 +24402,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	magnemitehappiny: {
-		num: 10741,
+		num: 10688,
 		name: "magnemitehappiny",
 		types: ["Steel", "Normal"],
 		baseStats: {hp: 50, atk: 15, def: 26, spa: 68, spd: 58, spe: 35},
@@ -24414,7 +24414,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	magikarphappiny: {
-		num: 10742,
+		num: 10689,
 		name: "magikarphappiny",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 46, atk: 6, def: 21, spa: 15, spd: 35, spe: 46},
@@ -24426,7 +24426,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 2"],
 	},
 	blazikendragonite: {
-		num: 10743,
+		num: 10690,
 		name: "blazikendragonite",
 		types: ["Fire", "Dragon"],
 		baseStats: {hp: 83, atk: 129, def: 86, spa: 106, spd: 80, spe: 80},
@@ -24437,7 +24437,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	unownsmeargle: {
-		num: 10744,
+		num: 10691,
 		name: "unownsmeargle",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 50, atk: 37, def: 39, spa: 54, spd: 47, spe: 66},
@@ -24448,7 +24448,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	persianjolteon: {
-		num: 10745,
+		num: 10692,
 		name: "persianjolteon",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 65, atk: 66, def: 60, spa: 80, spd: 75, spe: 125},
@@ -24459,7 +24459,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	jolteonpersian: {
-		num: 10746,
+		num: 10693,
 		name: "jolteonpersian",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 65, atk: 68, def: 60, spa: 95, spd: 85, spe: 120},
@@ -24470,7 +24470,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	butterfreeblaziken: {
-		num: 10747,
+		num: 10694,
 		name: "butterfreeblaziken",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 66, atk: 95, def: 63, spa: 96, spd: 76, spe: 76},
@@ -24481,9 +24481,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	palkiaseaking: {
-		num: 10748,
+		num: 10695,
 		name: "palkiaseaking",
-		types: ["Dragon", "Water"],
+		types: ["Water", "Dragon"],
 		baseStats: {hp: 86, atk: 101, def: 76, spa: 121, spd: 106, spe: 78},
 		abilities: {0: "Pressure", 1: "Water Veil", H: "Telepathy"},
 		heightm: 2.75,
@@ -24492,7 +24492,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Undiscovered"],
 	},
 	palkiagallade: {
-		num: 10749,
+		num: 10696,
 		name: "palkiagallade",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 82, atk: 123, def: 76, spa: 121, spd: 118, spe: 86},
@@ -24503,9 +24503,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	palkiavaporeon: {
-		num: 10750,
+		num: 10697,
 		name: "palkiavaporeon",
-		types: ["Dragon", "Water"],
+		types: ["Water", "Dragon"],
 		baseStats: {hp: 103, atk: 83, def: 73, spa: 136, spd: 111, spe: 76},
 		abilities: {0: "Pressure", 1: "Hydration", H: "Telepathy"},
 		heightm: 2.6,
@@ -24514,7 +24514,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	palkiarapidash: {
-		num: 10751,
+		num: 10698,
 		name: "palkiarapidash",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 81, atk: 106, def: 80, spa: 126, spd: 106, spe: 103},
@@ -24525,7 +24525,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	palkiagliscor: {
-		num: 10752,
+		num: 10699,
 		name: "palkiagliscor",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 85, atk: 103, def: 116, spa: 115, spd: 105, spe: 96},
@@ -24536,7 +24536,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	palkiamachamp: {
-		num: 10753,
+		num: 10700,
 		name: "palkiamachamp",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 90, atk: 126, def: 86, spa: 121, spd: 108, spe: 70},
@@ -24547,7 +24547,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	palkiajynx: {
-		num: 10754,
+		num: 10701,
 		name: "palkiajynx",
 		types: ["Water", "Psychic"],
 		baseStats: {hp: 81, atk: 73, def: 56, spa: 138, spd: 111, spe: 96},
@@ -24558,7 +24558,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	palkiagardevoir: {
-		num: 10755,
+		num: 10702,
 		name: "palkiagardevoir",
 		types: ["Water", "Fairy"],
 		baseStats: {hp: 82, atk: 83, def: 76, spa: 141, spd: 118, spe: 86},
@@ -24569,7 +24569,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	palkiatauros: {
-		num: 10756,
+		num: 10703,
 		name: "palkiatauros",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 85, atk: 106, def: 96, spa: 113, spd: 103, spe: 106},
@@ -24580,7 +24580,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	palkiasteelix: {
-		num: 10757,
+		num: 10704,
 		name: "palkiasteelix",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 85, atk: 96, def: 166, spa: 118, spd: 101, spe: 53},
@@ -24591,7 +24591,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	palkiaonix: {
-		num: 10758,
+		num: 10705,
 		name: "palkiaonix",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 71, atk: 70, def: 140, spa: 110, spd: 95, spe: 80},
@@ -24603,7 +24603,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	mamoswineregigigas: {
-		num: 10759,
+		num: 10706,
 		name: "mamoswineregigigas",
 		types: ["Ice", "Normal"],
 		baseStats: {hp: 110, atk: 150, def: 100, spa: 73, spd: 76, spe: 93},
@@ -24614,7 +24614,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	aegislashhitmonchan: {
-		num: 10760,
+		num: 10707,
 		name: "aegislashhitmonchan",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 56, atk: 86, def: 99, spa: 45, spd: 130, spe: 70},
@@ -24625,7 +24625,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	ninetalesraichu: {
-		num: 10761,
+		num: 10708,
 		name: "ninetalesraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 68, atk: 85, def: 61, spa: 84, spd: 93, spe: 106},
@@ -24636,7 +24636,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichuninetales: {
-		num: 10762,
+		num: 10709,
 		name: "raichuninetales",
 		types: ["Electric", "Fire"],
 		baseStats: {hp: 64, atk: 80, def: 68, spa: 87, spd: 86, spe: 103},
@@ -24647,9 +24647,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	zapdosraichu: {
-		num: 10763,
+		num: 10710,
 		name: "zapdosraichu",
-		types: ["Electric"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 80, atk: 90, def: 65, spa: 113, spd: 86, spe: 106},
 		abilities: {0: "Pressure", H: "Static"},
 		heightm: 1.2000000000000002,
@@ -24658,7 +24658,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	articunoraichu: {
-		num: 10764,
+		num: 10711,
 		name: "articunoraichu",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 80, atk: 88, def: 70, spa: 93, spd: 110, spe: 101},
@@ -24669,7 +24669,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	moltresraichu: {
-		num: 10765,
+		num: 10712,
 		name: "moltresraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 80, atk: 93, def: 66, spa: 113, spd: 83, spe: 103},
@@ -24680,7 +24680,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	celebiraichu: {
-		num: 10766,
+		num: 10713,
 		name: "celebiraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 86, atk: 93, def: 70, spa: 96, spd: 93, spe: 106},
@@ -24691,7 +24691,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	charizardraichu: {
-		num: 10767,
+		num: 10714,
 		name: "charizardraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 72, atk: 88, def: 62, spa: 102, spd: 83, spe: 106},
@@ -24702,7 +24702,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	beedrillraichu: {
-		num: 10768,
+		num: 10715,
 		name: "beedrillraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 63, atk: 90, def: 50, spa: 60, spd: 80, spe: 98},
@@ -24713,7 +24713,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	raichuraichu: {
-		num: 10769,
+		num: 10716,
 		name: "raichuraichu",
 		types: ["Electric"],
 		baseStats: {hp: 60, atk: 90, def: 55, spa: 90, spd: 80, spe: 110},
@@ -24724,7 +24724,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	weezingraichu: {
-		num: 10770,
+		num: 10717,
 		name: "weezingraichu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 63, atk: 90, def: 76, spa: 86, spd: 73, spe: 93},
@@ -24735,7 +24735,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	mukraichu: {
-		num: 10771,
+		num: 10718,
 		name: "mukraichu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 90, atk: 95, def: 61, spa: 73, spd: 93, spe: 90},
@@ -24746,7 +24746,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	infernaperaichu: {
-		num: 10772,
+		num: 10719,
 		name: "infernaperaichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 70, atk: 94, def: 60, spa: 99, spd: 74, spe: 109},
@@ -24757,7 +24757,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	fearowraichu: {
-		num: 10773,
+		num: 10720,
 		name: "fearowraichu",
 		types: ["Flying", "Electric"],
 		baseStats: {hp: 63, atk: 90, def: 58, spa: 70, spd: 67, spe: 106},
@@ -24768,7 +24768,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	wigglytuffraichu: {
-		num: 10774,
+		num: 10721,
 		name: "wigglytuffraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 113, atk: 83, def: 51, spa: 86, spd: 60, spe: 88},
@@ -24779,7 +24779,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	rapidashraichu: {
-		num: 10775,
+		num: 10722,
 		name: "rapidashraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 63, atk: 93, def: 60, spa: 83, spd: 80, spe: 108},
@@ -24790,7 +24790,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	torterraraichu: {
-		num: 10776,
+		num: 10723,
 		name: "torterraraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 83, atk: 96, def: 71, spa: 80, spd: 83, spe: 92},
@@ -24801,7 +24801,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	leafeonraichu: {
-		num: 10777,
+		num: 10724,
 		name: "leafeonraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 63, atk: 96, def: 80, spa: 70, spd: 70, spe: 105},
@@ -24812,7 +24812,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	vaporeonraichu: {
-		num: 10778,
+		num: 10725,
 		name: "vaporeonraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 106, atk: 81, def: 56, spa: 103, spd: 90, spe: 95},
@@ -24823,7 +24823,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	aerodactylraichu: {
-		num: 10779,
+		num: 10726,
 		name: "aerodactylraichu",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 73, atk: 95, def: 58, spa: 70, spd: 76, spe: 116},
@@ -24834,7 +24834,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	slowkingraichu: {
-		num: 10780,
+		num: 10727,
 		name: "slowkingraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 83, atk: 85, def: 63, spa: 96, spd: 100, spe: 83},
@@ -24845,7 +24845,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	slakingraichu: {
-		num: 10781,
+		num: 10728,
 		name: "slakingraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 120, atk: 113, def: 70, spa: 93, spd: 70, spe: 106},
@@ -24856,7 +24856,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	sandslashraichu: {
-		num: 10782,
+		num: 10729,
 		name: "sandslashraichu",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 70, atk: 93, def: 73, spa: 60, spd: 63, spe: 95},
@@ -24867,7 +24867,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	magnezoneraichu: {
-		num: 10783,
+		num: 10730,
 		name: "magnezoneraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 66, atk: 83, def: 75, spa: 116, spd: 86, spe: 93},
@@ -24878,7 +24878,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	magmortarraichu: {
-		num: 10784,
+		num: 10731,
 		name: "magmortarraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 70, atk: 91, def: 59, spa: 113, spd: 90, spe: 101},
@@ -24889,7 +24889,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	gyaradosraichu: {
-		num: 10785,
+		num: 10732,
 		name: "gyaradosraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 83, atk: 101, def: 63, spa: 70, spd: 93, spe: 100},
@@ -24900,7 +24900,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	luxrayraichu: {
-		num: 10786,
+		num: 10733,
 		name: "luxrayraichu",
 		types: ["Electric"],
 		baseStats: {hp: 73, atk: 100, def: 63, spa: 93, spd: 79, spe: 96},
@@ -24911,7 +24911,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	parasectraichu: {
-		num: 10787,
+		num: 10734,
 		name: "parasectraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 60, atk: 91, def: 63, spa: 70, spd: 80, spe: 83},
@@ -24922,7 +24922,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	genesectraichu: {
-		num: 10788,
+		num: 10735,
 		name: "genesectraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 67, atk: 100, def: 68, spa: 110, spd: 90, spe: 106},
@@ -24933,7 +24933,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	golemraichu: {
-		num: 10789,
+		num: 10736,
 		name: "golemraichu",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 73, atk: 100, def: 80, spa: 66, spd: 70, spe: 88},
@@ -24944,7 +24944,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	alakazamraichu: {
-		num: 10790,
+		num: 10737,
 		name: "alakazamraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 56, atk: 76, def: 51, spa: 120, spd: 90, spe: 113},
@@ -24955,7 +24955,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	nidoqueenraichu: {
-		num: 10791,
+		num: 10738,
 		name: "nidoqueenraichu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 80, atk: 90, def: 65, spa: 80, spd: 83, spe: 98},
@@ -24966,7 +24966,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	pidgeotraichu: {
-		num: 10792,
+		num: 10739,
 		name: "pidgeotraichu",
 		types: ["Flying", "Electric"],
 		baseStats: {hp: 75, atk: 86, def: 61, spa: 76, spd: 73, spe: 107},
@@ -24977,7 +24977,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	golbatraichu: {
-		num: 10793,
+		num: 10740,
 		name: "golbatraichu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 70, atk: 86, def: 60, spa: 73, spd: 76, spe: 103},
@@ -24989,7 +24989,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	smeargleraichu: {
-		num: 10794,
+		num: 10741,
 		name: "smeargleraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 56, atk: 66, def: 48, spa: 43, spd: 56, spe: 98},
@@ -25000,7 +25000,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	salamenceraichu: {
-		num: 10795,
+		num: 10742,
 		name: "salamenceraichu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 83, atk: 105, def: 63, spa: 103, spd: 80, spe: 106},
@@ -25011,7 +25011,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	metagrossraichu: {
-		num: 10796,
+		num: 10743,
 		name: "metagrossraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 73, atk: 105, def: 80, spa: 93, spd: 86, spe: 96},
@@ -25022,7 +25022,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	kingdraraichu: {
-		num: 10797,
+		num: 10744,
 		name: "kingdraraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 70, atk: 91, def: 68, spa: 93, spd: 90, spe: 101},
@@ -25033,7 +25033,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dragoniteraichu: {
-		num: 10798,
+		num: 10745,
 		name: "dragoniteraichu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 80, atk: 104, def: 68, spa: 96, spd: 93, spe: 100},
@@ -25044,7 +25044,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	leafeonferaligatr: {
-		num: 10799,
+		num: 10746,
 		name: "leafeonferaligatr",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 71, atk: 106, def: 110, spa: 66, spd: 71, spe: 83},
@@ -25055,7 +25055,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	butterfreeluxray: {
-		num: 10800,
+		num: 10747,
 		name: "butterfreeluxray",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 66, atk: 95, def: 69, spa: 91, spd: 79, spe: 70},
@@ -25066,7 +25066,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	butterfreerapidash: {
-		num: 10801,
+		num: 10748,
 		name: "butterfreerapidash",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 61, atk: 81, def: 63, spa: 86, spd: 80, spe: 93},
@@ -25077,7 +25077,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	honchkrowraichu: {
-		num: 10802,
+		num: 10749,
 		name: "honchkrowraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 86, atk: 101, def: 54, spa: 100, spd: 61, spe: 97},
@@ -25088,7 +25088,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	doubladeraichu: {
-		num: 10803,
+		num: 10750,
 		name: "doubladeraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 59, atk: 96, def: 86, spa: 60, spd: 59, spe: 85},
@@ -25100,7 +25100,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	murkrowraichu: {
-		num: 10804,
+		num: 10751,
 		name: "murkrowraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 60, atk: 88, def: 50, spa: 86, spd: 54, spe: 103},
@@ -25112,7 +25112,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	onixraichu: {
-		num: 10805,
+		num: 10752,
 		name: "onixraichu",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 43, atk: 75, def: 90, spa: 50, spd: 56, spe: 96},
@@ -25124,7 +25124,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	steelixraichu: {
-		num: 10806,
+		num: 10753,
 		name: "steelixraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 70, atk: 88, def: 103, spa: 66, spd: 70, spe: 83},
@@ -25135,7 +25135,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	aegislashslowbro: {
-		num: 10807,
+		num: 10754,
 		name: "aegislashslowbro",
 		types: ["Steel", "Psychic"],
 		baseStats: {hp: 71, atk: 66, def: 120, spa: 66, spd: 120, spe: 40},
@@ -25146,9 +25146,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	jolteoncloyster: {
-		num: 10808,
+		num: 10755,
 		name: "jolteoncloyster",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Ice"],
 		baseStats: {hp: 60, atk: 85, def: 140, spa: 101, spd: 78, spe: 90},
 		abilities: {0: "Volt Absorb", 1: "Skill Link", H: "Quick Feet"},
 		heightm: 1.15,
@@ -25157,7 +25157,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	sylveonporygonz: {
-		num: 10809,
+		num: 10756,
 		name: "sylveonporygonz",
 		types: ["Fairy", "Normal"],
 		baseStats: {hp: 91, atk: 75, def: 68, spa: 118, spd: 111, spe: 80},
@@ -25168,7 +25168,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	sylveonregigigas: {
-		num: 10810,
+		num: 10757,
 		name: "sylveonregigigas",
 		types: ["Fairy", "Normal"],
 		baseStats: {hp: 100, atk: 128, def: 95, spa: 100, spd: 123, spe: 86},
@@ -25179,7 +25179,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	sylveonslaking: {
-		num: 10811,
+		num: 10758,
 		name: "sylveonslaking",
 		types: ["Fairy", "Normal"],
 		baseStats: {hp: 113, atk: 128, def: 88, spa: 105, spd: 108, spe: 86},
@@ -25190,9 +25190,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	leafeoncloyster: {
-		num: 10812,
+		num: 10759,
 		name: "leafeoncloyster",
-		types: ["Grass", "Water"],
+		types: ["Grass", "Ice"],
 		baseStats: {hp: 60, atk: 100, def: 163, spa: 68, spd: 58, spe: 78},
 		abilities: {0: "Leaf Guard", 1: "Skill Link", H: "Chlorophyll"},
 		heightm: 1.25,
@@ -25201,7 +25201,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	torterracloyster: {
-		num: 10813,
+		num: 10760,
 		name: "torterracloyster",
 		types: ["Grass", "Ice"],
 		baseStats: {hp: 80, atk: 99, def: 155, spa: 78, spd: 71, spe: 65},
@@ -25212,9 +25212,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Monster"],
 	},
 	darkraishedinja: {
-		num: 10814,
+		num: 10761,
 		name: "darkraishedinja",
-		types: ["Dark", "Bug"],
+		types: ["Dark", "Ghost"],
 		baseStats: {hp: 1, atk: 90, def: 60, spa: 100, spd: 70, spe: 68},
 		abilities: {0: "Bad Dreams", 1: "Wonder Guard", H: ""},
 		heightm: 1.15,
@@ -25223,9 +25223,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	blisseytyranitar: {
-		num: 10815,
+		num: 10762,
 		name: "blisseytyranitar",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Dark"],
 		baseStats: {hp: 203, atk: 92, def: 76, spa: 81, spd: 123, spe: 59},
 		abilities: {0: "Natural Cure", 1: "Unnerve", H: "Healer"},
 		heightm: 1.75,
@@ -25234,7 +25234,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Fairy"],
 	},
 	arcanineraichu: {
-		num: 10816,
+		num: 10763,
 		name: "arcanineraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 80, atk: 96, def: 63, spa: 96, spd: 80, spe: 105},
@@ -25245,7 +25245,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	shedinjaraichu: {
-		num: 10817,
+		num: 10764,
 		name: "shedinjaraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 1, atk: 90, def: 51, spa: 50, spd: 46, spe: 86},
@@ -25256,7 +25256,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	meganiumraichu: {
-		num: 10818,
+		num: 10765,
 		name: "meganiumraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 73, atk: 87, def: 70, spa: 85, spd: 93, spe: 100},
@@ -25267,7 +25267,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	dusknoirraichu: {
-		num: 10819,
+		num: 10766,
 		name: "dusknoirraichu",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 50, atk: 93, def: 81, spa: 73, spd: 116, spe: 88},
@@ -25278,7 +25278,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	dusclopsraichu: {
-		num: 10820,
+		num: 10767,
 		name: "dusclopsraichu",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 46, atk: 83, def: 80, spa: 70, spd: 113, spe: 81},
@@ -25290,7 +25290,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	golduckraichu: {
-		num: 10821,
+		num: 10768,
 		name: "golduckraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 73, atk: 87, def: 62, spa: 93, spd: 80, spe: 101},
@@ -25301,7 +25301,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dunsparceraichu: {
-		num: 10822,
+		num: 10769,
 		name: "dunsparceraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 86, atk: 83, def: 60, spa: 73, spd: 70, spe: 88},
@@ -25312,7 +25312,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	honedgeraichu: {
-		num: 10823,
+		num: 10770,
 		name: "honedgeraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 50, atk: 86, def: 70, spa: 53, spd: 51, spe: 82},
@@ -25324,7 +25324,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	porygonzraichu: {
-		num: 10824,
+		num: 10771,
 		name: "porygonzraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 76, atk: 86, def: 60, spa: 120, spd: 76, spe: 103},
@@ -25335,7 +25335,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	porygon2raichu: {
-		num: 10825,
+		num: 10772,
 		name: "porygon2raichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 76, atk: 86, def: 66, spa: 100, spd: 90, spe: 93},
@@ -25347,7 +25347,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	ursaringraichu: {
-		num: 10826,
+		num: 10773,
 		name: "ursaringraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 80, atk: 103, def: 61, spa: 80, spd: 76, spe: 91},
@@ -25358,7 +25358,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	bellossomraichu: {
-		num: 10827,
+		num: 10774,
 		name: "bellossomraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 70, atk: 86, def: 68, spa: 90, spd: 93, spe: 90},
@@ -25369,7 +25369,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	raikouraichu: {
-		num: 10828,
+		num: 10775,
 		name: "raikouraichu",
 		types: ["Electric"],
 		baseStats: {hp: 80, atk: 88, def: 61, spa: 106, spd: 93, spe: 111},
@@ -25380,9 +25380,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	chanseyshuckle: {
-		num: 10829,
+		num: 10776,
 		name: "chanseyshuckle",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 173, atk: 8, def: 155, spa: 26, spd: 146, spe: 20},
 		abilities: {0: "Natural Cure", 1: "Gluttony", H: "Healer"},
 		heightm: 0.8500000000000001,
@@ -25392,7 +25392,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Fairy"],
 	},
 	enteiraichu: {
-		num: 10830,
+		num: 10777,
 		name: "enteiraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 96, atk: 98, def: 65, spa: 90, spd: 76, spe: 106},
@@ -25403,7 +25403,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	tentacruelraichu: {
-		num: 10831,
+		num: 10778,
 		name: "tentacruelraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 73, atk: 83, def: 58, spa: 83, spd: 106, spe: 106},
@@ -25414,7 +25414,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	tentacruelpidgeot: {
-		num: 10832,
+		num: 10779,
 		name: "tentacruelpidgeot",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 76, def: 71, spa: 76, spd: 103, spe: 100},
@@ -25425,7 +25425,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 3"],
 	},
 	tentacruelninetales: {
-		num: 10833,
+		num: 10780,
 		name: "tentacruelninetales",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 77, atk: 74, def: 71, spa: 80, spd: 113, spe: 100},
@@ -25436,7 +25436,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	leafeonninetales: {
-		num: 10834,
+		num: 10781,
 		name: "leafeonninetales",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 67, atk: 87, def: 93, spa: 67, spd: 76, spe: 98},
@@ -25447,7 +25447,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	shedinjaninetales: {
-		num: 10835,
+		num: 10782,
 		name: "shedinjaninetales",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 1, atk: 80, def: 65, spa: 47, spd: 53, spe: 80},
@@ -25458,7 +25458,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	groudonblastoise: {
-		num: 10836,
+		num: 10783,
 		name: "groudonblastoise",
 		types: ["Ground", "Water"],
 		baseStats: {hp: 93, atk: 105, def: 113, spa: 95, spd: 95, spe: 82},
@@ -25469,7 +25469,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	butterfreecharizard: {
-		num: 10837,
+		num: 10784,
 		name: "butterfreecharizard",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 66, atk: 71, def: 68, spa: 96, spd: 81, spe: 90},
@@ -25480,7 +25480,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	gliscorraichu: {
-		num: 10838,
+		num: 10785,
 		name: "gliscorraichu",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 70, atk: 91, def: 78, spa: 60, spd: 76, spe: 105},
@@ -25491,9 +25491,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	wobbuffetshuckle: {
-		num: 10839,
+		num: 10786,
 		name: "wobbuffetshuckle",
-		types: ["Psychic", "Bug"],
+		types: ["Psychic", "Rock"],
 		baseStats: {hp: 133, atk: 17, def: 172, spa: 25, spd: 115, spe: 14},
 		abilities: {0: "Shadow Tag", 1: "Gluttony", H: "Telepathy"},
 		heightm: 0.95,
@@ -25502,9 +25502,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Amorphous"],
 	},
 	tangrowthshuckle: {
-		num: 10840,
+		num: 10787,
 		name: "tangrowthshuckle",
-		types: ["Grass", "Bug"],
+		types: ["Grass", "Rock"],
 		baseStats: {hp: 73, atk: 40, def: 195, spa: 76, spd: 110, spe: 20},
 		abilities: {0: "Chlorophyll", 1: "Gluttony", H: "Regenerator"},
 		heightm: 1.3,
@@ -25513,9 +25513,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Grass"],
 	},
 	tangrowthmetagross: {
-		num: 10841,
+		num: 10788,
 		name: "tangrowthmetagross",
-		types: ["Grass", "Steel"],
+		types: ["Grass", "Psychic"],
 		baseStats: {hp: 93, atk: 123, def: 128, spa: 105, spd: 63, spe: 63},
 		abilities: {0: "Chlorophyll", 1: "Light Metal", H: "Regenerator"},
 		heightm: 1.8,
@@ -25524,7 +25524,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Grass"],
 	},
 	tangrowthslaking: {
-		num: 10842,
+		num: 10789,
 		name: "tangrowthslaking",
 		types: ["Grass", "Normal"],
 		baseStats: {hp: 116, atk: 140, def: 108, spa: 105, spd: 55, spe: 83},
@@ -25535,7 +25535,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	tangrowthdragonite: {
-		num: 10843,
+		num: 10790,
 		name: "tangrowthdragonite",
 		types: ["Grass", "Dragon"],
 		baseStats: {hp: 97, atk: 122, def: 105, spa: 106, spd: 66, spe: 70},
@@ -25546,7 +25546,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Grass"],
 	},
 	metagrosstangrowth: {
-		num: 10844,
+		num: 10791,
 		name: "metagrosstangrowth",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 86, atk: 111, def: 126, spa: 100, spd: 76, spe: 56},
@@ -25557,7 +25557,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Mineral"],
 	},
 	parasecttangrowth: {
-		num: 10845,
+		num: 10792,
 		name: "parasecttangrowth",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 73, atk: 98, def: 110, spa: 76, spd: 70, spe: 43},
@@ -25568,7 +25568,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Bug"],
 	},
 	jynxgolduck: {
-		num: 10846,
+		num: 10793,
 		name: "jynxgolduck",
 		types: ["Ice", "Water"],
 		baseStats: {hp: 70, atk: 71, def: 63, spa: 108, spd: 90, spe: 88},
@@ -25579,7 +25579,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	marowakscyther: {
-		num: 10847,
+		num: 10794,
 		name: "marowakscyther",
 		types: ["Ground", "Bug"],
 		baseStats: {hp: 63, atk: 100, def: 90, spa: 51, spd: 80, spe: 85},
@@ -25591,9 +25591,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	electrodetogekiss: {
-		num: 10848,
+		num: 10795,
 		name: "electrodetogekiss",
-		types: ["Electric", "Fairy"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 68, atk: 50, def: 86, spa: 93, spd: 91, spe: 103},
 		abilities: {0: "Soundproof", 1: "Serene Grace", H: "Aftermath"},
 		heightm: 1.35,
@@ -25602,7 +25602,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Mineral"],
 	},
 	tyranitarampharos: {
-		num: 10849,
+		num: 10796,
 		name: "tyranitarampharos",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 96, atk: 94, def: 93, spa: 101, spd: 96, spe: 57},
@@ -25613,9 +25613,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	tyranitarshuckle: {
-		num: 10850,
+		num: 10797,
 		name: "tyranitarshuckle",
-		types: ["Dark", "Rock"],
+		types: ["Rock", "Bug"],
 		baseStats: {hp: 73, atk: 51, def: 190, spa: 66, spd: 143, spe: 23},
 		abilities: {0: "Sand Stream", 1: "Gluttony", H: "Unnerve"},
 		heightm: 1.3,
@@ -25624,7 +25624,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	shucklemachamp: {
-		num: 10851,
+		num: 10798,
 		name: "shucklemachamp",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 43, atk: 90, def: 130, spa: 28, spd: 181, spe: 38},
@@ -25635,7 +25635,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	bidoofraichu: {
-		num: 10852,
+		num: 10799,
 		name: "bidoofraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 59, atk: 75, def: 50, spa: 53, spd: 53, spe: 83},
@@ -25647,9 +25647,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	arcaninegarchomp: {
-		num: 10853,
+		num: 10800,
 		name: "arcaninegarchomp",
-		types: ["Fire", "Dragon"],
+		types: ["Fire", "Ground"],
 		baseStats: {hp: 96, atk: 123, def: 90, spa: 93, spd: 81, spe: 99},
 		abilities: {0: "Intimidate", 1: "Rough Skin", H: "Justified"},
 		heightm: 1.9,
@@ -25658,7 +25658,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	articunogarchomp: {
-		num: 10854,
+		num: 10801,
 		name: "articunogarchomp",
 		types: ["Ice", "Ground"],
 		baseStats: {hp: 96, atk: 115, def: 96, spa: 90, spd: 111, spe: 96},
@@ -25669,7 +25669,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	metagrossgarchomp: {
-		num: 10855,
+		num: 10802,
 		name: "metagrossgarchomp",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 89, atk: 131, def: 106, spa: 90, spd: 88, spe: 91},
@@ -25680,7 +25680,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	garchompmetagross: {
-		num: 10856,
+		num: 10803,
 		name: "garchompmetagross",
 		types: ["Dragon", "Psychic"],
 		baseStats: {hp: 98, atk: 133, def: 118, spa: 85, spd: 86, spe: 80},
@@ -25691,7 +25691,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	garchompdragonite: {
-		num: 10857,
+		num: 10804,
 		name: "garchompdragonite",
 		types: ["Dragon"],
 		baseStats: {hp: 102, atk: 132, def: 95, spa: 86, spd: 90, spe: 87},
@@ -25702,7 +25702,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	garchompmamoswine: {
-		num: 10858,
+		num: 10805,
 		name: "garchompmamoswine",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 108, atk: 130, def: 85, spa: 76, spd: 76, spe: 87},
@@ -25713,7 +25713,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	garchompcharizard: {
-		num: 10859,
+		num: 10806,
 		name: "garchompcharizard",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 98, atk: 99, def: 83, spa: 89, spd: 85, spe: 100},
@@ -25724,7 +25724,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	garchompbisharp: {
-		num: 10860,
+		num: 10807,
 		name: "garchompbisharp",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 93, atk: 126, def: 98, spa: 73, spd: 80, spe: 80},
@@ -25735,7 +25735,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	garchompblastoise: {
-		num: 10861,
+		num: 10808,
 		name: "garchompblastoise",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 98, atk: 98, def: 98, spa: 81, spd: 91, spe: 86},
@@ -25746,7 +25746,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	garchompvenusaur: {
-		num: 10862,
+		num: 10809,
 		name: "garchompvenusaur",
 		types: ["Dragon", "Grass"],
 		baseStats: {hp: 98, atk: 98, def: 87, spa: 86, spd: 90, spe: 87},
@@ -25757,7 +25757,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	metagrossvenusaur: {
-		num: 10863,
+		num: 10810,
 		name: "metagrossvenusaur",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 80, atk: 99, def: 98, spa: 96, spd: 93, spe: 76},
@@ -25768,7 +25768,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	regigigasvenusaur: {
-		num: 10864,
+		num: 10811,
 		name: "regigigasvenusaur",
 		types: ["Normal", "Grass"],
 		baseStats: {hp: 100, atk: 108, def: 92, spa: 86, spd: 106, spe: 86},
@@ -25779,7 +25779,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	regigigascharizard: {
-		num: 10865,
+		num: 10812,
 		name: "regigigascharizard",
 		types: ["Normal", "Fire"],
 		baseStats: {hp: 99, atk: 109, def: 88, spa: 89, spd: 101, spe: 100},
@@ -25790,9 +25790,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	regigigasreshiram: {
-		num: 10866,
+		num: 10813,
 		name: "regigigasreshiram",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Fire"],
 		baseStats: {hp: 106, atk: 133, def: 103, spa: 103, spd: 113, spe: 93},
 		abilities: {0: "Slow Start", 1: "Turboblaze", H: ""},
 		heightm: 3.45,
@@ -25801,7 +25801,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	regigigasrampardos: {
-		num: 10867,
+		num: 10814,
 		name: "regigigasrampardos",
 		types: ["Normal", "Rock"],
 		baseStats: {hp: 105, atk: 163, def: 76, spa: 75, spd: 90, spe: 72},
@@ -25812,9 +25812,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	raichugarchomp: {
-		num: 10868,
+		num: 10815,
 		name: "raichugarchomp",
-		types: ["Electric", "Dragon"],
+		types: ["Electric", "Ground"],
 		baseStats: {hp: 76, atk: 116, def: 81, spa: 86, spd: 81, spe: 104},
 		abilities: {0: "Static", 1: "Rough Skin", H: "Lightning Rod"},
 		heightm: 1.35,
@@ -25823,9 +25823,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	raichugliscor: {
-		num: 10869,
+		num: 10816,
 		name: "raichugliscor",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 65, atk: 93, def: 101, spa: 75, spd: 78, spe: 100},
 		abilities: {0: "Static", 1: "Sand Veil", H: "Lightning Rod"},
 		heightm: 1.4,
@@ -25834,9 +25834,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	raichumamoswine: {
-		num: 10870,
+		num: 10817,
 		name: "raichumamoswine",
-		types: ["Electric", "Ice"],
+		types: ["Electric", "Ground"],
 		baseStats: {hp: 76, atk: 116, def: 71, spa: 83, spd: 73, spe: 90},
 		abilities: {0: "Static", 1: "Snow Cloak", H: "Lightning Rod"},
 		heightm: 1.65,
@@ -25845,9 +25845,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichumetagross: {
-		num: 10871,
+		num: 10818,
 		name: "raichumetagross",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 66, atk: 120, def: 105, spa: 91, spd: 83, spe: 83},
 		abilities: {0: "Static", 1: "Light Metal", H: "Lightning Rod"},
 		heightm: 1.2000000000000002,
@@ -25856,7 +25856,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	raichusteelix: {
-		num: 10872,
+		num: 10819,
 		name: "raichusteelix",
 		types: ["Electric", "Steel"],
 		baseStats: {hp: 65, atk: 86, def: 151, spa: 78, spd: 75, spe: 56},
@@ -25867,9 +25867,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	raichubutterfree: {
-		num: 10873,
+		num: 10820,
 		name: "raichubutterfree",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 60, atk: 60, def: 51, spa: 90, spd: 80, spe: 83},
 		abilities: {0: "Static", 1: "Tinted Lens", H: "Lightning Rod"},
 		heightm: 0.9500000000000001,
@@ -25878,7 +25878,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	houndoomsalamence: {
-		num: 10874,
+		num: 10821,
 		name: "houndoomsalamence",
 		types: ["Dark", "Flying"],
 		baseStats: {hp: 81, atk: 120, def: 70, spa: 110, spd: 80, spe: 98},
@@ -25889,7 +25889,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Field"],
 	},
 	houndoommamoswine: {
-		num: 10875,
+		num: 10822,
 		name: "houndoommamoswine",
 		types: ["Dark", "Ground"],
 		baseStats: {hp: 86, atk: 116, def: 70, spa: 96, spd: 73, spe: 85},
@@ -25900,7 +25900,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	houndoombutterfree: {
-		num: 10876,
+		num: 10823,
 		name: "houndoombutterfree",
 		types: ["Dark", "Flying"],
 		baseStats: {hp: 70, atk: 60, def: 50, spa: 103, spd: 80, spe: 78},
@@ -25911,7 +25911,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	houndoomgarchomp: {
-		num: 10877,
+		num: 10824,
 		name: "houndoomgarchomp",
 		types: ["Dark", "Ground"],
 		baseStats: {hp: 86, atk: 116, def: 80, spa: 100, spd: 81, spe: 99},
@@ -25922,7 +25922,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	houndoomgengar: {
-		num: 10878,
+		num: 10825,
 		name: "houndoomgengar",
 		types: ["Dark", "Ghost"],
 		baseStats: {hp: 70, atk: 73, def: 56, spa: 116, spd: 78, spe: 105},
@@ -25933,7 +25933,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	houndoomhypno: {
-		num: 10879,
+		num: 10826,
 		name: "houndoomhypno",
 		types: ["Dark", "Psychic"],
 		baseStats: {hp: 78, atk: 78, def: 63, spa: 97, spd: 91, spe: 76},
@@ -25944,9 +25944,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	raichurhyperior: {
-		num: 10880,
+		num: 10827,
 		name: "raichurhyperior",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Rock"],
 		baseStats: {hp: 78, atk: 123, def: 105, spa: 78, spd: 71, spe: 63},
 		abilities: {0: "Static", 1: "Solid Rock", H: "Lightning Rod"},
 		heightm: 1.6,
@@ -25955,9 +25955,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	smearglebeedrill: {
-		num: 10881,
+		num: 10828,
 		name: "smearglebeedrill",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Poison"],
 		baseStats: {hp: 58, atk: 66, def: 38, spa: 28, spd: 56, spe: 75},
 		abilities: {0: "Own Tempo", 1: "Sniper", H: "Moody"},
 		heightm: 1.1,
@@ -25966,9 +25966,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	zoroarkbeedrill: {
-		num: 10882,
+		num: 10829,
 		name: "zoroarkbeedrill",
-		types: ["Dark", "Bug"],
+		types: ["Dark", "Poison"],
 		baseStats: {hp: 61, atk: 95, def: 46, spa: 95, spd: 66, spe: 85},
 		abilities: {0: "Illusion", 1: "Swarm", H: ""},
 		heightm: 1.3,
@@ -25977,7 +25977,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	zoroarksmeargle: {
-		num: 10883,
+		num: 10830,
 		name: "zoroarksmeargle",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 58, atk: 48, def: 43, spa: 86, spd: 55, spe: 85},
@@ -25988,7 +25988,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	charizardsmeargle: {
-		num: 10884,
+		num: 10831,
 		name: "charizardsmeargle",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 70, atk: 41, def: 49, spa: 79, spd: 71, spe: 83},
@@ -25999,7 +25999,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	charizardshuckle: {
-		num: 10885,
+		num: 10832,
 		name: "charizardshuckle",
 		types: ["Fire", "Rock"],
 		baseStats: {hp: 58, atk: 34, def: 179, spa: 76, spd: 133, spe: 36},
@@ -26010,7 +26010,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	charizardgarchomp: {
-		num: 10886,
+		num: 10833,
 		name: "charizardgarchomp",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 88, atk: 114, def: 89, spa: 99, spd: 85, spe: 101},
@@ -26021,7 +26021,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	venusaurgarchomp: {
-		num: 10887,
+		num: 10834,
 		name: "venusaurgarchomp",
 		types: ["Grass", "Ground"],
 		baseStats: {hp: 89, atk: 114, def: 91, spa: 93, spd: 95, spe: 94},
@@ -26032,9 +26032,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	blastoisegarchomp: {
-		num: 10888,
+		num: 10835,
 		name: "blastoisegarchomp",
-		types: ["Water", "Dragon"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 88, atk: 114, def: 96, spa: 83, spd: 98, spe: 94},
 		abilities: {0: "Torrent", 1: "Rough Skin", H: "Rain Dish"},
 		heightm: 1.75,
@@ -26043,7 +26043,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	butterfreegarchomp: {
-		num: 10889,
+		num: 10836,
 		name: "butterfreegarchomp",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 76, atk: 101, def: 80, spa: 86, spd: 81, spe: 91},
@@ -26054,7 +26054,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	butterfreeprimeape: {
-		num: 10890,
+		num: 10837,
 		name: "butterfreeprimeape",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 61, atk: 85, def: 56, spa: 80, spd: 76, spe: 86},
@@ -26065,7 +26065,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	butterfreesmeargle: {
-		num: 10891,
+		num: 10838,
 		name: "butterfreesmeargle",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 58, atk: 28, def: 40, spa: 66, spd: 68, spe: 73},
@@ -26076,7 +26076,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	butterfreegardevoir: {
-		num: 10892,
+		num: 10839,
 		name: "butterfreegardevoir",
 		types: ["Bug", "Fairy"],
 		baseStats: {hp: 62, atk: 58, def: 60, spa: 101, spd: 91, spe: 76},
@@ -26087,7 +26087,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	beedrillgardevoir: {
-		num: 10893,
+		num: 10840,
 		name: "beedrillgardevoir",
 		types: ["Bug", "Fairy"],
 		baseStats: {hp: 66, atk: 73, def: 56, spa: 71, spd: 91, spe: 78},
@@ -26098,9 +26098,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	darkraigardevoir: {
-		num: 10894,
+		num: 10841,
 		name: "darkraigardevoir",
-		types: ["Dark", "Psychic"],
+		types: ["Dark", "Fairy"],
 		baseStats: {hp: 69, atk: 73, def: 73, spa: 131, spd: 98, spe: 95},
 		abilities: {0: "Bad Dreams", 1: "Trace", H: "Telepathy"},
 		heightm: 1.55,
@@ -26109,7 +26109,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	hypnogardevoir: {
-		num: 10895,
+		num: 10842,
 		name: "hypnogardevoir",
 		types: ["Psychic", "Fairy"],
 		baseStats: {hp: 79, atk: 67, def: 66, spa: 90, spd: 115, spe: 75},
@@ -26120,7 +26120,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Human-Like"],
 	},
 	charizardgardevoir: {
-		num: 10896,
+		num: 10843,
 		name: "charizardgardevoir",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 74, atk: 71, def: 69, spa: 114, spd: 95, spe: 86},
@@ -26131,9 +26131,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	raichugardevoir: {
-		num: 10897,
+		num: 10844,
 		name: "raichugardevoir",
-		types: ["Electric", "Psychic"],
+		types: ["Electric", "Fairy"],
 		baseStats: {hp: 62, atk: 73, def: 61, spa: 101, spd: 91, spe: 90},
 		abilities: {0: "Static", 1: "Trace", H: "Lightning Rod"},
 		heightm: 1.2000000000000002,
@@ -26142,7 +26142,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	aegislashgardevoir: {
-		num: 10898,
+		num: 10845,
 		name: "aegislashgardevoir",
 		types: ["Steel", "Fairy"],
 		baseStats: {hp: 62, atk: 60, def: 90, spa: 75, spd: 131, spe: 73},
@@ -26153,7 +26153,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	aegislashmamoswine: {
-		num: 10899,
+		num: 10846,
 		name: "aegislashmamoswine",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 76, atk: 103, def: 100, spa: 56, spd: 113, spe: 73},
@@ -26164,9 +26164,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	bonslyshedinja: {
-		num: 10900,
+		num: 10847,
 		name: "bonslyshedinja",
-		types: ["Rock", "Bug"],
+		types: ["Rock", "Ghost"],
 		baseStats: {hp: 1, atk: 86, def: 61, spa: 16, spd: 40, spe: 30},
 		abilities: {0: "Sturdy", 1: "Wonder Guard", H: "Rattled"},
 		heightm: 0.65,
@@ -26176,7 +26176,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	magnemiteshedinja: {
-		num: 10901,
+		num: 10848,
 		name: "magnemiteshedinja",
 		types: ["Steel", "Ghost"],
 		baseStats: {hp: 1, atk: 71, def: 53, spa: 73, spd: 46, spe: 41},
@@ -26188,7 +26188,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	shedinjamagnemite: {
-		num: 10902,
+		num: 10849,
 		name: "shedinjamagnemite",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 1, atk: 53, def: 61, spa: 51, spd: 38, spe: 43},
@@ -26200,7 +26200,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	dragoniteaggron: {
-		num: 10903,
+		num: 10850,
 		name: "dragoniteaggron",
 		types: ["Dragon", "Rock"],
 		baseStats: {hp: 84, atk: 118, def: 151, spa: 86, spd: 86, spe: 60},
@@ -26211,7 +26211,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	blazikenhitmonlee: {
-		num: 10904,
+		num: 10851,
 		name: "blazikenhitmonlee",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 70, atk: 120, def: 58, spa: 85, spd: 83, spe: 84},
@@ -26222,7 +26222,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	mamoswinearcanine: {
-		num: 10905,
+		num: 10852,
 		name: "mamoswinearcanine",
 		types: ["Ice", "Fire"],
 		baseStats: {hp: 103, atk: 116, def: 80, spa: 80, spd: 66, spe: 90},
@@ -26233,7 +26233,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	steelixsnorlax: {
-		num: 10906,
+		num: 10853,
 		name: "steelixsnorlax",
 		types: ["Steel", "Normal"],
 		baseStats: {hp: 103, atk: 101, def: 110, spa: 58, spd: 80, spe: 30},
@@ -26244,7 +26244,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	snorlaxsteelix: {
-		num: 10907,
+		num: 10854,
 		name: "snorlaxsteelix",
 		types: ["Normal", "Steel"],
 		baseStats: {hp: 131, atk: 93, def: 155, spa: 61, spd: 95, spe: 30},
@@ -26255,7 +26255,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	beedrillgarchomp: {
-		num: 10908,
+		num: 10855,
 		name: "beedrillgarchomp",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 79, atk: 116, def: 76, spa: 56, spd: 81, spe: 93},
@@ -26266,7 +26266,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	beedrillgligar: {
-		num: 10909,
+		num: 10856,
 		name: "beedrillgligar",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 65, atk: 80, def: 83, spa: 41, spd: 75, spe: 81},
@@ -26278,7 +26278,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	beedrillrhyperior: {
-		num: 10910,
+		num: 10857,
 		name: "beedrillrhyperior",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 81, atk: 123, def: 100, spa: 48, spd: 71, spe: 51},
@@ -26289,7 +26289,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	beedrillgallade: {
-		num: 10911,
+		num: 10858,
 		name: "beedrillgallade",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 66, atk: 113, def: 56, spa: 51, spd: 91, spe: 78},
@@ -26300,7 +26300,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	mukgranbull: {
-		num: 10912,
+		num: 10859,
 		name: "mukgranbull",
 		types: ["Poison", "Fairy"],
 		baseStats: {hp: 100, atk: 115, def: 75, spa: 63, spd: 86, spe: 46},
@@ -26311,7 +26311,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	mukarcanine: {
-		num: 10913,
+		num: 10860,
 		name: "mukarcanine",
 		types: ["Poison", "Fire"],
 		baseStats: {hp: 100, atk: 108, def: 78, spa: 76, spd: 93, spe: 80},
@@ -26322,7 +26322,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	yanmegaarcanine: {
-		num: 10914,
+		num: 10861,
 		name: "yanmegaarcanine",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 87, atk: 98, def: 82, spa: 110, spd: 64, spe: 95},
@@ -26333,7 +26333,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	yanmegamuk: {
-		num: 10915,
+		num: 10862,
 		name: "yanmegamuk",
 		types: ["Bug", "Poison"],
 		baseStats: {hp: 92, atk: 95, def: 78, spa: 99, spd: 70, spe: 65},
@@ -26344,7 +26344,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Bug"],
 	},
 	shucklechansey: {
-		num: 10916,
+		num: 10863,
 		name: "shucklechansey",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 96, atk: 6, def: 80, spa: 18, spd: 188, spe: 35},
@@ -26356,7 +26356,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Bug"],
 	},
 	yanmegamachamp: {
-		num: 10917,
+		num: 10864,
 		name: "yanmegamachamp",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 87, atk: 112, def: 82, spa: 99, spd: 65, spe: 68},
@@ -26367,7 +26367,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	yanmegagarchomp: {
-		num: 10918,
+		num: 10865,
 		name: "yanmegagarchomp",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 93, atk: 112, def: 92, spa: 104, spd: 65, spe: 99},
@@ -26378,7 +26378,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	yanmegasalamence: {
-		num: 10919,
+		num: 10866,
 		name: "yanmegasalamence",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 89, atk: 115, def: 82, spa: 114, spd: 64, spe: 98},
@@ -26389,7 +26389,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Bug"],
 	},
 	yanmegacharizard: {
-		num: 10920,
+		num: 10867,
 		name: "yanmegacharizard",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 83, atk: 81, def: 80, spa: 113, spd: 65, spe: 98},
@@ -26400,7 +26400,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	yanmegakangaskhan: {
-		num: 10921,
+		num: 10868,
 		name: "yanmegakangaskhan",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 92, atk: 88, def: 82, spa: 90, spd: 64, spe: 91},
@@ -26411,9 +26411,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	yanmegapinsir: {
-		num: 10922,
+		num: 10869,
 		name: "yanmegapinsir",
-		types: ["Flying", "Bug"],
+		types: ["Bug", "Flying"],
 		baseStats: {hp: 79, atk: 108, def: 95, spa: 95, spd: 60, spe: 88},
 		abilities: {0: "Speed Boost", 1: "Mold Breaker", H: "Frisk"},
 		heightm: 1.7,
@@ -26422,7 +26422,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	yanmegaheracross: {
-		num: 10923,
+		num: 10870,
 		name: "yanmegaheracross",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 84, atk: 108, def: 78, spa: 90, spd: 69, spe: 88},
@@ -26433,7 +26433,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	yanmegarhyperior: {
-		num: 10924,
+		num: 10871,
 		name: "yanmegarhyperior",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 95, atk: 118, def: 115, spa: 95, spd: 55, spe: 58},
@@ -26444,7 +26444,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	yanmegagolem: {
-		num: 10925,
+		num: 10872,
 		name: "yanmegagolem",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 84, atk: 105, def: 115, spa: 95, spd: 59, spe: 61},
@@ -26455,7 +26455,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	yanmegaaggron: {
-		num: 10926,
+		num: 10873,
 		name: "yanmegaaggron",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 80, atk: 98, def: 148, spa: 97, spd: 57, spe: 65},
@@ -26466,7 +26466,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	yanmegadusknoir: {
-		num: 10927,
+		num: 10874,
 		name: "yanmegadusknoir",
 		types: ["Bug", "Ghost"],
 		baseStats: {hp: 72, atk: 92, def: 118, spa: 99, spd: 82, spe: 61},
@@ -26477,7 +26477,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Bug"],
 	},
 	yanmegabeedrill: {
-		num: 10928,
+		num: 10875,
 		name: "yanmegabeedrill",
 		types: ["Bug", "Poison"],
 		baseStats: {hp: 79, atk: 85, def: 55, spa: 92, spd: 64, spe: 81},
@@ -26488,7 +26488,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	yanmegakingler: {
-		num: 10929,
+		num: 10876,
 		name: "yanmegakingler",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 75, atk: 112, def: 105, spa: 94, spd: 54, spe: 81},
@@ -26499,7 +26499,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Bug"],
 	},
 	yanmegaaerodactyl: {
-		num: 10930,
+		num: 10877,
 		name: "yanmegaaerodactyl",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 84, atk: 95, def: 72, spa: 97, spd: 62, spe: 118},
@@ -26510,7 +26510,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Bug"],
 	},
 	yanmegakabutops: {
-		num: 10931,
+		num: 10878,
 		name: "yanmegakabutops",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 77, atk: 102, def: 98, spa: 99, spd: 60, spe: 85},
@@ -26521,7 +26521,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	blisseydusclops: {
-		num: 10932,
+		num: 10879,
 		name: "blisseydusclops",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 183, atk: 50, def: 90, spa: 70, spd: 133, spe: 35},
@@ -26533,7 +26533,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Fairy"],
 	},
 	magnezoneleafeon: {
-		num: 10933,
+		num: 10880,
 		name: "magnezoneleafeon",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 68, atk: 96, def: 125, spa: 106, spd: 81, spe: 83},
@@ -26544,7 +26544,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	mantinegyarados: {
-		num: 10934,
+		num: 10881,
 		name: "mantinegyarados",
 		types: ["Water"],
 		baseStats: {hp: 88, atk: 96, def: 76, spa: 73, spd: 126, spe: 77},
@@ -26555,7 +26555,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 1"],
 	},
 	spiritombsteelix: {
-		num: 10935,
+		num: 10882,
 		name: "spiritombsteelix",
 		types: ["Ghost", "Steel"],
 		baseStats: {hp: 58, atk: 87, def: 169, spa: 79, spd: 93, spe: 31},
@@ -26566,7 +26566,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	steelixspiritomb: {
-		num: 10936,
+		num: 10883,
 		name: "steelixspiritomb",
 		types: ["Steel", "Dark"],
 		baseStats: {hp: 66, atk: 89, def: 138, spa: 67, spd: 79, spe: 33},
@@ -26577,7 +26577,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Mineral"],
 	},
 	mantinespiritomb: {
-		num: 10937,
+		num: 10884,
 		name: "mantinespiritomb",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 73, atk: 74, def: 95, spa: 84, spd: 129, spe: 46},
@@ -26588,7 +26588,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Water 1"],
 	},
 	dusknoirspiritomb: {
-		num: 10938,
+		num: 10885,
 		name: "dusknoirspiritomb",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 46, atk: 94, def: 117, spa: 74, spd: 126, spe: 38},
@@ -26599,7 +26599,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Amorphous"],
 	},
 	dusclopsspiritomb: {
-		num: 10939,
+		num: 10886,
 		name: "dusclopsspiritomb",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 43, atk: 84, def: 115, spa: 70, spd: 122, spe: 31},
@@ -26611,7 +26611,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Amorphous"],
 	},
 	togekissrhyperior: {
-		num: 10940,
+		num: 10887,
 		name: "togekissrhyperior",
 		types: ["Fairy", "Rock"],
 		baseStats: {hp: 95, atk: 110, def: 118, spa: 98, spd: 95, spe: 53},
@@ -26622,7 +26622,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	togekissaggron: {
-		num: 10941,
+		num: 10888,
 		name: "togekissaggron",
 		types: ["Fairy", "Rock"],
 		baseStats: {hp: 80, atk: 90, def: 151, spa: 100, spd: 96, spe: 60},
@@ -26633,7 +26633,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	togekissslowbro: {
-		num: 10942,
+		num: 10889,
 		name: "togekissslowbro",
 		types: ["Fairy", "Psychic"],
 		baseStats: {hp: 88, atk: 66, def: 105, spa: 113, spd: 103, spe: 46},
@@ -26644,7 +26644,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	steelixtogekiss: {
-		num: 10943,
+		num: 10890,
 		name: "steelixtogekiss",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 78, atk: 61, def: 130, spa: 76, spd: 81, spe: 63},
@@ -26655,7 +26655,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Mineral"],
 	},
 	probopasstogekiss: {
-		num: 10944,
+		num: 10891,
 		name: "probopasstogekiss",
 		types: ["Rock", "Flying"],
 		baseStats: {hp: 68, atk: 51, def: 111, spa: 90, spd: 138, spe: 66},
@@ -26666,9 +26666,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Mineral"],
 	},
 	golducktogekiss: {
-		num: 10945,
+		num: 10892,
 		name: "golducktogekiss",
-		types: ["Water", "Fairy"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 60, def: 89, spa: 103, spd: 91, spe: 81},
 		abilities: {0: "Damp", 1: "Serene Grace", H: "Swift Swim"},
 		heightm: 1.6,
@@ -26677,7 +26677,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	omastartogekiss: {
-		num: 10946,
+		num: 10893,
 		name: "omastartogekiss",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 75, atk: 53, def: 105, spa: 116, spd: 85, spe: 71},
@@ -26688,7 +26688,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	magcargotogekiss: {
-		num: 10947,
+		num: 10894,
 		name: "magcargotogekiss",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 68, atk: 50, def: 103, spa: 100, spd: 91, spe: 63},
@@ -26699,7 +26699,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Amorphous"],
 	},
 	shuckletogekiss: {
-		num: 10948,
+		num: 10895,
 		name: "shuckletogekiss",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 41, atk: 36, def: 140, spa: 46, spd: 191, spe: 55},
@@ -26710,7 +26710,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Bug"],
 	},
 	cradilytogekiss: {
-		num: 10949,
+		num: 10896,
 		name: "cradilytogekiss",
 		types: ["Rock", "Flying"],
 		baseStats: {hp: 85, atk: 60, def: 95, spa: 94, spd: 109, spe: 67},
@@ -26721,9 +26721,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 3"],
 	},
 	dusknoirtogekiss: {
-		num: 10950,
+		num: 10897,
 		name: "dusknoirtogekiss",
-		types: ["Ghost", "Fairy"],
+		types: ["Ghost", "Flying"],
 		baseStats: {hp: 58, atk: 66, def: 108, spa: 83, spd: 128, spe: 68},
 		abilities: {0: "Pressure", 1: "Serene Grace", H: "Frisk"},
 		heightm: 1.85,
@@ -26732,7 +26732,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Amorphous"],
 	},
 	spiritombtogekiss: {
-		num: 10951,
+		num: 10898,
 		name: "spiritombtogekiss",
 		types: ["Ghost", "Flying"],
 		baseStats: {hp: 61, atk: 64, def: 99, spa: 101, spd: 110, spe: 65},
@@ -26743,7 +26743,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Amorphous"],
 	},
 	spiritombmawile: {
-		num: 10952,
+		num: 10899,
 		name: "spiritombmawile",
 		types: ["Ghost", "Fairy"],
 		baseStats: {hp: 50, atk: 87, def: 92, spa: 79, spd: 90, spe: 45},
@@ -26754,7 +26754,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	mewtwosylveon: {
-		num: 10953,
+		num: 10900,
 		name: "mewtwosylveon",
 		types: ["Psychic", "Fairy"],
 		baseStats: {hp: 102, atk: 80, def: 73, spa: 139, spd: 103, spe: 83},
@@ -26765,7 +26765,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	moltresgardevoir: {
-		num: 10954,
+		num: 10901,
 		name: "moltresgardevoir",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 82, atk: 76, def: 73, spa: 125, spd: 95, spe: 83},
@@ -26776,7 +26776,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	pikachunoctowl: {
-		num: 10955,
+		num: 10902,
 		name: "pikachunoctowl",
 		types: ["Electric", "Flying"],
 		baseStats: {hp: 56, atk: 51, def: 46, spa: 62, spd: 65, spe: 76},
@@ -26788,9 +26788,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	arbokcloyster: {
-		num: 10956,
+		num: 10903,
 		name: "arbokcloyster",
-		types: ["Poison", "Water"],
+		types: ["Poison", "Ice"],
 		baseStats: {hp: 56, atk: 95, def: 143, spa: 71, spd: 67, spe: 73},
 		abilities: {0: "Intimidate", 1: "Skill Link", H: "Unnerve"},
 		heightm: 2.5,
@@ -26799,9 +26799,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	arboksalamence: {
-		num: 10957,
+		num: 10904,
 		name: "arboksalamence",
-		types: ["Poison", "Dragon"],
+		types: ["Poison", "Flying"],
 		baseStats: {hp: 71, atk: 121, def: 76, spa: 80, spd: 79, spe: 93},
 		abilities: {0: "Intimidate", 1: "Moxie", H: "Unnerve"},
 		heightm: 2.5,
@@ -26810,7 +26810,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Field"],
 	},
 	victreebelcharizard: {
-		num: 10958,
+		num: 10905,
 		name: "victreebelcharizard",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 79, atk: 91, def: 73, spa: 103, spd: 75, spe: 90},
@@ -26821,9 +26821,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	gyaradoskingler: {
-		num: 10959,
+		num: 10906,
 		name: "gyaradoskingler",
-		types: ["Water"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 128, def: 103, spa: 56, spd: 83, spe: 77},
 		abilities: {0: "Intimidate", 1: "Shell Armor", H: "Moxie"},
 		heightm: 3.9,
@@ -26832,9 +26832,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Water 2"],
 	},
 	electrodeyanmega: {
-		num: 10960,
+		num: 10907,
 		name: "electrodeyanmega",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 68, atk: 67, def: 80, spa: 92, spd: 72, spe: 113},
 		abilities: {0: "Soundproof", 1: "Tinted Lens", H: "Aftermath"},
 		heightm: 1.5499999999999998,
@@ -26843,7 +26843,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	marowakdragonite: {
-		num: 10961,
+		num: 10908,
 		name: "marowakdragonite",
 		types: ["Ground", "Dragon"],
 		baseStats: {hp: 70, atk: 116, def: 100, spa: 66, spd: 86, spe: 68},
@@ -26854,9 +26854,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	chanseyaegislash: {
-		num: 10962,
+		num: 10909,
 		name: "chanseyaegislash",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Ghost"],
 		baseStats: {hp: 186, atk: 35, def: 95, spa: 40, spd: 116, spe: 56},
 		abilities: {0: "Natural Cure", 1: "Stance Change", H: "Healer"},
 		heightm: 1.4,
@@ -26866,9 +26866,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Fairy"],
 	},
 	jolteonscizor: {
-		num: 10963,
+		num: 10910,
 		name: "jolteonscizor",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Bug"],
 		baseStats: {hp: 66, atk: 108, def: 86, spa: 91, spd: 90, spe: 86},
 		abilities: {0: "Volt Absorb", 1: "Technician", H: "Quick Feet"},
 		heightm: 1.3,
@@ -26877,7 +26877,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	ledianblastoise: {
-		num: 10964,
+		num: 10911,
 		name: "ledianblastoise",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 63, atk: 67, def: 83, spa: 65, spd: 108, spe: 80},
@@ -26888,7 +26888,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	ariadosgiratina: {
-		num: 10965,
+		num: 10912,
 		name: "ariadosgiratina",
 		types: ["Bug", "Dragon"],
 		baseStats: {hp: 96, atk: 96, def: 103, spa: 73, spd: 86, spe: 73},
@@ -26899,7 +26899,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	tentacruelgardevoir: {
-		num: 10966,
+		num: 10913,
 		name: "tentacruelgardevoir",
 		types: ["Water", "Fairy"],
 		baseStats: {hp: 76, atk: 66, def: 65, spa: 95, spd: 118, spe: 86},
@@ -26910,7 +26910,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 3"],
 	},
 	tentacrueldragonite: {
-		num: 10967,
+		num: 10914,
 		name: "tentacrueldragonite",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 83, atk: 112, def: 85, spa: 86, spd: 113, spe: 86},
@@ -26921,7 +26921,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	azumarillforretress: {
-		num: 10968,
+		num: 10915,
 		name: "azumarillforretress",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 91, atk: 76, def: 120, spa: 60, spd: 73, spe: 43},
@@ -26932,7 +26932,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	azumarilltyranitar: {
-		num: 10969,
+		num: 10916,
 		name: "azumarilltyranitar",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 100, atk: 106, def: 100, spa: 71, spd: 86, spe: 57},
@@ -26943,7 +26943,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	umbreonwailord: {
-		num: 10970,
+		num: 10917,
 		name: "umbreonwailord",
 		types: ["Dark", "Water"],
 		baseStats: {hp: 120, atk: 81, def: 66, spa: 70, spd: 101, spe: 61},
@@ -26954,7 +26954,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	honchkrowsceptile: {
-		num: 10971,
+		num: 10918,
 		name: "honchkrowsceptile",
 		types: ["Dark", "Grass"],
 		baseStats: {hp: 90, atk: 98, def: 60, spa: 105, spd: 63, spe: 103},
@@ -26965,7 +26965,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	scizorluxray: {
-		num: 10972,
+		num: 10919,
 		name: "scizorluxray",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 73, atk: 123, def: 86, spa: 68, spd: 79, spe: 68},
@@ -26976,9 +26976,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	marowakshedinja: {
-		num: 10973,
+		num: 10920,
 		name: "marowakshedinja",
-		types: ["Ground", "Bug"],
+		types: ["Ground", "Ghost"],
 		baseStats: {hp: 1, atk: 86, def: 66, spa: 43, spd: 63, spe: 41},
 		abilities: {0: "Rock Head", 1: "Wonder Guard", H: "Battle Armor"},
 		heightm: 0.9,
@@ -26987,7 +26987,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	marowakmuk: {
-		num: 10974,
+		num: 10921,
 		name: "marowakmuk",
 		types: ["Ground", "Poison"],
 		baseStats: {hp: 75, atk: 96, def: 86, spa: 55, spd: 86, spe: 48},
@@ -26998,7 +26998,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Monster"],
 	},
 	corsolamuk: {
-		num: 10975,
+		num: 10922,
 		name: "corsolamuk",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 78, atk: 88, def: 81, spa: 65, spd: 96, spe: 45},
@@ -27009,7 +27009,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Water 1"],
 	},
 	flareonraichu: {
-		num: 10976,
+		num: 10923,
 		name: "flareonraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 63, atk: 103, def: 56, spa: 93, spd: 100, spe: 95},
@@ -27020,7 +27020,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	ampharosraichu: {
-		num: 10977,
+		num: 10924,
 		name: "ampharosraichu",
 		types: ["Electric"],
 		baseStats: {hp: 80, atk: 85, def: 65, spa: 106, spd: 86, spe: 91},
@@ -27031,7 +27031,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	machampraichu: {
-		num: 10978,
+		num: 10925,
 		name: "machampraichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 80, atk: 103, def: 63, spa: 73, spd: 83, spe: 91},
@@ -27042,7 +27042,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	houndoomraichu: {
-		num: 10979,
+		num: 10926,
 		name: "houndoomraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 70, atk: 90, def: 53, spa: 103, spd: 80, spe: 105},
@@ -27053,7 +27053,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	houndourraichu: {
-		num: 10980,
+		num: 10927,
 		name: "houndourraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 50, atk: 80, def: 46, spa: 83, spd: 60, spe: 95},
@@ -27065,7 +27065,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	gloomraichu: {
-		num: 10981,
+		num: 10928,
 		name: "gloomraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 60, atk: 81, def: 60, spa: 86, spd: 76, spe: 86},
@@ -27077,7 +27077,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	blisseyraichu: {
-		num: 10982,
+		num: 10929,
 		name: "blisseyraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 190, atk: 63, def: 40, spa: 80, spd: 116, spe: 91},
@@ -27088,7 +27088,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	chanseyraichu: {
-		num: 10983,
+		num: 10930,
 		name: "chanseyraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 186, atk: 61, def: 38, spa: 53, spd: 96, spe: 90},
@@ -27100,7 +27100,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	mudkipraichu: {
-		num: 10984,
+		num: 10931,
 		name: "mudkipraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 53, atk: 83, def: 53, spa: 63, spd: 60, spe: 86},
@@ -27112,7 +27112,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	crobatraichu: {
-		num: 10985,
+		num: 10932,
 		name: "crobatraichu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 76, atk: 90, def: 63, spa: 76, spd: 80, spe: 116},
@@ -27123,7 +27123,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	ivysaurraichu: {
-		num: 10986,
+		num: 10933,
 		name: "ivysaurraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 60, atk: 80, def: 57, spa: 83, spd: 80, spe: 93},
@@ -27135,7 +27135,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	ponytaraichu: {
-		num: 10987,
+		num: 10934,
 		name: "ponytaraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 53, atk: 88, def: 55, spa: 73, spd: 70, spe: 103},
@@ -27147,7 +27147,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	farfetchdraichu: {
-		num: 10988,
+		num: 10935,
 		name: "farfetchdraichu",
 		types: ["Flying", "Electric"],
 		baseStats: {hp: 54, atk: 90, def: 55, spa: 68, spd: 68, spe: 93},
@@ -27158,7 +27158,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	jigglypuffraichu: {
-		num: 10989,
+		num: 10936,
 		name: "jigglypuffraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 96, atk: 75, def: 43, spa: 60, spd: 43, spe: 80},
@@ -27170,7 +27170,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	vulpixraichu: {
-		num: 10990,
+		num: 10937,
 		name: "vulpixraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 45, atk: 73, def: 50, spa: 63, spd: 70, spe: 95},
@@ -27182,7 +27182,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	zekromraichu: {
-		num: 10991,
+		num: 10938,
 		name: "zekromraichu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 86, atk: 110, def: 76, spa: 110, spd: 93, spe: 103},
@@ -27193,7 +27193,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	mawileraichu: {
-		num: 10992,
+		num: 10939,
 		name: "mawileraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 53, atk: 88, def: 65, spa: 66, spd: 63, spe: 90},
@@ -27204,7 +27204,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	kyogreraichu: {
-		num: 10993,
+		num: 10940,
 		name: "kyogreraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 86, atk: 93, def: 66, spa: 130, spd: 120, spe: 103},
@@ -27215,7 +27215,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	forretressraichu: {
-		num: 10994,
+		num: 10941,
 		name: "forretressraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 70, atk: 90, def: 83, spa: 70, spd: 66, spe: 86},
@@ -27226,7 +27226,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	reshiramraichu: {
-		num: 10995,
+		num: 10942,
 		name: "reshiramraichu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 86, atk: 100, def: 70, spa: 130, spd: 106, spe: 103},
@@ -27237,7 +27237,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	groudonraichu: {
-		num: 10996,
+		num: 10943,
 		name: "groudonraichu",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 86, atk: 110, def: 83, spa: 96, spd: 86, spe: 103},
@@ -27248,7 +27248,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	rayquazaraichu: {
-		num: 10997,
+		num: 10944,
 		name: "rayquazaraichu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 90, atk: 110, def: 66, spa: 130, spd: 86, spe: 105},
@@ -27259,7 +27259,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	lugiaraichu: {
-		num: 10998,
+		num: 10945,
 		name: "lugiaraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 90, atk: 90, def: 80, spa: 90, spd: 129, spe: 110},
@@ -27270,7 +27270,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	lucarioraichu: {
-		num: 10999,
+		num: 10946,
 		name: "lucarioraichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 66, atk: 96, def: 60, spa: 106, spd: 73, spe: 103},
@@ -27281,7 +27281,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	victreebelraichu: {
-		num: 11000,
+		num: 10947,
 		name: "victreebelraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 73, atk: 95, def: 58, spa: 96, spd: 73, spe: 96},
@@ -27292,7 +27292,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	mareepraichu: {
-		num: 11001,
+		num: 10948,
 		name: "mareepraichu",
 		types: ["Electric"],
 		baseStats: {hp: 56, atk: 73, def: 50, spa: 73, spd: 56, spe: 85},
@@ -27304,7 +27304,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	quagsireraichu: {
-		num: 11002,
+		num: 10949,
 		name: "quagsireraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 83, atk: 88, def: 65, spa: 73, spd: 70, spe: 85},
@@ -27315,7 +27315,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	misdreavusraichu: {
-		num: 11003,
+		num: 10950,
 		name: "misdreavusraichu",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 60, atk: 80, def: 56, spa: 86, spd: 83, spe: 101},
@@ -27327,7 +27327,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	sentretraichu: {
-		num: 11004,
+		num: 10951,
 		name: "sentretraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 43, atk: 75, def: 48, spa: 53, spd: 56, spe: 80},
@@ -27339,7 +27339,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	wooperraichu: {
-		num: 11005,
+		num: 10952,
 		name: "wooperraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 56, atk: 75, def: 51, spa: 46, spd: 43, spe: 78},
@@ -27351,7 +27351,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	wobbuffetraichu: {
-		num: 11006,
+		num: 10953,
 		name: "wobbuffetraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 146, atk: 71, def: 56, spa: 52, spd: 65, spe: 84},
@@ -27362,7 +27362,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	sudowoodoraichu: {
-		num: 11007,
+		num: 10954,
 		name: "sudowoodoraichu",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 66, atk: 93, def: 75, spa: 50, spd: 70, spe: 83},
@@ -27373,7 +27373,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	cloysterraichu: {
-		num: 11008,
+		num: 10955,
 		name: "cloysterraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 53, atk: 91, def: 96, spa: 86, spd: 56, spe: 96},
@@ -27384,7 +27384,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	skiploomraichu: {
-		num: 11009,
+		num: 10956,
 		name: "skiploomraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 56, atk: 75, def: 53, spa: 60, spd: 70, spe: 100},
@@ -27396,7 +27396,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	sunfloraraichu: {
-		num: 11010,
+		num: 10957,
 		name: "sunfloraraichu",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 70, atk: 85, def: 55, spa: 100, spd: 83, spe: 83},
@@ -27407,7 +27407,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	piloswineraichu: {
-		num: 11011,
+		num: 10958,
 		name: "piloswineraichu",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 86, atk: 93, def: 63, spa: 70, spd: 66, spe: 90},
@@ -27419,7 +27419,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	wailordraichu: {
-		num: 11012,
+		num: 10959,
 		name: "wailordraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 133, atk: 90, def: 51, spa: 90, spd: 56, spe: 93},
@@ -27430,7 +27430,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	ambipomraichu: {
-		num: 11013,
+		num: 10960,
 		name: "ambipomraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 70, atk: 93, def: 58, spa: 70, spd: 70, spe: 111},
@@ -27441,7 +27441,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	bisharpraichu: {
-		num: 11014,
+		num: 10961,
 		name: "bisharpraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 63, atk: 101, def: 70, spa: 70, spd: 73, spe: 96},
@@ -27452,7 +27452,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	delibirdraichu: {
-		num: 11015,
+		num: 10962,
 		name: "delibirdraichu",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 50, atk: 78, def: 51, spa: 73, spd: 56, spe: 98},
@@ -27463,7 +27463,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	raichusmeargle: {
-		num: 11016,
+		num: 10963,
 		name: "raichusmeargle",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 58, atk: 43, def: 41, spa: 66, spd: 68, spe: 86},
@@ -27474,7 +27474,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	remoraidraichu: {
-		num: 11017,
+		num: 10964,
 		name: "remoraidraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 43, atk: 81, def: 48, spa: 73, spd: 50, spe: 95},
@@ -27486,7 +27486,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	noctowlraichu: {
-		num: 11018,
+		num: 10965,
 		name: "noctowlraichu",
 		types: ["Flying", "Electric"],
 		baseStats: {hp: 86, atk: 76, def: 53, spa: 87, spd: 90, spe: 96},
@@ -27497,7 +27497,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	octilleryraichu: {
-		num: 11019,
+		num: 10966,
 		name: "octilleryraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 70, atk: 95, def: 61, spa: 100, spd: 76, spe: 88},
@@ -27508,7 +27508,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	croconawraichu: {
-		num: 11020,
+		num: 10967,
 		name: "croconawraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 63, atk: 86, def: 63, spa: 69, spd: 68, spe: 92},
@@ -27520,7 +27520,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	smoochumraichu: {
-		num: 11021,
+		num: 10968,
 		name: "smoochumraichu",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 50, atk: 70, def: 41, spa: 86, spd: 70, spe: 95},
@@ -27532,7 +27532,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	jynxraichu: {
-		num: 11022,
+		num: 10969,
 		name: "jynxraichu",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 63, atk: 76, def: 48, spa: 106, spd: 90, spe: 105},
@@ -27543,7 +27543,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	magcargoraichu: {
-		num: 11023,
+		num: 10970,
 		name: "magcargoraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 60, atk: 76, def: 76, spa: 90, spd: 80, spe: 83},
@@ -27554,7 +27554,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	magnetonraichu: {
-		num: 11024,
+		num: 10971,
 		name: "magnetonraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 53, atk: 80, def: 68, spa: 110, spd: 73, spe: 96},
@@ -27566,7 +27566,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	magnemiteraichu: {
-		num: 11025,
+		num: 10972,
 		name: "magnemiteraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 36, atk: 71, def: 60, spa: 93, spd: 63, spe: 88},
@@ -27578,7 +27578,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	magikarpraichu: {
-		num: 11026,
+		num: 10973,
 		name: "magikarpraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 33, atk: 63, def: 55, spa: 40, spd: 40, spe: 100},
@@ -27590,7 +27590,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	magbyraichu: {
-		num: 11027,
+		num: 10974,
 		name: "magbyraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 50, atk: 85, def: 49, spa: 76, spd: 63, spe: 101},
@@ -27602,7 +27602,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	lickilickyraichu: {
-		num: 11028,
+		num: 10975,
 		name: "lickilickyraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 93, atk: 88, def: 68, spa: 83, spd: 90, spe: 90},
@@ -27613,7 +27613,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	lickitungraichu: {
-		num: 11029,
+		num: 10976,
 		name: "lickitungraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 80, atk: 78, def: 61, spa: 70, spd: 76, spe: 83},
@@ -27625,7 +27625,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	jolteonraichu: {
-		num: 11030,
+		num: 10977,
 		name: "jolteonraichu",
 		types: ["Electric"],
 		baseStats: {hp: 63, atk: 81, def: 56, spa: 103, spd: 90, spe: 116},
@@ -27636,7 +27636,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	machokeraichu: {
-		num: 11031,
+		num: 10978,
 		name: "machokeraichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 73, atk: 93, def: 60, spa: 63, spd: 66, spe: 88},
@@ -27648,7 +27648,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	machopraichu: {
-		num: 11032,
+		num: 10979,
 		name: "machopraichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 66, atk: 86, def: 53, spa: 53, spd: 50, spe: 85},
@@ -27660,7 +27660,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	caterpieraichu: {
-		num: 11033,
+		num: 10980,
 		name: "caterpieraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 50, atk: 70, def: 48, spa: 43, spd: 40, spe: 88},
@@ -27672,7 +27672,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	hitmonchanraichu: {
-		num: 11034,
+		num: 10981,
 		name: "hitmonchanraichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 53, atk: 95, def: 63, spa: 53, spd: 100, spe: 98},
@@ -27683,7 +27683,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	hitmonleeraichu: {
-		num: 11035,
+		num: 10982,
 		name: "hitmonleeraichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 53, atk: 100, def: 54, spa: 53, spd: 100, spe: 102},
@@ -27694,7 +27694,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	skarmoryraichu: {
-		num: 11036,
+		num: 10983,
 		name: "skarmoryraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 63, atk: 86, def: 83, spa: 56, spd: 73, spe: 96},
@@ -27705,7 +27705,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	hitmontopraichu: {
-		num: 11037,
+		num: 10984,
 		name: "hitmontopraichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 53, atk: 91, def: 68, spa: 53, spd: 100, spe: 96},
@@ -27716,7 +27716,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	gravelerraichu: {
-		num: 11038,
+		num: 10985,
 		name: "gravelerraichu",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 56, atk: 91, def: 75, spa: 60, spd: 56, spe: 85},
@@ -27728,7 +27728,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	kinglerraichu: {
-		num: 11039,
+		num: 10986,
 		name: "kinglerraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 56, atk: 103, def: 75, spa: 63, spd: 60, spe: 98},
@@ -27739,7 +27739,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	slakinghitmonlee: {
-		num: 11040,
+		num: 10987,
 		name: "slakinghitmonlee",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 116, atk: 133, def: 68, spa: 75, spd: 80, spe: 91},
@@ -27750,7 +27750,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	hitmonleeslaking: {
-		num: 11041,
+		num: 10988,
 		name: "hitmonleeslaking",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 83, atk: 146, def: 84, spa: 55, spd: 95, spe: 95},
@@ -27761,7 +27761,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	rampardoshitmonlee: {
-		num: 11042,
+		num: 10989,
 		name: "rampardoshitmonlee",
 		types: ["Rock", "Fighting"],
 		baseStats: {hp: 81, atk: 135, def: 55, spa: 55, spd: 70, spe: 77},
@@ -27772,7 +27772,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	laprasarticuno: {
-		num: 11043,
+		num: 10990,
 		name: "laprasarticuno",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 116, atk: 85, def: 93, spa: 88, spd: 105, spe: 76},
@@ -27783,9 +27783,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	articunolapras: {
-		num: 11044,
+		num: 10991,
 		name: "articunolapras",
-		types: ["Ice"],
+		types: ["Ice", "Water"],
 		baseStats: {hp: 103, atk: 85, def: 86, spa: 91, spd: 115, spe: 68},
 		abilities: {0: "Pressure", 1: "Shell Armor", H: "Snow Cloak"},
 		heightm: 2.1,
@@ -27794,7 +27794,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	butterfreearticuno: {
-		num: 11045,
+		num: 10992,
 		name: "butterfreearticuno",
 		types: ["Bug", "Ice"],
 		baseStats: {hp: 70, atk: 71, def: 83, spa: 91, spd: 95, spe: 80},
@@ -27805,7 +27805,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	kabutopsklinklang: {
-		num: 11046,
+		num: 10993,
 		name: "kabutopsklinklang",
 		types: ["Rock", "Steel"],
 		baseStats: {hp: 60, atk: 105, def: 111, spa: 66, spd: 75, spe: 86},
@@ -27816,7 +27816,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	kabutopsaegislash: {
-		num: 11047,
+		num: 10994,
 		name: "kabutopsaegislash",
 		types: ["Rock", "Ghost"],
 		baseStats: {hp: 60, atk: 71, def: 128, spa: 60, spd: 93, spe: 66},
@@ -27827,7 +27827,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	mrmimeomastar: {
-		num: 11048,
+		num: 10995,
 		name: "mrmimeomastar",
 		types: ["Psychic", "Rock"],
 		baseStats: {hp: 50, atk: 55, def: 105, spa: 105, spd: 103, spe: 66},
@@ -27838,7 +27838,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	hitmonchanpersian: {
-		num: 11049,
+		num: 10996,
 		name: "hitmonchanpersian",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 55, atk: 81, def: 66, spa: 45, spd: 95, spe: 102},
@@ -27849,7 +27849,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	hitmonleepersian: {
-		num: 11050,
+		num: 10997,
 		name: "hitmonleepersian",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 55, atk: 86, def: 57, spa: 45, spd: 95, spe: 105},
@@ -27860,7 +27860,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	mrmimepersian: {
-		num: 11051,
+		num: 10998,
 		name: "mrmimepersian",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 48, atk: 61, def: 61, spa: 88, spd: 101, spe: 106},
@@ -27871,7 +27871,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	mrmimeraichu: {
-		num: 11052,
+		num: 10999,
 		name: "mrmimeraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 46, atk: 75, def: 58, spa: 96, spd: 106, spe: 103},
@@ -27882,7 +27882,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	mrmimeumbreon: {
-		num: 11053,
+		num: 11000,
 		name: "mrmimeumbreon",
 		types: ["Psychic", "Dark"],
 		baseStats: {hp: 58, atk: 58, def: 95, spa: 86, spd: 123, spe: 73},
@@ -27893,7 +27893,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	arcaninepersian: {
-		num: 11054,
+		num: 11001,
 		name: "arcaninepersian",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 81, atk: 83, def: 66, spa: 88, spd: 75, spe: 108},
@@ -27904,7 +27904,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	yanmegapersian: {
-		num: 11055,
+		num: 11002,
 		name: "yanmegapersian",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 79, atk: 72, def: 68, spa: 99, spd: 59, spe: 108},
@@ -27915,7 +27915,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	umbreonarcanine: {
-		num: 11056,
+		num: 11003,
 		name: "umbreonarcanine",
 		types: ["Dark", "Fire"],
 		baseStats: {hp: 93, atk: 95, def: 90, spa: 73, spd: 113, spe: 85},
@@ -27926,7 +27926,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	mantinearcanine: {
-		num: 11057,
+		num: 11004,
 		name: "mantinearcanine",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 86, atk: 86, def: 76, spa: 86, spd: 120, spe: 86},
@@ -27937,7 +27937,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	vaporeonarcanine: {
-		num: 11058,
+		num: 11005,
 		name: "vaporeonarcanine",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 116, atk: 95, def: 73, spa: 106, spd: 90, spe: 85},
@@ -27948,7 +27948,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	jolteonarcanine: {
-		num: 11059,
+		num: 11006,
 		name: "jolteonarcanine",
 		types: ["Electric", "Fire"],
 		baseStats: {hp: 73, atk: 95, def: 73, spa: 106, spd: 90, spe: 106},
@@ -27959,9 +27959,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	mrmimejynx: {
-		num: 11060,
+		num: 11007,
 		name: "mrmimejynx",
-		types: ["Fairy", "Psychic"],
+		types: ["Psychic", "Ice"],
 		baseStats: {hp: 48, atk: 48, def: 45, spa: 105, spd: 111, spe: 93},
 		abilities: {0: "Soundproof", 1: "Forewarn", H: "Technician"},
 		heightm: 1.35,
@@ -27970,7 +27970,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Human-Like"],
 	},
 	mrmimeelectivire: {
-		num: 11061,
+		num: 11008,
 		name: "mrmimeelectivire",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 51, atk: 97, def: 66, spa: 98, spd: 108, spe: 93},
@@ -27981,7 +27981,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Human-Like"],
 	},
 	mrmimemagmortar: {
-		num: 11062,
+		num: 11009,
 		name: "mrmimemagmortar",
 		types: ["Psychic", "Fire"],
 		baseStats: {hp: 51, atk: 78, def: 66, spa: 108, spd: 111, spe: 85},
@@ -27992,7 +27992,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Human-Like"],
 	},
 	mrmimeelectrode: {
-		num: 11063,
+		num: 11010,
 		name: "mrmimeelectrode",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 46, atk: 48, def: 68, spa: 93, spd: 106, spe: 130},
@@ -28003,9 +28003,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	electrodelapras: {
-		num: 11064,
+		num: 11011,
 		name: "electrodelapras",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Ice"],
 		baseStats: {hp: 83, atk: 73, def: 76, spa: 81, spd: 85, spe: 90},
 		abilities: {0: "Soundproof", 1: "Shell Armor", H: "Aftermath"},
 		heightm: 1.85,
@@ -28014,7 +28014,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	electrodealakazam: {
-		num: 11065,
+		num: 11012,
 		name: "electrodealakazam",
 		types: ["Electric", "Psychic"],
 		baseStats: {hp: 58, atk: 50, def: 53, spa: 98, spd: 85, spe: 130},
@@ -28025,7 +28025,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	electrodetangrowth: {
-		num: 11066,
+		num: 11013,
 		name: "electrodetangrowth",
 		types: ["Electric", "Grass"],
 		baseStats: {hp: 73, atk: 83, def: 106, spa: 90, spd: 70, spe: 83},
@@ -28036,9 +28036,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Mineral"],
 	},
 	electrodemetagross: {
-		num: 11067,
+		num: 11014,
 		name: "electrodemetagross",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 66, atk: 106, def: 110, spa: 85, spd: 83, spe: 96},
 		abilities: {0: "Soundproof", 1: "Light Metal", H: "Aftermath"},
 		heightm: 1.4,
@@ -28047,7 +28047,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	mrmimerhyperior: {
-		num: 11068,
+		num: 11015,
 		name: "mrmimerhyperior",
 		types: ["Psychic", "Rock"],
 		baseStats: {hp: 65, atk: 108, def: 108, spa: 85, spd: 98, spe: 56},
@@ -28058,9 +28058,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	mrmimemetagross: {
-		num: 11069,
+		num: 11016,
 		name: "mrmimemetagross",
-		types: ["Fairy", "Psychic"],
+		types: ["Psychic", "Steel"],
 		baseStats: {hp: 53, atk: 105, def: 108, spa: 98, spd: 110, spe: 76},
 		abilities: {0: "Soundproof", 1: "Light Metal", H: "Technician"},
 		heightm: 1.4500000000000002,
@@ -28069,7 +28069,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	metagrosspersian: {
-		num: 11070,
+		num: 11017,
 		name: "metagrosspersian",
 		types: ["Steel", "Normal"],
 		baseStats: {hp: 75, atk: 91, def: 83, spa: 85, spd: 81, spe: 100},
@@ -28080,7 +28080,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	metagrosshitmontop: {
-		num: 11071,
+		num: 11018,
 		name: "metagrosshitmontop",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 70, atk: 108, def: 106, spa: 75, spd: 96, spe: 70},
@@ -28091,7 +28091,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	metagrosshitmonchan: {
-		num: 11072,
+		num: 11019,
 		name: "metagrosshitmonchan",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 70, atk: 115, def: 96, spa: 75, spd: 96, spe: 74},
@@ -28102,7 +28102,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	rhyperiorhitmontop: {
-		num: 11073,
+		num: 11020,
 		name: "rhyperiorhitmontop",
 		types: ["Ground", "Fighting"],
 		baseStats: {hp: 93, atk: 110, def: 106, spa: 48, spd: 73, spe: 60},
@@ -28113,7 +28113,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	snorlaxhitmontop: {
-		num: 11074,
+		num: 11021,
 		name: "snorlaxhitmontop",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 123, atk: 100, def: 85, spa: 55, spd: 110, spe: 56},
@@ -28124,7 +28124,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	electrodepersian: {
-		num: 11075,
+		num: 11022,
 		name: "electrodepersian",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 61, atk: 63, def: 63, spa: 75, spd: 75, spe: 126},
@@ -28135,7 +28135,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	raichupersian: {
-		num: 11076,
+		num: 11023,
 		name: "raichupersian",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 61, atk: 76, def: 58, spa: 81, spd: 75, spe: 113},
@@ -28146,7 +28146,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	vileplumepersian: {
-		num: 11077,
+		num: 11024,
 		name: "vileplumepersian",
 		types: ["Grass", "Normal"],
 		baseStats: {hp: 71, atk: 73, def: 68, spa: 95, spd: 81, spe: 93},
@@ -28157,7 +28157,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	victreebelpersian: {
-		num: 11078,
+		num: 11025,
 		name: "victreebelpersian",
 		types: ["Grass", "Normal"],
 		baseStats: {hp: 75, atk: 81, def: 61, spa: 88, spd: 68, spe: 100},
@@ -28168,7 +28168,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	weavilepersian: {
-		num: 11079,
+		num: 11026,
 		name: "weavilepersian",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 68, atk: 86, def: 61, spa: 51, spd: 78, spe: 118},
@@ -28179,7 +28179,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	electivirepersian: {
-		num: 11080,
+		num: 11027,
 		name: "electivirepersian",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 71, atk: 87, def: 62, spa: 85, spd: 78, spe: 108},
@@ -28190,7 +28190,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	poliwrathpersian: {
-		num: 11081,
+		num: 11028,
 		name: "poliwrathpersian",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 81, atk: 78, def: 71, spa: 68, spd: 81, spe: 100},
@@ -28201,7 +28201,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	empoleonpersian: {
-		num: 11082,
+		num: 11029,
 		name: "empoleonpersian",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 77, atk: 75, def: 69, spa: 95, spd: 89, spe: 96},
@@ -28212,7 +28212,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	poliwrathhitmontop: {
-		num: 11083,
+		num: 11030,
 		name: "poliwrathhitmontop",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 76, atk: 95, def: 95, spa: 58, spd: 96, spe: 70},
@@ -28223,7 +28223,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 1"],
 	},
 	empoleonhitmontop: {
-		num: 11084,
+		num: 11031,
 		name: "empoleonhitmontop",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 72, atk: 92, def: 92, spa: 85, spd: 104, spe: 66},
@@ -28234,7 +28234,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 1"],
 	},
 	mrmimepoliwrath: {
-		num: 11085,
+		num: 11032,
 		name: "mrmimepoliwrath",
 		types: ["Psychic", "Fighting"],
 		baseStats: {hp: 56, atk: 78, def: 85, spa: 90, spd: 110, spe: 76},
@@ -28245,7 +28245,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	mrmimeblastoise: {
-		num: 11086,
+		num: 11033,
 		name: "mrmimeblastoise",
 		types: ["Psychic", "Water"],
 		baseStats: {hp: 53, atk: 70, def: 88, spa: 95, spd: 115, spe: 82},
@@ -28256,7 +28256,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	mrmimevictreebel: {
-		num: 11087,
+		num: 11034,
 		name: "mrmimevictreebel",
 		types: ["Psychic", "Poison"],
 		baseStats: {hp: 53, atk: 85, def: 65, spa: 100, spd: 103, spe: 76},
@@ -28267,7 +28267,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	mrmimevileplume: {
-		num: 11088,
+		num: 11035,
 		name: "mrmimevileplume",
 		types: ["Psychic", "Poison"],
 		baseStats: {hp: 51, atk: 68, def: 78, spa: 103, spd: 110, spe: 63},
@@ -28278,7 +28278,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	mrmimetentacruel: {
-		num: 11089,
+		num: 11036,
 		name: "mrmimetentacruel",
 		types: ["Psychic", "Poison"],
 		baseStats: {hp: 53, atk: 61, def: 65, spa: 93, spd: 120, spe: 96},
@@ -28289,7 +28289,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Human-Like"],
 	},
 	tentacruelpersian: {
-		num: 11090,
+		num: 11037,
 		name: "tentacruelpersian",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 75, atk: 70, def: 61, spa: 75, spd: 101, spe: 110},
@@ -28300,7 +28300,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	exeggutortentacruel: {
-		num: 11091,
+		num: 11038,
 		name: "exeggutortentacruel",
 		types: ["Grass", "Poison"],
 		baseStats: {hp: 90, atk: 78, def: 71, spa: 110, spd: 90, spe: 85},
@@ -28311,7 +28311,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Grass"],
 	},
 	exeggutorvaporeon: {
-		num: 11092,
+		num: 11039,
 		name: "exeggutorvaporeon",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 106, atk: 75, def: 68, spa: 120, spd: 81, spe: 61},
@@ -28322,7 +28322,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	exeggutorempoleon: {
-		num: 11093,
+		num: 11040,
 		name: "exeggutorempoleon",
 		types: ["Grass", "Steel"],
 		baseStats: {hp: 91, atk: 89, def: 87, spa: 120, spd: 83, spe: 58},
@@ -28333,7 +28333,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Grass"],
 	},
 	exeggutorblastoise: {
-		num: 11094,
+		num: 11041,
 		name: "exeggutorblastoise",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 89, atk: 87, def: 95, spa: 111, spd: 85, spe: 70},
@@ -28344,7 +28344,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	mrmimesteelix: {
-		num: 11095,
+		num: 11042,
 		name: "mrmimesteelix",
 		types: ["Psychic", "Steel"],
 		baseStats: {hp: 51, atk: 71, def: 155, spa: 85, spd: 101, spe: 50},
@@ -28355,7 +28355,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	mrmimesnorlax: {
-		num: 11096,
+		num: 11043,
 		name: "mrmimesnorlax",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 80, atk: 88, def: 65, spa: 88, spd: 116, spe: 50},
@@ -28366,7 +28366,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	azumarillhitmonchan: {
-		num: 11097,
+		num: 11044,
 		name: "azumarillhitmonchan",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 83, atk: 86, def: 79, spa: 51, spd: 90, spe: 67},
@@ -28377,9 +28377,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 1"],
 	},
 	hitmonchanazumarill: {
-		num: 11098,
+		num: 11045,
 		name: "hitmonchanazumarill",
-		types: ["Fighting", "Water"],
+		types: ["Fighting", "Fairy"],
 		baseStats: {hp: 66, atk: 68, def: 79, spa: 43, spd: 100, spe: 58},
 		abilities: {0: "Keen Eye", 1: "Huge Power", H: "Inner Focus"},
 		heightm: 1.1,
@@ -28388,7 +28388,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	gastlybeldum: {
-		num: 11099,
+		num: 11046,
 		name: "gastlybeldum",
 		types: ["Ghost", "Psychic"],
 		baseStats: {hp: 33, atk: 48, def: 63, spa: 78, spd: 43, spe: 46},
@@ -28400,7 +28400,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	chanseytangela: {
-		num: 11100,
+		num: 11047,
 		name: "chanseytangela",
 		types: ["Normal", "Grass"],
 		baseStats: {hp: 188, atk: 38, def: 78, spa: 56, spd: 83, spe: 56},
@@ -28412,7 +28412,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Fairy"],
 	},
 	cloystermachamp: {
-		num: 11101,
+		num: 11048,
 		name: "cloystermachamp",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 63, atk: 118, def: 113, spa: 78, spd: 58, spe: 60},
@@ -28423,7 +28423,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 3"],
 	},
 	aerodactylslaking: {
-		num: 11102,
+		num: 11049,
 		name: "aerodactylslaking",
 		types: ["Rock", "Normal"],
 		baseStats: {hp: 103, atk: 141, def: 88, spa: 71, spd: 71, spe: 110},
@@ -28434,7 +28434,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	crobatslaking: {
-		num: 11103,
+		num: 11050,
 		name: "crobatslaking",
 		types: ["Poison", "Normal"],
 		baseStats: {hp: 106, atk: 136, def: 93, spa: 78, spd: 75, spe: 110},
@@ -28445,7 +28445,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	electrodegengar: {
-		num: 11104,
+		num: 11051,
 		name: "electrodegengar",
 		types: ["Electric", "Ghost"],
 		baseStats: {hp: 60, atk: 60, def: 63, spa: 96, spd: 78, spe: 123},
@@ -28456,7 +28456,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Mineral"],
 	},
 	jolteongengar: {
-		num: 11105,
+		num: 11052,
 		name: "jolteongengar",
 		types: ["Electric", "Ghost"],
 		baseStats: {hp: 63, atk: 65, def: 60, spa: 116, spd: 88, spe: 116},
@@ -28467,7 +28467,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	weavileraichu: {
-		num: 11106,
+		num: 11053,
 		name: "weavileraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 66, atk: 100, def: 58, spa: 60, spd: 83, spe: 115},
@@ -28478,7 +28478,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	feraligatrraichu: {
-		num: 11107,
+		num: 11054,
 		name: "feraligatrraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 76, atk: 95, def: 70, spa: 82, spd: 82, spe: 99},
@@ -28489,7 +28489,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	mantykeraichu: {
-		num: 11108,
+		num: 11055,
 		name: "mantykeraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 50, atk: 66, def: 53, spa: 70, spd: 106, spe: 90},
@@ -28501,7 +28501,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	glaceonraichu: {
-		num: 11109,
+		num: 11056,
 		name: "glaceonraichu",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 63, atk: 80, def: 73, spa: 116, spd: 90, spe: 95},
@@ -28512,7 +28512,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	espeonraichu: {
-		num: 11110,
+		num: 11057,
 		name: "espeonraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 63, atk: 81, def: 56, spa: 116, spd: 90, spe: 110},
@@ -28523,7 +28523,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	kecleonraichu: {
-		num: 11111,
+		num: 11058,
 		name: "kecleonraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 60, atk: 90, def: 60, spa: 70, spd: 106, spe: 86},
@@ -28534,7 +28534,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	sylveonraichu: {
-		num: 11112,
+		num: 11059,
 		name: "sylveonraichu",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 83, atk: 81, def: 58, spa: 103, spd: 113, spe: 93},
@@ -28545,7 +28545,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	charmeleonraichu: {
-		num: 11113,
+		num: 11060,
 		name: "charmeleonraichu",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 58, atk: 81, def: 56, spa: 83, spd: 70, spe: 100},
@@ -28557,9 +28557,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	moltreshoundoom: {
-		num: 11114,
+		num: 11061,
 		name: "moltreshoundoom",
-		types: ["Fire"],
+		types: ["Fire", "Dark"],
 		baseStats: {hp: 85, atk: 93, def: 63, spa: 120, spd: 83, spe: 93},
 		abilities: {0: "Pressure", 1: "Flash Fire", H: "Flame Body"},
 		heightm: 1.7,
@@ -28568,7 +28568,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	houndoommoltres: {
-		num: 11115,
+		num: 11062,
 		name: "houndoommoltres",
 		types: ["Dark", "Fire"],
 		baseStats: {hp: 80, atk: 96, def: 76, spa: 115, spd: 81, spe: 91},
@@ -28579,9 +28579,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	raichuaegislash: {
-		num: 11116,
+		num: 11063,
 		name: "raichuaegislash",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Ghost"],
 		baseStats: {hp: 60, atk: 63, def: 111, spa: 76, spd: 100, spe: 76},
 		abilities: {0: "Static", 1: "Stance Change", H: "Lightning Rod"},
 		heightm: 1.25,
@@ -28590,9 +28590,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	raichudoublade: {
-		num: 11117,
+		num: 11064,
 		name: "raichudoublade",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Ghost"],
 		baseStats: {hp: 59, atk: 103, def: 118, spa: 75, spd: 69, spe: 60},
 		abilities: {0: "Static", 1: "No Guard", H: "Lightning Rod"},
 		heightm: 0.8,
@@ -28602,9 +28602,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	raichuhoundoom: {
-		num: 11118,
+		num: 11065,
 		name: "raichuhoundoom",
-		types: ["Electric", "Dark"],
+		types: ["Electric", "Fire"],
 		baseStats: {hp: 65, atk: 90, def: 51, spa: 96, spd: 80, spe: 100},
 		abilities: {0: "Static", 1: "Flash Fire", H: "Lightning Rod"},
 		heightm: 1.1,
@@ -28613,7 +28613,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichuvenusaur: {
-		num: 11119,
+		num: 11066,
 		name: "raichuvenusaur",
 		types: ["Electric", "Grass"],
 		baseStats: {hp: 66, atk: 84, def: 73, spa: 93, spd: 86, spe: 90},
@@ -28624,7 +28624,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	raichublastoise: {
-		num: 11120,
+		num: 11067,
 		name: "raichublastoise",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 66, atk: 85, def: 85, spa: 88, spd: 88, spe: 88},
@@ -28635,7 +28635,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	raichucharizard: {
-		num: 11121,
+		num: 11068,
 		name: "raichucharizard",
 		types: ["Electric", "Fire"],
 		baseStats: {hp: 66, atk: 86, def: 70, spa: 96, spd: 81, spe: 103},
@@ -28646,7 +28646,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	raichuzapdos: {
-		num: 11122,
+		num: 11069,
 		name: "raichuzapdos",
 		types: ["Electric"],
 		baseStats: {hp: 70, atk: 90, def: 75, spa: 101, spd: 83, spe: 103},
@@ -28657,7 +28657,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	raichufearow: {
-		num: 11123,
+		num: 11070,
 		name: "raichufearow",
 		types: ["Electric", "Flying"],
 		baseStats: {hp: 61, atk: 90, def: 61, spa: 80, spd: 73, spe: 103},
@@ -28668,7 +28668,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	raichupidgeot: {
-		num: 11124,
+		num: 11071,
 		name: "raichupidgeot",
 		types: ["Electric", "Flying"],
 		baseStats: {hp: 67, atk: 83, def: 68, spa: 83, spd: 76, spe: 104},
@@ -28679,7 +28679,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	raichuzoroark: {
-		num: 11125,
+		num: 11072,
 		name: "raichuzoroark",
 		types: ["Electric", "Dark"],
 		baseStats: {hp: 60, atk: 100, def: 58, spa: 100, spd: 73, spe: 106},
@@ -28690,7 +28690,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	zoroarkraichu: {
-		num: 11126,
+		num: 11073,
 		name: "zoroarkraichu",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 60, atk: 95, def: 56, spa: 110, spd: 66, spe: 108},
@@ -28701,7 +28701,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichuzekrom: {
-		num: 11127,
+		num: 11074,
 		name: "raichuzekrom",
 		types: ["Electric", "Dragon"],
 		baseStats: {hp: 73, atk: 130, def: 98, spa: 100, spd: 86, spe: 96},
@@ -28712,7 +28712,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	raichugroudon: {
-		num: 11128,
+		num: 11075,
 		name: "raichugroudon",
 		types: ["Electric", "Ground"],
 		baseStats: {hp: 73, atk: 130, def: 111, spa: 93, spd: 83, spe: 96},
@@ -28723,7 +28723,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	houndoomexeggutor: {
-		num: 11129,
+		num: 11076,
 		name: "houndoomexeggutor",
 		types: ["Dark", "Psychic"],
 		baseStats: {hp: 81, atk: 93, def: 73, spa: 115, spd: 78, spe: 68},
@@ -28734,7 +28734,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Field"],
 	},
 	houndoomquagsire: {
-		num: 11130,
+		num: 11077,
 		name: "houndoomquagsire",
 		types: ["Dark", "Ground"],
 		baseStats: {hp: 81, atk: 86, def: 73, spa: 95, spd: 75, spe: 55},
@@ -28745,7 +28745,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	ariadosraichu: {
-		num: 11131,
+		num: 11078,
 		name: "ariadosraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 66, atk: 90, def: 60, spa: 70, spd: 73, spe: 86},
@@ -28756,7 +28756,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	girafarigraichu: {
-		num: 11132,
+		num: 11079,
 		name: "girafarigraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 66, atk: 86, def: 58, spa: 90, spd: 70, spe: 101},
@@ -28767,9 +28767,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichuariados: {
-		num: 11133,
+		num: 11080,
 		name: "raichuariados",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Poison"],
 		baseStats: {hp: 63, atk: 90, def: 65, spa: 80, spd: 76, spe: 63},
 		abilities: {0: "Static", 1: "Insomnia", H: "Lightning Rod"},
 		heightm: 0.9500000000000001,
@@ -28778,7 +28778,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	quagsirehoundoom: {
-		num: 11134,
+		num: 11081,
 		name: "quagsirehoundoom",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 88, atk: 88, def: 61, spa: 80, spd: 70, spe: 75},
@@ -28787,9 +28787,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 55,
 		color: "Blue",
 		eggGroups: ["Field", "Water 1"],
-	},	
+	},
 	steelixweezing: {
-		num: 11474,
+		num: 11082,
 		name: "steelixweezing",
 		types: ["Steel", "Poison"],
 		baseStats: {hp: 71, atk: 88, def: 146, spa: 65, spd: 66, spe: 50},
@@ -28800,7 +28800,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Mineral"],
 	},
 	magmortarblastoise: {
-		num: 11475,
+		num: 11083,
 		name: "magmortarblastoise",
 		types: ["Fire", "Water"],
 		baseStats: {hp: 76, atk: 87, def: 89, spa: 111, spd: 98, spe: 79},
@@ -28811,7 +28811,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	aggronblastoise: {
-		num: 11476,
+		num: 11084,
 		name: "aggronblastoise",
 		types: ["Steel", "Water"],
 		baseStats: {hp: 73, atk: 92, def: 126, spa: 68, spd: 75, spe: 68},
@@ -28822,7 +28822,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	aggroninfernape: {
-		num: 11477,
+		num: 11085,
 		name: "aggroninfernape",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 72, atk: 106, def: 107, spa: 74, spd: 63, spe: 88},
@@ -28833,7 +28833,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	aegislashtentacruel: {
-		num: 11478,
+		num: 11086,
 		name: "aegislashtentacruel",
 		types: ["Steel", "Poison"],
 		baseStats: {hp: 66, atk: 63, def: 90, spa: 60, spd: 133, spe: 86},
@@ -28844,7 +28844,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Mineral"],
 	},
 	tentacruelaegislash: {
-		num: 11479,
+		num: 11087,
 		name: "tentacruelaegislash",
 		types: ["Water", "Ghost"],
 		baseStats: {hp: 73, atk: 56, def: 115, spa: 70, spd: 126, spe: 73},
@@ -28855,7 +28855,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 3"],
 	},
 	zekromskarmory: {
-		num: 11480,
+		num: 11088,
 		name: "zekromskarmory",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 88, atk: 103, def: 133, spa: 93, spd: 90, spe: 76},
@@ -28866,7 +28866,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	skarmoryzekrom: {
-		num: 11481,
+		num: 11089,
 		name: "skarmoryzekrom",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 76, atk: 126, def: 126, spa: 66, spd: 80, spe: 83},
@@ -28877,9 +28877,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	blisseyhooh: {
-		num: 11482,
+		num: 11090,
 		name: "blisseyhooh",
-		types: ["Normal", "Fire"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 205, atk: 90, def: 63, spa: 86, spd: 141, spe: 78},
 		abilities: {0: "Natural Cure", 1: "Regenerator", H: "Healer"},
 		heightm: 2.65,
@@ -28888,7 +28888,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Fairy"],
 	},
 	tentacruelhooh: {
-		num: 11483,
+		num: 11091,
 		name: "tentacruelhooh",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 88, atk: 110, def: 81, spa: 90, spd: 131, spe: 93},
@@ -28899,7 +28899,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 3"],
 	},
 	hoohtentacruel: {
-		num: 11484,
+		num: 11092,
 		name: "hoohtentacruel",
 		types: ["Fire", "Poison"],
 		baseStats: {hp: 97, atk: 90, def: 73, spa: 100, spd: 142, spe: 96},
@@ -28910,7 +28910,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Undiscovered"],
 	},
 	hoohblissey: {
-		num: 11485,
+		num: 11093,
 		name: "hoohblissey",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 155, atk: 50, def: 36, spa: 98, spd: 147, spe: 66},
@@ -28921,7 +28921,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Undiscovered"],
 	},
 	hoohaggron: {
-		num: 11486,
+		num: 11094,
 		name: "hoohaggron",
 		types: ["Fire", "Rock"],
 		baseStats: {hp: 94, atk: 116, def: 150, spa: 93, spd: 122, spe: 63},
@@ -28932,7 +28932,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	slowkingaggron: {
-		num: 11487,
+		num: 11095,
 		name: "slowkingaggron",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 86, atk: 98, def: 146, spa: 86, spd: 93, spe: 43},
@@ -28943,7 +28943,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	slowbroaggron: {
-		num: 11488,
+		num: 11096,
 		name: "slowbroaggron",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 86, atk: 98, def: 156, spa: 86, spd: 73, spe: 43},
@@ -28954,7 +28954,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	steelixelectivire: {
-		num: 11489,
+		num: 11097,
 		name: "steelixelectivire",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 75, atk: 110, def: 111, spa: 68, spd: 71, spe: 73},
@@ -28965,7 +28965,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	aggronhooh: {
-		num: 11490,
+		num: 11098,
 		name: "aggronhooh",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 82, atk: 123, def: 120, spa: 76, spd: 91, spe: 76},
@@ -28976,7 +28976,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	aegislashhooh: {
-		num: 11491,
+		num: 11099,
 		name: "aegislashhooh",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 75, atk: 103, def: 106, spa: 70, spd: 144, spe: 80},
@@ -28987,7 +28987,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	steelixelectrode: {
-		num: 11492,
+		num: 11100,
 		name: "steelixelectrode",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 70, atk: 61, def: 113, spa: 63, spd: 70, spe: 110},
@@ -28998,7 +28998,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	steelixelectabuzz: {
-		num: 11493,
+		num: 11101,
 		name: "steelixelectabuzz",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 71, atk: 83, def: 104, spa: 68, spd: 71, spe: 80},
@@ -29010,7 +29010,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	articunosteelix: {
-		num: 11494,
+		num: 11102,
 		name: "articunosteelix",
 		types: ["Ice", "Steel"],
 		baseStats: {hp: 85, atk: 85, def: 166, spa: 81, spd: 105, spe: 48},
@@ -29021,7 +29021,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	articunotorchic: {
-		num: 11495,
+		num: 11103,
 		name: "articunotorchic",
 		types: ["Ice", "Fire"],
 		baseStats: {hp: 75, atk: 68, def: 60, spa: 86, spd: 100, spe: 58},
@@ -29033,7 +29033,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	articunohitmonchan: {
-		num: 11496,
+		num: 11104,
 		name: "articunohitmonchan",
 		types: ["Ice", "Fighting"],
 		baseStats: {hp: 76, atk: 98, def: 86, spa: 75, spd: 120, spe: 79},
@@ -29044,7 +29044,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	articunoshieldon: {
-		num: 11497,
+		num: 11105,
 		name: "articunoshieldon",
 		types: ["Ice", "Steel"],
 		baseStats: {hp: 70, atk: 56, def: 112, spa: 77, spd: 112, spe: 48},
@@ -29056,7 +29056,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	moltrespoliwrath: {
-		num: 11498,
+		num: 11106,
 		name: "moltrespoliwrath",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 90, atk: 96, def: 93, spa: 106, spd: 86, spe: 76},
@@ -29067,7 +29067,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	moltresporygon: {
-		num: 11499,
+		num: 11107,
 		name: "moltresporygon",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 81, atk: 73, def: 76, spa: 111, spd: 81, spe: 56},
@@ -29079,7 +29079,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	moltresempoleon: {
-		num: 11500,
+		num: 11108,
 		name: "moltresempoleon",
 		types: ["Fire", "Steel"],
 		baseStats: {hp: 88, atk: 90, def: 88, spa: 120, spd: 90, spe: 70},
@@ -29090,7 +29090,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	shucklereshiram: {
-		num: 11501,
+		num: 11109,
 		name: "shucklereshiram",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 46, atk: 83, def: 143, spa: 56, spd: 193, spe: 61},
@@ -29101,7 +29101,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	shucklezekrom: {
-		num: 11502,
+		num: 11110,
 		name: "shucklezekrom",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 46, atk: 103, def: 156, spa: 46, spd: 186, spe: 61},
@@ -29112,7 +29112,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	reshiramshuckle: {
-		num: 11503,
+		num: 11111,
 		name: "reshiramshuckle",
 		types: ["Dragon", "Rock"],
 		baseStats: {hp: 73, atk: 46, def: 186, spa: 103, spd: 156, spe: 33},
@@ -29123,7 +29123,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	zekromshuckle: {
-		num: 11504,
+		num: 11112,
 		name: "zekromshuckle",
 		types: ["Dragon", "Rock"],
 		baseStats: {hp: 73, atk: 56, def: 193, spa: 83, spd: 143, spe: 33},
@@ -29134,9 +29134,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	raichushedinja: {
-		num: 11505,
+		num: 11113,
 		name: "raichushedinja",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Ghost"],
 		baseStats: {hp: 1, atk: 90, def: 48, spa: 70, spd: 63, spe: 63},
 		abilities: {0: "Static", 1: "Wonder Guard", H: "Lightning Rod"},
 		heightm: 0.8,
@@ -29145,9 +29145,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	raichurayquaza: {
-		num: 11506,
+		num: 11114,
 		name: "raichurayquaza",
-		types: ["Electric", "Dragon"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 75, atk: 130, def: 78, spa: 110, spd: 83, spe: 100},
 		abilities: {0: "Static", 1: "Air Lock", H: "Lightning Rod"},
 		heightm: 3.9,
@@ -29156,7 +29156,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	raichualakazam: {
-		num: 11507,
+		num: 11115,
 		name: "raichualakazam",
 		types: ["Electric", "Psychic"],
 		baseStats: {hp: 58, atk: 63, def: 48, spa: 105, spd: 85, spe: 116},
@@ -29167,7 +29167,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	primeaperaichu: {
-		num: 11508,
+		num: 11116,
 		name: "primeaperaichu",
 		types: ["Fighting", "Electric"],
 		baseStats: {hp: 63, atk: 95, def: 56, spa: 70, spd: 73, spe: 105},
@@ -29178,7 +29178,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	politoedraichu: {
-		num: 11509,
+		num: 11117,
 		name: "politoedraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 80, atk: 85, def: 61, spa: 90, spd: 93, spe: 96},
@@ -29189,7 +29189,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	miloticraichu: {
-		num: 11510,
+		num: 11118,
 		name: "miloticraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 83, atk: 80, def: 63, spa: 96, spd: 110, spe: 100},
@@ -29200,7 +29200,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	ariadosblissey: {
-		num: 11511,
+		num: 11119,
 		name: "ariadosblissey",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 131, atk: 36, def: 30, spa: 65, spd: 91, spe: 50},
@@ -29211,7 +29211,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Bug"],
 	},
 	ariadoschansey: {
-		num: 11512,
+		num: 11120,
 		name: "ariadoschansey",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 130, atk: 33, def: 26, spa: 51, spd: 81, spe: 46},
@@ -29223,9 +29223,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Bug"],
 	},
 	chanseyariados: {
-		num: 11513,
+		num: 11121,
 		name: "chanseyariados",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Poison"],
 		baseStats: {hp: 190, atk: 61, def: 48, spa: 43, spd: 93, spe: 43},
 		abilities: {0: "Natural Cure", 1: "Insomnia", H: "Healer"},
 		heightm: 1.1,
@@ -29235,9 +29235,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Fairy"],
 	},
 	blisseyariados: {
-		num: 11514,
+		num: 11122,
 		name: "blisseyariados",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Poison"],
 		baseStats: {hp: 193, atk: 63, def: 50, spa: 70, spd: 113, spe: 45},
 		abilities: {0: "Natural Cure", 1: "Insomnia", H: "Healer"},
 		heightm: 1.3,
@@ -29246,9 +29246,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Fairy"],
 	},
 	blisseygarchomp: {
-		num: 11515,
+		num: 11123,
 		name: "blisseygarchomp",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 206, atk: 90, def: 66, spa: 76, spd: 118, spe: 86},
 		abilities: {0: "Natural Cure", 1: "Rough Skin", H: "Healer"},
 		heightm: 1.7,
@@ -29257,9 +29257,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Fairy"],
 	},
 	chanseygarchomp: {
-		num: 11516,
+		num: 11124,
 		name: "chanseygarchomp",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 202, atk: 88, def: 65, spa: 50, spd: 98, spe: 84},
 		abilities: {0: "Natural Cure", 1: "Rough Skin", H: "Healer"},
 		heightm: 1.5,
@@ -29269,9 +29269,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Fairy"],
 	},
 	dittogarchomp: {
-		num: 11517,
+		num: 11125,
 		name: "dittogarchomp",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 68, atk: 102, def: 79, spa: 58, spd: 60, spe: 84},
 		abilities: {0: "Limber", 1: "Rough Skin", H: "Imposter"},
 		heightm: 1.0999999999999999,
@@ -29280,9 +29280,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Ditto"],
 	},
 	alakazamgarchomp: {
-		num: 11518,
+		num: 11126,
 		name: "alakazamgarchomp",
-		types: ["Psychic", "Dragon"],
+		types: ["Psychic", "Ground"],
 		baseStats: {hp: 72, atk: 103, def: 78, spa: 116, spd: 91, spe: 108},
 		abilities: {0: "Synchronize", 1: "Rough Skin", H: "Magic Guard"},
 		heightm: 1.7,
@@ -29291,7 +29291,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	rayquazagarchomp: {
-		num: 11519,
+		num: 11127,
 		name: "rayquazagarchomp",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 106, atk: 136, def: 93, spa: 126, spd: 88, spe: 99},
@@ -29302,7 +29302,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	zapdosgarchomp: {
-		num: 11520,
+		num: 11128,
 		name: "zapdosgarchomp",
 		types: ["Electric", "Ground"],
 		baseStats: {hp: 96, atk: 116, def: 91, spa: 110, spd: 88, spe: 101},
@@ -29313,7 +29313,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	moltresgarchomp: {
-		num: 11521,
+		num: 11129,
 		name: "moltresgarchomp",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 96, atk: 120, def: 93, spa: 110, spd: 85, spe: 98},
@@ -29324,7 +29324,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	garchompgengar: {
-		num: 11522,
+		num: 11130,
 		name: "garchompgengar",
 		types: ["Dragon", "Ghost"],
 		baseStats: {hp: 92, atk: 86, def: 71, spa: 96, spd: 81, spe: 107},
@@ -29335,7 +29335,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Monster"],
 	},
 	garchompmoltres: {
-		num: 11523,
+		num: 11131,
 		name: "garchompmoltres",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 102, atk: 110, def: 91, spa: 95, spd: 85, spe: 94},
@@ -29346,7 +29346,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	garchompgardevoir: {
-		num: 11524,
+		num: 11132,
 		name: "garchompgardevoir",
 		types: ["Dragon", "Fairy"],
 		baseStats: {hp: 94, atk: 86, def: 75, spa: 95, spd: 95, spe: 87},
@@ -29357,7 +29357,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	garchompkyogre: {
-		num: 11525,
+		num: 11133,
 		name: "garchompkyogre",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 105, atk: 110, def: 91, spa: 103, spd: 103, spe: 94},
@@ -29368,7 +29368,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	garchomplickilicky: {
-		num: 11526,
+		num: 11134,
 		name: "garchomplickilicky",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 108, atk: 100, def: 95, spa: 80, spd: 88, spe: 67},
@@ -29379,7 +29379,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	garchompgliscor: {
-		num: 11527,
+		num: 11135,
 		name: "garchompgliscor",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 97, atk: 106, def: 115, spa: 68, spd: 81, spe: 97},
@@ -29390,7 +29390,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	garchomppikachu: {
-		num: 11528,
+		num: 11136,
 		name: "garchomppikachu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 83, atk: 80, def: 58, spa: 70, spd: 73, spe: 94},
@@ -29402,7 +29402,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	garchompmarowak: {
-		num: 11529,
+		num: 11137,
 		name: "garchompmarowak",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 92, atk: 96, def: 105, spa: 70, spd: 83, spe: 64},
@@ -29413,7 +29413,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	garchompgroudon: {
-		num: 11530,
+		num: 11138,
 		name: "garchompgroudon",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 105, atk: 143, def: 125, spa: 86, spd: 86, spe: 94},
@@ -29424,7 +29424,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	garchompaggron: {
-		num: 11531,
+		num: 11139,
 		name: "garchompaggron",
 		types: ["Dragon", "Rock"],
 		baseStats: {hp: 95, atk: 116, def: 151, spa: 73, spd: 76, spe: 67},
@@ -29435,7 +29435,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	garchomptangrowth: {
-		num: 11532,
+		num: 11140,
 		name: "garchomptangrowth",
 		types: ["Dragon", "Grass"],
 		baseStats: {hp: 105, atk: 110, def: 115, spa: 90, spd: 73, spe: 67},
@@ -29446,7 +29446,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Monster"],
 	},
 	scizorraichu: {
-		num: 11533,
+		num: 11141,
 		name: "scizorraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 66, atk: 103, def: 70, spa: 66, spd: 80, spe: 95},
@@ -29457,7 +29457,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	scytherraichu: {
-		num: 11534,
+		num: 11142,
 		name: "scytherraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 66, atk: 96, def: 63, spa: 66, spd: 80, spe: 108},
@@ -29469,7 +29469,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	aggronraichu: {
-		num: 11535,
+		num: 11143,
 		name: "aggronraichu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 66, atk: 96, def: 96, spa: 70, spd: 66, spe: 90},
@@ -29480,7 +29480,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	blisseytangrowth: {
-		num: 11536,
+		num: 11144,
 		name: "blisseytangrowth",
 		types: ["Normal", "Grass"],
 		baseStats: {hp: 203, atk: 70, def: 86, spa: 86, spd: 106, spe: 51},
@@ -29491,7 +29491,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Fairy"],
 	},
 	gabiteraichu: {
-		num: 11537,
+		num: 11145,
 		name: "gabiteraichu",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 65, atk: 90, def: 58, spa: 63, spd: 63, spe: 100},
@@ -29503,9 +29503,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	ninetalesgarchomp: {
-		num: 11538,
+		num: 11146,
 		name: "ninetalesgarchomp",
-		types: ["Fire", "Dragon"],
+		types: ["Fire", "Ground"],
 		baseStats: {hp: 84, atk: 112, def: 88, spa: 80, spd: 95, spe: 101},
 		abilities: {0: "Flash Fire", 1: "Rough Skin", H: "Drought"},
 		heightm: 1.5,
@@ -29514,9 +29514,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	gliscorgarchomp: {
-		num: 11539,
+		num: 11147,
 		name: "gliscorgarchomp",
-		types: ["Flying", "Ground"],
+		types: ["Ground", "Dragon"],
 		baseStats: {hp: 86, atk: 118, def: 105, spa: 56, spd: 78, spe: 99},
 		abilities: {0: "Hyper Cutter", 1: "Rough Skin", H: "Poison Heal"},
 		heightm: 1.95,
@@ -29525,9 +29525,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	kyogregarchomp: {
-		num: 11540,
+		num: 11148,
 		name: "kyogregarchomp",
-		types: ["Water", "Dragon"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 102, atk: 120, def: 93, spa: 126, spd: 121, spe: 98},
 		abilities: {0: "Drizzle", 1: "Sand Veil", H: ""},
 		heightm: 3.2,
@@ -29536,9 +29536,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	lickilickygarchomp: {
-		num: 11541,
+		num: 11149,
 		name: "lickilickygarchomp",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 109, atk: 115, def: 95, spa: 80, spd: 91, spe: 84},
 		abilities: {0: "Own Tempo", 1: "Rough Skin", H: "Cloud Nine"},
 		heightm: 1.7999999999999998,
@@ -29547,7 +29547,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	hauntergarchomp: {
-		num: 11542,
+		num: 11150,
 		name: "hauntergarchomp",
 		types: ["Ghost", "Ground"],
 		baseStats: {hp: 66, atk: 103, def: 78, spa: 103, spd: 65, spe: 99},
@@ -29559,7 +29559,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	genesectgarchomp: {
-		num: 11543,
+		num: 11151,
 		name: "genesectgarchomp",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 83, atk: 126, def: 95, spa: 106, spd: 91, spe: 101},
@@ -29570,7 +29570,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	gengargarchomp: {
-		num: 11544,
+		num: 11152,
 		name: "gengargarchomp",
 		types: ["Ghost", "Ground"],
 		baseStats: {hp: 76, atk: 108, def: 83, spa: 113, spd: 78, spe: 104},
@@ -29581,9 +29581,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	dunsparcegarchomp: {
-		num: 11545,
+		num: 11153,
 		name: "dunsparcegarchomp",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 102, atk: 110, def: 86, spa: 70, spd: 71, spe: 83},
 		abilities: {0: "Serene Grace", 1: "Rough Skin", H: "Rattled"},
 		heightm: 1.7,
@@ -29592,9 +29592,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	sceptilegarchomp: {
-		num: 11546,
+		num: 11154,
 		name: "sceptilegarchomp",
-		types: ["Grass", "Dragon"],
+		types: ["Grass", "Ground"],
 		baseStats: {hp: 82, atk: 115, def: 85, spa: 96, spd: 85, spe: 108},
 		abilities: {0: "Overgrow", 1: "Rough Skin", H: "Unburden"},
 		heightm: 1.7999999999999998,
@@ -29603,7 +29603,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	salamencegarchomp: {
-		num: 11547,
+		num: 11155,
 		name: "salamencegarchomp",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 99, atk: 131, def: 90, spa: 100, spd: 81, spe: 101},
@@ -29614,7 +29614,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	celebigarchomp: {
-		num: 11548,
+		num: 11156,
 		name: "celebigarchomp",
 		types: ["Psychic", "Ground"],
 		baseStats: {hp: 102, atk: 120, def: 96, spa: 93, spd: 95, spe: 101},
@@ -29625,9 +29625,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	glaceongarchomp: {
-		num: 11549,
+		num: 11157,
 		name: "glaceongarchomp",
-		types: ["Ice", "Dragon"],
+		types: ["Ice", "Ground"],
 		baseStats: {hp: 79, atk: 106, def: 100, spa: 113, spd: 91, spe: 89},
 		abilities: {0: "Snow Cloak", 1: "Rough Skin", H: "Ice Body"},
 		heightm: 1.35,
@@ -29636,9 +29636,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	arceusgarchomp: {
-		num: 11550,
+		num: 11158,
 		name: "arceusgarchomp",
-		types: ["Normal", "Dragon"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 116, atk: 126, def: 103, spa: 106, spd: 108, spe: 108},
 		abilities: {0: "Multitype", 1: "Sand Veil", H: ""},
 		heightm: 2.55,
@@ -29647,7 +29647,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	garchomparceus: {
-		num: 11551,
+		num: 11159,
 		name: "garchomparceus",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 112, atk: 123, def: 111, spa: 93, spd: 96, spe: 114},
@@ -29658,7 +29658,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	garchompdunsparce: {
-		num: 11552,
+		num: 11160,
 		name: "garchompdunsparce",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 105, atk: 90, def: 78, spa: 75, spd: 78, spe: 64},
@@ -29669,7 +29669,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	garchompgarchomp: {
-		num: 11553,
+		num: 11161,
 		name: "garchompgarchomp",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 108, atk: 130, def: 95, spa: 80, spd: 85, spe: 102},
@@ -29680,7 +29680,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	scizorpinsir: {
-		num: 11554,
+		num: 11162,
 		name: "scizorpinsir",
 		types: ["Steel", "Bug"],
 		baseStats: {hp: 68, atk: 126, def: 100, spa: 55, spd: 76, spe: 78},
@@ -29691,7 +29691,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	mewtwogardevoir: {
-		num: 11555,
+		num: 11163,
 		name: "mewtwogardevoir",
 		types: ["Psychic", "Fairy"],
 		baseStats: {hp: 93, atk: 80, def: 73, spa: 144, spd: 98, spe: 96},
@@ -29702,9 +29702,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	gardevoirmewtwo: {
-		num: 11556,
+		num: 11164,
 		name: "gardevoirmewtwo",
-		types: ["Fairy", "Psychic"],
+		types: ["Psychic", "Fairy"],
 		baseStats: {hp: 80, atk: 95, def: 81, spa: 134, spd: 106, spe: 113},
 		abilities: {0: "Synchronize", 1: "Unnerve", H: "Telepathy"},
 		heightm: 1.8,
@@ -29713,9 +29713,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Human-Like"],
 	},
 	pikachucrobat: {
-		num: 11557,
+		num: 11165,
 		name: "pikachucrobat",
-		types: ["Electric", "Poison"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 51, atk: 78, def: 66, spa: 56, spd: 60, spe: 116},
 		abilities: {0: "Static", 1: "Infiltrator", H: "Lightning Rod"},
 		heightm: 1.1,
@@ -29725,7 +29725,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	crobatpikachu: {
-		num: 11558,
+		num: 11166,
 		name: "crobatpikachu",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 68, atk: 66, def: 53, spa: 63, spd: 70, spe: 103},
@@ -29737,7 +29737,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	shucklemrmime: {
-		num: 11559,
+		num: 11167,
 		name: "shucklemrmime",
 		types: ["Bug", "Fairy"],
 		baseStats: {hp: 26, atk: 33, def: 120, spa: 40, spd: 193, spe: 61},
@@ -29748,7 +29748,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	mrmimeshuckle: {
-		num: 11560,
+		num: 11168,
 		name: "mrmimeshuckle",
 		types: ["Psychic", "Rock"],
 		baseStats: {hp: 33, atk: 21, def: 175, spa: 70, spd: 156, spe: 33},
@@ -29759,7 +29759,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	steelixshuckle: {
-		num: 11561,
+		num: 11169,
 		name: "steelixshuckle",
 		types: ["Steel", "Rock"],
 		baseStats: {hp: 56, atk: 35, def: 220, spa: 40, spd: 120, spe: 13},
@@ -29770,7 +29770,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	shucklesteelix: {
-		num: 11562,
+		num: 11170,
 		name: "shucklesteelix",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 38, atk: 60, def: 210, spa: 25, spd: 175, spe: 21},
@@ -29781,9 +29781,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	mewshuckle: {
-		num: 11563,
+		num: 11171,
 		name: "mewshuckle",
-		types: ["Psychic", "Bug"],
+		types: ["Psychic", "Rock"],
 		baseStats: {hp: 73, atk: 40, def: 186, spa: 70, spd: 143, spe: 36},
 		abilities: {0: "Synchronize", 1: "Gluttony", H: "Contrary"},
 		heightm: 0.5,
@@ -29792,7 +29792,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	bastiodonquagsire: {
-		num: 11564,
+		num: 11172,
 		name: "bastiodonquagsire",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 71, atk: 74, def: 112, spa: 53, spd: 113, spe: 33},
@@ -29803,7 +29803,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	metagrossgiratina: {
-		num: 11565,
+		num: 11173,
 		name: "metagrossgiratina",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 103, atk: 111, def: 123, spa: 96, spd: 100, spe: 83},
@@ -29814,7 +29814,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	weavilecloyster: {
-		num: 11566,
+		num: 11174,
 		name: "weavilecloyster",
 		types: ["Dark", "Ice"],
 		baseStats: {hp: 63, atk: 103, def: 141, spa: 58, spd: 71, spe: 88},
@@ -29825,7 +29825,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	cloysterweavile: {
-		num: 11567,
+		num: 11175,
 		name: "cloysterweavile",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 56, atk: 111, def: 103, spa: 71, spd: 58, spe: 106},
@@ -29836,7 +29836,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	blazikenweavile: {
-		num: 11568,
+		num: 11176,
 		name: "blazikenweavile",
 		types: ["Fire", "Ice"],
 		baseStats: {hp: 76, atk: 120, def: 66, spa: 88, spd: 75, spe: 110},
@@ -29847,7 +29847,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	weavileblaziken: {
-		num: 11569,
+		num: 11177,
 		name: "weavileblaziken",
 		types: ["Dark", "Fighting"],
 		baseStats: {hp: 73, atk: 120, def: 68, spa: 66, spd: 80, spe: 95},
@@ -29858,9 +29858,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	tangrowthaegislash: {
-		num: 11570,
+		num: 11178,
 		name: "tangrowthaegislash",
-		types: ["Grass", "Steel"],
+		types: ["Grass", "Ghost"],
 		baseStats: {hp: 86, atk: 66, def: 135, spa: 90, spd: 80, spe: 56},
 		abilities: {0: "Chlorophyll", 1: "Stance Change", H: "Regenerator"},
 		heightm: 1.85,
@@ -29869,7 +29869,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Grass"],
 	},
 	aegislashtangrowth: {
-		num: 11571,
+		num: 11179,
 		name: "aegislashtangrowth",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 73, atk: 83, def: 130, spa: 70, spd: 110, spe: 53},
@@ -29880,7 +29880,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Mineral"],
 	},
 	gardevoircharizard: {
-		num: 11572,
+		num: 11180,
 		name: "gardevoircharizard",
 		types: ["Psychic", "Fire"],
 		baseStats: {hp: 71, atk: 77, def: 73, spa: 119, spd: 105, spe: 93},
@@ -29891,7 +29891,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	jynxkingdra: {
-		num: 11573,
+		num: 11181,
 		name: "jynxkingdra",
 		types: ["Ice", "Dragon"],
 		baseStats: {hp: 68, atk: 80, def: 75, spa: 108, spd: 95, spe: 88},
@@ -29902,7 +29902,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	fearowpinsir: {
-		num: 11574,
+		num: 11182,
 		name: "fearowpinsir",
 		types: ["Flying", "Bug"],
 		baseStats: {hp: 65, atk: 113, def: 88, spa: 59, spd: 64, spe: 90},
@@ -29913,7 +29913,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	weavilehitmontop: {
-		num: 11575,
+		num: 11183,
 		name: "weavilehitmontop",
 		types: ["Dark", "Fighting"],
 		baseStats: {hp: 63, atk: 103, def: 85, spa: 41, spd: 93, spe: 88},
@@ -29924,9 +29924,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	hitmontopweavile: {
-		num: 11576,
+		num: 11184,
 		name: "hitmontopweavile",
-		types: ["Fighting", "Dark"],
+		types: ["Fighting", "Ice"],
 		baseStats: {hp: 56, atk: 111, def: 75, spa: 38, spd: 101, spe: 106},
 		abilities: {0: "Intimidate", 1: "Pickpocket", H: "Steadfast"},
 		heightm: 1.25,
@@ -29935,9 +29935,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	persianweavile: {
-		num: 11577,
+		num: 11185,
 		name: "persianweavile",
-		types: ["Normal", "Dark"],
+		types: ["Normal", "Ice"],
 		baseStats: {hp: 66, atk: 103, def: 63, spa: 58, spd: 71, spe: 121},
 		abilities: {0: "Limber", 1: "Pickpocket", H: "Unnerve"},
 		heightm: 1.05,
@@ -29946,7 +29946,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	persianprimeape: {
-		num: 11578,
+		num: 11186,
 		name: "persianprimeape",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 65, atk: 93, def: 60, spa: 63, spd: 66, spe: 101},
@@ -29957,7 +29957,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	primeapepersian: {
-		num: 11579,
+		num: 11187,
 		name: "primeapepersian",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 65, atk: 81, def: 60, spa: 61, spd: 68, spe: 108},
@@ -29968,7 +29968,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	klinklangpersian: {
-		num: 11580,
+		num: 11188,
 		name: "klinklangpersian",
 		types: ["Steel", "Normal"],
 		baseStats: {hp: 61, atk: 80, def: 78, spa: 68, spd: 78, spe: 106},
@@ -29979,7 +29979,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	klinklanghitmontop: {
-		num: 11581,
+		num: 11189,
 		name: "klinklanghitmontop",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 56, atk: 96, def: 101, spa: 58, spd: 93, spe: 76},
@@ -29990,7 +29990,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	hitmontopklinklang: {
-		num: 11582,
+		num: 11190,
 		name: "hitmontopklinklang",
 		types: ["Fighting", "Steel"],
 		baseStats: {hp: 53, atk: 98, def: 108, spa: 46, spd: 101, spe: 83},
@@ -30001,7 +30001,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	scytherklinklang: {
-		num: 11583,
+		num: 11191,
 		name: "scytherklinklang",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 66, atk: 103, def: 103, spa: 60, spd: 81, spe: 95},
@@ -30013,7 +30013,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	klinklangscyther: {
-		num: 11584,
+		num: 11192,
 		name: "klinklangscyther",
 		types: ["Steel", "Bug"],
 		baseStats: {hp: 63, atk: 106, def: 91, spa: 65, spd: 83, spe: 100},
@@ -30025,7 +30025,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	hitmontopmarowak: {
-		num: 11585,
+		num: 11193,
 		name: "hitmontopmarowak",
 		types: ["Fighting", "Ground"],
 		baseStats: {hp: 53, atk: 85, def: 105, spa: 40, spd: 100, spe: 53},
@@ -30036,7 +30036,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	marowakhitmontop: {
-		num: 11586,
+		num: 11194,
 		name: "marowakhitmontop",
 		types: ["Ground", "Fighting"],
 		baseStats: {hp: 56, atk: 90, def: 100, spa: 45, spd: 90, spe: 61},
@@ -30047,7 +30047,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	steelixtyranitar: {
-		num: 11587,
+		num: 11195,
 		name: "steelixtyranitar",
 		types: ["Steel", "Dark"],
 		baseStats: {hp: 83, atk: 117, def: 140, spa: 68, spd: 76, spe: 50},
@@ -30058,7 +30058,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	tyranitarsteelix: {
-		num: 11588,
+		num: 11196,
 		name: "tyranitarsteelix",
 		types: ["Rock", "Steel"],
 		baseStats: {hp: 91, atk: 101, def: 170, spa: 81, spd: 88, spe: 40},
@@ -30069,7 +30069,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	tyranitarlapras: {
-		num: 11589,
+		num: 11197,
 		name: "tyranitarlapras",
 		types: ["Rock", "Ice"],
 		baseStats: {hp: 110, atk: 101, def: 90, spa: 91, spd: 98, spe: 60},
@@ -30080,7 +30080,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	laprastyranitar: {
-		num: 11590,
+		num: 11198,
 		name: "laprastyranitar",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 120, atk: 117, def: 100, spa: 88, spd: 96, spe: 60},
@@ -30091,7 +30091,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	nidokingtyphlosion: {
-		num: 11591,
+		num: 11199,
 		name: "nidokingtyphlosion",
 		types: ["Poison", "Fire"],
 		baseStats: {hp: 80, atk: 90, def: 77, spa: 93, spd: 78, spe: 95},
@@ -30102,9 +30102,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	typhlosionnidoking: {
-		num: 11592,
+		num: 11200,
 		name: "typhlosionnidoking",
-		types: ["Fire", "Poison"],
+		types: ["Fire", "Ground"],
 		baseStats: {hp: 79, atk: 96, def: 77, spa: 101, spd: 81, spe: 90},
 		abilities: {0: "Blaze", 1: "Rivalry", H: "Flash Fire"},
 		heightm: 1.5499999999999998,
@@ -30113,7 +30113,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	typhlosionprimeape: {
-		num: 11593,
+		num: 11201,
 		name: "typhlosionprimeape",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 73, atk: 98, def: 66, spa: 92, spd: 80, spe: 96},
@@ -30124,7 +30124,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	nidokingprimeape: {
-		num: 11594,
+		num: 11202,
 		name: "nidokingprimeape",
 		types: ["Poison", "Fighting"],
 		baseStats: {hp: 75, atk: 104, def: 65, spa: 76, spd: 73, spe: 91},
@@ -30135,7 +30135,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	hitmonchanprimeape: {
-		num: 11595,
+		num: 11203,
 		name: "hitmonchanprimeape",
 		types: ["Fighting"],
 		baseStats: {hp: 55, atk: 105, def: 66, spa: 43, spd: 96, spe: 88},
@@ -30146,7 +30146,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	hitmonleeprimeape: {
-		num: 11596,
+		num: 11204,
 		name: "hitmonleeprimeape",
 		types: ["Fighting"],
 		baseStats: {hp: 55, atk: 110, def: 57, spa: 43, spd: 96, spe: 92},
@@ -30157,7 +30157,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	primeapehitmontop: {
-		num: 11597,
+		num: 11205,
 		name: "primeapehitmontop",
 		types: ["Fighting"],
 		baseStats: {hp: 60, atk: 98, def: 83, spa: 51, spd: 83, spe: 78},
@@ -30168,7 +30168,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	primeapehitmonchan: {
-		num: 11598,
+		num: 11206,
 		name: "primeapehitmonchan",
 		types: ["Fighting"],
 		baseStats: {hp: 60, atk: 105, def: 72, spa: 51, spd: 83, spe: 82},
@@ -30179,7 +30179,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	primeapehitmonlee: {
-		num: 11599,
+		num: 11207,
 		name: "primeapehitmonlee",
 		types: ["Fighting"],
 		baseStats: {hp: 60, atk: 115, def: 55, spa: 51, spd: 83, spe: 89},
@@ -30190,7 +30190,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	probopassmrmime: {
-		num: 11600,
+		num: 11208,
 		name: "probopassmrmime",
 		types: ["Rock", "Fairy"],
 		baseStats: {hp: 53, atk: 48, def: 91, spa: 83, spd: 140, spe: 73},
@@ -30201,9 +30201,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	persianprobopass: {
-		num: 11601,
+		num: 11209,
 		name: "persianprobopass",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Steel"],
 		baseStats: {hp: 63, atk: 60, def: 116, spa: 68, spd: 93, spe: 65},
 		abilities: {0: "Limber", 1: "Magnet Pull", H: "Unnerve"},
 		heightm: 1.2,
@@ -30212,7 +30212,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	probopasspersian: {
-		num: 11602,
+		num: 11210,
 		name: "probopasspersian",
 		types: ["Rock", "Normal"],
 		baseStats: {hp: 61, atk: 65, def: 88, spa: 71, spd: 121, spe: 90},
@@ -30223,7 +30223,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	mrmimeprobopass: {
-		num: 11603,
+		num: 11211,
 		name: "mrmimeprobopass",
 		types: ["Psychic", "Steel"],
 		baseStats: {hp: 46, atk: 51, def: 118, spa: 91, spd: 130, spe: 56},
@@ -30234,7 +30234,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	marowakklinklang: {
-		num: 11604,
+		num: 11212,
 		name: "marowakklinklang",
 		types: ["Ground", "Steel"],
 		baseStats: {hp: 60, atk: 93, def: 113, spa: 56, spd: 81, spe: 75},
@@ -30245,7 +30245,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	klinklangmarowak: {
-		num: 11605,
+		num: 11213,
 		name: "klinklangmarowak",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 60, atk: 86, def: 111, spa: 63, spd: 83, spe: 60},
@@ -30256,7 +30256,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	ariadosweezing: {
-		num: 11606,
+		num: 11214,
 		name: "ariadosweezing",
 		types: ["Bug", "Poison"],
 		baseStats: {hp: 68, atk: 90, def: 103, spa: 68, spd: 70, spe: 53},
@@ -30267,7 +30267,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Bug"],
 	},
 	charmeleonvenusaur: {
-		num: 11607,
+		num: 11215,
 		name: "charmeleonvenusaur",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 65, atk: 76, def: 74, spa: 86, spd: 76, spe: 80},
@@ -30279,7 +30279,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	arcaninepidgeot: {
-		num: 11608,
+		num: 11216,
 		name: "arcaninepidgeot",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 87, atk: 90, def: 76, spa: 90, spd: 76, spe: 99},
@@ -30290,7 +30290,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	pidgeotarcanine: {
-		num: 11609,
+		num: 11217,
 		name: "pidgeotarcanine",
 		types: ["Flying", "Fire"],
 		baseStats: {hp: 85, atk: 100, def: 78, spa: 80, spd: 73, spe: 97},
@@ -30301,7 +30301,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	vaporeonpidgeot: {
-		num: 11610,
+		num: 11218,
 		name: "vaporeonpidgeot",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 114, atk: 75, def: 70, spa: 96, spd: 86, spe: 89},
@@ -30312,7 +30312,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	pidgeotvaporeon: {
-		num: 11611,
+		num: 11219,
 		name: "pidgeotvaporeon",
 		types: ["Flying", "Water"],
 		baseStats: {hp: 98, atk: 70, def: 65, spa: 83, spd: 78, spe: 77},
@@ -30323,7 +30323,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	pikachupidgeot: {
-		num: 11612,
+		num: 11220,
 		name: "pikachupidgeot",
 		types: ["Electric", "Flying"],
 		baseStats: {hp: 51, atk: 71, def: 63, spa: 56, spd: 56, spe: 97},
@@ -30335,9 +30335,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	wartortlebeedrill: {
-		num: 11613,
+		num: 11221,
 		name: "wartortlebeedrill",
-		types: ["Water", "Bug"],
+		types: ["Water", "Poison"],
 		baseStats: {hp: 61, atk: 81, def: 53, spa: 58, spd: 80, spe: 69},
 		abilities: {0: "Torrent", 1: "Sniper", H: "Rain Dish"},
 		heightm: 1,
@@ -30347,7 +30347,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	beedrillwartortle: {
-		num: 11614,
+		num: 11222,
 		name: "beedrillwartortle",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 63, atk: 72, def: 66, spa: 51, spd: 80, spe: 63},
@@ -30359,7 +30359,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	porygon2chansey: {
-		num: 11615,
+		num: 11223,
 		name: "porygon2chansey",
 		types: ["Normal"],
 		baseStats: {hp: 140, atk: 30, def: 33, spa: 81, spd: 98, spe: 53},
@@ -30371,7 +30371,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Mineral"],
 	},
 	chanseyporygon2: {
-		num: 11616,
+		num: 11224,
 		name: "chanseyporygon2",
 		types: ["Normal"],
 		baseStats: {hp: 195, atk: 55, def: 61, spa: 58, spd: 101, spe: 56},
@@ -30383,7 +30383,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Fairy"],
 	},
 	xatublissey: {
-		num: 11617,
+		num: 11225,
 		name: "xatublissey",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 128, atk: 31, def: 30, spa: 88, spd: 91, spe: 68},
@@ -30394,7 +30394,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Flying"],
 	},
 	exeggutormagnezone: {
-		num: 11618,
+		num: 11226,
 		name: "exeggutormagnezone",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 86, atk: 78, def: 105, spa: 126, spd: 80, spe: 58},
@@ -30405,7 +30405,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Grass"],
 	},
 	blazikenslaking: {
-		num: 11619,
+		num: 11227,
 		name: "blazikenslaking",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 103, atk: 146, def: 90, spa: 105, spd: 68, spe: 93},
@@ -30416,7 +30416,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	jynxmantine: {
-		num: 11620,
+		num: 11228,
 		name: "jynxmantine",
 		types: ["Ice", "Flying"],
 		baseStats: {hp: 71, atk: 43, def: 58, spa: 103, spd: 110, spe: 78},
@@ -30427,7 +30427,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	darkraiumbreon: {
-		num: 11621,
+		num: 11229,
 		name: "darkraiumbreon",
 		types: ["Dark"],
 		baseStats: {hp: 78, atk: 73, def: 103, spa: 110, spd: 103, spe: 85},
@@ -30438,7 +30438,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	gengarjolteon: {
-		num: 11622,
+		num: 11230,
 		name: "gengarjolteon",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 61, atk: 65, def: 60, spa: 123, spd: 81, spe: 123},
@@ -30449,7 +30449,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	beedrillabsol: {
-		num: 11623,
+		num: 11231,
 		name: "beedrillabsol",
 		types: ["Bug", "Dark"],
 		baseStats: {hp: 65, atk: 116, def: 53, spa: 55, spd: 73, spe: 75},
@@ -30460,9 +30460,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	absolbeedrill: {
-		num: 11624,
+		num: 11232,
 		name: "absolbeedrill",
-		types: ["Dark", "Bug"],
+		types: ["Dark", "Poison"],
 		baseStats: {hp: 65, atk: 103, def: 46, spa: 65, spd: 66, spe: 75},
 		abilities: {0: "Pressure", 1: "Sniper", H: "Justified"},
 		heightm: 1.1,
@@ -30471,7 +30471,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	absolweavile: {
-		num: 11625,
+		num: 11233,
 		name: "absolweavile",
 		types: ["Dark", "Ice"],
 		baseStats: {hp: 66, atk: 123, def: 63, spa: 65, spd: 68, spe: 108},
@@ -30482,9 +30482,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	weavileabsol: {
-		num: 11626,
+		num: 11234,
 		name: "weavileabsol",
-		types: ["Ice", "Dark"],
+		types: ["Dark", "Ice"],
 		baseStats: {hp: 68, atk: 126, def: 61, spa: 55, spd: 76, spe: 91},
 		abilities: {0: "Pressure", 1: "Super Luck", H: "Pickpocket"},
 		heightm: 1.15,
@@ -30493,7 +30493,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	togekissmeganium: {
-		num: 11627,
+		num: 11235,
 		name: "togekissmeganium",
 		types: ["Fairy", "Grass"],
 		baseStats: {hp: 83, atk: 71, def: 98, spa: 107, spd: 110, spe: 80},
@@ -30504,7 +30504,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	tentacrueltangrowth: {
-		num: 11628,
+		num: 11236,
 		name: "tentacrueltangrowth",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 86, atk: 90, def: 105, spa: 90, spd: 96, spe: 66},
@@ -30515,9 +30515,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Water 3"],
 	},
 	chanseytogetic: {
-		num: 11629,
+		num: 11237,
 		name: "chanseytogetic",
-		types: ["Normal", "Fairy"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 185, atk: 28, def: 58, spa: 50, spd: 105, spe: 43},
 		abilities: {0: "Natural Cure", 1: "Serene Grace", H: "Healer"},
 		heightm: 0.8500000000000001,
@@ -30527,7 +30527,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	espeonpersian: {
-		num: 11630,
+		num: 11238,
 		name: "espeonpersian",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 65, atk: 68, def: 60, spa: 108, spd: 85, spe: 113},
@@ -30538,7 +30538,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	venusaurblastoise: {
-		num: 11631,
+		num: 11239,
 		name: "venusaurblastoise",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 79, atk: 82, def: 94, spa: 95, spd: 101, spe: 78},
@@ -30549,7 +30549,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	salamencetauros: {
-		num: 11632,
+		num: 11240,
 		name: "salamencetauros",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 88, atk: 111, def: 90, spa: 86, spd: 76, spe: 106},
@@ -30560,7 +30560,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	alakazamtauros: {
-		num: 11633,
+		num: 11241,
 		name: "alakazamtauros",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 61, atk: 83, def: 78, spa: 103, spd: 86, spe: 113},
@@ -30571,9 +30571,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	blisseyshuckle: {
-		num: 11634,
+		num: 11242,
 		name: "blisseyshuckle",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 176, atk: 10, def: 156, spa: 53, spd: 166, spe: 21},
 		abilities: {0: "Natural Cure", 1: "Gluttony", H: "Healer"},
 		heightm: 1.05,
@@ -30582,7 +30582,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Fairy"],
 	},
 	aegislashregigigas: {
-		num: 11635,
+		num: 11243,
 		name: "aegislashregigigas",
 		types: ["Steel", "Normal"],
 		baseStats: {hp: 76, atk: 123, def: 120, spa: 60, spd: 130, spe: 86},
@@ -30593,7 +30593,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	garchompdodrio: {
-		num: 11636,
+		num: 11244,
 		name: "garchompdodrio",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 92, atk: 116, def: 78, spa: 73, spd: 76, spe: 107},
@@ -30604,7 +30604,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	garchompbeedrill: {
-		num: 11637,
+		num: 11245,
 		name: "garchompbeedrill",
 		types: ["Dragon", "Poison"],
 		baseStats: {hp: 93, atk: 103, def: 58, spa: 68, spd: 83, spe: 84},
@@ -30615,7 +30615,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	dragonitegarchomp: {
-		num: 11638,
+		num: 11246,
 		name: "dragonitegarchomp",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 96, atk: 131, def: 95, spa: 93, spd: 95, spe: 94},
@@ -30626,9 +30626,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	seadragarchomp: {
-		num: 11639,
+		num: 11247,
 		name: "seadragarchomp",
-		types: ["Water", "Dragon"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 72, atk: 108, def: 95, spa: 90, spd: 58, spe: 96},
 		abilities: {0: "Poison Point", 1: "Rough Skin", H: "Damp"},
 		heightm: 1.5499999999999998,
@@ -30638,7 +30638,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	kingdragarchomp: {
-		num: 11640,
+		num: 11248,
 		name: "kingdragarchomp",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 86, atk: 118, def: 95, spa: 90, spd: 91, spe: 96},
@@ -30649,9 +30649,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	garchompkingdra: {
-		num: 11641,
+		num: 11249,
 		name: "garchompkingdra",
-		types: ["Ground", "Dragon"],
+		types: ["Dragon", "Water"],
 		baseStats: {hp: 97, atk: 106, def: 95, spa: 85, spd: 88, spe: 90},
 		abilities: {0: "Sand Veil", 1: "Sniper", H: "Rough Skin"},
 		heightm: 1.85,
@@ -30660,9 +30660,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	blastoisemetagross: {
-		num: 11642,
+		num: 11250,
 		name: "blastoisemetagross",
-		types: ["Water", "Steel"],
+		types: ["Water", "Psychic"],
 		baseStats: {hp: 79, atk: 117, def: 120, spa: 88, spd: 100, spe: 72},
 		abilities: {0: "Torrent", 1: "Light Metal", H: "Rain Dish"},
 		heightm: 1.6,
@@ -30671,7 +30671,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	metagrossblastoise: {
-		num: 11643,
+		num: 11251,
 		name: "metagrossblastoise",
 		types: ["Steel", "Water"],
 		baseStats: {hp: 79, atk: 100, def: 110, spa: 91, spd: 95, spe: 75},
@@ -30682,7 +30682,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	gardevoirgarchomp: {
-		num: 11644,
+		num: 11252,
 		name: "gardevoirgarchomp",
 		types: ["Psychic", "Ground"],
 		baseStats: {hp: 81, atk: 108, def: 85, spa: 110, spd: 105, spe: 94},
@@ -30693,7 +30693,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	giratinablastoise: {
-		num: 11645,
+		num: 11253,
 		name: "giratinablastoise",
 		types: ["Ghost", "Water"],
 		baseStats: {hp: 126, atk: 88, def: 106, spa: 95, spd: 115, spe: 82},
@@ -30704,7 +30704,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	garchompgallade: {
-		num: 11646,
+		num: 11254,
 		name: "garchompgallade",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 94, atk: 126, def: 75, spa: 75, spd: 95, spe: 87},
@@ -30715,7 +30715,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	galladeraichu: {
-		num: 11647,
+		num: 11255,
 		name: "galladeraichu",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 65, atk: 101, def: 58, spa: 73, spd: 103, spe: 100},
@@ -30726,7 +30726,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	galladegarchomp: {
-		num: 11648,
+		num: 11256,
 		name: "galladegarchomp",
 		types: ["Psychic", "Ground"],
 		baseStats: {hp: 81, atk: 128, def: 85, spa: 70, spd: 105, spe: 94},
@@ -30737,9 +30737,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	raichugallade: {
-		num: 11649,
+		num: 11257,
 		name: "raichugallade",
-		types: ["Electric", "Psychic"],
+		types: ["Electric", "Fighting"],
 		baseStats: {hp: 62, atk: 113, def: 61, spa: 81, spd: 91, spe: 90},
 		abilities: {0: "Static", 1: "Justified", H: "Lightning Rod"},
 		heightm: 1.2000000000000002,
@@ -30748,7 +30748,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	eeveeraichu: {
-		num: 11650,
+		num: 11258,
 		name: "eeveeraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 56, atk: 78, def: 53, spa: 60, spd: 70, spe: 91},
@@ -30760,7 +30760,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichueevee: {
-		num: 11651,
+		num: 11259,
 		name: "raichueevee",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 58, atk: 66, def: 51, spa: 75, spd: 75, spe: 73},
@@ -30772,7 +30772,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichupineco: {
-		num: 11652,
+		num: 11260,
 		name: "raichupineco",
 		types: ["Electric", "Bug"],
 		baseStats: {hp: 56, atk: 73, def: 78, spa: 71, spd: 65, spe: 46},
@@ -30784,7 +30784,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	pinecoraichu: {
-		num: 11653,
+		num: 11261,
 		name: "pinecoraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 53, atk: 81, def: 66, spa: 53, spd: 50, spe: 78},
@@ -30796,7 +30796,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	clefableblissey: {
-		num: 11654,
+		num: 11262,
 		name: "clefableblissey",
 		types: ["Fairy", "Normal"],
 		baseStats: {hp: 148, atk: 30, def: 31, spa: 88, spd: 105, spe: 56},
@@ -30807,7 +30807,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Fairy"],
 	},
 	blisseyclefable: {
-		num: 11655,
+		num: 11263,
 		name: "blisseyclefable",
 		types: ["Normal", "Fairy"],
 		baseStats: {hp: 201, atk: 50, def: 52, spa: 81, spd: 120, spe: 58},
@@ -30818,7 +30818,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Fairy"],
 	},
 	tangelaclefable: {
-		num: 11656,
+		num: 11264,
 		name: "tangelaclefable",
 		types: ["Grass", "Fairy"],
 		baseStats: {hp: 75, atk: 65, def: 87, spa: 98, spd: 56, spe: 60},
@@ -30830,7 +30830,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	clefairytangela: {
-		num: 11657,
+		num: 11265,
 		name: "clefairytangela",
 		types: ["Fairy", "Grass"],
 		baseStats: {hp: 68, atk: 51, def: 92, spa: 73, spd: 56, spe: 51},
@@ -30842,7 +30842,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Fairy"],
 	},
 	tangelaclefairy: {
-		num: 11658,
+		num: 11266,
 		name: "tangelaclefairy",
 		types: ["Grass", "Fairy"],
 		baseStats: {hp: 66, atk: 48, def: 70, spa: 86, spd: 48, spe: 43},
@@ -30854,7 +30854,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	clefabletangela: {
-		num: 11659,
+		num: 11267,
 		name: "clefabletangela",
 		types: ["Fairy", "Grass"],
 		baseStats: {hp: 85, atk: 60, def: 101, spa: 96, spd: 73, spe: 60},
@@ -30866,7 +30866,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Fairy"],
 	},
 	clefablegroudon: {
-		num: 11660,
+		num: 11268,
 		name: "clefablegroudon",
 		types: ["Fairy", "Ground"],
 		baseStats: {hp: 96, atk: 123, def: 117, spa: 96, spd: 90, spe: 80},
@@ -30877,7 +30877,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Fairy"],
 	},
 	clefablesteelix: {
-		num: 11661,
+		num: 11269,
 		name: "clefablesteelix",
 		types: ["Fairy", "Steel"],
 		baseStats: {hp: 88, atk: 80, def: 157, spa: 81, spd: 81, spe: 40},
@@ -30888,7 +30888,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Fairy"],
 	},
 	steelixclefable: {
-		num: 11662,
+		num: 11270,
 		name: "steelixclefable",
 		types: ["Steel", "Fairy"],
 		baseStats: {hp: 81, atk: 75, def: 115, spa: 68, spd: 73, spe: 50},
@@ -30899,9 +30899,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Mineral"],
 	},
 	gliscorquagsire: {
-		num: 11663,
+		num: 11271,
 		name: "gliscorquagsire",
-		types: ["Flying", "Ground"],
+		types: ["Ground", "Water"],
 		baseStats: {hp: 81, atk: 88, def: 98, spa: 51, spd: 71, spe: 55},
 		abilities: {0: "Hyper Cutter", 1: "Water Absorb", H: "Poison Heal"},
 		heightm: 1.7,
@@ -30910,7 +30910,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	rhydonmantine: {
-		num: 11664,
+		num: 11272,
 		name: "rhydonmantine",
 		types: ["Ground", "Flying"],
 		baseStats: {hp: 98, atk: 70, def: 86, spa: 56, spd: 76, spe: 60},
@@ -30922,9 +30922,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	marowakmantine: {
-		num: 11665,
+		num: 11273,
 		name: "marowakmantine",
-		types: ["Ground", "Water"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 68, atk: 53, def: 83, spa: 60, spd: 100, spe: 61},
 		abilities: {0: "Rock Head", 1: "Water Absorb", H: "Battle Armor"},
 		heightm: 1.55,
@@ -30933,9 +30933,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	groudonmantine: {
-		num: 11666,
+		num: 11274,
 		name: "groudonmantine",
-		types: ["Ground", "Water"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 95, atk: 76, def: 93, spa: 93, spd: 106, spe: 76},
 		abilities: {0: "Drought", 1: "Water Absorb", H: "Water Veil"},
 		heightm: 2.8,
@@ -30944,7 +30944,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	gliscormantine: {
-		num: 11667,
+		num: 11275,
 		name: "gliscormantine",
 		types: ["Ground", "Flying"],
 		baseStats: {hp: 78, atk: 58, def: 88, spa: 56, spd: 96, spe: 78},
@@ -30955,9 +30955,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	donphanmantine: {
-		num: 11668,
+		num: 11276,
 		name: "donphanmantine",
-		types: ["Ground", "Water"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 88, atk: 66, def: 86, spa: 66, spd: 86, spe: 63},
 		abilities: {0: "Sturdy", 1: "Water Absorb", H: "Sand Veil"},
 		heightm: 1.6,
@@ -30966,7 +30966,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	kyogremantine: {
-		num: 11669,
+		num: 11277,
 		name: "kyogremantine",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 95, atk: 60, def: 76, spa: 126, spd: 140, spe: 76},
@@ -30977,7 +30977,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	venomothlugia: {
-		num: 11670,
+		num: 11278,
 		name: "venomothlugia",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 82, atk: 81, def: 106, spa: 90, spd: 101, spe: 103},
@@ -30988,7 +30988,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	lugiavenomoth: {
-		num: 11671,
+		num: 11279,
 		name: "lugiavenomoth",
 		types: ["Psychic", "Poison"],
 		baseStats: {hp: 94, atk: 73, def: 83, spa: 90, spd: 127, spe: 96},
@@ -30999,7 +30999,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	slowkinggroudon: {
-		num: 11672,
+		num: 11280,
 		name: "slowkinggroudon",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 96, atk: 125, def: 120, spa: 100, spd: 103, spe: 70},
@@ -31010,7 +31010,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	slowbrogroudon: {
-		num: 11673,
+		num: 11281,
 		name: "slowbrogroudon",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 96, atk: 125, def: 130, spa: 100, spd: 83, spe: 70},
@@ -31021,7 +31021,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	slowbrotorterra: {
-		num: 11674,
+		num: 11282,
 		name: "slowbrotorterra",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 95, atk: 97, def: 106, spa: 91, spd: 81, spe: 47},
@@ -31032,7 +31032,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	slowbromamoswine: {
-		num: 11675,
+		num: 11283,
 		name: "slowbromamoswine",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 100, atk: 111, def: 90, spa: 90, spd: 73, spe: 63},
@@ -31043,7 +31043,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	slowkingmamoswine: {
-		num: 11676,
+		num: 11284,
 		name: "slowkingmamoswine",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 100, atk: 111, def: 80, spa: 90, spd: 93, spe: 63},
@@ -31054,7 +31054,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	slowkingtorterra: {
-		num: 11677,
+		num: 11285,
 		name: "slowkingtorterra",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 95, atk: 97, def: 96, spa: 91, spd: 101, spe: 47},
@@ -31065,7 +31065,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	slowkingswampert: {
-		num: 11678,
+		num: 11286,
 		name: "slowkingswampert",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 96, atk: 98, def: 86, spa: 95, spd: 103, spe: 50},
@@ -31076,7 +31076,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	slowbroswampert: {
-		num: 11679,
+		num: 11287,
 		name: "slowbroswampert",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 96, atk: 98, def: 96, spa: 95, spd: 83, spe: 50},
@@ -31087,7 +31087,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	slowbronidoqueen: {
-		num: 11680,
+		num: 11288,
 		name: "slowbronidoqueen",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 93, atk: 86, def: 94, spa: 91, spd: 81, spe: 60},
@@ -31098,7 +31098,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	slowkingnidoqueen: {
-		num: 11681,
+		num: 11289,
 		name: "slowkingnidoqueen",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 93, atk: 86, def: 84, spa: 91, spd: 101, spe: 60},
@@ -31109,7 +31109,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	slowkingnidoking: {
-		num: 11682,
+		num: 11290,
 		name: "slowkingnidoking",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 90, atk: 93, def: 78, spa: 95, spd: 98, spe: 66},
@@ -31120,7 +31120,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	slowbronidoking: {
-		num: 11683,
+		num: 11291,
 		name: "slowbronidoking",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 90, atk: 93, def: 88, spa: 95, spd: 78, spe: 66},
@@ -31131,9 +31131,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	weezingtyranitar: {
-		num: 11684,
+		num: 11292,
 		name: "weezingtyranitar",
-		types: ["Poison", "Rock"],
+		types: ["Poison", "Dark"],
 		baseStats: {hp: 76, atk: 119, def: 113, spa: 88, spd: 80, spe: 60},
 		abilities: {0: "Levitate", 1: "Unnerve", H: "Stench"},
 		heightm: 1.6,
@@ -31142,7 +31142,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	zekromtyranitar: {
-		num: 11685,
+		num: 11293,
 		name: "zekromtyranitar",
 		types: ["Dragon", "Dark"],
 		baseStats: {hp: 100, atk: 139, def: 113, spa: 111, spd: 100, spe: 70},
@@ -31153,7 +31153,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	garchomptyranitar: {
-		num: 11686,
+		num: 11294,
 		name: "garchomptyranitar",
 		types: ["Dragon", "Dark"],
 		baseStats: {hp: 105, atk: 132, def: 105, spa: 85, spd: 90, spe: 74},
@@ -31164,7 +31164,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	salamencetyranitar: {
-		num: 11687,
+		num: 11295,
 		name: "salamencetyranitar",
 		types: ["Dragon", "Dark"],
 		baseStats: {hp: 96, atk: 134, def: 100, spa: 105, spd: 86, spe: 74},
@@ -31175,7 +31175,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	rayquazatyranitar: {
-		num: 11688,
+		num: 11296,
 		name: "rayquazatyranitar",
 		types: ["Dragon", "Dark"],
 		baseStats: {hp: 103, atk: 139, def: 103, spa: 131, spd: 93, spe: 72},
@@ -31186,7 +31186,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	scizorgarchomp: {
-		num: 11689,
+		num: 11297,
 		name: "scizorgarchomp",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 82, atk: 130, def: 96, spa: 63, spd: 81, spe: 89},
@@ -31197,7 +31197,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	garchompscizor: {
-		num: 11690,
+		num: 11298,
 		name: "garchompscizor",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 95, atk: 130, def: 98, spa: 71, spd: 83, spe: 77},
@@ -31208,7 +31208,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	cloysterazumarill: {
-		num: 11691,
+		num: 11299,
 		name: "cloysterazumarill",
 		types: ["Water", "Fairy"],
 		baseStats: {hp: 66, atk: 65, def: 113, spa: 76, spd: 56, spe: 56},
@@ -31219,7 +31219,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	meowthmeowth: {
-		num: 11692,
+		num: 11300,
 		name: "meowthmeowth",
 		types: ["Normal"],
 		baseStats: {hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90},
@@ -31231,7 +31231,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	mamoswineprimeape: {
-		num: 11693,
+		num: 11301,
 		name: "mamoswineprimeape",
 		types: ["Ice", "Fighting"],
 		baseStats: {hp: 95, atk: 113, def: 66, spa: 66, spd: 63, spe: 90},
@@ -31242,7 +31242,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	weepinbelldoduo: {
-		num: 11694,
+		num: 11302,
 		name: "weepinbelldoduo",
 		types: ["Grass", "Flying"],
 		baseStats: {hp: 55, atk: 86, def: 46, spa: 68, spd: 41, spe: 68},
@@ -31254,9 +31254,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Grass"],
 	},
 	chikoritacombusken: {
-		num: 11695,
+		num: 11303,
 		name: "chikoritacombusken",
-		types: ["Grass", "Fire"],
+		types: ["Grass", "Fighting"],
 		baseStats: {hp: 50, atk: 73, def: 61, spa: 61, spd: 63, spe: 51},
 		abilities: {0: "Overgrow", 1: "Speed Boost", H: "Leaf Guard"},
 		heightm: 0.9,
@@ -31266,7 +31266,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	combuskenchikorita: {
-		num: 11696,
+		num: 11304,
 		name: "combuskenchikorita",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 55, atk: 61, def: 63, spa: 73, spd: 61, spe: 48},
@@ -31278,7 +31278,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	clefairytangrowth: {
-		num: 11697,
+		num: 11305,
 		name: "clefairytangrowth",
 		types: ["Fairy", "Grass"],
 		baseStats: {hp: 80, atk: 81, def: 99, spa: 76, spd: 60, spe: 45},
@@ -31290,7 +31290,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Fairy"],
 	},
 	tangrowthclefairy: {
-		num: 11698,
+		num: 11306,
 		name: "tangrowthclefairy",
 		types: ["Grass", "Fairy"],
 		baseStats: {hp: 90, atk: 63, def: 73, spa: 93, spd: 55, spe: 40},
@@ -31302,7 +31302,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	clefableweezing: {
-		num: 11699,
+		num: 11307,
 		name: "clefableweezing",
 		types: ["Fairy", "Poison"],
 		baseStats: {hp: 85, atk: 83, def: 104, spa: 91, spd: 83, spe: 60},
@@ -31313,7 +31313,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Fairy"],
 	},
 	weezingclefable: {
-		num: 11700,
+		num: 11308,
 		name: "weezingclefable",
 		types: ["Poison", "Fairy"],
 		baseStats: {hp: 75, atk: 76, def: 88, spa: 88, spd: 76, spe: 60},
@@ -31324,7 +31324,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	venusaurclefable: {
-		num: 11701,
+		num: 11309,
 		name: "venusaurclefable",
 		types: ["Grass", "Fairy"],
 		baseStats: {hp: 85, atk: 74, def: 76, spa: 98, spd: 96, spe: 66},
@@ -31335,7 +31335,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Monster"],
 	},
 	clefablevenusaur: {
-		num: 11702,
+		num: 11310,
 		name: "clefablevenusaur",
 		types: ["Fairy", "Grass"],
 		baseStats: {hp: 90, atk: 78, def: 79, spa: 96, spd: 93, spe: 73},
@@ -31346,7 +31346,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Fairy"],
 	},
 	espeonslaking: {
-		num: 11703,
+		num: 11311,
 		name: "espeonslaking",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 93, atk: 128, def: 86, spa: 118, spd: 85, spe: 103},
@@ -31357,7 +31357,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	slakingespeon: {
-		num: 11704,
+		num: 11312,
 		name: "slakingespeon",
 		types: ["Normal", "Psychic"],
 		baseStats: {hp: 121, atk: 96, def: 73, spa: 106, spd: 75, spe: 106},
@@ -31368,7 +31368,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	venusaurespeon: {
-		num: 11705,
+		num: 11313,
 		name: "venusaurespeon",
 		types: ["Grass", "Psychic"],
 		baseStats: {hp: 75, atk: 70, def: 67, spa: 110, spd: 98, spe: 100},
@@ -31379,7 +31379,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	espeonsteelix: {
-		num: 11706,
+		num: 11314,
 		name: "espeonsteelix",
 		types: ["Psychic", "Steel"],
 		baseStats: {hp: 68, atk: 78, def: 153, spa: 105, spd: 85, spe: 56},
@@ -31390,7 +31390,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	steelixespeon: {
-		num: 11707,
+		num: 11315,
 		name: "steelixespeon",
 		types: ["Steel", "Psychic"],
 		baseStats: {hp: 71, atk: 71, def: 106, spa: 80, spd: 75, spe: 83},
@@ -31401,9 +31401,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	espeoninfernape: {
-		num: 11708,
+		num: 11316,
 		name: "espeoninfernape",
-		types: ["Psychic", "Fire"],
+		types: ["Psychic", "Fighting"],
 		baseStats: {hp: 68, atk: 91, def: 67, spa: 121, spd: 87, spe: 108},
 		abilities: {0: "Synchronize", 1: "Iron Fist", H: "Magic Bounce"},
 		heightm: 1.05,
@@ -31412,7 +31412,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	espeonvenusaur: {
-		num: 11709,
+		num: 11317,
 		name: "espeonvenusaur",
 		types: ["Psychic", "Grass"],
 		baseStats: {hp: 70, atk: 76, def: 75, spa: 120, spd: 96, spe: 90},
@@ -31423,7 +31423,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	infernapeespeon: {
-		num: 11710,
+		num: 11318,
 		name: "infernapeespeon",
 		types: ["Fire", "Psychic"],
 		baseStats: {hp: 72, atk: 78, def: 63, spa: 112, spd: 79, spe: 109},
@@ -31434,7 +31434,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	giratinazoroark: {
-		num: 11711,
+		num: 11319,
 		name: "giratinazoroark",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 120, atk: 103, def: 80, spa: 106, spd: 100, spe: 100},
@@ -31445,9 +31445,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	zoroarkgiratina: {
-		num: 11712,
+		num: 11320,
 		name: "zoroarkgiratina",
-		types: ["Dark", "Ghost"],
+		types: ["Dark", "Dragon"],
 		baseStats: {hp: 90, atk: 101, def: 100, spa: 113, spd: 80, spe: 95},
 		abilities: {0: "Illusion", 1: "Pressure", H: ""},
 		heightm: 3.05,
@@ -31456,7 +31456,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	shucklerayquaza: {
-		num: 11713,
+		num: 11321,
 		name: "shucklerayquaza",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 48, atk: 103, def: 136, spa: 56, spd: 183, spe: 65},
@@ -31467,7 +31467,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	rayquazashuckle: {
-		num: 11714,
+		num: 11322,
 		name: "rayquazashuckle",
 		types: ["Dragon", "Rock"],
 		baseStats: {hp: 76, atk: 56, def: 183, spa: 103, spd: 136, spe: 35},
@@ -31478,7 +31478,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	aegislashmarowak: {
-		num: 11715,
+		num: 11323,
 		name: "aegislashmarowak",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 60, atk: 70, def: 120, spa: 50, spd: 120, spe: 50},
@@ -31489,7 +31489,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	regigigasmarowak: {
-		num: 11716,
+		num: 11324,
 		name: "regigigasmarowak",
 		types: ["Normal", "Ground"],
 		baseStats: {hp: 93, atk: 106, def: 110, spa: 70, spd: 100, spe: 63},
@@ -31500,7 +31500,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	togekissmoltres: {
-		num: 11717,
+		num: 11325,
 		name: "togekissmoltres",
 		types: ["Fairy", "Fire"],
 		baseStats: {hp: 86, atk: 83, def: 91, spa: 121, spd: 105, spe: 86},
@@ -31511,7 +31511,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	metagrossmarowak: {
-		num: 11718,
+		num: 11326,
 		name: "metagrossmarowak",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 73, atk: 98, def: 116, spa: 80, spd: 86, spe: 53},
@@ -31522,7 +31522,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	zekrommarowak: {
-		num: 11719,
+		num: 11327,
 		name: "zekrommarowak",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 86, atk: 103, def: 113, spa: 96, spd: 93, spe: 60},
@@ -31533,7 +31533,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	rayquazaazumarill: {
-		num: 11720,
+		num: 11328,
 		name: "rayquazaazumarill",
 		types: ["Dragon", "Fairy"],
 		baseStats: {hp: 103, atk: 83, def: 83, spa: 120, spd: 86, spe: 65},
@@ -31544,7 +31544,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	charizardvenusaur: {
-		num: 11721,
+		num: 11329,
 		name: "charizardvenusaur",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 78, atk: 82, def: 81, spa: 106, spd: 90, spe: 86},
@@ -31555,7 +31555,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	charizardbutterfree: {
-		num: 11722,
+		num: 11330,
 		name: "charizardbutterfree",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 72, atk: 58, def: 59, spa: 102, spd: 83, spe: 80},
@@ -31566,7 +31566,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	charizardbeedrill: {
-		num: 11723,
+		num: 11331,
 		name: "charizardbeedrill",
 		types: ["Fire", "Poison"],
 		baseStats: {hp: 73, atk: 88, def: 52, spa: 87, spd: 83, spe: 83},
@@ -31577,7 +31577,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	charizardpidgeot: {
-		num: 11724,
+		num: 11332,
 		name: "charizardpidgeot",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 79, atk: 81, def: 76, spa: 96, spd: 80, spe: 100},
@@ -31588,7 +31588,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	charizardraticate: {
-		num: 11725,
+		num: 11333,
 		name: "charizardraticate",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 70, atk: 82, def: 66, spa: 89, spd: 80, spe: 98},
@@ -31599,7 +31599,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	charizardsandslash: {
-		num: 11726,
+		num: 11334,
 		name: "charizardsandslash",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 77, atk: 94, def: 99, spa: 87, spd: 75, spe: 76},
@@ -31610,7 +31610,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	charizardnidoqueen: {
-		num: 11727,
+		num: 11335,
 		name: "charizardnidoqueen",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 82, atk: 89, def: 84, spa: 97, spd: 85, spe: 84},
@@ -31621,7 +31621,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	charizardclefable: {
-		num: 11728,
+		num: 11336,
 		name: "charizardclefable",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 83, atk: 74, def: 74, spa: 104, spd: 86, spe: 73},
@@ -31632,7 +31632,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Monster"],
 	},
 	charizardnidoking: {
-		num: 11729,
+		num: 11337,
 		name: "charizardnidoking",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 79, atk: 96, def: 77, spa: 101, spd: 81, spe: 90},
@@ -31643,9 +31643,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	charizardninetales: {
-		num: 11730,
+		num: 11338,
 		name: "charizardninetales",
-		types: ["Fire"],
+		types: ["Fire", "Flying"],
 		baseStats: {hp: 76, atk: 78, def: 76, spa: 99, spd: 90, spe: 100},
 		abilities: {0: "Blaze", 1: "Drought", H: "Solar Power"},
 		heightm: 1.4,
@@ -31654,7 +31654,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	charizardwigglytuff: {
-		num: 11731,
+		num: 11339,
 		name: "charizardwigglytuff",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 98, atk: 74, def: 56, spa: 101, spd: 73, spe: 63},
@@ -31665,7 +31665,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Monster"],
 	},
 	shedinjabulbasaur: {
-		num: 11732,
+		num: 11340,
 		name: "shedinjabulbasaur",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 1, atk: 62, def: 47, spa: 41, spd: 41, spe: 43},
@@ -31677,7 +31677,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjacharmander: {
-		num: 11733,
+		num: 11341,
 		name: "shedinjacharmander",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 1, atk: 64, def: 43, spa: 40, spd: 36, spe: 56},
@@ -31689,7 +31689,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjasquirtle: {
-		num: 11734,
+		num: 11342,
 		name: "shedinjasquirtle",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 1, atk: 62, def: 58, spa: 36, spd: 41, spe: 42},
@@ -31701,7 +31701,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjaivysaur: {
-		num: 11735,
+		num: 11343,
 		name: "shedinjaivysaur",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 1, atk: 71, def: 57, spa: 46, spd: 46, spe: 53},
@@ -31713,7 +31713,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjacharizard: {
-		num: 11736,
+		num: 11344,
 		name: "shedinjacharizard",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 1, atk: 86, def: 67, spa: 56, spd: 48, spe: 80},
@@ -31724,7 +31724,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjachimchar: {
-		num: 11737,
+		num: 11345,
 		name: "shedinjachimchar",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 1, atk: 68, def: 44, spa: 39, spd: 34, spe: 54},
@@ -31736,7 +31736,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	shedinjavenusaur: {
-		num: 11738,
+		num: 11346,
 		name: "shedinjavenusaur",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 1, atk: 84, def: 70, spa: 53, spd: 53, spe: 66},
@@ -31747,7 +31747,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjacharmeleon: {
-		num: 11739,
+		num: 11347,
 		name: "shedinjacharmeleon",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 1, atk: 72, def: 53, spa: 46, spd: 41, spe: 66},
@@ -31759,7 +31759,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjazoroark: {
-		num: 11740,
+		num: 11348,
 		name: "shedinjazoroark",
 		types: ["Bug", "Dark"],
 		baseStats: {hp: 1, atk: 100, def: 55, spa: 60, spd: 40, spe: 83},
@@ -31770,7 +31770,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	shedinjagenesect: {
-		num: 11741,
+		num: 11349,
 		name: "shedinjagenesect",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 1, atk: 110, def: 78, spa: 60, spd: 51, spe: 79},
@@ -31781,7 +31781,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	shedinjawartortle: {
-		num: 11742,
+		num: 11350,
 		name: "shedinjawartortle",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 1, atk: 72, def: 68, spa: 41, spd: 46, spe: 52},
@@ -31793,7 +31793,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjablastoise: {
-		num: 11743,
+		num: 11351,
 		name: "shedinjablastoise",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 1, atk: 85, def: 81, spa: 48, spd: 55, spe: 65},
@@ -31804,9 +31804,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shedinjacaterpie: {
-		num: 11744,
+		num: 11352,
 		name: "shedinjacaterpie",
-		types: ["Ghost", "Bug"],
+		types: ["Bug", "Ghost"],
 		baseStats: {hp: 1, atk: 50, def: 38, spa: 26, spd: 26, spe: 43},
 		abilities: {0: "Wonder Guard", 1: "Shield Dust", H: ""},
 		heightm: 0.55,
@@ -31816,7 +31816,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	dragonitesylveon: {
-		num: 11745,
+		num: 11353,
 		name: "dragonitesylveon",
 		types: ["Dragon", "Fairy"],
 		baseStats: {hp: 92, atk: 88, def: 75, spa: 103, spd: 110, spe: 66},
@@ -31827,7 +31827,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	sylveondragonite: {
-		num: 11746,
+		num: 11354,
 		name: "sylveondragonite",
 		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 93, atk: 111, def: 85, spa: 106, spd: 120, spe: 73},
@@ -31838,7 +31838,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	genesectmetagross: {
-		num: 11747,
+		num: 11355,
 		name: "genesectmetagross",
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 74, atk: 130, def: 118, spa: 111, spd: 93, spe: 79},
@@ -31849,7 +31849,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	garchompmawile: {
-		num: 11748,
+		num: 11356,
 		name: "garchompmawile",
 		types: ["Dragon", "Fairy"],
 		baseStats: {hp: 88, atk: 100, def: 88, spa: 71, spd: 75, spe: 67},
@@ -31860,7 +31860,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	rayquazamawile: {
-		num: 11749,
+		num: 11357,
 		name: "rayquazamawile",
 		types: ["Dragon", "Fairy"],
 		baseStats: {hp: 86, atk: 106, def: 86, spa: 118, spd: 78, spe: 65},
@@ -31871,9 +31871,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	clefabledialga: {
-		num: 11750,
+		num: 11358,
 		name: "clefabledialga",
-		types: ["Fairy", "Steel"],
+		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 96, atk: 103, def: 104, spa: 113, spd: 93, spe: 80},
 		abilities: {0: "Cute Charm", 1: "Telepathy", H: "Unaware"},
 		heightm: 3.35,
@@ -31882,9 +31882,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Fairy"],
 	},
 	clefablepalkia: {
-		num: 11751,
+		num: 11359,
 		name: "clefablepalkia",
-		types: ["Fairy", "Water"],
+		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 93, atk: 103, def: 91, spa: 113, spd: 100, spe: 86},
 		abilities: {0: "Cute Charm", 1: "Telepathy", H: "Unaware"},
 		heightm: 2.75,
@@ -31893,9 +31893,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Fairy"],
 	},
 	sylveonpalkia: {
-		num: 11752,
+		num: 11360,
 		name: "sylveonpalkia",
-		types: ["Fairy", "Water"],
+		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 93, atk: 101, def: 88, spa: 123, spd: 126, spe: 86},
 		abilities: {0: "Cute Charm", 1: "Telepathy", H: "Pixilate"},
 		heightm: 2.6,
@@ -31904,9 +31904,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	sylveondialga: {
-		num: 11753,
+		num: 11361,
 		name: "sylveondialga",
-		types: ["Fairy", "Steel"],
+		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 96, atk: 101, def: 101, spa: 123, spd: 120, spe: 80},
 		abilities: {0: "Cute Charm", 1: "Telepathy", H: "Pixilate"},
 		heightm: 3.2,
@@ -31915,7 +31915,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	gengarumbreon: {
-		num: 11754,
+		num: 11362,
 		name: "gengarumbreon",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 71, atk: 65, def: 93, spa: 106, spd: 93, spe: 80},
@@ -31926,7 +31926,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	dusclopsumbreon: {
-		num: 11755,
+		num: 11363,
 		name: "dusclopsumbreon",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 58, atk: 66, def: 116, spa: 60, spd: 130, spe: 51},
@@ -31938,7 +31938,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	dusknoirumbreon: {
-		num: 11756,
+		num: 11364,
 		name: "dusknoirumbreon",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 61, atk: 76, def: 118, spa: 63, spd: 133, spe: 58},
@@ -31949,7 +31949,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	umbreondusclops: {
-		num: 11757,
+		num: 11365,
 		name: "umbreondusclops",
 		types: ["Dark", "Ghost"],
 		baseStats: {hp: 76, atk: 68, def: 123, spa: 60, spd: 130, spe: 38},
@@ -31961,7 +31961,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	umbreondusknoir: {
-		num: 11758,
+		num: 11366,
 		name: "umbreondusknoir",
 		types: ["Dark", "Ghost"],
 		baseStats: {hp: 78, atk: 88, def: 126, spa: 61, spd: 131, spe: 51},
@@ -31972,7 +31972,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	giratinaumbreon: {
-		num: 11759,
+		num: 11367,
 		name: "giratinaumbreon",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 131, atk: 76, def: 113, spa: 86, spd: 123, spe: 73},
@@ -31983,7 +31983,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	giratinatyranitar: {
-		num: 11760,
+		num: 11368,
 		name: "giratinatyranitar",
 		types: ["Ghost", "Dark"],
 		baseStats: {hp: 133, atk: 122, def: 113, spa: 98, spd: 113, spe: 70},
@@ -31994,7 +31994,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	parasectbastiodon: {
-		num: 11761,
+		num: 11369,
 		name: "parasectbastiodon",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 60, atk: 66, def: 138, spa: 55, spd: 99, spe: 30},
@@ -32005,7 +32005,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	parasectbisharp: {
-		num: 11762,
+		num: 11370,
 		name: "parasectbisharp",
 		types: ["Bug", "Steel"],
 		baseStats: {hp: 61, atk: 115, def: 93, spa: 60, spd: 76, spe: 56},
@@ -32016,7 +32016,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	parasectmagnezone: {
-		num: 11763,
+		num: 11371,
 		name: "parasectmagnezone",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 63, atk: 78, def: 103, spa: 83, spd: 83, spe: 50},
@@ -32027,9 +32027,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	parasectscizor: {
-		num: 11764,
+		num: 11372,
 		name: "parasectscizor",
-		types: ["Grass", "Bug"],
+		types: ["Bug", "Steel"],
 		baseStats: {hp: 63, atk: 118, def: 93, spa: 58, spd: 80, spe: 53},
 		abilities: {0: "Effect Spore", 1: "Technician", H: "Damp"},
 		heightm: 1.4,
@@ -32038,9 +32038,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	umbreonaegislash: {
-		num: 11765,
+		num: 11373,
 		name: "umbreonaegislash",
-		types: ["Dark", "Steel"],
+		types: ["Dark", "Ghost"],
 		baseStats: {hp: 83, atk: 55, def: 130, spa: 56, spd: 133, spe: 61},
 		abilities: {0: "Synchronize", 1: "Stance Change", H: "Inner Focus"},
 		heightm: 1.35,
@@ -32049,7 +32049,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	aegislashparasect: {
-		num: 11766,
+		num: 11374,
 		name: "aegislashparasect",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 60, atk: 80, def: 100, spa: 53, spd: 120, spe: 40},
@@ -32060,7 +32060,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	magnezoneparasect: {
-		num: 11767,
+		num: 11375,
 		name: "magnezoneparasect",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 66, atk: 86, def: 91, spa: 106, spd: 86, spe: 40},
@@ -32071,7 +32071,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	dialgaparasect: {
-		num: 11768,
+		num: 11376,
 		name: "dialgaparasect",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 86, atk: 103, def: 93, spa: 120, spd: 93, spe: 50},
@@ -32082,7 +32082,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	metagrossparasect: {
-		num: 11769,
+		num: 11377,
 		name: "metagrossparasect",
 		types: ["Steel", "Grass"],
 		baseStats: {hp: 73, atk: 108, def: 96, spa: 83, spd: 86, spe: 43},
@@ -32093,7 +32093,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	salamencezekrom: {
-		num: 11770,
+		num: 11378,
 		name: "salamencezekrom",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 96, atk: 145, def: 106, spa: 113, spd: 86, spe: 93},
@@ -32104,7 +32104,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Dragon"],
 	},
 	garchompzekrom: {
-		num: 11771,
+		num: 11379,
 		name: "garchompzekrom",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 105, atk: 143, def: 111, spa: 93, spd: 90, spe: 94},
@@ -32115,7 +32115,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	zekromgarchomp: {
-		num: 11772,
+		num: 11380,
 		name: "zekromgarchomp",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 102, atk: 136, def: 103, spa: 106, spd: 95, spe: 98},
@@ -32126,7 +32126,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	zekromsalamence: {
-		num: 11773,
+		num: 11381,
 		name: "zekromsalamence",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 98, atk: 140, def: 93, spa: 116, spd: 93, spe: 96},
@@ -32137,7 +32137,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Undiscovered"],
 	},
 	arceusarceus: {
-		num: 11774,
+		num: 11382,
 		name: "arceusarceus",
 		types: ["Normal"],
 		baseStats: {hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120},
@@ -32148,7 +32148,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	unownunown: {
-		num: 11775,
+		num: 11383,
 		name: "unownunown",
 		types: ["Psychic"],
 		baseStats: {hp: 48, atk: 72, def: 48, spa: 72, spd: 48, spe: 48},
@@ -32159,9 +32159,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	klinklangparasect: {
-		num: 11776,
+		num: 11384,
 		name: "klinklangparasect",
-		types: ["Steel", "Bug"],
+		types: ["Steel", "Grass"],
 		baseStats: {hp: 60, atk: 96, def: 91, spa: 66, spd: 83, spe: 50},
 		abilities: {0: "Plus", 1: "Dry Skin", H: "Clear Body"},
 		heightm: 0.8,
@@ -32170,7 +32170,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	shucklebidoof: {
-		num: 11777,
+		num: 11385,
 		name: "shucklebidoof",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 33, atk: 33, def: 103, spa: 18, spd: 166, spe: 22},
@@ -32182,9 +32182,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	bidoofshuckle: {
-		num: 11778,
+		num: 11386,
 		name: "bidoofshuckle",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 46, atk: 21, def: 166, spa: 26, spd: 103, spe: 13},
 		abilities: {0: "Simple", 1: "Gluttony", H: "Moody"},
 		heightm: 0.55,
@@ -32194,7 +32194,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	zoroarkregigigas: {
-		num: 11779,
+		num: 11387,
 		name: "zoroarkregigigas",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 76, atk: 141, def: 93, spa: 106, spd: 76, spe: 101},
@@ -32205,7 +32205,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	regigigaszoroark: {
-		num: 11780,
+		num: 11388,
 		name: "regigigaszoroark",
 		types: ["Normal", "Dark"],
 		baseStats: {hp: 93, atk: 123, def: 76, spa: 93, spd: 93, spe: 103},
@@ -32216,7 +32216,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	zoroarkslaking: {
-		num: 11781,
+		num: 11389,
 		name: "zoroarkslaking",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 90, atk: 141, def: 86, spa: 111, spd: 61, spe: 101},
@@ -32227,7 +32227,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	slakingzoroark: {
-		num: 11782,
+		num: 11390,
 		name: "slakingzoroark",
 		types: ["Normal", "Dark"],
 		baseStats: {hp: 120, atk: 123, def: 73, spa: 103, spd: 63, spe: 103},
@@ -32238,7 +32238,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	dialgazekrom: {
-		num: 11783,
+		num: 11391,
 		name: "dialgazekrom",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 100, atk: 140, def: 120, spa: 140, spd: 100, spe: 90},
@@ -32249,7 +32249,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	blazikenarceus: {
-		num: 11784,
+		num: 11392,
 		name: "blazikenarceus",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 93, atk: 120, def: 103, spa: 113, spd: 86, spe: 106},
@@ -32260,7 +32260,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	shucklearceus: {
-		num: 11785,
+		num: 11393,
 		name: "shucklearceus",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 53, atk: 83, def: 156, spa: 46, spd: 193, spe: 81},
@@ -32271,7 +32271,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	genesectblastoise: {
-		num: 11786,
+		num: 11394,
 		name: "genesectblastoise",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 73, atk: 95, def: 98, spa: 108, spd: 98, spe: 85},
@@ -32282,7 +32282,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	scizorpikachu: {
-		num: 11787,
+		num: 11395,
 		name: "scizorpikachu",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 58, atk: 80, def: 60, spa: 53, spd: 70, spe: 81},
@@ -32294,7 +32294,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	rayquazaregigigas: {
-		num: 11788,
+		num: 11396,
 		name: "rayquazaregigigas",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 106, atk: 156, def: 103, spa: 126, spd: 96, spe: 98},
@@ -32305,7 +32305,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	crobatrayquaza: {
-		num: 11789,
+		num: 11397,
 		name: "crobatrayquaza",
 		types: ["Poison", "Flying"],
 		baseStats: {hp: 91, atk: 130, def: 86, spa: 96, spd: 83, spe: 106},
@@ -32316,7 +32316,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	rayquazacrobat: {
-		num: 11790,
+		num: 11398,
 		name: "rayquazacrobat",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 98, atk: 110, def: 83, spa: 123, spd: 86, spe: 118},
@@ -32327,7 +32327,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	blazikenhitmonchan: {
-		num: 11791,
+		num: 11399,
 		name: "blazikenhitmonchan",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 70, atk: 110, def: 76, spa: 85, spd: 83, spe: 77},
@@ -32338,7 +32338,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	blazikenhitmontop: {
-		num: 11792,
+		num: 11400,
 		name: "blazikenhitmontop",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 70, atk: 103, def: 86, spa: 85, spd: 83, spe: 73},
@@ -32349,7 +32349,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	blazikenpersian: {
-		num: 11793,
+		num: 11401,
 		name: "blazikenpersian",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 75, atk: 86, def: 63, spa: 95, spd: 68, spe: 103},
@@ -32360,7 +32360,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	blazikendewgong: {
-		num: 11794,
+		num: 11402,
 		name: "blazikendewgong",
 		types: ["Fire", "Water"],
 		baseStats: {hp: 83, atk: 86, def: 76, spa: 96, spd: 78, spe: 73},
@@ -32371,7 +32371,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	blazikenkangaskhan: {
-		num: 11795,
+		num: 11403,
 		name: "blazikenkangaskhan",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 88, atk: 103, def: 76, spa: 86, spd: 73, spe: 86},
@@ -32382,7 +32382,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	blazikenambipom: {
-		num: 11796,
+		num: 11404,
 		name: "blazikenambipom",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 78, atk: 106, def: 67, spa: 93, spd: 68, spe: 103},
@@ -32393,7 +32393,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	blazikenmew: {
-		num: 11797,
+		num: 11405,
 		name: "blazikenmew",
 		types: ["Fire", "Psychic"],
 		baseStats: {hp: 86, atk: 106, def: 90, spa: 106, spd: 80, spe: 93},
@@ -32404,7 +32404,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	rayquazalucario: {
-		num: 11798,
+		num: 11406,
 		name: "rayquazalucario",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 93, atk: 123, def: 76, spa: 138, spd: 83, spe: 91},
@@ -32415,7 +32415,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	dragonitelucario: {
-		num: 11799,
+		num: 11407,
 		name: "dragonitelucario",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 84, atk: 118, def: 78, spa: 105, spd: 90, spe: 86},
@@ -32426,7 +32426,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	salamencelucario: {
-		num: 11800,
+		num: 11408,
 		name: "salamencelucario",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 86, atk: 118, def: 73, spa: 111, spd: 76, spe: 93},
@@ -32437,7 +32437,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	salamencearcanine: {
-		num: 11801,
+		num: 11409,
 		name: "salamencearcanine",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 93, atk: 118, def: 80, spa: 106, spd: 80, spe: 96},
@@ -32448,7 +32448,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	rayquazaarcanine: {
-		num: 11802,
+		num: 11410,
 		name: "rayquazaarcanine",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 100, atk: 123, def: 83, spa: 133, spd: 86, spe: 95},
@@ -32459,9 +32459,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	enteirayquaza: {
-		num: 11803,
+		num: 11411,
 		name: "enteirayquaza",
-		types: ["Fire", "Dragon"],
+		types: ["Fire", "Flying"],
 		baseStats: {hp: 111, atk: 138, def: 88, spa: 110, spd: 80, spe: 96},
 		abilities: {0: "Pressure", 1: "Air Lock", H: "Inner Focus"},
 		heightm: 4.55,
@@ -32470,7 +32470,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	rayquazaentei: {
-		num: 11804,
+		num: 11412,
 		name: "rayquazaentei",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 108, atk: 126, def: 86, spa: 130, spd: 85, spe: 98},
@@ -32481,7 +32481,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	rayquazasuicune: {
-		num: 11805,
+		num: 11413,
 		name: "rayquazasuicune",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 103, atk: 100, def: 106, spa: 130, spd: 98, spe: 88},
@@ -32492,9 +32492,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	raikourayquaza: {
-		num: 11806,
+		num: 11414,
 		name: "raikourayquaza",
-		types: ["Electric", "Dragon"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 95, atk: 128, def: 85, spa: 126, spd: 96, spe: 101},
 		abilities: {0: "Pressure", 1: "Air Lock", H: "Inner Focus"},
 		heightm: 4.45,
@@ -32503,9 +32503,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	suicunerayquaza: {
-		num: 11807,
+		num: 11415,
 		name: "suicunerayquaza",
-		types: ["Water", "Dragon"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 101, atk: 125, def: 98, spa: 110, spd: 106, spe: 91},
 		abilities: {0: "Pressure", 1: "Air Lock", H: "Inner Focus"},
 		heightm: 4,
@@ -32514,7 +32514,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	rayquazaraikou: {
-		num: 11808,
+		num: 11416,
 		name: "rayquazaraikou",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 100, atk: 106, def: 80, spa: 138, spd: 93, spe: 108},
@@ -32525,7 +32525,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	murkrowslaking: {
-		num: 11809,
+		num: 11417,
 		name: "murkrowslaking",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 90, atk: 135, def: 80, spa: 88, spd: 49, spe: 97},
@@ -32537,9 +32537,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	slakingmurkrow: {
-		num: 11810,
+		num: 11418,
 		name: "slakingmurkrow",
-		types: ["Normal", "Dark"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 120, atk: 110, def: 61, spa: 91, spd: 57, spe: 94},
 		abilities: {0: "Truant", 1: "Super Luck", H: "Prankster"},
 		heightm: 1.25,
@@ -32549,7 +32549,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	murkrowrayquaza: {
-		num: 11811,
+		num: 11419,
 		name: "murkrowrayquaza",
 		types: ["Dark", "Flying"],
 		baseStats: {hp: 75, atk: 128, def: 74, spa: 106, spd: 58, spe: 93},
@@ -32561,7 +32561,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	murkrowgroudon: {
-		num: 11812,
+		num: 11420,
 		name: "murkrowgroudon",
 		types: ["Dark", "Ground"],
 		baseStats: {hp: 73, atk: 128, def: 107, spa: 90, spd: 58, spe: 90},
@@ -32573,9 +32573,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	blisseymurkrow: {
-		num: 11813,
+		num: 11421,
 		name: "blisseymurkrow",
-		types: ["Normal", "Dark"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 190, atk: 60, def: 31, spa: 78, spd: 104, spe: 79},
 		abilities: {0: "Natural Cure", 1: "Super Luck", H: "Healer"},
 		heightm: 1.0,
@@ -32585,7 +32585,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	murkrowblissey: {
-		num: 11814,
+		num: 11422,
 		name: "murkrowblissey",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 125, atk: 35, def: 20, spa: 81, spd: 73, spe: 67},
@@ -32597,7 +32597,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Flying"],
 	},
 	rayquazamurkrow: {
-		num: 11815,
+		num: 11423,
 		name: "rayquazamurkrow",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 90, atk: 106, def: 58, spa: 128, spd: 74, spe: 92},
@@ -32609,9 +32609,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	groudonmurkrow: {
-		num: 11816,
+		num: 11424,
 		name: "groudonmurkrow",
-		types: ["Ground", "Dark"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 86, atk: 106, def: 74, spa: 95, spd: 74, spe: 90},
 		abilities: {0: "Drought", 1: "Super Luck", H: "Prankster"},
 		heightm: 2.0,
@@ -32621,7 +32621,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	murkrowchansey: {
-		num: 11817,
+		num: 11425,
 		name: "murkrowchansey",
 		types: ["Dark", "Normal"],
 		baseStats: {hp: 123, atk: 31, def: 17, spa: 68, spd: 63, spe: 63},
@@ -32633,9 +32633,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Flying"],
 	},
 	chanseymurkrow: {
-		num: 11818,
+		num: 11426,
 		name: "chanseymurkrow",
-		types: ["Normal", "Dark"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 186, atk: 58, def: 29, spa: 51, spd: 84, spe: 77},
 		abilities: {0: "Natural Cure", 1: "Super Luck", H: "Healer"},
 		heightm: 0.8,
@@ -32645,7 +32645,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	togeticmurkrow: {
-		num: 11819,
+		num: 11427,
 		name: "togeticmurkrow",
 		types: ["Fairy", "Flying"],
 		baseStats: {hp: 56, atk: 70, def: 56, spa: 81, spd: 84, spe: 74},
@@ -32657,7 +32657,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Flying"],
 	},
 	murkrowtangela: {
-		num: 11820,
+		num: 11428,
 		name: "murkrowtangela",
 		types: ["Dark", "Grass"],
 		baseStats: {hp: 61, atk: 65, def: 90, spa: 90, spd: 41, spe: 70},
@@ -32669,7 +32669,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Flying"],
 	},
 	murkrowtogetic: {
-		num: 11821,
+		num: 11429,
 		name: "murkrowtogetic",
 		types: ["Dark", "Flying"],
 		baseStats: {hp: 58, atk: 55, def: 70, spa: 83, spd: 63, spe: 57},
@@ -32681,9 +32681,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Flying"],
 	},
 	tangelamurkrow: {
-		num: 11822,
+		num: 11430,
 		name: "tangelamurkrow",
-		types: ["Grass", "Dark"],
+		types: ["Grass", "Flying"],
 		baseStats: {hp: 63, atk: 75, def: 66, spa: 95, spd: 40, spe: 80},
 		abilities: {0: "Chlorophyll", 1: "Super Luck", H: "Regenerator"},
 		heightm: 0.75,
@@ -32693,9 +32693,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Grass"],
 	},
 	mewmurkrow: {
-		num: 11823,
+		num: 11431,
 		name: "mewmurkrow",
-		types: ["Psychic", "Dark"],
+		types: ["Psychic", "Flying"],
 		baseStats: {hp: 86, atk: 90, def: 61, spa: 95, spd: 80, spe: 94},
 		abilities: {0: "Synchronize", 1: "Super Luck", H: "Prankster"},
 		heightm: 0.45,
@@ -32705,7 +32705,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	murkrowmew: {
-		num: 11824,
+		num: 11432,
 		name: "murkrowmew",
 		types: ["Dark", "Psychic"],
 		baseStats: {hp: 73, atk: 95, def: 80, spa: 90, spd: 61, spe: 97},
@@ -32717,7 +32717,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	parasectmurkrow: {
-		num: 11825,
+		num: 11433,
 		name: "parasectmurkrow",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 60, atk: 88, def: 54, spa: 68, spd: 67, spe: 70},
@@ -32729,7 +32729,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Bug"],
 	},
 	murkrowparasect: {
-		num: 11826,
+		num: 11434,
 		name: "murkrowparasect",
 		types: ["Dark", "Grass"],
 		baseStats: {hp: 60, atk: 91, def: 67, spa: 76, spd: 54, spe: 50},
@@ -32741,7 +32741,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	ariadosmurkrow: {
-		num: 11827,
+		num: 11435,
 		name: "ariadosmurkrow",
 		types: ["Bug", "Flying"],
 		baseStats: {hp: 66, atk: 86, def: 51, spa: 68, spd: 60, spe: 74},
@@ -32753,7 +32753,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Bug"],
 	},
 	murkrowariados: {
-		num: 11828,
+		num: 11436,
 		name: "murkrowariados",
 		types: ["Dark", "Poison"],
 		baseStats: {hp: 63, atk: 88, def: 60, spa: 76, spd: 51, spe: 57},
@@ -32765,7 +32765,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	regigigasslaking: {
-		num: 11829,
+		num: 11437,
 		name: "regigigasslaking",
 		types: ["Normal"],
 		baseStats: {hp: 123, atk: 160, def: 103, spa: 85, spd: 95, spe: 100},
@@ -32776,7 +32776,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	slakingregigigas: {
-		num: 11830,
+		num: 11438,
 		name: "slakingregigigas",
 		types: ["Normal"],
 		baseStats: {hp: 136, atk: 160, def: 106, spa: 90, spd: 80, spe: 100},
@@ -32787,9 +32787,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	chanseytogekiss: {
-		num: 11831,
+		num: 11439,
 		name: "chanseytogekiss",
-		types: ["Normal", "Fairy"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 195, atk: 35, def: 65, spa: 63, spd: 108, spe: 70},
 		abilities: {0: "Natural Cure", 1: "Serene Grace", H: "Healer"},
 		heightm: 1.3,
@@ -32799,7 +32799,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	togekisschansey: {
-		num: 11832,
+		num: 11440,
 		name: "togekisschansey",
 		types: ["Fairy", "Normal"],
 		baseStats: {hp: 140, atk: 20, def: 35, spa: 91, spd: 111, spe: 60},
@@ -32811,9 +32811,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Flying"],
 	},
 	hoohrapidash: {
-		num: 11833,
+		num: 11441,
 		name: "hoohrapidash",
-		types: ["Flying", "Fire"],
+		types: ["Fire", "Flying"],
 		baseStats: {hp: 92, atk: 110, def: 76, spa: 100, spd: 129, spe: 100},
 		abilities: {0: "Pressure", 1: "Flash Fire", H: "Regenerator"},
 		heightm: 2.75,
@@ -32822,7 +32822,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	politoedporygon2: {
-		num: 11834,
+		num: 11442,
 		name: "politoedporygon2",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 88, atk: 78, def: 85, spa: 95, spd: 98, spe: 63},
@@ -32834,7 +32834,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	togekisssceptile: {
-		num: 11835,
+		num: 11443,
 		name: "togekisssceptile",
 		types: ["Fairy", "Grass"],
 		baseStats: {hp: 80, atk: 73, def: 75, spa: 115, spd: 105, spe: 106},
@@ -32845,7 +32845,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	empoleonmetagross: {
-		num: 11836,
+		num: 11444,
 		name: "empoleonmetagross",
 		types: ["Water", "Psychic"],
 		baseStats: {hp: 82, atk: 118, def: 116, spa: 105, spd: 97, spe: 66},
@@ -32856,7 +32856,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	azumarillarcanine: {
-		num: 11837,
+		num: 11445,
 		name: "azumarillarcanine",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 96, atk: 90, def: 80, spa: 73, spd: 80, spe: 80},
@@ -32867,9 +32867,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	clefablegiratina: {
-		num: 11838,
+		num: 11446,
 		name: "clefablegiratina",
-		types: ["Fairy", "Ghost"],
+		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 113, atk: 90, def: 104, spa: 96, spd: 100, spe: 80},
 		abilities: {0: "Cute Charm", 1: "Telepathy", H: "Unaware"},
 		heightm: 2.9,
@@ -32878,7 +32878,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Fairy"],
 	},
 	clefabledragonite: {
-		num: 11839,
+		num: 11447,
 		name: "clefabledragonite",
 		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 93, atk: 112, def: 87, spa: 96, spd: 93, spe: 73},
@@ -32889,7 +32889,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Fairy"],
 	},
 	palkiaclefable: {
-		num: 11840,
+		num: 11448,
 		name: "palkiaclefable",
 		types: ["Water", "Fairy"],
 		baseStats: {hp: 91, atk: 86, def: 82, spa: 131, spd: 110, spe: 73},
@@ -32900,7 +32900,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Undiscovered"],
 	},
 	dialgaclefable: {
-		num: 11841,
+		num: 11449,
 		name: "dialgaclefable",
 		types: ["Steel", "Fairy"],
 		baseStats: {hp: 98, atk: 86, def: 88, spa: 131, spd: 96, spe: 70},
@@ -32911,7 +32911,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Undiscovered"],
 	},
 	arbokpidgeot: {
-		num: 11842,
+		num: 11450,
 		name: "arbokpidgeot",
 		types: ["Poison", "Flying"],
 		baseStats: {hp: 67, atk: 85, def: 73, spa: 66, spd: 76, spe: 94},
@@ -32922,7 +32922,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	pidgeotsandslash: {
-		num: 11843,
+		num: 11451,
 		name: "pidgeotsandslash",
 		types: ["Flying", "Ground"],
 		baseStats: {hp: 80, atk: 93, def: 98, spa: 61, spd: 65, spe: 77},
@@ -32933,7 +32933,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	rapidashsandslash: {
-		num: 11844,
+		num: 11452,
 		name: "rapidashsandslash",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 68, atk: 100, def: 96, spa: 68, spd: 71, spe: 78},
@@ -32944,7 +32944,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	sandslashrapidash: {
-		num: 11845,
+		num: 11453,
 		name: "sandslashrapidash",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 71, atk: 100, def: 83, spa: 56, spd: 63, spe: 91},
@@ -32955,9 +32955,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	rapidashnidoking: {
-		num: 11846,
+		num: 11454,
 		name: "rapidashnidoking",
-		types: ["Fire", "Poison"],
+		types: ["Fire", "Ground"],
 		baseStats: {hp: 70, atk: 101, def: 74, spa: 81, spd: 78, spe: 91},
 		abilities: {0: "Run Away", 1: "Rivalry", H: "Flame Body"},
 		heightm: 1.5499999999999998,
@@ -32966,7 +32966,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	bellossomampharos: {
-		num: 11847,
+		num: 11455,
 		name: "bellossomampharos",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 80, atk: 76, def: 88, spa: 98, spd: 96, spe: 53},
@@ -32977,9 +32977,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	bellossomlapras: {
-		num: 11848,
+		num: 11456,
 		name: "bellossomlapras",
-		types: ["Grass", "Water"],
+		types: ["Grass", "Ice"],
 		baseStats: {hp: 93, atk: 83, def: 85, spa: 88, spd: 98, spe: 56},
 		abilities: {0: "Chlorophyll", 1: "Shell Armor", H: "Healer"},
 		heightm: 1.45,
@@ -32988,7 +32988,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	bellossomexeggutor: {
-		num: 11849,
+		num: 11457,
 		name: "bellossomexeggutor",
 		types: ["Grass", "Psychic"],
 		baseStats: {hp: 81, atk: 90, def: 88, spa: 101, spd: 91, spe: 53},
@@ -32999,7 +32999,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Grass"],
 	},
 	bellossomcharizard: {
-		num: 11850,
+		num: 11458,
 		name: "bellossomcharizard",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 76, atk: 82, def: 83, spa: 96, spd: 95, spe: 83},
@@ -33010,7 +33010,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	bellossomhitmonchan: {
-		num: 11851,
+		num: 11459,
 		name: "bellossomhitmonchan",
 		types: ["Grass", "Fighting"],
 		baseStats: {hp: 66, atk: 96, def: 84, spa: 71, spd: 103, spe: 67},
@@ -33021,9 +33021,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Grass"],
 	},
 	bellossomkingdra: {
-		num: 11852,
+		num: 11460,
 		name: "bellossomkingdra",
-		types: ["Grass", "Water"],
+		types: ["Grass", "Dragon"],
 		baseStats: {hp: 75, atk: 90, def: 95, spa: 91, spd: 98, spe: 73},
 		abilities: {0: "Chlorophyll", 1: "Sniper", H: "Healer"},
 		heightm: 1.1,
@@ -33032,9 +33032,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Grass"],
 	},
 	bellossomstarmie: {
-		num: 11853,
+		num: 11461,
 		name: "bellossomstarmie",
-		types: ["Grass", "Water"],
+		types: ["Grass", "Psychic"],
 		baseStats: {hp: 70, atk: 76, def: 88, spa: 93, spd: 95, spe: 93},
 		abilities: {0: "Chlorophyll", 1: "Natural Cure", H: "Healer"},
 		heightm: 0.75,
@@ -33043,7 +33043,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Grass"],
 	},
 	yanmegavenomoth: {
-		num: 11854,
+		num: 11462,
 		name: "yanmegavenomoth",
 		types: ["Bug", "Poison"],
 		baseStats: {hp: 80, atk: 68, def: 68, spa: 107, spd: 62, spe: 91},
@@ -33054,7 +33054,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	venusaurvenomoth: {
-		num: 11855,
+		num: 11463,
 		name: "venusaurvenomoth",
 		types: ["Grass", "Poison"],
 		baseStats: {hp: 76, atk: 70, def: 67, spa: 96, spd: 91, spe: 86},
@@ -33065,9 +33065,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	ampharosvenomoth: {
-		num: 11856,
+		num: 11464,
 		name: "ampharosvenomoth",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Poison"],
 		baseStats: {hp: 83, atk: 68, def: 68, spa: 106, spd: 85, spe: 78},
 		abilities: {0: "Static", 1: "Tinted Lens", H: "Plus"},
 		heightm: 1.45,
@@ -33076,7 +33076,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	swampertvenomoth: {
-		num: 11857,
+		num: 11465,
 		name: "swampertvenomoth",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 90, atk: 80, def: 70, spa: 86, spd: 85, spe: 80},
@@ -33087,7 +33087,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	swampertcranidos: {
-		num: 11858,
+		num: 11466,
 		name: "swampertcranidos",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 89, atk: 120, def: 56, spa: 66, spd: 70, spe: 58},
@@ -33099,7 +33099,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	aggroncranidos: {
-		num: 11859,
+		num: 11467,
 		name: "aggroncranidos",
 		types: ["Steel", "Rock"],
 		baseStats: {hp: 69, atk: 120, def: 86, spa: 50, spd: 50, spe: 55},
@@ -33111,9 +33111,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	machamprhyperior: {
-		num: 11860,
+		num: 11468,
 		name: "machamprhyperior",
-		types: ["Fighting", "Ground"],
+		types: ["Fighting", "Rock"],
 		baseStats: {hp: 98, atk: 136, def: 113, spa: 61, spd: 75, spe: 45},
 		abilities: {0: "Guts", 1: "Solid Rock", H: "Steadfast"},
 		heightm: 2.0,
@@ -33122,7 +33122,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	rhyperiormachamp: {
-		num: 11861,
+		num: 11469,
 		name: "rhyperiormachamp",
 		types: ["Ground", "Fighting"],
 		baseStats: {hp: 106, atk: 133, def: 96, spa: 58, spd: 65, spe: 50},
@@ -33133,7 +33133,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	scizorhitmonlee: {
-		num: 11862,
+		num: 11470,
 		name: "scizorhitmonlee",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 63, atk: 123, def: 68, spa: 48, spd: 90, spe: 79},
@@ -33144,9 +33144,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	hitmonleescizor: {
-		num: 11863,
+		num: 11471,
 		name: "hitmonleescizor",
-		types: ["Fighting", "Steel"],
+		types: ["Fighting", "Bug"],
 		baseStats: {hp: 56, atk: 126, def: 84, spa: 41, spd: 100, spe: 72},
 		abilities: {0: "Limber", 1: "Technician", H: "Unburden"},
 		heightm: 1.65,
@@ -33155,7 +33155,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	snorlaxslaking: {
-		num: 11864,
+		num: 11472,
 		name: "snorlaxslaking",
 		types: ["Normal"],
 		baseStats: {hp: 156, atk: 143, def: 88, spa: 75, spd: 95, spe: 76},
@@ -33166,7 +33166,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	slakingsnorlax: {
-		num: 11865,
+		num: 11473,
 		name: "slakingsnorlax",
 		types: ["Normal"],
 		baseStats: {hp: 153, atk: 126, def: 76, spa: 85, spd: 80, spe: 53},
@@ -33177,7 +33177,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	lediansandslash: {
-		num: 11866,
+		num: 11474,
 		name: "lediansandslash",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 61, atk: 78, def: 90, spa: 51, spd: 91, spe: 71},
@@ -33188,9 +33188,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	politoedcrobat: {
-		num: 11867,
+		num: 11475,
 		name: "politoedcrobat",
-		types: ["Water", "Poison"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 88, atk: 85, def: 78, spa: 83, spd: 93, spe: 110},
 		abilities: {0: "Water Absorb", 1: "Infiltrator", H: "Drizzle"},
 		heightm: 1.4500000000000002,
@@ -33199,7 +33199,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	reshiramnidoking: {
-		num: 11868,
+		num: 11476,
 		name: "reshiramnidoking",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 93, atk: 108, def: 84, spa: 128, spd: 105, spe: 86},
@@ -33210,7 +33210,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	miloticsuicune: {
-		num: 11869,
+		num: 11477,
 		name: "miloticsuicune",
 		types: ["Water"],
 		baseStats: {hp: 96, atk: 70, def: 103, spa: 96, spd: 121, spe: 83},
@@ -33221,9 +33221,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	sylveonflygon: {
-		num: 11870,
+		num: 11478,
 		name: "sylveonflygon",
-		types: ["Fairy", "Ground"],
+		types: ["Fairy", "Dragon"],
 		baseStats: {hp: 90, atk: 88, def: 75, spa: 100, spd: 113, spe: 86},
 		abilities: {0: "Cute Charm", 1: "Levitate", H: "Pixilate"},
 		heightm: 1,
@@ -33232,7 +33232,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	flygonsylveon: {
-		num: 11871,
+		num: 11479,
 		name: "flygonsylveon",
 		types: ["Ground", "Fairy"],
 		baseStats: {hp: 85, atk: 76, def: 70, spa: 90, spd: 96, spe: 73},
@@ -33243,7 +33243,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	snorlaxmachamp: {
-		num: 11872,
+		num: 11480,
 		name: "snorlaxmachamp",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 136, atk: 123, def: 75, spa: 65, spd: 101, spe: 46},
@@ -33254,7 +33254,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	machampsnorlax: {
-		num: 11873,
+		num: 11481,
 		name: "machampsnorlax",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 113, atk: 116, def: 70, spa: 65, spd: 93, spe: 38},
@@ -33265,7 +33265,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	bisharpdusknoir: {
-		num: 11874,
+		num: 11482,
 		name: "bisharpdusknoir",
 		types: ["Dark", "Ghost"],
 		baseStats: {hp: 58, atk: 108, def: 123, spa: 61, spd: 91, spe: 53},
@@ -33276,9 +33276,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Human-Like"],
 	},
 	dusknoirbisharp: {
-		num: 11875,
+		num: 11483,
 		name: "dusknoirbisharp",
-		types: ["Ghost", "Dark"],
+		types: ["Ghost", "Steel"],
 		baseStats: {hp: 51, atk: 116, def: 111, spa: 63, spd: 113, spe: 61},
 		abilities: {0: "Pressure", 1: "Inner Focus", H: "Frisk"},
 		heightm: 1.9000000000000001,
@@ -33287,9 +33287,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	electivirebisharp: {
-		num: 11876,
+		num: 11484,
 		name: "electivirebisharp",
-		types: ["Electric", "Dark"],
+		types: ["Electric", "Steel"],
 		baseStats: {hp: 71, atk: 124, def: 89, spa: 83, spd: 80, spe: 78},
 		abilities: {0: "Motor Drive", 1: "Inner Focus", H: "Vital Spirit"},
 		heightm: 1.7000000000000002,
@@ -33298,7 +33298,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Human-Like"],
 	},
 	bisharpelectivire: {
-		num: 11877,
+		num: 11485,
 		name: "bisharpelectivire",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 68, atk: 123, def: 78, spa: 71, spd: 75, spe: 86},
@@ -33309,7 +33309,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Human-Like"],
 	},
 	zekromelectivire: {
-		num: 11878,
+		num: 11486,
 		name: "zekromelectivire",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 91, atk: 132, def: 84, spa: 111, spd: 95, spe: 93},
@@ -33320,7 +33320,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	electivirezekrom: {
-		num: 11879,
+		num: 11487,
 		name: "electivirezekrom",
 		types: ["Electric", "Dragon"],
 		baseStats: {hp: 83, atk: 141, def: 102, spa: 103, spd: 90, spe: 91},
@@ -33331,7 +33331,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Human-Like"],
 	},
 	magmortarreshiram: {
-		num: 11880,
+		num: 11488,
 		name: "magmortarreshiram",
 		types: ["Fire", "Dragon"],
 		baseStats: {hp: 83, atk: 111, def: 89, spa: 133, spd: 103, spe: 87},
@@ -33342,7 +33342,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Human-Like"],
 	},
 	zekrommagmortar: {
-		num: 11881,
+		num: 11489,
 		name: "zekrommagmortar",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 91, atk: 113, def: 84, spa: 121, spd: 98, spe: 85},
@@ -33353,9 +33353,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	magmortarzekrom: {
-		num: 11882,
+		num: 11490,
 		name: "magmortarzekrom",
-		types: ["Fire", "Dragon"],
+		types: ["Fire", "Electric"],
 		baseStats: {hp: 83, atk: 131, def: 102, spa: 123, spd: 96, spe: 87},
 		abilities: {0: "Flame Body", 1: "Teravolt", H: "Vital Spirit"},
 		heightm: 2.25,
@@ -33364,7 +33364,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Human-Like"],
 	},
 	reshirammagmortar: {
-		num: 11883,
+		num: 11491,
 		name: "reshirammagmortar",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 91, atk: 103, def: 78, spa: 141, spd: 111, spe: 85},
@@ -33375,7 +33375,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	salamencescizor: {
-		num: 11884,
+		num: 11492,
 		name: "salamencescizor",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 86, atk: 131, def: 93, spa: 91, spd: 80, spe: 76},
@@ -33386,7 +33386,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Dragon"],
 	},
 	scizorsalamence: {
-		num: 11885,
+		num: 11493,
 		name: "scizorsalamence",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 78, atk: 133, def: 86, spa: 73, spd: 80, spe: 88},
@@ -33397,7 +33397,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Bug"],
 	},
 	shuckledragonite: {
-		num: 11886,
+		num: 11494,
 		name: "shuckledragonite",
 		types: ["Bug", "Dragon"],
 		baseStats: {hp: 43, atk: 92, def: 140, spa: 40, spd: 186, spe: 55},
@@ -33408,7 +33408,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	hitmonleecharizard: {
-		num: 11887,
+		num: 11495,
 		name: "hitmonleecharizard",
 		types: ["Fighting", "Fire"],
 		baseStats: {hp: 59, atk: 96, def: 69, spa: 59, spd: 101, spe: 95},
@@ -33419,7 +33419,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	charizardhitmonlee: {
-		num: 11888,
+		num: 11496,
 		name: "charizardhitmonlee",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 68, atk: 108, def: 61, spa: 84, spd: 93, spe: 91},
@@ -33430,7 +33430,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	quagsiredialga: {
-		num: 11889,
+		num: 11497,
 		name: "quagsiredialga",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 96, atk: 108, def: 108, spa: 93, spd: 76, spe: 71},
@@ -33441,7 +33441,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	dialgaquagsire: {
-		num: 11890,
+		num: 11498,
 		name: "dialgaquagsire",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 98, atk: 96, def: 96, spa: 121, spd: 88, spe: 53},
@@ -33452,7 +33452,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	doubladeflygon: {
-		num: 11891,
+		num: 11499,
 		name: "doubladeflygon",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 66, atk: 103, def: 103, spa: 56, spd: 59, spe: 78},
@@ -33464,7 +33464,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	scizorflygon: {
-		num: 11892,
+		num: 11500,
 		name: "scizorflygon",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 73, atk: 110, def: 86, spa: 63, spd: 80, spe: 88},
@@ -33475,7 +33475,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	politoedempoleon: {
-		num: 11893,
+		num: 11501,
 		name: "politoedempoleon",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 88, atk: 82, def: 83, spa: 97, spd: 100, spe: 63},
@@ -33486,7 +33486,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	skarmoryswampert: {
-		num: 11894,
+		num: 11502,
 		name: "skarmoryswampert",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 76, atk: 100, def: 106, spa: 55, spd: 76, spe: 63},
@@ -33497,7 +33497,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	azumarillregigigas: {
-		num: 11895,
+		num: 11503,
 		name: "azumarillregigigas",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 103, atk: 123, def: 100, spa: 66, spd: 90, spe: 83},
@@ -33508,9 +33508,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	machampwigglytuff: {
-		num: 11896,
+		num: 11504,
 		name: "machampwigglytuff",
-		types: ["Fighting", "Normal"],
+		types: ["Fighting", "Fairy"],
 		baseStats: {hp: 106, atk: 90, def: 56, spa: 71, spd: 73, spe: 48},
 		abilities: {0: "Guts", 1: "Competitive", H: "Steadfast"},
 		heightm: 1.3,
@@ -33519,7 +33519,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Human-Like"],
 	},
 	leafeonrapidash: {
-		num: 11897,
+		num: 11505,
 		name: "leafeonrapidash",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 65, atk: 103, def: 90, spa: 66, spd: 70, spe: 101},
@@ -33530,7 +33530,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	rapidashleafeon: {
-		num: 11898,
+		num: 11506,
 		name: "rapidashleafeon",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 65, atk: 106, def: 110, spa: 73, spd: 75, spe: 98},
@@ -33541,7 +33541,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	leafeonarcanine: {
-		num: 11899,
+		num: 11507,
 		name: "leafeonarcanine",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 73, atk: 110, def: 96, spa: 73, spd: 70, spe: 95},
@@ -33552,7 +33552,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	arcanineleafeon: {
-		num: 11900,
+		num: 11508,
 		name: "arcanineleafeon",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 81, atk: 110, def: 113, spa: 86, spd: 75, spe: 95},
@@ -33563,9 +33563,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	sandslashskarmory: {
-		num: 11901,
+		num: 11509,
 		name: "sandslashskarmory",
-		types: ["Ground", "Steel"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 71, atk: 86, def: 130, spa: 43, spd: 60, spe: 68},
 		abilities: {0: "Sand Veil", 1: "Sturdy", H: "Sand Rush"},
 		heightm: 1.35,
@@ -33574,9 +33574,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	groudonskarmory: {
-		num: 11902,
+		num: 11510,
 		name: "groudonskarmory",
-		types: ["Ground", "Steel"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 88, atk: 103, def: 140, spa: 80, spd: 83, spe: 76},
 		abilities: {0: "Drought", 1: "Sturdy", H: "Weak Armor"},
 		heightm: 2.6,
@@ -33585,7 +33585,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	articunokyogre: {
-		num: 11903,
+		num: 11511,
 		name: "articunokyogre",
 		types: ["Ice", "Water"],
 		baseStats: {hp: 93, atk: 95, def: 93, spa: 113, spd: 130, spe: 88},
@@ -33596,9 +33596,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	rapidashazumarill: {
-		num: 11904,
+		num: 11512,
 		name: "rapidashazumarill",
-		types: ["Fire", "Water"],
+		types: ["Fire", "Fairy"],
 		baseStats: {hp: 76, atk: 66, def: 76, spa: 73, spd: 80, spe: 68},
 		abilities: {0: "Run Away", 1: "Huge Power", H: "Flame Body"},
 		heightm: 1.25,
@@ -33607,7 +33607,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	lanturnlapras: {
-		num: 11905,
+		num: 11513,
 		name: "lanturnlapras",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 126, atk: 76, def: 72, spa: 79, spd: 82, spe: 62},
@@ -33618,7 +33618,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 2"],
 	},
 	skarmorylugia: {
-		num: 11906,
+		num: 11514,
 		name: "skarmorylugia",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 78, atk: 86, def: 133, spa: 56, spd: 98, spe: 96},
@@ -33629,9 +33629,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	magmortarquagsire: {
-		num: 11907,
+		num: 11515,
 		name: "magmortarquagsire",
-		types: ["Fire", "Water"],
+		types: ["Fire", "Ground"],
 		baseStats: {hp: 81, atk: 88, def: 79, spa: 105, spd: 85, spe: 51},
 		abilities: {0: "Flame Body", 1: "Water Absorb", H: "Vital Spirit"},
 		heightm: 1.5,
@@ -33640,7 +33640,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	miltankdonphan: {
-		num: 11908,
+		num: 11516,
 		name: "miltankdonphan",
 		types: ["Normal", "Ground"],
 		baseStats: {hp: 93, atk: 106, def: 115, spa: 46, spd: 66, spe: 66},
@@ -33651,7 +33651,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	vaporeonlapras: {
-		num: 11909,
+		num: 11517,
 		name: "vaporeonlapras",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 130, atk: 78, def: 73, spa: 101, spd: 95, spe: 61},
@@ -33662,9 +33662,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	flareonlapras: {
-		num: 11910,
+		num: 11518,
 		name: "flareonlapras",
-		types: ["Fire", "Water"],
+		types: ["Fire", "Ice"],
 		baseStats: {hp: 86, atk: 100, def: 73, spa: 91, spd: 105, spe: 61},
 		abilities: {0: "Flash Fire", 1: "Shell Armor", H: "Guts"},
 		heightm: 1.7,
@@ -33673,9 +33673,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	jolteonlapras: {
-		num: 11911,
+		num: 11519,
 		name: "jolteonlapras",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Ice"],
 		baseStats: {hp: 86, atk: 78, def: 73, spa: 101, spd: 95, spe: 83},
 		abilities: {0: "Volt Absorb", 1: "Shell Armor", H: "Quick Feet"},
 		heightm: 1.65,
@@ -33684,9 +33684,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	espeonlapras: {
-		num: 11912,
+		num: 11520,
 		name: "espeonlapras",
-		types: ["Psychic", "Water"],
+		types: ["Psychic", "Ice"],
 		baseStats: {hp: 86, atk: 78, def: 73, spa: 115, spd: 95, spe: 76},
 		abilities: {0: "Synchronize", 1: "Shell Armor", H: "Magic Bounce"},
 		heightm: 1.7,
@@ -33695,9 +33695,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	absollapras: {
-		num: 11913,
+		num: 11521,
 		name: "absollapras",
-		types: ["Dark", "Water"],
+		types: ["Dark", "Ice"],
 		baseStats: {hp: 86, atk: 100, def: 73, spa: 78, spd: 71, spe: 65},
 		abilities: {0: "Pressure", 1: "Shell Armor", H: "Justified"},
 		heightm: 1.85,
@@ -33706,7 +33706,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	zoroarksylveon: {
-		num: 11914,
+		num: 11522,
 		name: "zoroarksylveon",
 		types: ["Dark", "Fairy"],
 		baseStats: {hp: 71, atk: 78, def: 63, spa: 116, spd: 83, spe: 75},
@@ -33717,7 +33717,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	sylveonzoroark: {
-		num: 11915,
+		num: 11523,
 		name: "sylveonzoroark",
 		types: ["Fairy", "Dark"],
 		baseStats: {hp: 83, atk: 91, def: 61, spa: 113, spd: 106, spe: 90},
@@ -33728,7 +33728,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	gardevoirzoroark: {
-		num: 11916,
+		num: 11524,
 		name: "gardevoirzoroark",
 		types: ["Psychic", "Dark"],
 		baseStats: {hp: 65, atk: 91, def: 61, spa: 123, spd: 96, spe: 96},
@@ -33739,7 +33739,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	togekisszoroark: {
-		num: 11917,
+		num: 11525,
 		name: "togekisszoroark",
 		types: ["Fairy", "Dark"],
 		baseStats: {hp: 76, atk: 86, def: 71, spa: 120, spd: 96, spe: 96},
@@ -33750,9 +33750,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	zoroarkgardevoir: {
-		num: 11918,
+		num: 11526,
 		name: "zoroarkgardevoir",
-		types: ["Dark", "Psychic"],
+		types: ["Dark", "Fairy"],
 		baseStats: {hp: 62, atk: 78, def: 63, spa: 121, spd: 78, spe: 88},
 		abilities: {0: "Illusion", 1: "Trace", H: "Telepathy"},
 		heightm: 1.6,
@@ -33761,7 +33761,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	togeticzoroark: {
-		num: 11919,
+		num: 11527,
 		name: "togeticzoroark",
 		types: ["Fairy", "Dark"],
 		baseStats: {hp: 56, atk: 83, def: 68, spa: 93, spd: 90, spe: 83},
@@ -33773,9 +33773,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	zoroarktogekiss: {
-		num: 11920,
+		num: 11528,
 		name: "zoroarktogekiss",
-		types: ["Dark", "Fairy"],
+		types: ["Dark", "Flying"],
 		baseStats: {hp: 68, atk: 68, def: 83, spa: 120, spd: 78, spe: 88},
 		abilities: {0: "Illusion", 1: "Serene Grace", H: "Super Luck"},
 		heightm: 1.55,
@@ -33784,9 +33784,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	zoroarktogetic: {
-		num: 11921,
+		num: 11529,
 		name: "zoroarktogetic",
-		types: ["Dark", "Fairy"],
+		types: ["Dark", "Flying"],
 		baseStats: {hp: 58, atk: 61, def: 76, spa: 106, spd: 75, spe: 61},
 		abilities: {0: "Illusion", 1: "Serene Grace", H: "Super Luck"},
 		heightm: 1.1,
@@ -33796,7 +33796,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	golduckpersian: {
-		num: 11922,
+		num: 11530,
 		name: "golduckpersian",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 75, atk: 74, def: 66, spa: 85, spd: 75, spe: 105},
@@ -33807,7 +33807,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	persiangolduck: {
-		num: 11923,
+		num: 11531,
 		name: "persiangolduck",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 70, atk: 78, def: 72, spa: 75, spd: 70, spe: 95},
@@ -33818,7 +33818,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	scythergolduck: {
-		num: 11924,
+		num: 11532,
 		name: "scythergolduck",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 73, atk: 91, def: 78, spa: 68, spd: 80, spe: 91},
@@ -33830,7 +33830,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	golduckscyther: {
-		num: 11925,
+		num: 11533,
 		name: "golduckscyther",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 76, atk: 100, def: 79, spa: 81, spd: 80, spe: 98},
@@ -33842,9 +33842,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	golduckscizor: {
-		num: 11926,
+		num: 11534,
 		name: "golduckscizor",
-		types: ["Water", "Steel"],
+		types: ["Water", "Bug"],
 		baseStats: {hp: 76, atk: 114, def: 92, spa: 81, spd: 80, spe: 71},
 		abilities: {0: "Damp", 1: "Technician", H: "Swift Swim"},
 		heightm: 1.75,
@@ -33853,7 +33853,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	scizorgolduck: {
-		num: 11927,
+		num: 11535,
 		name: "scizorgolduck",
 		types: ["Steel", "Water"],
 		baseStats: {hp: 73, atk: 98, def: 85, spa: 68, spd: 80, spe: 78},
@@ -33864,7 +33864,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	golduckambipom: {
-		num: 11928,
+		num: 11536,
 		name: "golduckambipom",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 78, atk: 94, def: 70, spa: 83, spd: 75, spe: 105},
@@ -33875,7 +33875,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	ambipomgolduck: {
-		num: 11929,
+		num: 11537,
 		name: "ambipomgolduck",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 76, atk: 88, def: 74, spa: 71, spd: 70, spe: 95},
@@ -33886,7 +33886,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	golduckhitmontop: {
-		num: 11930,
+		num: 11538,
 		name: "golduckhitmontop",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 70, atk: 90, def: 89, spa: 75, spd: 90, spe: 75},
@@ -33897,7 +33897,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 1"],
 	},
 	hitmontopgolduck: {
-		num: 11931,
+		num: 11539,
 		name: "hitmontopgolduck",
 		types: ["Fighting", "Water"],
 		baseStats: {hp: 60, atk: 86, def: 83, spa: 55, spd: 100, spe: 80},
@@ -33908,7 +33908,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	golduckseaking: {
-		num: 11932,
+		num: 11540,
 		name: "golduckseaking",
 		types: ["Water"],
 		baseStats: {hp: 80, atk: 88, def: 69, spa: 85, spd: 80, spe: 73},
@@ -33919,7 +33919,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 1"],
 	},
 	seakinggolduck: {
-		num: 11933,
+		num: 11541,
 		name: "seakinggolduck",
 		types: ["Water"],
 		baseStats: {hp: 80, atk: 85, def: 73, spa: 75, spd: 80, spe: 79},
@@ -33930,9 +33930,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	zoroarkrayquaza: {
-		num: 11934,
+		num: 11542,
 		name: "zoroarkrayquaza",
-		types: ["Dark", "Dragon"],
+		types: ["Dark", "Flying"],
 		baseStats: {hp: 75, atk: 135, def: 80, spa: 130, spd: 70, spe: 98},
 		abilities: {0: "Illusion", 1: "Air Lock", H: ""},
 		heightm: 4.3,
@@ -33941,7 +33941,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	rayquazazoroark: {
-		num: 11935,
+		num: 11543,
 		name: "rayquazazoroark",
 		types: ["Dragon", "Dark"],
 		baseStats: {hp: 90, atk: 120, def: 70, spa: 140, spd: 80, spe: 101},
@@ -33952,7 +33952,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	donphanmiltank: {
-		num: 11936,
+		num: 11544,
 		name: "donphanmiltank",
 		types: ["Ground", "Normal"],
 		baseStats: {hp: 91, atk: 93, def: 110, spa: 53, spd: 63, spe: 83},
@@ -33963,7 +33963,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	magmortarrapidash: {
-		num: 11937,
+		num: 11545,
 		name: "magmortarrapidash",
 		types: ["Fire"],
 		baseStats: {hp: 71, atk: 98, def: 69, spa: 110, spd: 90, spe: 97},
@@ -33974,7 +33974,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	venusaurgranbull: {
-		num: 11938,
+		num: 11546,
 		name: "venusaurgranbull",
 		types: ["Grass", "Fairy"],
 		baseStats: {hp: 83, atk: 107, def: 77, spa: 86, spd: 86, spe: 56},
@@ -33985,7 +33985,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	blastoisescyther: {
-		num: 11939,
+		num: 11547,
 		name: "blastoisescyther",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 76, atk: 101, def: 86, spa: 75, spd: 96, spe: 96},
@@ -33997,7 +33997,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	scizorblastoise: {
-		num: 11940,
+		num: 11548,
 		name: "scizorblastoise",
 		types: ["Steel", "Water"],
 		baseStats: {hp: 73, atk: 98, def: 100, spa: 65, spd: 88, spe: 73},
@@ -34008,9 +34008,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	blastoisescizor: {
-		num: 11941,
+		num: 11549,
 		name: "blastoisescizor",
-		types: ["Water", "Steel"],
+		types: ["Water", "Bug"],
 		baseStats: {hp: 76, atk: 114, def: 100, spa: 75, spd: 96, spe: 69},
 		abilities: {0: "Torrent", 1: "Technician", H: "Rain Dish"},
 		heightm: 1.7000000000000002,
@@ -34019,7 +34019,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	scytherblastoise: {
-		num: 11942,
+		num: 11550,
 		name: "scytherblastoise",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 73, atk: 92, def: 93, spa: 65, spd: 88, spe: 87},
@@ -34031,7 +34031,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	blastoisepersian: {
-		num: 11943,
+		num: 11551,
 		name: "blastoisepersian",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 74, atk: 74, def: 73, spa: 78, spd: 91, spe: 102},
@@ -34042,7 +34042,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	persianblastoise: {
-		num: 11944,
+		num: 11552,
 		name: "persianblastoise",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 69, atk: 78, def: 86, spa: 71, spd: 78, spe: 90},
@@ -34053,7 +34053,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	ampharosarbok: {
-		num: 11945,
+		num: 11553,
 		name: "ampharosarbok",
 		types: ["Electric", "Poison"],
 		baseStats: {hp: 80, atk: 88, def: 74, spa: 98, spd: 86, spe: 71},
@@ -34064,7 +34064,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	arbokampharos: {
-		num: 11946,
+		num: 11554,
 		name: "arbokampharos",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 70, atk: 81, def: 79, spa: 81, spd: 82, spe: 63},
@@ -34075,7 +34075,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	mantinearbok: {
-		num: 11947,
+		num: 11555,
 		name: "mantinearbok",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 76, atk: 76, def: 69, spa: 75, spd: 119, spe: 76},
@@ -34086,7 +34086,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	zoroarkmachamp: {
-		num: 11948,
+		num: 11556,
 		name: "zoroarkmachamp",
 		types: ["Dark", "Fighting"],
 		baseStats: {hp: 70, atk: 121, def: 73, spa: 101, spd: 68, spe: 71},
@@ -34097,7 +34097,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	machampzoroark: {
-		num: 11949,
+		num: 11557,
 		name: "machampzoroark",
 		types: ["Fighting", "Dark"],
 		baseStats: {hp: 80, atk: 113, def: 66, spa: 83, spd: 76, spe: 88},
@@ -34108,9 +34108,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	zoroarkblaziken: {
-		num: 11950,
+		num: 11558,
 		name: "zoroarkblaziken",
-		types: ["Dark", "Fire"],
+		types: ["Dark", "Fighting"],
 		baseStats: {hp: 66, atk: 115, def: 66, spa: 116, spd: 63, spe: 88},
 		abilities: {0: "Illusion", 1: "Blaze", H: ""},
 		heightm: 1.75,
@@ -34119,7 +34119,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	hitmonleezoroark: {
-		num: 11951,
+		num: 11559,
 		name: "hitmonleezoroark",
 		types: ["Fighting", "Dark"],
 		baseStats: {hp: 53, atk: 110, def: 57, spa: 63, spd: 93, spe: 99},
@@ -34130,7 +34130,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	zoroarkhitmonlee: {
-		num: 11952,
+		num: 11560,
 		name: "zoroarkhitmonlee",
 		types: ["Dark", "Fighting"],
 		baseStats: {hp: 56, atk: 115, def: 55, spa: 91, spd: 76, spe: 93},
@@ -34141,7 +34141,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	blazikenzoroark: {
-		num: 11953,
+		num: 11561,
 		name: "blazikenzoroark",
 		types: ["Fire", "Dark"],
 		baseStats: {hp: 73, atk: 110, def: 63, spa: 113, spd: 66, spe: 96},
@@ -34152,7 +34152,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	flygonmagnezone: {
-		num: 11954,
+		num: 11562,
 		name: "flygonmagnezone",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 76, atk: 80, def: 103, spa: 96, spd: 83, spe: 73},
@@ -34163,7 +34163,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	magnezoneflygon: {
-		num: 11955,
+		num: 11563,
 		name: "magnezoneflygon",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 73, atk: 90, def: 91, spa: 113, spd: 86, spe: 86},
@@ -34174,7 +34174,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	flygonmagneton: {
-		num: 11956,
+		num: 11564,
 		name: "flygonmagneton",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 70, atk: 73, def: 90, spa: 93, spd: 76, spe: 80},
@@ -34186,7 +34186,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	magnetonflygon: {
-		num: 11957,
+		num: 11565,
 		name: "magnetonflygon",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 60, atk: 86, def: 85, spa: 106, spd: 73, spe: 90},
@@ -34198,9 +34198,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	weezingmagnezone: {
-		num: 11958,
+		num: 11566,
 		name: "weezingmagnezone",
-		types: ["Poison", "Steel"],
+		types: ["Poison", "Electric"],
 		baseStats: {hp: 66, atk: 76, def: 116, spa: 100, spd: 76, spe: 60},
 		abilities: {0: "Levitate", 1: "Sturdy", H: "Stench"},
 		heightm: 1.2,
@@ -34209,7 +34209,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	magnetonweezing: {
-		num: 11959,
+		num: 11567,
 		name: "magnetonweezing",
 		types: ["Steel", "Poison"],
 		baseStats: {hp: 55, atk: 80, def: 111, spa: 108, spd: 70, spe: 63},
@@ -34221,7 +34221,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Mineral"],
 	},
 	magnezoneweezing: {
-		num: 11960,
+		num: 11568,
 		name: "magnezoneweezing",
 		types: ["Steel", "Poison"],
 		baseStats: {hp: 68, atk: 83, def: 118, spa: 115, spd: 83, spe: 60},
@@ -34232,9 +34232,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Mineral"],
 	},
 	weezingmagneton: {
-		num: 11961,
+		num: 11569,
 		name: "weezingmagneton",
-		types: ["Poison", "Steel"],
+		types: ["Poison", "Electric"],
 		baseStats: {hp: 60, atk: 70, def: 103, spa: 96, spd: 70, spe: 66},
 		abilities: {0: "Levitate", 1: "Sturdy", H: "Stench"},
 		heightm: 1.1,
@@ -34244,7 +34244,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	magnetonmagmortar: {
-		num: 11962,
+		num: 11570,
 		name: "magnetonmagmortar",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 58, atk: 83, def: 76, spa: 121, spd: 78, spe: 78},
@@ -34256,9 +34256,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	magmortarmagneton: {
-		num: 11963,
+		num: 11571,
 		name: "magmortarmagneton",
-		types: ["Fire", "Steel"],
+		types: ["Fire", "Electric"],
 		baseStats: {hp: 66, atk: 71, def: 85, spa: 123, spd: 86, spe: 74},
 		abilities: {0: "Flame Body", 1: "Sturdy", H: "Vital Spirit"},
 		heightm: 1.3,
@@ -34268,7 +34268,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	magnezonemagmortar: {
-		num: 11964,
+		num: 11572,
 		name: "magnezonemagmortar",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 71, atk: 86, def: 83, spa: 128, spd: 91, spe: 75},
@@ -34279,9 +34279,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	magmortarmagnezone: {
-		num: 11965,
+		num: 11573,
 		name: "magmortarmagnezone",
-		types: ["Fire", "Steel"],
+		types: ["Fire", "Electric"],
 		baseStats: {hp: 73, atk: 78, def: 99, spa: 126, spd: 93, spe: 67},
 		abilities: {0: "Flame Body", 1: "Sturdy", H: "Vital Spirit"},
 		heightm: 1.4,
@@ -34290,7 +34290,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	magnezonetauros: {
-		num: 11966,
+		num: 11574,
 		name: "magnezonetauros",
 		types: ["Steel", "Normal"],
 		baseStats: {hp: 71, atk: 90, def: 101, spa: 100, spd: 83, spe: 93},
@@ -34301,9 +34301,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	taurosmagnezone: {
-		num: 11967,
+		num: 11575,
 		name: "taurosmagnezone",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Electric"],
 		baseStats: {hp: 73, atk: 80, def: 108, spa: 70, spd: 76, spe: 76},
 		abilities: {0: "Intimidate", 1: "Sturdy", H: "Sheer Force"},
 		heightm: 1.2999999999999998,
@@ -34312,7 +34312,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	starmietauros: {
-		num: 11968,
+		num: 11576,
 		name: "starmietauros",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 65, atk: 91, def: 91, spa: 80, spd: 80, spe: 111},
@@ -34323,9 +34323,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	taurosstarmie: {
-		num: 11969,
+		num: 11577,
 		name: "taurosstarmie",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Psychic"],
 		baseStats: {hp: 70, atk: 83, def: 88, spa: 60, spd: 75, spe: 113},
 		abilities: {0: "Intimidate", 1: "Natural Cure", H: "Sheer Force"},
 		heightm: 1.25,
@@ -34334,7 +34334,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	tauroskangaskhan: {
-		num: 11970,
+		num: 11578,
 		name: "tauroskangaskhan",
 		types: ["Normal"],
 		baseStats: {hp: 85, atk: 96, def: 85, spa: 40, spd: 73, spe: 96},
@@ -34345,7 +34345,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	kangaskhantauros: {
-		num: 11971,
+		num: 11579,
 		name: "kangaskhantauros",
 		types: ["Normal"],
 		baseStats: {hp: 95, atk: 98, def: 90, spa: 40, spd: 76, spe: 103},
@@ -34356,7 +34356,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	kangaskhanmachamp: {
-		num: 11972,
+		num: 11580,
 		name: "kangaskhanmachamp",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 100, atk: 118, def: 80, spa: 48, spd: 81, spe: 66},
@@ -34367,7 +34367,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	machampkangaskhan: {
-		num: 11973,
+		num: 11581,
 		name: "machampkangaskhan",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 95, atk: 106, def: 80, spa: 56, spd: 83, spe: 78},
@@ -34378,7 +34378,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	hypnotauros: {
-		num: 11974,
+		num: 11582,
 		name: "hypnotauros",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 81, atk: 91, def: 86, spa: 62, spd: 100, spe: 95},
@@ -34389,7 +34389,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	taurospinsir: {
-		num: 11975,
+		num: 11583,
 		name: "taurospinsir",
 		types: ["Normal", "Bug"],
 		baseStats: {hp: 71, atk: 116, def: 98, spa: 45, spd: 70, spe: 93},
@@ -34400,7 +34400,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	taurosblastoise: {
-		num: 11976,
+		num: 11584,
 		name: "taurosblastoise",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 76, atk: 88, def: 98, spa: 55, spd: 81, spe: 88},
@@ -34411,7 +34411,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	pinsirtauros: {
-		num: 11977,
+		num: 11585,
 		name: "pinsirtauros",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 68, atk: 108, def: 96, spa: 50, spd: 70, spe: 101},
@@ -34422,7 +34422,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	blastoisetauros: {
-		num: 11978,
+		num: 11586,
 		name: "blastoisetauros",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 77, atk: 94, def: 96, spa: 70, spd: 93, spe: 99},
@@ -34433,9 +34433,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	blastoiseblaziken: {
-		num: 11979,
+		num: 11587,
 		name: "blastoiseblaziken",
-		types: ["Water", "Fire"],
+		types: ["Water", "Fighting"],
 		baseStats: {hp: 79, atk: 107, def: 80, spa: 93, spd: 93, spe: 79},
 		abilities: {0: "Torrent", 1: "Speed Boost", H: "Rain Dish"},
 		heightm: 1.75,
@@ -34444,7 +34444,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	blazikenblastoise: {
-		num: 11980,
+		num: 11588,
 		name: "blazikenblastoise",
 		types: ["Fire", "Water"],
 		baseStats: {hp: 79, atk: 95, def: 90, spa: 101, spd: 81, spe: 78},
@@ -34455,7 +34455,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	kingdratauros: {
-		num: 11981,
+		num: 11589,
 		name: "kingdratauros",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 75, atk: 98, def: 95, spa: 76, spd: 86, spe: 101},
@@ -34466,9 +34466,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	tauroskingdra: {
-		num: 11982,
+		num: 11590,
 		name: "tauroskingdra",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Dragon"],
 		baseStats: {hp: 75, atk: 96, def: 95, spa: 58, spd: 78, spe: 93},
 		abilities: {0: "Intimidate", 1: "Sniper", H: "Sheer Force"},
 		heightm: 1.6,
@@ -34477,7 +34477,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	tauroskingler: {
-		num: 11983,
+		num: 11591,
 		name: "tauroskingler",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 68, atk: 120, def: 108, spa: 43, spd: 63, spe: 86},
@@ -34488,7 +34488,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	kinglertauros: {
-		num: 11984,
+		num: 11592,
 		name: "kinglertauros",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 61, atk: 110, def: 101, spa: 46, spd: 56, spe: 98},
@@ -34499,7 +34499,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	nidokingtauros: {
-		num: 11985,
+		num: 11593,
 		name: "nidokingtauros",
 		types: ["Poison", "Normal"],
 		baseStats: {hp: 79, atk: 100, def: 89, spa: 70, spd: 73, spe: 101},
@@ -34510,7 +34510,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	taurosarbok: {
-		num: 11986,
+		num: 11594,
 		name: "taurosarbok",
 		types: ["Normal", "Poison"],
 		baseStats: {hp: 70, atk: 96, def: 77, spa: 48, spd: 73, spe: 90},
@@ -34521,7 +34521,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	arboktauros: {
-		num: 11987,
+		num: 11595,
 		name: "arboktauros",
 		types: ["Poison", "Normal"],
 		baseStats: {hp: 65, atk: 98, def: 86, spa: 56, spd: 76, spe: 100},
@@ -34532,9 +34532,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	taurosnidoking: {
-		num: 11988,
+		num: 11596,
 		name: "taurosnidoking",
-		types: ["Normal", "Poison"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 77, atk: 101, def: 83, spa: 55, spd: 71, spe: 93},
 		abilities: {0: "Intimidate", 1: "Rivalry", H: "Sheer Force"},
 		heightm: 1.4,
@@ -34543,7 +34543,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	arboknidoking: {
-		num: 11989,
+		num: 11597,
 		name: "arboknidoking",
 		types: ["Poison", "Ground"],
 		baseStats: {hp: 67, atk: 99, def: 74, spa: 71, spd: 77, spe: 83},
@@ -34554,9 +34554,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	nidokingarbok: {
-		num: 11990,
+		num: 11598,
 		name: "nidokingarbok",
-		types: ["Ground", "Poison"],
+		types: ["Poison", "Ground"],
 		baseStats: {hp: 74, atk: 97, def: 71, spa: 78, spd: 76, spe: 81},
 		abilities: {0: "Poison Point", 1: "Shed Skin", H: "Sheer Force"},
 		heightm: 2.45,
@@ -34565,7 +34565,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	arbokelectivire: {
-		num: 11991,
+		num: 11599,
 		name: "arbokelectivire",
 		types: ["Poison", "Electric"],
 		baseStats: {hp: 65, atk: 113, def: 67, spa: 75, spd: 81, spe: 90},
@@ -34576,7 +34576,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	electiviretauros: {
-		num: 11992,
+		num: 11600,
 		name: "electiviretauros",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 75, atk: 107, def: 85, spa: 76, spd: 80, spe: 105},
@@ -34587,7 +34587,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	electivirearbok: {
-		num: 11993,
+		num: 11601,
 		name: "electivirearbok",
 		types: ["Electric", "Poison"],
 		baseStats: {hp: 70, atk: 104, def: 68, spa: 85, spd: 83, spe: 85},
@@ -34598,7 +34598,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	tauroselectivire: {
-		num: 11994,
+		num: 11602,
 		name: "tauroselectivire",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 75, atk: 115, def: 76, spa: 58, spd: 75, spe: 100},
@@ -34609,9 +34609,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	umbreongiratina: {
-		num: 11995,
+		num: 11603,
 		name: "umbreongiratina",
-		types: ["Dark", "Ghost"],
+		types: ["Dark", "Dragon"],
 		baseStats: {hp: 113, atk: 88, def: 116, spa: 73, spd: 126, spe: 81},
 		abilities: {0: "Synchronize", 1: "Telepathy", H: "Inner Focus"},
 		heightm: 2.75,
@@ -34620,7 +34620,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	kyogregroudon: {
-		num: 11996,
+		num: 11604,
 		name: "kyogregroudon",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 100, atk: 133, def: 123, spa: 133, spd: 123, spe: 90},
@@ -34631,7 +34631,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	mantinegroudon: {
-		num: 11997,
+		num: 11605,
 		name: "mantinegroudon",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 90, atk: 113, def: 116, spa: 86, spd: 123, spe: 83},
@@ -34642,7 +34642,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	tentacruelmiltank: {
-		num: 11998,
+		num: 11606,
 		name: "tentacruelmiltank",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 85, atk: 76, def: 91, spa: 66, spd: 103, spe: 100},
@@ -34653,7 +34653,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	raichuraticate: {
-		num: 11999,
+		num: 11607,
 		name: "raichuraticate",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 58, atk: 84, def: 58, spa: 76, spd: 76, spe: 101},
@@ -34664,9 +34664,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichugiratina: {
-		num: 12000,
+		num: 11608,
 		name: "raichugiratina",
-		types: ["Electric", "Ghost"],
+		types: ["Electric", "Dragon"],
 		baseStats: {hp: 90, atk: 96, def: 98, spa: 93, spd: 93, spe: 96},
 		abilities: {0: "Static", 1: "Telepathy", H: "Lightning Rod"},
 		heightm: 2.65,
@@ -34675,9 +34675,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	raichupoliwrath: {
-		num: 12001,
+		num: 11609,
 		name: "raichupoliwrath",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Fighting"],
 		baseStats: {hp: 70, atk: 93, def: 81, spa: 83, spd: 83, spe: 83},
 		abilities: {0: "Static", 1: "Damp", H: "Lightning Rod"},
 		heightm: 1.05,
@@ -34686,7 +34686,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	raichurattata: {
-		num: 12002,
+		num: 11610,
 		name: "raichurattata",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 50, atk: 67, def: 41, spa: 68, spd: 65, spe: 84},
@@ -34698,7 +34698,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	poliwrathraichu: {
-		num: 12003,
+		num: 11611,
 		name: "poliwrathraichu",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 80, atk: 91, def: 68, spa: 76, spd: 86, spe: 96},
@@ -34709,9 +34709,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	raichusmoochum: {
-		num: 12004,
+		num: 11612,
 		name: "raichusmoochum",
-		types: ["Electric", "Ice"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 55, atk: 50, def: 28, spa: 88, spd: 75, spe: 80},
 		abilities: {0: "Static", 1: "Forewarn", H: "Lightning Rod"},
 		heightm: 0.6000000000000001,
@@ -34721,7 +34721,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	jynxjolteon: {
-		num: 12005,
+		num: 11613,
 		name: "jynxjolteon",
 		types: ["Ice", "Electric"],
 		baseStats: {hp: 65, atk: 60, def: 51, spa: 113, spd: 95, spe: 118},
@@ -34732,7 +34732,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	jynxjynx: {
-		num: 12006,
+		num: 11614,
 		name: "jynxjynx",
 		types: ["Ice", "Psychic"],
 		baseStats: {hp: 65, atk: 50, def: 35, spa: 115, spd: 95, spe: 95},
@@ -34743,9 +34743,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Human-Like"],
 	},
 	raichujigglypuff: {
-		num: 12007,
+		num: 11615,
 		name: "raichujigglypuff",
-		types: ["Electric", "Normal"],
+		types: ["Electric", "Fairy"],
 		baseStats: {hp: 78, atk: 60, def: 31, spa: 75, spd: 61, spe: 50},
 		abilities: {0: "Static", 1: "Competitive", H: "Lightning Rod"},
 		heightm: 0.65,
@@ -34755,9 +34755,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Field"],
 	},
 	raichujumpluff: {
-		num: 12008,
+		num: 11616,
 		name: "raichujumpluff",
-		types: ["Electric", "Grass"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 65, atk: 66, def: 65, spa: 78, spd: 85, spe: 110},
 		abilities: {0: "Static", 1: "Leaf Guard", H: "Lightning Rod"},
 		heightm: 0.8,
@@ -34766,9 +34766,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Field"],
 	},
 	raichublaziken: {
-		num: 12009,
+		num: 11617,
 		name: "raichublaziken",
-		types: ["Electric", "Fire"],
+		types: ["Electric", "Fighting"],
 		baseStats: {hp: 66, atk: 110, def: 65, spa: 96, spd: 76, spe: 90},
 		abilities: {0: "Static", 1: "Speed Boost", H: "Lightning Rod"},
 		heightm: 1.35,
@@ -34777,7 +34777,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichuonix: {
-		num: 12010,
+		num: 11618,
 		name: "raichuonix",
 		types: ["Electric", "Rock"],
 		baseStats: {hp: 51, atk: 60, def: 125, spa: 70, spd: 68, spe: 83},
@@ -34789,7 +34789,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	raichudragonite: {
-		num: 12011,
+		num: 11619,
 		name: "raichudragonite",
 		types: ["Electric", "Dragon"],
 		baseStats: {hp: 70, atk: 119, def: 81, spa: 93, spd: 86, spe: 90},
@@ -34800,9 +34800,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	raichuoddish: {
-		num: 12012,
+		num: 11620,
 		name: "raichuoddish",
-		types: ["Electric", "Grass"],
+		types: ["Electric", "Poison"],
 		baseStats: {hp: 55, atk: 63, def: 55, spa: 85, spd: 75, spe: 56},
 		abilities: {0: "Static", 1: "Run Away", H: "Lightning Rod"},
 		heightm: 0.65,
@@ -34812,9 +34812,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Field"],
 	},
 	raichukingdra: {
-		num: 12013,
+		num: 11621,
 		name: "raichukingdra",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Dragon"],
 		baseStats: {hp: 65, atk: 93, def: 81, spa: 91, spd: 85, spe: 93},
 		abilities: {0: "Static", 1: "Sniper", H: "Lightning Rod"},
 		heightm: 1.3,
@@ -34823,9 +34823,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	raichudialga: {
-		num: 12014,
+		num: 11622,
 		name: "raichudialga",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Dragon"],
 		baseStats: {hp: 73, atk: 110, def: 98, spa: 110, spd: 86, spe: 96},
 		abilities: {0: "Static", 1: "Telepathy", H: "Lightning Rod"},
 		heightm: 3.1,
@@ -34834,9 +34834,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	raichuledian: {
-		num: 12015,
+		num: 11623,
 		name: "raichuledian",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 58, atk: 53, def: 51, spa: 78, spd: 90, spe: 93},
 		abilities: {0: "Static", 1: "Early Bird", H: "Lightning Rod"},
 		heightm: 1.1,
@@ -34845,7 +34845,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	ledianraichu: {
-		num: 12016,
+		num: 11624,
 		name: "ledianraichu",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 56, atk: 71, def: 53, spa: 66, spd: 100, spe: 101},
@@ -34856,9 +34856,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	raichurhydon: {
-		num: 12017,
+		num: 11625,
 		name: "raichurhydon",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Rock"],
 		baseStats: {hp: 75, atk: 116, def: 98, spa: 75, spd: 68, spe: 63},
 		abilities: {0: "Static", 1: "Rock Head", H: "Lightning Rod"},
 		heightm: 1.35,
@@ -34868,7 +34868,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	donphanraichu: {
-		num: 12018,
+		num: 11626,
 		name: "donphanraichu",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 80, atk: 100, def: 76, spa: 70, spd: 66, spe: 90},
@@ -34879,9 +34879,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichubastiodon: {
-		num: 12019,
+		num: 11627,
 		name: "raichubastiodon",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Steel"],
 		baseStats: {hp: 60, atk: 64, def: 130, spa: 75, spd: 99, spe: 56},
 		abilities: {0: "Static", 1: "Soundproof", H: "Lightning Rod"},
 		heightm: 1.05,
@@ -34890,7 +34890,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	raichudonphan: {
-		num: 12020,
+		num: 11628,
 		name: "raichudonphan",
 		types: ["Electric", "Ground"],
 		baseStats: {hp: 70, atk: 110, def: 98, spa: 80, spd: 73, spe: 70},
@@ -34901,7 +34901,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	bastiodonraichu: {
-		num: 12021,
+		num: 11629,
 		name: "bastiodonraichu",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 60, atk: 77, def: 92, spa: 61, spd: 118, spe: 83},
@@ -34912,7 +34912,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	raichumilotic: {
-		num: 12022,
+		num: 11630,
 		name: "raichumilotic",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 71, atk: 70, def: 71, spa: 93, spd: 95, spe: 90},
@@ -34923,7 +34923,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	raichumiltank: {
-		num: 12023,
+		num: 11631,
 		name: "raichumiltank",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 71, atk: 83, def: 88, spa: 73, spd: 76, spe: 103},
@@ -34934,7 +34934,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	miltankraichu: {
-		num: 12024,
+		num: 11632,
 		name: "miltankraichu",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 83, atk: 86, def: 71, spa: 56, spd: 73, spe: 106},
@@ -34945,7 +34945,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raichugolem: {
-		num: 12025,
+		num: 11633,
 		name: "raichugolem",
 		types: ["Electric", "Rock"],
 		baseStats: {hp: 66, atk: 110, def: 105, spa: 78, spd: 75, spe: 66},
@@ -34956,7 +34956,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	electiviremagnezone: {
-		num: 12026,
+		num: 11634,
 		name: "electiviremagnezone",
 		types: ["Electric", "Steel"],
 		baseStats: {hp: 73, atk: 87, def: 99, spa: 106, spd: 86, spe: 71},
@@ -34967,9 +34967,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	arcaninemagnezone: {
-		num: 12027,
+		num: 11635,
 		name: "arcaninemagnezone",
-		types: ["Fire", "Steel"],
+		types: ["Fire", "Electric"],
 		baseStats: {hp: 83, atk: 83, def: 103, spa: 110, spd: 83, spe: 71},
 		abilities: {0: "Intimidate", 1: "Sturdy", H: "Justified"},
 		heightm: 1.5499999999999998,
@@ -34978,7 +34978,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	magnezonearcanine: {
-		num: 12028,
+		num: 11636,
 		name: "magnezonearcanine",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 76, atk: 96, def: 91, spa: 120, spd: 86, spe: 83},
@@ -34989,7 +34989,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	magnezonecharizard: {
-		num: 12029,
+		num: 11637,
 		name: "magnezonecharizard",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 72, atk: 79, def: 90, spa: 123, spd: 88, spe: 86},
@@ -35000,7 +35000,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	charizardmagnezone: {
-		num: 12030,
+		num: 11638,
 		name: "charizardmagnezone",
 		types: ["Fire", "Electric"],
 		baseStats: {hp: 75, atk: 74, def: 102, spa: 116, spd: 86, spe: 73},
@@ -35011,9 +35011,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	typhlosionmagnezone: {
-		num: 12031,
+		num: 11639,
 		name: "typhlosionmagnezone",
-		types: ["Fire", "Steel"],
+		types: ["Fire", "Electric"],
 		baseStats: {hp: 75, atk: 74, def: 102, spa: 116, spd: 86, spe: 73},
 		abilities: {0: "Blaze", 1: "Sturdy", H: "Flash Fire"},
 		heightm: 1.45,
@@ -35022,7 +35022,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	magnezonetyphlosion: {
-		num: 12032,
+		num: 11640,
 		name: "magnezonetyphlosion",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 72, atk: 79, def: 90, spa: 123, spd: 88, spe: 86},
@@ -35033,7 +35033,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	snorlaxmiltank: {
-		num: 12033,
+		num: 11641,
 		name: "snorlaxmiltank",
 		types: ["Normal"],
 		baseStats: {hp: 138, atk: 90, def: 91, spa: 56, spd: 96, spe: 76},
@@ -35044,7 +35044,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	miltanksnorlax: {
-		num: 12034,
+		num: 11642,
 		name: "miltanksnorlax",
 		types: ["Normal"],
 		baseStats: {hp: 116, atk: 100, def: 78, spa: 48, spd: 83, spe: 53},
@@ -35055,7 +35055,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	miltankdusclops: {
-		num: 12035,
+		num: 11643,
 		name: "miltankdusclops",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 76, atk: 73, def: 121, spa: 46, spd: 90, spe: 50},
@@ -35067,7 +35067,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	dusclopsmiltank: {
-		num: 12036,
+		num: 11644,
 		name: "dusclopsmiltank",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 58, atk: 76, def: 113, spa: 53, spd: 110, spe: 75},
@@ -35079,7 +35079,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	dusknoirmiltank: {
-		num: 12037,
+		num: 11645,
 		name: "dusknoirmiltank",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 61, atk: 86, def: 115, spa: 56, spd: 113, spe: 81},
@@ -35090,7 +35090,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	miltankdusknoir: {
-		num: 12038,
+		num: 11646,
 		name: "miltankdusknoir",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 78, atk: 93, def: 125, spa: 48, spd: 91, spe: 63},
@@ -35101,7 +35101,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	kangaskhandusknoir: {
-		num: 12039,
+		num: 11647,
 		name: "kangaskhandusknoir",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 85, atk: 98, def: 116, spa: 48, spd: 98, spe: 60},
@@ -35112,7 +35112,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Monster"],
 	},
 	dusclopssnorlax: {
-		num: 12040,
+		num: 11648,
 		name: "dusclopssnorlax",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 80, atk: 96, def: 86, spa: 61, spd: 123, spe: 28},
@@ -35124,7 +35124,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	snorlaxdusknoir: {
-		num: 12041,
+		num: 11649,
 		name: "snorlaxdusknoir",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 121, atk: 103, def: 111, spa: 65, spd: 118, spe: 40},
@@ -35135,7 +35135,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Monster"],
 	},
 	dusknoirsnorlax: {
-		num: 12042,
+		num: 11650,
 		name: "dusknoirsnorlax",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 83, atk: 106, def: 88, spa: 65, spd: 126, spe: 35},
@@ -35146,7 +35146,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	snorlaxdusclops: {
-		num: 12043,
+		num: 11651,
 		name: "snorlaxdusclops",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 120, atk: 83, def: 108, spa: 63, spd: 116, spe: 26},
@@ -35158,7 +35158,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Monster"],
 	},
 	kangaskhandusclops: {
-		num: 12044,
+		num: 11652,
 		name: "kangaskhandusclops",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 83, atk: 78, def: 113, spa: 46, spd: 96, spe: 46},
@@ -35170,7 +35170,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Monster"],
 	},
 	dusclopskangaskhan: {
-		num: 12045,
+		num: 11653,
 		name: "dusclopskangaskhan",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 61, atk: 86, def: 96, spa: 53, spd: 113, spe: 68},
@@ -35182,7 +35182,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	miltankkangaskhan: {
-		num: 12046,
+		num: 11654,
 		name: "miltankkangaskhan",
 		types: ["Normal"],
 		baseStats: {hp: 98, atk: 90, def: 88, spa: 40, spd: 73, spe: 93},
@@ -35193,7 +35193,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	kangaskhanmiltank: {
-		num: 12047,
+		num: 11655,
 		name: "kangaskhanmiltank",
 		types: ["Normal"],
 		baseStats: {hp: 101, atk: 85, def: 96, spa: 40, spd: 76, spe: 96},
@@ -35204,7 +35204,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	rapidashtauros: {
-		num: 12048,
+		num: 11656,
 		name: "rapidashtauros",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 68, atk: 100, def: 86, spa: 66, spd: 76, spe: 108},
@@ -35215,7 +35215,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	taurosrapidash: {
-		num: 12049,
+		num: 11657,
 		name: "taurosrapidash",
 		types: ["Normal", "Fire"],
 		baseStats: {hp: 71, atk: 100, def: 78, spa: 53, spd: 73, spe: 106},
@@ -35226,7 +35226,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	quagsiremiltank: {
-		num: 12050,
+		num: 11658,
 		name: "quagsiremiltank",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 95, atk: 81, def: 98, spa: 56, spd: 66, spe: 78},
@@ -35237,9 +35237,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	miltankquagsire: {
-		num: 12051,
+		num: 11659,
 		name: "miltankquagsire",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 95, atk: 83, def: 91, spa: 48, spd: 68, spe: 56},
 		abilities: {0: "Thick Fat", 1: "Water Absorb", H: "Sap Sipper"},
 		heightm: 1.2999999999999998,
@@ -35248,7 +35248,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	miloticquagsire: {
-		num: 12052,
+		num: 11660,
 		name: "miloticquagsire",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 95, atk: 76, def: 83, spa: 88, spd: 105, spe: 50},
@@ -35259,9 +35259,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	quagsiremilotic: {
-		num: 12053,
+		num: 11661,
 		name: "quagsiremilotic",
-		types: ["Ground", "Water"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 95, atk: 68, def: 81, spa: 76, spd: 85, spe: 65},
 		abilities: {0: "Damp", 1: "Competitive", H: "Unaware"},
 		heightm: 3.8,
@@ -35270,7 +35270,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	skarmoryquagsire: {
-		num: 12054,
+		num: 11662,
 		name: "skarmoryquagsire",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 75, atk: 83, def: 103, spa: 48, spd: 68, spe: 46},
@@ -35281,7 +35281,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	tyranitarquagsire: {
-		num: 12055,
+		num: 11663,
 		name: "tyranitarquagsire",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 98, atk: 101, def: 93, spa: 85, spd: 88, spe: 43},
@@ -35292,7 +35292,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	quagsiretyranitar: {
-		num: 12056,
+		num: 11664,
 		name: "quagsiretyranitar",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 96, atk: 117, def: 101, spa: 75, spd: 76, spe: 52},
@@ -35303,7 +35303,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	quagsiregarchomp: {
-		num: 12057,
+		num: 11665,
 		name: "quagsiregarchomp",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 99, atk: 115, def: 91, spa: 70, spd: 71, spe: 79},
@@ -35314,7 +35314,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	quagsirelapras: {
-		num: 12058,
+		num: 11666,
 		name: "quagsirelapras",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 106, atk: 85, def: 81, spa: 71, spd: 75, spe: 51},
@@ -35325,7 +35325,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	laprasquagsire: {
-		num: 12059,
+		num: 11667,
 		name: "laprasquagsire",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 118, atk: 85, def: 83, spa: 78, spd: 85, spe: 43},
@@ -35336,7 +35336,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	politoedquagsire: {
-		num: 12060,
+		num: 11668,
 		name: "politoedquagsire",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 91, atk: 81, def: 81, spa: 81, spd: 88, spe: 46},
@@ -35347,7 +35347,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	poliwrathquagsire: {
-		num: 12061,
+		num: 11669,
 		name: "poliwrathquagsire",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 91, atk: 88, def: 88, spa: 68, spd: 81, spe: 46},
@@ -35358,7 +35358,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	quagsirepoliwrath: {
-		num: 12062,
+		num: 11670,
 		name: "quagsirepoliwrath",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 93, atk: 91, def: 91, spa: 66, spd: 73, spe: 58},
@@ -35369,7 +35369,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	scytherpoliwrath: {
-		num: 12063,
+		num: 11671,
 		name: "scytherpoliwrath",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 76, atk: 100, def: 90, spa: 60, spd: 83, spe: 81},
@@ -35381,7 +35381,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	poliwrathscyther: {
-		num: 12064,
+		num: 11672,
 		name: "poliwrathscyther",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 83, atk: 105, def: 85, spa: 65, spd: 86, spe: 93},
@@ -35393,7 +35393,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	scizorpoliwrath: {
-		num: 12065,
+		num: 11673,
 		name: "scizorpoliwrath",
 		types: ["Steel", "Fighting"],
 		baseStats: {hp: 76, atk: 106, def: 96, spa: 60, spd: 83, spe: 68},
@@ -35404,7 +35404,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	poliwrathgliscor: {
-		num: 12066,
+		num: 11674,
 		name: "poliwrathgliscor",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 85, atk: 95, def: 115, spa: 61, spd: 85, spe: 86},
@@ -35415,7 +35415,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	poliwrathscizor: {
-		num: 12067,
+		num: 11675,
 		name: "poliwrathscizor",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 83, atk: 118, def: 98, spa: 65, spd: 86, spe: 66},
@@ -35426,7 +35426,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	gliscorpoliwrath: {
-		num: 12068,
+		num: 11676,
 		name: "gliscorpoliwrath",
 		types: ["Ground", "Fighting"],
 		baseStats: {hp: 80, atk: 95, def: 105, spa: 53, spd: 80, spe: 78},
@@ -35437,9 +35437,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	taurospoliwrath: {
-		num: 12069,
+		num: 11677,
 		name: "taurospoliwrath",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Fighting"],
 		baseStats: {hp: 80, atk: 96, def: 95, spa: 50, spd: 76, spe: 83},
 		abilities: {0: "Intimidate", 1: "Damp", H: "Sheer Force"},
 		heightm: 1.35,
@@ -35448,7 +35448,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	poliwrathskarmory: {
-		num: 12070,
+		num: 11678,
 		name: "poliwrathskarmory",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 85, def: 125, spa: 60, spd: 83, spe: 70},
@@ -35459,7 +35459,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	poliwrathkangaskhan: {
-		num: 12071,
+		num: 11679,
 		name: "poliwrathkangaskhan",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 95, atk: 95, def: 85, spa: 60, spd: 86, spe: 83},
@@ -35470,7 +35470,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	poliwrathtauros: {
-		num: 12072,
+		num: 11680,
 		name: "poliwrathtauros",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 85, atk: 98, def: 95, spa: 60, spd: 83, spe: 96},
@@ -35481,7 +35481,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	hitmonleepoliwrath: {
-		num: 12073,
+		num: 11681,
 		name: "hitmonleepoliwrath",
 		types: ["Fighting", "Water"],
 		baseStats: {hp: 63, atk: 103, def: 81, spa: 46, spd: 103, spe: 75},
@@ -35492,7 +35492,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	hitmonchanpoliwrath: {
-		num: 12074,
+		num: 11682,
 		name: "hitmonchanpoliwrath",
 		types: ["Fighting", "Water"],
 		baseStats: {hp: 63, atk: 98, def: 89, spa: 46, spd: 103, spe: 72},
@@ -35503,7 +35503,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	hitmontoppoliwrath: {
-		num: 12075,
+		num: 11683,
 		name: "hitmontoppoliwrath",
 		types: ["Fighting", "Water"],
 		baseStats: {hp: 63, atk: 95, def: 95, spa: 46, spd: 103, spe: 70},
@@ -35514,7 +35514,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	poliwrathhitmonchan: {
-		num: 12076,
+		num: 11684,
 		name: "poliwrathhitmonchan",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 76, atk: 101, def: 84, spa: 58, spd: 96, spe: 74},
@@ -35525,7 +35525,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 1"],
 	},
 	poliwrathhitmonlee: {
-		num: 12077,
+		num: 11685,
 		name: "poliwrathhitmonlee",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 76, atk: 111, def: 67, spa: 58, spd: 96, spe: 81},
@@ -35536,7 +35536,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 1"],
 	},
 	infernapepoliwrath: {
-		num: 12078,
+		num: 11686,
 		name: "infernapepoliwrath",
 		types: ["Fire", "Fighting"],
 		baseStats: {hp: 80, atk: 98, def: 87, spa: 92, spd: 77, spe: 82},
@@ -35547,7 +35547,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	poliwrathinfernape: {
-		num: 12079,
+		num: 11687,
 		name: "poliwrathinfernape",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 85, atk: 101, def: 79, spa: 81, spd: 83, spe: 95},
@@ -35558,9 +35558,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	poliwrathpolitoed: {
-		num: 12080,
+		num: 11688,
 		name: "poliwrathpolitoed",
-		types: ["Fighting", "Water"],
+		types: ["Water", "Fighting"],
 		baseStats: {hp: 90, atk: 81, def: 81, spa: 76, spd: 93, spe: 70},
 		abilities: {0: "Water Absorb", 1: "Damp", H: "Swift Swim"},
 		heightm: 1.2000000000000002,
@@ -35569,7 +35569,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	politoedpoliwrath: {
-		num: 12081,
+		num: 11689,
 		name: "politoedpoliwrath",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 90, atk: 88, def: 88, spa: 83, spd: 96, spe: 70},
@@ -35580,7 +35580,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	poliwrathempoleon: {
-		num: 12082,
+		num: 11690,
 		name: "poliwrathempoleon",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 88, atk: 89, def: 90, spa: 83, spd: 93, spe: 63},
@@ -35591,7 +35591,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	empoleonpoliwrath: {
-		num: 12083,
+		num: 11691,
 		name: "empoleonpoliwrath",
 		types: ["Water", "Fighting"],
 		baseStats: {hp: 86, atk: 92, def: 92, spa: 97, spd: 97, spe: 66},
@@ -35602,9 +35602,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	sceptilepoliwrath: {
-		num: 12084,
+		num: 11692,
 		name: "sceptilepoliwrath",
-		types: ["Grass", "Water"],
+		types: ["Grass", "Fighting"],
 		baseStats: {hp: 76, atk: 91, def: 85, spa: 93, spd: 86, spe: 86},
 		abilities: {0: "Overgrow", 1: "Damp", H: "Unburden"},
 		heightm: 1.5,
@@ -35613,7 +35613,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	poliwrathsceptile: {
-		num: 12085,
+		num: 11693,
 		name: "poliwrathsceptile",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 83, atk: 88, def: 75, spa: 81, spd: 88, spe: 103},
@@ -35624,7 +35624,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	magmortarsceptile: {
-		num: 12086,
+		num: 11694,
 		name: "magmortarsceptile",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 73, atk: 88, def: 65, spa: 118, spd: 91, spe: 107},
@@ -35635,7 +35635,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	sceptilemagmortar: {
-		num: 12087,
+		num: 11695,
 		name: "sceptilemagmortar",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 71, atk: 91, def: 66, spa: 111, spd: 88, spe: 95},
@@ -35646,7 +35646,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	sceptileelectivire: {
-		num: 12088,
+		num: 11696,
 		name: "sceptileelectivire",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 71, atk: 110, def: 66, spa: 101, spd: 85, spe: 103},
@@ -35657,7 +35657,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	weezingtauros: {
-		num: 12089,
+		num: 11697,
 		name: "weezingtauros",
 		types: ["Poison", "Normal"],
 		baseStats: {hp: 68, atk: 96, def: 103, spa: 70, spd: 70, spe: 93},
@@ -35668,7 +35668,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	electiviresceptile: {
-		num: 12090,
+		num: 11698,
 		name: "electiviresceptile",
 		types: ["Electric", "Grass"],
 		baseStats: {hp: 73, atk: 97, def: 65, spa: 98, spd: 85, spe: 111},
@@ -35679,7 +35679,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	electrodesceptile: {
-		num: 12091,
+		num: 11699,
 		name: "electrodesceptile",
 		types: ["Electric", "Grass"],
 		baseStats: {hp: 63, atk: 73, def: 66, spa: 88, spd: 81, spe: 130},
@@ -35690,7 +35690,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	sceptileelectrode: {
-		num: 12092,
+		num: 11700,
 		name: "sceptileelectrode",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 66, atk: 61, def: 68, spa: 96, spd: 83, spe: 140},
@@ -35701,7 +35701,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	taurosweezing: {
-		num: 12093,
+		num: 11701,
 		name: "taurosweezing",
 		types: ["Normal", "Poison"],
 		baseStats: {hp: 71, atk: 93, def: 111, spa: 55, spd: 70, spe: 76},
@@ -35712,7 +35712,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	ampharostauros: {
-		num: 12094,
+		num: 11702,
 		name: "ampharostauros",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 85, atk: 91, def: 91, spa: 90, spd: 83, spe: 91},
@@ -35723,7 +35723,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	granbulltauros: {
-		num: 12095,
+		num: 11703,
 		name: "granbulltauros",
 		types: ["Fairy", "Normal"],
 		baseStats: {hp: 85, atk: 106, def: 88, spa: 53, spd: 63, spe: 88},
@@ -35734,7 +35734,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	taurosgranbull: {
-		num: 12096,
+		num: 11704,
 		name: "taurosgranbull",
 		types: ["Normal", "Fairy"],
 		baseStats: {hp: 80, atk: 113, def: 81, spa: 46, spd: 66, spe: 66},
@@ -35745,7 +35745,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	taurosampharos: {
-		num: 12097,
+		num: 11705,
 		name: "taurosampharos",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 80, atk: 83, def: 88, spa: 65, spd: 76, spe: 73},
@@ -35756,7 +35756,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	feraligatrgranbull: {
-		num: 12098,
+		num: 11706,
 		name: "feraligatrgranbull",
 		types: ["Water", "Fairy"],
 		baseStats: {hp: 86, atk: 115, def: 83, spa: 72, spd: 75, spe: 56},
@@ -35767,7 +35767,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	granbullferaligatr: {
-		num: 12099,
+		num: 11707,
 		name: "granbullferaligatr",
 		types: ["Fairy", "Water"],
 		baseStats: {hp: 88, atk: 110, def: 91, spa: 66, spd: 67, spe: 67},
@@ -35778,7 +35778,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	sceptileferaligatr: {
-		num: 12100,
+		num: 11708,
 		name: "sceptileferaligatr",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 75, atk: 98, def: 88, spa: 96, spd: 84, spe: 92},
@@ -35789,7 +35789,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	feraligatrempoleon: {
-		num: 12101,
+		num: 11709,
 		name: "feraligatrempoleon",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 84, atk: 92, def: 92, spa: 89, spd: 89, spe: 66},
@@ -35800,7 +35800,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	feraligatrsceptile: {
-		num: 12102,
+		num: 11710,
 		name: "feraligatrsceptile",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 80, atk: 91, def: 76, spa: 87, spd: 83, spe: 106},
@@ -35811,9 +35811,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	empoleonferaligatr: {
-		num: 12103,
+		num: 11711,
 		name: "empoleonferaligatr",
-		types: ["Steel", "Water"],
+		types: ["Water", "Steel"],
 		baseStats: {hp: 84, atk: 98, def: 96, spa: 100, spd: 95, spe: 72},
 		abilities: {0: "Torrent", 1: "Sheer Force", H: "Defiant"},
 		heightm: 2.0,
@@ -35822,7 +35822,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	empoleongyarados: {
-		num: 12104,
+		num: 11712,
 		name: "empoleongyarados",
 		types: ["Water"],
 		baseStats: {hp: 87, atk: 112, def: 82, spa: 94, spd: 100, spe: 74},
@@ -35833,7 +35833,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 1"],
 	},
 	gyaradosempoleon: {
-		num: 12105,
+		num: 11713,
 		name: "gyaradosempoleon",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 91, atk: 99, def: 85, spa: 77, spd: 100, spe: 67},
@@ -35844,7 +35844,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	gyaradosbeedrill: {
-		num: 12106,
+		num: 11714,
 		name: "gyaradosbeedrill",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 85, atk: 101, def: 53, spa: 55, spd: 93, spe: 77},
@@ -35855,7 +35855,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 2"],
 	},
 	beedrillgyarados: {
-		num: 12107,
+		num: 11715,
 		name: "beedrillgyarados",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 75, atk: 113, def: 66, spa: 50, spd: 86, spe: 79},
@@ -35866,7 +35866,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Bug"],
 	},
 	magnezoneninetales: {
-		num: 12108,
+		num: 11716,
 		name: "magnezoneninetales",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 71, atk: 74, def: 88, spa: 113, spd: 93, spe: 86},
@@ -35877,9 +35877,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	ninetalesmagnezone: {
-		num: 12109,
+		num: 11717,
 		name: "ninetalesmagnezone",
-		types: ["Fire", "Steel"],
+		types: ["Fire", "Electric"],
 		baseStats: {hp: 72, atk: 72, def: 101, spa: 97, spd: 96, spe: 73},
 		abilities: {0: "Flash Fire", 1: "Sturdy", H: "Drought"},
 		heightm: 1.15,
@@ -35888,9 +35888,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	golduckmagnezone: {
-		num: 12110,
+		num: 11718,
 		name: "golduckmagnezone",
-		types: ["Water", "Steel"],
+		types: ["Water", "Electric"],
 		baseStats: {hp: 76, atk: 74, def: 102, spa: 106, spd: 83, spe: 68},
 		abilities: {0: "Damp", 1: "Sturdy", H: "Swift Swim"},
 		heightm: 1.45,
@@ -35899,7 +35899,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	magnezonegolduck: {
-		num: 12111,
+		num: 11719,
 		name: "magnezonegolduck",
 		types: ["Steel", "Water"],
 		baseStats: {hp: 73, atk: 78, def: 90, spa: 118, spd: 86, spe: 76},
@@ -35910,9 +35910,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Mineral"],
 	},
 	starmiegolduck: {
-		num: 12112,
+		num: 11720,
 		name: "starmiegolduck",
-		types: ["Psychic", "Water"],
+		types: ["Water", "Psychic"],
 		baseStats: {hp: 66, atk: 79, def: 80, spa: 98, spd: 83, spe: 95},
 		abilities: {0: "Illuminate", 1: "Cloud Nine", H: "Analytic"},
 		heightm: 1.4,
@@ -35921,9 +35921,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	electivirestarmie: {
-		num: 12113,
+		num: 11721,
 		name: "electivirestarmie",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 70, atk: 91, def: 79, spa: 96, spd: 85, spe: 108},
 		abilities: {0: "Motor Drive", 1: "Natural Cure", H: "Vital Spirit"},
 		heightm: 1.4500000000000002,
@@ -35932,7 +35932,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Human-Like"],
 	},
 	starmieelectivire: {
-		num: 12114,
+		num: 11722,
 		name: "starmieelectivire",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 65, atk: 107, def: 73, spa: 98, spd: 85, spe: 101},
@@ -35943,7 +35943,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 3"],
 	},
 	starmieelectrode: {
-		num: 12115,
+		num: 11723,
 		name: "starmieelectrode",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 60, atk: 58, def: 75, spa: 93, spd: 83, spe: 138},
@@ -35954,7 +35954,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 3"],
 	},
 	golduckstarmie: {
-		num: 12116,
+		num: 11724,
 		name: "golduckstarmie",
 		types: ["Water", "Psychic"],
 		baseStats: {hp: 73, atk: 77, def: 82, spa: 96, spd: 81, spe: 105},
@@ -35965,9 +35965,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Water 1"],
 	},
 	electrodestarmie: {
-		num: 12117,
+		num: 11725,
 		name: "electrodestarmie",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 60, atk: 66, def: 80, spa: 86, spd: 81, spe: 126},
 		abilities: {0: "Soundproof", 1: "Natural Cure", H: "Aftermath"},
 		heightm: 1.15,
@@ -35976,9 +35976,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Mineral"],
 	},
 	raichuflygon: {
-		num: 12118,
+		num: 11726,
 		name: "raichuflygon",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Dragon"],
 		baseStats: {hp: 66, atk: 96, def: 71, spa: 86, spd: 80, spe: 103},
 		abilities: {0: "Static", 1: "Levitate", H: "Lightning Rod"},
 		heightm: 1.4,
@@ -35987,7 +35987,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	arcaninesuicune: {
-		num: 12119,
+		num: 11727,
 		name: "arcaninesuicune",
 		types: ["Fire", "Water"],
 		baseStats: {hp: 93, atk: 86, def: 103, spa: 96, spd: 91, spe: 88},
@@ -35998,9 +35998,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	persianquagsire: {
-		num: 12120,
+		num: 11728,
 		name: "persianquagsire",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 75, atk: 80, def: 76, spa: 65, spd: 65, spe: 61},
 		abilities: {0: "Limber", 1: "Water Absorb", H: "Unnerve"},
 		heightm: 1.2,
@@ -36009,7 +36009,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	suicunearcanine: {
-		num: 12121,
+		num: 11729,
 		name: "suicunearcanine",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 96, atk: 98, def: 91, spa: 93, spd: 103, spe: 91},
@@ -36020,7 +36020,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	gyaradospersian: {
-		num: 12122,
+		num: 11730,
 		name: "gyaradospersian",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 85, atk: 88, def: 66, spa: 61, spd: 88, spe: 103},
@@ -36031,7 +36031,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	persiangyarados: {
-		num: 12123,
+		num: 11731,
 		name: "persiangyarados",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 75, atk: 106, def: 72, spa: 63, spd: 76, spe: 92},
@@ -36042,7 +36042,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Field"],
 	},
 	persianpidgeot: {
-		num: 12124,
+		num: 11732,
 		name: "persianpidgeot",
 		types: ["Normal", "Flying"],
 		baseStats: {hp: 71, atk: 76, def: 70, spa: 66, spd: 66, spe: 105},
@@ -36053,9 +36053,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	pidgeotpersian: {
-		num: 12125,
+		num: 11733,
 		name: "pidgeotpersian",
-		types: ["Flying", "Normal"],
+		types: ["Flying"],
 		baseStats: {hp: 77, atk: 73, def: 65, spa: 68, spd: 68, spe: 110},
 		abilities: {0: "Keen Eye", 1: "Technician", H: "Big Pecks"},
 		heightm: 1.25,
@@ -36064,7 +36064,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	pidgeotnidoking: {
-		num: 12126,
+		num: 11734,
 		name: "pidgeotnidoking",
 		types: ["Flying", "Ground"],
 		baseStats: {hp: 82, atk: 94, def: 76, spa: 75, spd: 71, spe: 90},
@@ -36075,7 +36075,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	wigglytuffweezing: {
-		num: 12127,
+		num: 11735,
 		name: "wigglytuffweezing",
 		types: ["Normal", "Poison"],
 		baseStats: {hp: 115, atk: 83, def: 95, spa: 85, spd: 56, spe: 55},
@@ -36086,9 +36086,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Fairy"],
 	},
 	dusclopswigglytuff: {
-		num: 12128,
+		num: 11736,
 		name: "dusclopswigglytuff",
-		types: ["Ghost", "Normal"],
+		types: ["Ghost", "Fairy"],
 		baseStats: {hp: 73, atk: 70, def: 73, spa: 68, spd: 103, spe: 38},
 		abilities: {0: "Pressure", 1: "Competitive", H: "Frisk"},
 		heightm: 1.3,
@@ -36098,7 +36098,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	wigglytuffdusclops: {
-		num: 12129,
+		num: 11737,
 		name: "wigglytuffdusclops",
 		types: ["Normal", "Ghost"],
 		baseStats: {hp: 106, atk: 70, def: 101, spa: 76, spd: 76, spe: 31},
@@ -36110,9 +36110,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Fairy"],
 	},
 	weezingwigglytuff: {
-		num: 12130,
+		num: 11738,
 		name: "weezingwigglytuff",
-		types: ["Poison", "Normal"],
+		types: ["Poison", "Fairy"],
 		baseStats: {hp: 90, atk: 76, def: 70, spa: 85, spd: 63, spe: 50},
 		abilities: {0: "Levitate", 1: "Competitive", H: "Stench"},
 		heightm: 1.1,
@@ -36121,7 +36121,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	shucklewigglytuff: {
-		num: 12131,
+		num: 11739,
 		name: "shucklewigglytuff",
 		types: ["Bug", "Fairy"],
 		baseStats: {hp: 60, atk: 50, def: 106, spa: 35, spd: 170, spe: 31},
@@ -36132,7 +36132,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Bug"],
 	},
 	wigglytuffshuckle: {
-		num: 12132,
+		num: 11740,
 		name: "wigglytuffshuckle",
 		types: ["Normal", "Rock"],
 		baseStats: {hp: 100, atk: 30, def: 168, spa: 60, spd: 110, spe: 18},
@@ -36143,7 +36143,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Fairy"],
 	},
 	gengarwigglytuff: {
-		num: 12133,
+		num: 11741,
 		name: "gengarwigglytuff",
 		types: ["Ghost", "Fairy"],
 		baseStats: {hp: 86, atk: 68, def: 50, spa: 115, spd: 66, spe: 66},
@@ -36154,7 +36154,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	parasectbellossom: {
-		num: 12134,
+		num: 11742,
 		name: "parasectbellossom",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 65, atk: 85, def: 90, spa: 70, spd: 86, spe: 43},
@@ -36165,7 +36165,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Bug"],
 	},
 	bellossomparasect: {
-		num: 12135,
+		num: 11743,
 		name: "bellossomparasect",
 		types: ["Grass", "Bug"],
 		baseStats: {hp: 70, atk: 90, def: 85, spa: 80, spd: 93, spe: 36},
@@ -36176,7 +36176,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Grass"],
 	},
 	venomothparasect: {
-		num: 12136,
+		num: 11744,
 		name: "venomothparasect",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 66, atk: 85, def: 73, spa: 80, spd: 76, spe: 50},
@@ -36187,7 +36187,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	parasectvenomoth: {
-		num: 12137,
+		num: 11745,
 		name: "parasectvenomoth",
 		types: ["Bug", "Poison"],
 		baseStats: {hp: 63, atk: 75, def: 66, spa: 70, spd: 78, spe: 70},
@@ -36198,9 +36198,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	vaporeonparasect: {
-		num: 12138,
+		num: 11746,
 		name: "vaporeonparasect",
-		types: ["Water", "Bug"],
+		types: ["Water", "Grass"],
 		baseStats: {hp: 106, atk: 85, def: 73, spa: 93, spd: 90, spe: 41},
 		abilities: {0: "Water Absorb", 1: "Dry Skin", H: "Hydration"},
 		heightm: 1,
@@ -36209,9 +36209,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	jolteonparasect: {
-		num: 12139,
+		num: 11747,
 		name: "jolteonparasect",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Grass"],
 		baseStats: {hp: 63, atk: 85, def: 73, spa: 93, spd: 90, spe: 63},
 		abilities: {0: "Volt Absorb", 1: "Dry Skin", H: "Quick Feet"},
 		heightm: 0.9,
@@ -36220,7 +36220,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	gengarparasect: {
-		num: 12140,
+		num: 11748,
 		name: "gengarparasect",
 		types: ["Ghost", "Grass"],
 		baseStats: {hp: 60, atk: 85, def: 73, spa: 106, spd: 76, spe: 56},
@@ -36231,9 +36231,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Amorphous"],
 	},
 	persianparasect: {
-		num: 12141,
+		num: 11749,
 		name: "persianparasect",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Grass"],
 		baseStats: {hp: 63, atk: 86, def: 73, spa: 63, spd: 70, spe: 58},
 		abilities: {0: "Limber", 1: "Dry Skin", H: "Unnerve"},
 		heightm: 1,
@@ -36242,7 +36242,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	parasectpersian: {
-		num: 12142,
+		num: 11750,
 		name: "parasectpersian",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 61, atk: 78, def: 66, spa: 61, spd: 75, spe: 86},
@@ -36253,7 +36253,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	aerodactylparasect: {
-		num: 12143,
+		num: 11751,
 		name: "aerodactylparasect",
 		types: ["Rock", "Grass"],
 		baseStats: {hp: 73, atk: 98, def: 75, spa: 60, spd: 76, spe: 63},
@@ -36264,7 +36264,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	magmortargolem: {
-		num: 12144,
+		num: 11752,
 		name: "magmortargolem",
 		types: ["Fire", "Rock"],
 		baseStats: {hp: 76, atk: 111, def: 109, spa: 101, spd: 85, spe: 57},
@@ -36275,7 +36275,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	electiviregolem: {
-		num: 12145,
+		num: 11753,
 		name: "electiviregolem",
 		types: ["Electric", "Rock"],
 		baseStats: {hp: 76, atk: 121, def: 109, spa: 81, spd: 78, spe: 61},
@@ -36286,7 +36286,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	magcargogolem: {
-		num: 12146,
+		num: 11754,
 		name: "magcargogolem",
 		types: ["Fire", "Rock"],
 		baseStats: {hp: 66, atk: 96, def: 126, spa: 78, spd: 75, spe: 40},
@@ -36297,7 +36297,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	vaporeongolem: {
-		num: 12147,
+		num: 11755,
 		name: "vaporeongolem",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 113, atk: 101, def: 106, spa: 91, spd: 85, spe: 51},
@@ -36308,7 +36308,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	laprasgolem: {
-		num: 12148,
+		num: 11756,
 		name: "laprasgolem",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 113, atk: 108, def: 113, spa: 75, spd: 85, spe: 50},
@@ -36319,7 +36319,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	laprasgolbat: {
-		num: 12149,
+		num: 11757,
 		name: "laprasgolbat",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 111, atk: 81, def: 73, spa: 78, spd: 88, spe: 80},
@@ -36331,9 +36331,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	laprasgolduck: {
-		num: 12150,
+		num: 11758,
 		name: "laprasgolduck",
-		types: ["Ice", "Water"],
+		types: ["Water", "Ice"],
 		baseStats: {hp: 113, atk: 83, def: 78, spa: 88, spd: 90, spe: 76},
 		abilities: {0: "Water Absorb", 1: "Cloud Nine", H: "Hydration"},
 		heightm: 2.1,
@@ -36342,7 +36342,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	dewgonghoundoom: {
-		num: 12151,
+		num: 11759,
 		name: "dewgonghoundoom",
 		types: ["Ice", "Fire"],
 		baseStats: {hp: 85, atk: 83, def: 60, spa: 83, spd: 90, spe: 86},
@@ -36353,9 +36353,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	umbreondewgong: {
-		num: 12152,
+		num: 11760,
 		name: "umbreondewgong",
-		types: ["Dark", "Ice"],
+		types: ["Dark", "Water"],
 		baseStats: {hp: 93, atk: 68, def: 90, spa: 63, spd: 118, spe: 68},
 		abilities: {0: "Synchronize", 1: "Hydration", H: "Inner Focus"},
 		heightm: 1.35,
@@ -36364,7 +36364,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	dewgongumbreon: {
-		num: 12153,
+		num: 11761,
 		name: "dewgongumbreon",
 		types: ["Ice", "Dark"],
 		baseStats: {hp: 91, atk: 66, def: 100, spa: 66, spd: 106, spe: 66},
@@ -36375,7 +36375,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	houndoomdewgong: {
-		num: 12154,
+		num: 11762,
 		name: "houndoomdewgong",
 		types: ["Dark", "Water"],
 		baseStats: {hp: 80, atk: 76, def: 70, spa: 96, spd: 85, spe: 78},
@@ -36386,7 +36386,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	dewgongvenusaur: {
-		num: 12155,
+		num: 11763,
 		name: "dewgongvenusaur",
 		types: ["Ice", "Grass"],
 		baseStats: {hp: 86, atk: 78, def: 82, spa: 80, spd: 96, spe: 76},
@@ -36397,7 +36397,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	venusaurdewgong: {
-		num: 12156,
+		num: 11764,
 		name: "venusaurdewgong",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 83, atk: 74, def: 81, spa: 90, spd: 98, spe: 73},
@@ -36408,7 +36408,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	quagsirevenusaur: {
-		num: 12157,
+		num: 11765,
 		name: "quagsirevenusaur",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 90, atk: 83, def: 83, spa: 76, spd: 76, spe: 65},
@@ -36419,7 +36419,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	typhlosiongolem: {
-		num: 12158,
+		num: 11766,
 		name: "typhlosiongolem",
 		types: ["Fire", "Rock"],
 		baseStats: {hp: 78, atk: 108, def: 112, spa: 91, spd: 78, spe: 63},
@@ -36430,7 +36430,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	feraligatrgolem: {
-		num: 12159,
+		num: 11767,
 		name: "feraligatrgolem",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 83, atk: 115, def: 120, spa: 71, spd: 77, spe: 56},
@@ -36441,9 +36441,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	sandslashaggron: {
-		num: 12160,
+		num: 11768,
 		name: "sandslashaggron",
-		types: ["Ground", "Steel"],
+		types: ["Ground", "Rock"],
 		baseStats: {hp: 73, atk: 106, def: 156, spa: 50, spd: 56, spe: 55},
 		abilities: {0: "Sand Veil", 1: "Rock Head", H: "Sand Rush"},
 		heightm: 1.55,
@@ -36452,9 +36452,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	mukaggron: {
-		num: 12161,
+		num: 11769,
 		name: "mukaggron",
-		types: ["Poison", "Steel"],
+		types: ["Poison", "Rock"],
 		baseStats: {hp: 93, atk: 108, def: 145, spa: 63, spd: 86, spe: 50},
 		abilities: {0: "Stench", 1: "Rock Head", H: "Poison Touch"},
 		heightm: 1.65,
@@ -36463,7 +36463,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	aggronsandslash: {
-		num: 12162,
+		num: 11770,
 		name: "aggronsandslash",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 71, atk: 103, def: 133, spa: 55, spd: 58, spe: 60},
@@ -36474,7 +36474,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	aggronmuk: {
-		num: 12163,
+		num: 11771,
 		name: "aggronmuk",
 		types: ["Steel", "Poison"],
 		baseStats: {hp: 81, atk: 106, def: 110, spa: 61, spd: 73, spe: 50},
@@ -36485,7 +36485,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Monster"],
 	},
 	pidgeotscyther: {
-		num: 12164,
+		num: 11772,
 		name: "pidgeotscyther",
 		types: ["Flying", "Bug"],
 		baseStats: {hp: 78, atk: 100, def: 78, spa: 65, spd: 73, spe: 103},
@@ -36497,7 +36497,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	pidgeotscizor: {
-		num: 12165,
+		num: 11773,
 		name: "pidgeotscizor",
 		types: ["Flying", "Bug"],
 		baseStats: {hp: 78, atk: 113, def: 91, spa: 65, spd: 73, spe: 77},
@@ -36508,7 +36508,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	pidgeottyphlosion: {
-		num: 12166,
+		num: 11774,
 		name: "pidgeottyphlosion",
 		types: ["Flying", "Fire"],
 		baseStats: {hp: 81, atk: 82, def: 77, spa: 83, spd: 75, spe: 100},
@@ -36519,7 +36519,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	pidgeotgolduck: {
-		num: 12167,
+		num: 11775,
 		name: "pidgeotgolduck",
 		types: ["Flying", "Water"],
 		baseStats: {hp: 82, atk: 81, def: 77, spa: 78, spd: 73, spe: 90},
@@ -36530,7 +36530,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	pidgeotalakazam: {
-		num: 12168,
+		num: 11776,
 		name: "pidgeotalakazam",
 		types: ["Flying", "Psychic"],
 		baseStats: {hp: 73, atk: 60, def: 55, spa: 91, spd: 78, spe: 113},
@@ -36541,7 +36541,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Flying"],
 	},
 	pidgeotsalamence: {
-		num: 12169,
+		num: 11777,
 		name: "pidgeotsalamence",
 		types: ["Flying"],
 		baseStats: {hp: 87, atk: 116, def: 78, spa: 83, spd: 73, spe: 100},
@@ -36552,7 +36552,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Flying"],
 	},
 	pidgeotkingdra: {
-		num: 12170,
+		num: 11778,
 		name: "pidgeotkingdra",
 		types: ["Flying", "Dragon"],
 		baseStats: {hp: 80, atk: 90, def: 88, spa: 78, spd: 78, spe: 90},
@@ -36563,7 +36563,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	pidgeotsceptile: {
-		num: 12171,
+		num: 11779,
 		name: "pidgeotsceptile",
 		types: ["Flying", "Grass"],
 		baseStats: {hp: 78, atk: 83, def: 68, spa: 81, spd: 75, spe: 113},
@@ -36574,7 +36574,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	sceptilepidgeot: {
-		num: 12172,
+		num: 11780,
 		name: "sceptilepidgeot",
 		types: ["Grass", "Flying"],
 		baseStats: {hp: 74, atk: 81, def: 71, spa: 93, spd: 80, spe: 107},
@@ -36585,7 +36585,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	pidgeotrapidash: {
-		num: 12173,
+		num: 11781,
 		name: "pidgeotrapidash",
 		types: ["Flying", "Fire"],
 		baseStats: {hp: 77, atk: 93, def: 71, spa: 73, spd: 73, spe: 103},
@@ -36596,7 +36596,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	rapidashpidgeot: {
-		num: 12174,
+		num: 11782,
 		name: "rapidashpidgeot",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 71, atk: 86, def: 73, spa: 76, spd: 76, spe: 102},
@@ -36607,7 +36607,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	pidgeotmoltres: {
-		num: 12175,
+		num: 11783,
 		name: "pidgeotmoltres",
 		types: ["Flying", "Fire"],
 		baseStats: {hp: 85, atk: 93, def: 85, spa: 88, spd: 75, spe: 93},
@@ -36618,7 +36618,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	moltrespersian: {
-		num: 12176,
+		num: 11784,
 		name: "moltrespersian",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 81, atk: 80, def: 70, spa: 105, spd: 78, spe: 106},
@@ -36629,7 +36629,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	moltrespidgeot: {
-		num: 12177,
+		num: 11785,
 		name: "moltrespidgeot",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 87, atk: 86, def: 80, spa: 106, spd: 80, spe: 97},
@@ -36640,9 +36640,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	moltresarcanine: {
-		num: 12178,
+		num: 11786,
 		name: "moltresarcanine",
-		types: ["Fire"],
+		types: ["Fire", "Flying"],
 		baseStats: {hp: 90, atk: 106, def: 83, spa: 116, spd: 83, spe: 93},
 		abilities: {0: "Pressure", 1: "Flash Fire", H: "Flame Body"},
 		heightm: 1.95,
@@ -36651,7 +36651,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	kyogredragonair: {
-		num: 12179,
+		num: 11787,
 		name: "kyogredragonair",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 87, atk: 89, def: 73, spa: 123, spd: 116, spe: 76},
@@ -36663,7 +36663,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	dragonairkyogre: {
-		num: 12180,
+		num: 11788,
 		name: "dragonairkyogre",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 74, atk: 94, def: 81, spa: 96, spd: 93, spe: 83},
@@ -36675,7 +36675,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	kyogremilotic: {
-		num: 12181,
+		num: 11789,
 		name: "kyogremilotic",
 		types: ["Water"],
 		baseStats: {hp: 98, atk: 73, def: 82, spa: 133, spd: 135, spe: 84},
@@ -36686,7 +36686,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	milotickyogre: {
-		num: 12182,
+		num: 11790,
 		name: "milotickyogre",
 		types: ["Water"],
 		baseStats: {hp: 96, atk: 86, def: 86, spa: 116, spd: 130, spe: 87},
@@ -36697,7 +36697,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	politoedmilotic: {
-		num: 12183,
+		num: 11791,
 		name: "politoedmilotic",
 		types: ["Water"],
 		baseStats: {hp: 91, atk: 65, def: 77, spa: 93, spd: 108, spe: 77},
@@ -36708,7 +36708,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	miloticpolitoed: {
-		num: 12184,
+		num: 11792,
 		name: "miloticpolitoed",
 		types: ["Water"],
 		baseStats: {hp: 93, atk: 70, def: 76, spa: 96, spd: 116, spe: 73},
@@ -36719,7 +36719,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	dragonairpolitoed: {
-		num: 12185,
+		num: 11793,
 		name: "dragonairpolitoed",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 70, atk: 78, def: 71, spa: 76, spd: 80, spe: 70},
@@ -36731,7 +36731,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	politoeddragonair: {
-		num: 12186,
+		num: 11794,
 		name: "politoeddragonair",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 80, atk: 81, def: 68, spa: 83, spd: 90, spe: 70},
@@ -36743,7 +36743,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	politoeddragonite: {
-		num: 12187,
+		num: 11795,
 		name: "politoeddragonite",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 90, atk: 114, def: 88, spa: 93, spd: 100, spe: 76},
@@ -36754,7 +36754,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	dragonitepolitoed: {
-		num: 12188,
+		num: 11796,
 		name: "dragonitepolitoed",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 90, atk: 94, def: 81, spa: 96, spd: 100, spe: 73},
@@ -36765,7 +36765,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	dragonitepidgeot: {
-		num: 12189,
+		num: 11797,
 		name: "dragonitepidgeot",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 88, atk: 98, def: 81, spa: 90, spd: 90, spe: 94},
@@ -36776,7 +36776,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	pidgeotdragonite: {
-		num: 12190,
+		num: 11798,
 		name: "pidgeotdragonite",
 		types: ["Flying", "Dragon"],
 		baseStats: {hp: 85, atk: 116, def: 88, spa: 80, spd: 80, spe: 87},
@@ -36787,7 +36787,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	pidgeotdragonair: {
-		num: 12191,
+		num: 11799,
 		name: "pidgeotdragonair",
 		types: ["Flying", "Dragon"],
 		baseStats: {hp: 75, atk: 82, def: 68, spa: 70, spd: 70, spe: 80},
@@ -36799,7 +36799,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	dragonairpidgeot: {
-		num: 12192,
+		num: 11800,
 		name: "dragonairpidgeot",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 68, atk: 81, def: 71, spa: 70, spd: 70, spe: 90},
@@ -36811,9 +36811,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	kingdrapolitoed: {
-		num: 12193,
+		num: 11801,
 		name: "kingdrapolitoed",
-		types: ["Dragon", "Water"],
+		types: ["Water", "Dragon"],
 		baseStats: {hp: 80, atk: 81, def: 81, spa: 93, spd: 96, spe: 75},
 		abilities: {0: "Swift Swim", 1: "Water Absorb", H: "Damp"},
 		heightm: 1.4500000000000002,
@@ -36822,7 +36822,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	politoedkingdra: {
-		num: 12194,
+		num: 11802,
 		name: "politoedkingdra",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 85, atk: 88, def: 88, spa: 91, spd: 98, spe: 80},
@@ -36833,7 +36833,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	politoedseaking: {
-		num: 12195,
+		num: 11803,
 		name: "politoedseaking",
 		types: ["Water"],
 		baseStats: {hp: 86, atk: 86, def: 68, spa: 81, spd: 93, spe: 68},
@@ -36844,7 +36844,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 1"],
 	},
 	seakingpolitoed: {
-		num: 12196,
+		num: 11804,
 		name: "seakingpolitoed",
 		types: ["Water"],
 		baseStats: {hp: 83, atk: 80, def: 71, spa: 73, spd: 86, spe: 69},
@@ -36855,9 +36855,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	raichunidoking: {
-		num: 12197,
+		num: 11805,
 		name: "raichunidoking",
-		types: ["Electric", "Poison"],
+		types: ["Electric", "Ground"],
 		baseStats: {hp: 67, atk: 98, def: 69, spa: 88, spd: 78, spe: 93},
 		abilities: {0: "Static", 1: "Rivalry", H: "Lightning Rod"},
 		heightm: 1.1,
@@ -36866,7 +36866,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	zekromgroudon: {
-		num: 12198,
+		num: 11806,
 		name: "zekromgroudon",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 100, atk: 150, def: 133, spa: 113, spd: 96, spe: 90},
@@ -36877,7 +36877,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	zekromgliscor: {
-		num: 12199,
+		num: 11807,
 		name: "zekromgliscor",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 91, atk: 113, def: 123, spa: 95, spd: 91, spe: 93},
@@ -36888,7 +36888,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	gliscorzekrom: {
-		num: 12200,
+		num: 11808,
 		name: "gliscorzekrom",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 83, atk: 131, def: 121, spa: 70, spd: 83, spe: 91},
@@ -36899,7 +36899,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	charizardursaring: {
-		num: 12201,
+		num: 11809,
 		name: "charizardursaring",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 82, atk: 114, def: 76, spa: 97, spd: 81, spe: 70},
@@ -36910,9 +36910,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	ursaringrhyperior: {
-		num: 12202,
+		num: 11810,
 		name: "ursaringrhyperior",
-		types: ["Normal", "Ground"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 98, atk: 136, def: 111, spa: 68, spd: 68, spe: 45},
 		abilities: {0: "Guts", 1: "Solid Rock", H: "Unnerve"},
 		heightm: 2.1,
@@ -36921,7 +36921,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	nidokingursaring: {
-		num: 12203,
+		num: 11811,
 		name: "nidokingursaring",
 		types: ["Poison", "Normal"],
 		baseStats: {hp: 84, atk: 120, def: 75, spa: 81, spd: 75, spe: 65},
@@ -36932,7 +36932,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	aggronursaring: {
-		num: 12204,
+		num: 11812,
 		name: "aggronursaring",
 		types: ["Steel", "Normal"],
 		baseStats: {hp: 76, atk: 123, def: 110, spa: 65, spd: 65, spe: 53},
@@ -36943,7 +36943,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	slakingursaring: {
-		num: 12205,
+		num: 11813,
 		name: "slakingursaring",
 		types: ["Normal"],
 		baseStats: {hp: 130, atk: 140, def: 83, spa: 88, spd: 68, spe: 70},
@@ -36954,7 +36954,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	sandslashursaring: {
-		num: 12206,
+		num: 11814,
 		name: "sandslashursaring",
 		types: ["Ground", "Normal"],
 		baseStats: {hp: 80, atk: 120, def: 86, spa: 55, spd: 61, spe: 58},
@@ -36965,7 +36965,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	gyaradosursaring: {
-		num: 12207,
+		num: 11815,
 		name: "gyaradosursaring",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 93, atk: 128, def: 76, spa: 65, spd: 91, spe: 63},
@@ -36976,7 +36976,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	arbokursaring: {
-		num: 12208,
+		num: 11816,
 		name: "arbokursaring",
 		types: ["Poison", "Normal"],
 		baseStats: {hp: 70, atk: 118, def: 73, spa: 68, spd: 77, spe: 63},
@@ -36987,7 +36987,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	alakazamursaring: {
-		num: 12209,
+		num: 11817,
 		name: "alakazamursaring",
 		types: ["Psychic", "Normal"],
 		baseStats: {hp: 66, atk: 103, def: 65, spa: 115, spd: 88, spe: 76},
@@ -36998,7 +36998,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	salamenceursaring: {
-		num: 12210,
+		num: 11818,
 		name: "salamenceursaring",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 93, atk: 131, def: 76, spa: 98, spd: 78, spe: 70},
@@ -37009,7 +37009,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	hitmonleeursaring: {
-		num: 12211,
+		num: 11819,
 		name: "hitmonleeursaring",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 63, atk: 126, def: 67, spa: 48, spd: 98, spe: 65},
@@ -37020,7 +37020,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	hitmontopursaring: {
-		num: 12212,
+		num: 11820,
 		name: "hitmontopursaring",
 		types: ["Fighting", "Normal"],
 		baseStats: {hp: 63, atk: 118, def: 81, spa: 48, spd: 98, spe: 60},
@@ -37031,7 +37031,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	exeggutorursaring: {
-		num: 12213,
+		num: 11821,
 		name: "exeggutorursaring",
 		types: ["Grass", "Normal"],
 		baseStats: {hp: 93, atk: 118, def: 78, spa: 108, spd: 75, spe: 55},
@@ -37042,7 +37042,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	starmieursaring: {
-		num: 12214,
+		num: 11822,
 		name: "starmieursaring",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 70, atk: 111, def: 78, spa: 91, spd: 81, spe: 75},
@@ -37053,9 +37053,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	ursaringrhydon: {
-		num: 12215,
+		num: 11823,
 		name: "ursaringrhydon",
-		types: ["Normal", "Ground"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 95, atk: 130, def: 105, spa: 65, spd: 65, spe: 45},
 		abilities: {0: "Guts", 1: "Rock Head", H: "Unnerve"},
 		heightm: 1.85,
@@ -37065,7 +37065,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	moltresursaring: {
-		num: 12216,
+		num: 11824,
 		name: "moltresursaring",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 90, atk: 120, def: 80, spa: 108, spd: 81, spe: 66},
@@ -37076,7 +37076,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	ursaringgyarados: {
-		num: 12217,
+		num: 11825,
 		name: "ursaringgyarados",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 91, atk: 126, def: 77, spa: 70, spd: 83, spe: 72},
@@ -37087,7 +37087,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Field"],
 	},
 	ursaringvenusaur: {
-		num: 12218,
+		num: 11826,
 		name: "ursaringvenusaur",
 		types: ["Normal", "Grass"],
 		baseStats: {hp: 86, atk: 98, def: 80, spa: 83, spd: 83, spe: 71},
@@ -37098,7 +37098,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	ursaringhitmonchan: {
-		num: 12219,
+		num: 11827,
 		name: "ursaringhitmonchan",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 76, atk: 113, def: 77, spa: 61, spd: 86, spe: 69},
@@ -37109,7 +37109,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	ursaringhitmonlee: {
-		num: 12220,
+		num: 11828,
 		name: "ursaringhitmonlee",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 76, atk: 123, def: 60, spa: 61, spd: 86, spe: 76},
@@ -37120,7 +37120,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	ursaringhitmontop: {
-		num: 12221,
+		num: 11829,
 		name: "ursaringhitmontop",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 76, atk: 106, def: 88, spa: 61, spd: 86, spe: 65},
@@ -37131,9 +37131,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	ursaringnidoking: {
-		num: 12222,
+		num: 11830,
 		name: "ursaringnidoking",
-		types: ["Normal", "Poison"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 87, atk: 111, def: 76, spa: 78, spd: 75, spe: 75},
 		abilities: {0: "Guts", 1: "Rivalry", H: "Unnerve"},
 		heightm: 1.6,
@@ -37142,9 +37142,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	ursaringaggron: {
-		num: 12223,
+		num: 11831,
 		name: "ursaringaggron",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 83, atk: 116, def: 145, spa: 70, spd: 70, spe: 51},
 		abilities: {0: "Guts", 1: "Rock Head", H: "Unnerve"},
 		heightm: 1.9500000000000002,
@@ -37153,7 +37153,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	ursaringelectivire: {
-		num: 12224,
+		num: 11832,
 		name: "ursaringelectivire",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 85, atk: 125, def: 69, spa: 81, spd: 78, spe: 81},
@@ -37164,9 +37164,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	ursaringlapras: {
-		num: 12225,
+		num: 11833,
 		name: "ursaringlapras",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Ice"],
 		baseStats: {hp: 103, atk: 100, def: 78, spa: 78, spd: 81, spe: 58},
 		abilities: {0: "Guts", 1: "Shell Armor", H: "Unnerve"},
 		heightm: 2.15,
@@ -37175,7 +37175,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	ursaringmagmortar: {
-		num: 12226,
+		num: 11834,
 		name: "ursaringmagmortar",
 		types: ["Normal", "Fire"],
 		baseStats: {hp: 85, atk: 106, def: 69, spa: 91, spd: 81, spe: 73},
@@ -37186,7 +37186,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	ursaringdragonite: {
-		num: 12227,
+		num: 11835,
 		name: "ursaringdragonite",
 		types: ["Normal", "Dragon"],
 		baseStats: {hp: 90, atk: 132, def: 88, spa: 83, spd: 83, spe: 71},
@@ -37197,7 +37197,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	dragoniteursaring: {
-		num: 12228,
+		num: 11836,
 		name: "dragoniteursaring",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 90, atk: 131, def: 81, spa: 91, spd: 91, spe: 63},
@@ -37208,7 +37208,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	garchompursaring: {
-		num: 12229,
+		num: 11837,
 		name: "garchompursaring",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 102, atk: 130, def: 81, spa: 78, spd: 81, spe: 70},
@@ -37219,7 +37219,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	golduckursaring: {
-		num: 12230,
+		num: 11838,
 		name: "golduckursaring",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 83, atk: 114, def: 76, spa: 88, spd: 78, spe: 65},
@@ -37230,7 +37230,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	gengarursaring: {
-		num: 12231,
+		num: 11839,
 		name: "gengarursaring",
 		types: ["Ghost", "Normal"],
 		baseStats: {hp: 70, atk: 108, def: 70, spa: 111, spd: 75, spe: 73},
@@ -37241,7 +37241,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	ursaringgolduck: {
-		num: 12232,
+		num: 11840,
 		name: "ursaringgolduck",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 86, atk: 98, def: 77, spa: 81, spd: 76, spe: 75},
@@ -37252,7 +37252,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	ursaringflareon: {
-		num: 12233,
+		num: 11841,
 		name: "ursaringflareon",
 		types: ["Normal", "Fire"],
 		baseStats: {hp: 81, atk: 130, def: 65, spa: 81, spd: 86, spe: 61},
@@ -37263,7 +37263,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	flareonursaring: {
-		num: 12234,
+		num: 11842,
 		name: "flareonursaring",
 		types: ["Fire", "Normal"],
 		baseStats: {hp: 73, atk: 130, def: 70, spa: 88, spd: 98, spe: 58},
@@ -37274,7 +37274,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	flareongolduck: {
-		num: 12235,
+		num: 11843,
 		name: "flareongolduck",
 		types: ["Fire", "Water"],
 		baseStats: {hp: 70, atk: 98, def: 72, spa: 95, spd: 100, spe: 78},
@@ -37285,9 +37285,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	jolteonheracross: {
-		num: 12236,
+		num: 11844,
 		name: "jolteonheracross",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Fighting"],
 		baseStats: {hp: 70, atk: 105, def: 70, spa: 86, spd: 95, spe: 100},
 		abilities: {0: "Volt Absorb", 1: "Guts", H: "Quick Feet"},
 		heightm: 1.15,
@@ -37296,7 +37296,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	crobatflareon: {
-		num: 12237,
+		num: 11845,
 		name: "crobatflareon",
 		types: ["Poison", "Fire"],
 		baseStats: {hp: 78, atk: 116, def: 66, spa: 78, spd: 90, spe: 86},
@@ -37307,9 +37307,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	ursaringheracross: {
-		num: 12238,
+		num: 11846,
 		name: "ursaringheracross",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Fighting"],
 		baseStats: {hp: 86, atk: 126, def: 75, spa: 63, spd: 81, spe: 75},
 		abilities: {0: "Guts", 1: "Swarm", H: "Unnerve"},
 		heightm: 1.65,
@@ -37318,7 +37318,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	heracrossursaring: {
-		num: 12239,
+		num: 11847,
 		name: "heracrossursaring",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 83, atk: 128, def: 75, spa: 51, spd: 88, spe: 65},
@@ -37329,7 +37329,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	heracrosstauros: {
-		num: 12240,
+		num: 11848,
 		name: "heracrosstauros",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 78, atk: 108, def: 88, spa: 40, spd: 86, spe: 101},
@@ -37340,9 +37340,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	taurosheracross: {
-		num: 12241,
+		num: 11849,
 		name: "taurosheracross",
-		types: ["Normal", "Bug"],
+		types: ["Normal", "Fighting"],
 		baseStats: {hp: 76, atk: 116, def: 81, spa: 40, spd: 78, spe: 93},
 		abilities: {0: "Intimidate", 1: "Guts", H: "Sheer Force"},
 		heightm: 1.45,
@@ -37351,9 +37351,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	kingdrakyogre: {
-		num: 12242,
+		num: 11850,
 		name: "kingdrakyogre",
-		types: ["Dragon", "Water"],
+		types: ["Water", "Dragon"],
 		baseStats: {hp: 83, atk: 98, def: 91, spa: 113, spd: 110, spe: 88},
 		abilities: {0: "Swift Swim", 1: "Drizzle", H: "Damp"},
 		heightm: 3.15,
@@ -37362,7 +37362,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	kyogrekingdra: {
-		num: 12243,
+		num: 11851,
 		name: "kyogrekingdra",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 91, atk: 96, def: 93, spa: 131, spd: 125, spe: 86},
@@ -37373,7 +37373,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	kyogredewgong: {
-		num: 12244,
+		num: 11852,
 		name: "kyogredewgong",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 96, atk: 80, def: 83, spa: 123, spd: 125, spe: 76},
@@ -37384,7 +37384,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	dewgongkyogre: {
-		num: 12245,
+		num: 11853,
 		name: "dewgongkyogre",
 		types: ["Ice", "Water"],
 		baseStats: {hp: 93, atk: 90, def: 86, spa: 96, spd: 110, spe: 83},
@@ -37395,9 +37395,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	starmiekyogre: {
-		num: 12246,
+		num: 11854,
 		name: "starmiekyogre",
-		types: ["Psychic", "Water"],
+		types: ["Water", "Psychic"],
 		baseStats: {hp: 73, atk: 91, def: 88, spa: 116, spd: 103, spe: 98},
 		abilities: {0: "Illuminate", 1: "Drizzle", H: "Analytic"},
 		heightm: 2.8,
@@ -37406,7 +37406,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 3"],
 	},
 	kyogrestarmie: {
-		num: 12247,
+		num: 11855,
 		name: "kyogrestarmie",
 		types: ["Water", "Psychic"],
 		baseStats: {hp: 86, atk: 83, def: 86, spa: 133, spd: 121, spe: 106},
@@ -37417,7 +37417,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Undiscovered"],
 	},
 	sceptilekyogre: {
-		num: 12248,
+		num: 11856,
 		name: "sceptilekyogre",
 		types: ["Grass", "Water"],
 		baseStats: {hp: 80, atk: 95, def: 81, spa: 120, spd: 103, spe: 100},
@@ -37428,7 +37428,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	umbreonkyogre: {
-		num: 12249,
+		num: 11857,
 		name: "umbreonkyogre",
 		types: ["Dark", "Water"],
 		baseStats: {hp: 96, atk: 88, def: 96, spa: 90, spd: 133, spe: 81},
@@ -37439,7 +37439,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	kyogresceptile: {
-		num: 12250,
+		num: 11858,
 		name: "kyogresceptile",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 90, atk: 90, def: 73, spa: 135, spd: 121, spe: 110},
@@ -37450,7 +37450,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	kyogreumbreon: {
-		num: 12251,
+		num: 11859,
 		name: "kyogreumbreon",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 98, atk: 76, def: 103, spa: 120, spd: 136, spe: 73},
@@ -37461,9 +37461,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	gyaradoskyogre: {
-		num: 12252,
+		num: 11860,
 		name: "gyaradoskyogre",
-		types: ["Water"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 96, atk: 108, def: 86, spa: 90, spd: 113, spe: 87},
 		abilities: {0: "Intimidate", 1: "Drizzle", H: "Moxie"},
 		heightm: 5.5,
@@ -37472,7 +37472,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 2"],
 	},
 	kyogregyarados: {
-		num: 12253,
+		num: 11861,
 		name: "kyogregyarados",
 		types: ["Water"],
 		baseStats: {hp: 98, atk: 116, def: 82, spa: 120, spd: 126, spe: 84},
@@ -37483,7 +37483,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Undiscovered"],
 	},
 	kyogrelapras: {
-		num: 12254,
+		num: 11862,
 		name: "kyogrelapras",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 110, atk: 90, def: 83, spa: 128, spd: 125, spe: 70},
@@ -37494,9 +37494,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	lapraskyogre: {
-		num: 12255,
+		num: 11863,
 		name: "lapraskyogre",
-		types: ["Ice", "Water"],
+		types: ["Water", "Ice"],
 		baseStats: {hp: 120, atk: 95, def: 86, spa: 106, spd: 110, spe: 80},
 		abilities: {0: "Water Absorb", 1: "Drizzle", H: "Hydration"},
 		heightm: 3.5,
@@ -37505,7 +37505,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	feraligatrkyogre: {
-		num: 12256,
+		num: 11864,
 		name: "feraligatrkyogre",
 		types: ["Water"],
 		baseStats: {hp: 90, atk: 101, def: 93, spa: 102, spd: 102, spe: 86},
@@ -37516,7 +37516,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	kyogreferaligatr: {
-		num: 12257,
+		num: 11865,
 		name: "kyogreferaligatr",
 		types: ["Water"],
 		baseStats: {hp: 95, atk: 103, def: 96, spa: 126, spd: 121, spe: 82},
@@ -37527,7 +37527,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	kyogreempoleon: {
-		num: 12258,
+		num: 11866,
 		name: "kyogreempoleon",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 94, atk: 90, def: 88, spa: 137, spd: 127, spe: 70},
@@ -37538,9 +37538,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	empoleonkyogre: {
-		num: 12259,
+		num: 11867,
 		name: "empoleonkyogre",
-		types: ["Steel", "Water"],
+		types: ["Water", "Steel"],
 		baseStats: {hp: 89, atk: 95, def: 89, spa: 124, spd: 114, spe: 80},
 		abilities: {0: "Torrent", 1: "Drizzle", H: "Defiant"},
 		heightm: 3.1,
@@ -37549,7 +37549,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	groudonmagmortar: {
-		num: 12260,
+		num: 11868,
 		name: "groudonmagmortar",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 91, atk: 113, def: 91, spa: 108, spd: 91, spe: 85},
@@ -37560,7 +37560,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Undiscovered"],
 	},
 	charizardgroudon: {
-		num: 12261,
+		num: 11869,
 		name: "charizardgroudon",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 85, atk: 128, def: 119, spa: 106, spd: 86, spe: 93},
@@ -37571,7 +37571,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	groudoncharizard: {
-		num: 12262,
+		num: 11870,
 		name: "groudoncharizard",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 92, atk: 106, def: 98, spa: 103, spd: 88, spe: 96},
@@ -37582,9 +37582,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	groudonmagcargo: {
-		num: 12263,
+		num: 11871,
 		name: "groudonmagcargo",
-		types: ["Ground", "Fire"],
+		types: ["Ground", "Rock"],
 		baseStats: {hp: 86, atk: 83, def: 126, spa: 96, spd: 86, spe: 50},
 		abilities: {0: "Drought", 1: "Flame Body", H: "Weak Armor"},
 		heightm: 2.15,
@@ -37593,7 +37593,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Undiscovered"],
 	},
 	magcargogroudon: {
-		num: 12264,
+		num: 11872,
 		name: "magcargogroudon",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 73, atk: 116, def: 133, spa: 93, spd: 83, spe: 70},
@@ -37604,7 +37604,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Amorphous"],
 	},
 	magmortargroudon: {
-		num: 12265,
+		num: 11873,
 		name: "magmortargroudon",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 83, atk: 131, def: 115, spa: 116, spd: 93, spe: 87},
@@ -37615,7 +37615,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Human-Like"],
 	},
 	groudongolem: {
-		num: 12266,
+		num: 11874,
 		name: "groudongolem",
 		types: ["Ground", "Rock"],
 		baseStats: {hp: 93, atk: 130, def: 133, spa: 85, spd: 81, spe: 60},
@@ -37626,7 +37626,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	golemgroudon: {
-		num: 12267,
+		num: 11875,
 		name: "golemgroudon",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 86, atk: 140, def: 136, spa: 70, spd: 73, spe: 75},
@@ -37637,7 +37637,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	groudonrhyperior: {
-		num: 12268,
+		num: 11876,
 		name: "groudonrhyperior",
 		types: ["Ground", "Rock"],
 		baseStats: {hp: 105, atk: 143, def: 133, spa: 85, spd: 78, spe: 56},
@@ -37648,7 +37648,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	groudonrhydon: {
-		num: 12269,
+		num: 11877,
 		name: "groudonrhydon",
 		types: ["Ground", "Rock"],
 		baseStats: {hp: 101, atk: 136, def: 126, spa: 81, spd: 75, spe: 56},
@@ -37660,9 +37660,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	rhyperiorgroudon: {
-		num: 12270,
+		num: 11878,
 		name: "rhyperiorgroudon",
-		types: ["Rock", "Ground"],
+		types: ["Ground", "Rock"],
 		baseStats: {hp: 110, atk: 146, def: 136, spa: 70, spd: 66, spe: 73},
 		abilities: {0: "Lightning Rod", 1: "Drought", H: "Reckless"},
 		heightm: 2.95,
@@ -37671,9 +37671,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	rhydongroudon: {
-		num: 12271,
+		num: 11879,
 		name: "rhydongroudon",
-		types: ["Rock", "Ground"],
+		types: ["Ground", "Rock"],
 		baseStats: {hp: 103, atk: 143, def: 133, spa: 63, spd: 60, spe: 73},
 		abilities: {0: "Lightning Rod", 1: "Drought", H: "Reckless"},
 		heightm: 2.7,
@@ -37683,7 +37683,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	rapidashgroudon: {
-		num: 12272,
+		num: 11880,
 		name: "rapidashgroudon",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 76, atk: 133, def: 116, spa: 86, spd: 83, spe: 95},
@@ -37694,7 +37694,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	groudonrapidash: {
-		num: 12273,
+		num: 11881,
 		name: "groudonrapidash",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 88, atk: 116, def: 93, spa: 93, spd: 86, spe: 100},
@@ -37705,7 +37705,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	groudontyphlosion: {
-		num: 12274,
+		num: 11882,
 		name: "groudontyphlosion",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 92, atk: 106, def: 98, spa: 103, spd: 88, spe: 96},
@@ -37716,7 +37716,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	typhlosiongroudon: {
-		num: 12275,
+		num: 11883,
 		name: "typhlosiongroudon",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 85, atk: 128, def: 119, spa: 106, spd: 86, spe: 93},
@@ -37727,7 +37727,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	pidgeotkyogre: {
-		num: 12276,
+		num: 11884,
 		name: "pidgeotkyogre",
 		types: ["Flying", "Water"],
 		baseStats: {hp: 88, atk: 93, def: 85, spa: 96, spd: 93, spe: 93},
@@ -37738,7 +37738,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Flying"],
 	},
 	kyogrepidgeot: {
-		num: 12277,
+		num: 11885,
 		name: "kyogrepidgeot",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 94, atk: 86, def: 80, spa: 123, spd: 116, spe: 97},
@@ -37749,9 +37749,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Undiscovered"],
 	},
 	raichuaerodactyl: {
-		num: 12278,
+		num: 11886,
 		name: "raichuaerodactyl",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 66, atk: 100, def: 61, spa: 80, spd: 78, spe: 123},
 		abilities: {0: "Static", 1: "Pressure", H: "Lightning Rod"},
 		heightm: 1.3,
@@ -37760,7 +37760,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	houndoommagnezone: {
-		num: 12279,
+		num: 11887,
 		name: "houndoommagnezone",
 		types: ["Dark", "Electric"],
 		baseStats: {hp: 73, atk: 76, def: 93, spa: 116, spd: 83, spe: 71},
@@ -37771,7 +37771,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	magnezonehoundoom: {
-		num: 12280,
+		num: 11888,
 		name: "magnezonehoundoom",
 		types: ["Steel", "Fire"],
 		baseStats: {hp: 71, atk: 83, def: 71, spa: 123, spd: 86, spe: 83},
@@ -37782,7 +37782,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	kabutopsraichu: {
-		num: 12281,
+		num: 11889,
 		name: "kabutopsraichu",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 60, atk: 98, def: 71, spa: 73, spd: 73, spe: 100},
@@ -37793,7 +37793,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	kangaskhanblastoise: {
-		num: 12282,
+		num: 11890,
 		name: "kangaskhanblastoise",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 96, atk: 87, def: 93, spa: 55, spd: 88, spe: 82},
@@ -37804,7 +37804,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	nidoqueenblastoise: {
-		num: 12283,
+		num: 11891,
 		name: "nidoqueenblastoise",
 		types: ["Poison", "Water"],
 		baseStats: {hp: 86, atk: 86, def: 95, spa: 78, spd: 91, spe: 77},
@@ -37815,7 +37815,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	kinglerblastoise: {
-		num: 12284,
+		num: 11892,
 		name: "kinglerblastoise",
 		types: ["Water"],
 		baseStats: {hp: 63, atk: 98, def: 105, spa: 61, spd: 68, spe: 77},
@@ -37826,9 +37826,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	kingdrablastoise: {
-		num: 12285,
+		num: 11893,
 		name: "kingdrablastoise",
-		types: ["Dragon", "Water"],
+		types: ["Water", "Dragon"],
 		baseStats: {hp: 76, atk: 87, def: 98, spa: 91, spd: 98, spe: 80},
 		abilities: {0: "Swift Swim", 1: "Rain Dish", H: "Damp"},
 		heightm: 1.7000000000000002,
@@ -37837,7 +37837,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	salamenceblastoise: {
-		num: 12286,
+		num: 11894,
 		name: "salamenceblastoise",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 89, atk: 100, def: 93, spa: 101, spd: 88, spe: 85},
@@ -37848,7 +37848,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	jolteonblastoise: {
-		num: 12287,
+		num: 11895,
 		name: "jolteonblastoise",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 69, atk: 77, def: 86, spa: 101, spd: 98, spe: 95},
@@ -37859,7 +37859,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	electrodeblastoise: {
-		num: 12288,
+		num: 11896,
 		name: "electrodeblastoise",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 66, atk: 72, def: 90, spa: 81, spd: 88, spe: 102},
@@ -37870,7 +37870,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	skarmoryblastoise: {
-		num: 12289,
+		num: 11897,
 		name: "skarmoryblastoise",
 		types: ["Steel", "Water"],
 		baseStats: {hp: 69, atk: 82, def: 113, spa: 55, spd: 81, spe: 75},
@@ -37881,9 +37881,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	blastoiseskarmory: {
-		num: 12290,
+		num: 11898,
 		name: "blastoiseskarmory",
-		types: ["Water", "Steel"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 74, atk: 81, def: 126, spa: 70, spd: 93, spe: 72},
 		abilities: {0: "Torrent", 1: "Sturdy", H: "Rain Dish"},
 		heightm: 1.65,
@@ -37892,7 +37892,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	togekissblastoise: {
-		num: 12291,
+		num: 11899,
 		name: "togekissblastoise",
 		types: ["Fairy", "Water"],
 		baseStats: {hp: 83, atk: 72, def: 98, spa: 108, spd: 111, spe: 78},
@@ -37903,7 +37903,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	ursaringblastoise: {
-		num: 12292,
+		num: 11900,
 		name: "ursaringblastoise",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 86, atk: 98, def: 91, spa: 78, spd: 85, spe: 70},
@@ -37914,9 +37914,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	tentacruelblastoise: {
-		num: 12293,
+		num: 11901,
 		name: "tentacruelblastoise",
-		types: ["Poison", "Water"],
+		types: ["Water", "Poison"],
 		baseStats: {hp: 79, atk: 78, def: 88, spa: 81, spd: 115, spe: 85},
 		abilities: {0: "Clear Body", 1: "Torrent", H: "Rain Dish"},
 		heightm: 1.6,
@@ -37925,7 +37925,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	blastoisetentacruel: {
-		num: 12294,
+		num: 11902,
 		name: "blastoisetentacruel",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 79, atk: 74, def: 76, spa: 83, spd: 110, spe: 92},
@@ -37936,7 +37936,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Monster"],
 	},
 	tentacruelweezing: {
-		num: 12295,
+		num: 11903,
 		name: "tentacruelweezing",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 75, atk: 83, def: 101, spa: 81, spd: 103, spe: 73},
@@ -37947,7 +37947,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Water 3"],
 	},
 	tentacruelempoleon: {
-		num: 12296,
+		num: 11904,
 		name: "tentacruelempoleon",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 81, atk: 80, def: 80, spa: 90, spd: 113, spe: 73},
@@ -37958,7 +37958,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	tentacruelmagmortar: {
-		num: 12297,
+		num: 11905,
 		name: "tentacruelmagmortar",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 78, atk: 86, def: 66, spa: 95, spd: 111, spe: 88},
@@ -37969,7 +37969,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 3"],
 	},
 	tentacruelelectivire: {
-		num: 12298,
+		num: 11906,
 		name: "tentacruelelectivire",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 78, atk: 105, def: 66, spa: 85, spd: 108, spe: 96},
@@ -37980,7 +37980,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 3"],
 	},
 	tentacruelsteelix: {
-		num: 12299,
+		num: 11907,
 		name: "tentacruelsteelix",
 		types: ["Water", "Steel"],
 		baseStats: {hp: 78, atk: 80, def: 155, spa: 71, spd: 101, spe: 53},
@@ -37991,7 +37991,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 3"],
 	},
 	tentacruelcloyster: {
-		num: 12300,
+		num: 11908,
 		name: "tentacruelcloyster",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 70, atk: 86, def: 141, spa: 81, spd: 95, spe: 80},
@@ -38002,7 +38002,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Water 3"],
 	},
 	tentacruelampharos: {
-		num: 12301,
+		num: 11909,
 		name: "tentacruelampharos",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 83, atk: 73, def: 78, spa: 91, spd: 110, spe: 70},
@@ -38013,7 +38013,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	tentacruelivysaur: {
-		num: 12302,
+		num: 11910,
 		name: "tentacruelivysaur",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 73, atk: 64, def: 63, spa: 80, spd: 106, spe: 73},
@@ -38025,7 +38025,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	tentacruelnoctowl: {
-		num: 12303,
+		num: 11911,
 		name: "tentacruelnoctowl",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 86, atk: 56, def: 55, spa: 82, spd: 112, spe: 80},
@@ -38036,7 +38036,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 3"],
 	},
 	tentacruellanturn: {
-		num: 12304,
+		num: 11912,
 		name: "tentacruellanturn",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 95, atk: 62, def: 60, spa: 78, spd: 105, spe: 78},
@@ -38047,9 +38047,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 3"],
 	},
 	tentacrueloctillery: {
-		num: 12305,
+		num: 11913,
 		name: "tentacrueloctillery",
-		types: ["Poison", "Water"],
+		types: ["Water", "Poison"],
 		baseStats: {hp: 78, atk: 93, def: 71, spa: 88, spd: 105, spe: 63},
 		abilities: {0: "Clear Body", 1: "Sniper", H: "Rain Dish"},
 		heightm: 1.25,
@@ -38058,7 +38058,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	tentacruelarbok: {
-		num: 12306,
+		num: 11914,
 		name: "tentacruelarbok",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 73, atk: 86, def: 67, spa: 75, spd: 106, spe: 86},
@@ -38069,7 +38069,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	arbokoctillery: {
-		num: 12307,
+		num: 11915,
 		name: "arbokoctillery",
 		types: ["Poison", "Water"],
 		baseStats: {hp: 65, atk: 101, def: 73, spa: 78, spd: 77, spe: 56},
@@ -38080,7 +38080,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	tentacruelsandslash: {
-		num: 12308,
+		num: 11916,
 		name: "tentacruelsandslash",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 78, atk: 90, def: 95, spa: 68, spd: 98, spe: 76},
@@ -38091,7 +38091,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	sandslashmarowak: {
-		num: 12309,
+		num: 11917,
 		name: "sandslashmarowak",
 		types: ["Ground"],
 		baseStats: {hp: 70, atk: 86, def: 110, spa: 46, spd: 63, spe: 51},
@@ -38102,7 +38102,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	scythersandslash: {
-		num: 12310,
+		num: 11918,
 		name: "scythersandslash",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 71, atk: 103, def: 100, spa: 51, spd: 71, spe: 78},
@@ -38114,9 +38114,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	gliscorsandslash: {
-		num: 12311,
+		num: 11919,
 		name: "gliscorsandslash",
-		types: ["Flying", "Ground"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 75, atk: 98, def: 115, spa: 45, spd: 68, spe: 75},
 		abilities: {0: "Hyper Cutter", 1: "Sand Rush", H: "Poison Heal"},
 		heightm: 1,
@@ -38125,7 +38125,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	scizorsandslash: {
-		num: 12312,
+		num: 11920,
 		name: "scizorsandslash",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 71, atk: 110, def: 106, spa: 51, spd: 71, spe: 65},
@@ -38136,7 +38136,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	beedrillsandslash: {
-		num: 12313,
+		num: 11921,
 		name: "beedrillsandslash",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 68, atk: 96, def: 86, spa: 45, spd: 71, spe: 68},
@@ -38147,7 +38147,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	hitmonleesandslash: {
-		num: 12314,
+		num: 11922,
 		name: "hitmonleesandslash",
 		types: ["Fighting", "Ground"],
 		baseStats: {hp: 58, atk: 106, def: 91, spa: 38, spd: 91, spe: 72},
@@ -38158,7 +38158,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	kangaskhansandslash: {
-		num: 12315,
+		num: 11923,
 		name: "kangaskhansandslash",
 		types: ["Normal", "Ground"],
 		baseStats: {hp: 95, atk: 98, def: 100, spa: 41, spd: 71, spe: 73},
@@ -38169,7 +38169,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	hitmonchansandslash: {
-		num: 12316,
+		num: 11924,
 		name: "hitmonchansandslash",
 		types: ["Fighting", "Ground"],
 		baseStats: {hp: 58, atk: 101, def: 99, spa: 38, spd: 91, spe: 68},
@@ -38180,7 +38180,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	hitmontopsandslash: {
-		num: 12317,
+		num: 11925,
 		name: "hitmontopsandslash",
 		types: ["Fighting", "Ground"],
 		baseStats: {hp: 58, atk: 98, def: 105, spa: 38, spd: 91, spe: 66},
@@ -38191,7 +38191,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	clefairysandslash: {
-		num: 12318,
+		num: 11926,
 		name: "clefairysandslash",
 		types: ["Fairy", "Ground"],
 		baseStats: {hp: 71, atk: 81, def: 89, spa: 55, spd: 61, spe: 55},
@@ -38203,7 +38203,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	persiansandslash: {
-		num: 12319,
+		num: 11927,
 		name: "persiansandslash",
 		types: ["Normal", "Ground"],
 		baseStats: {hp: 68, atk: 90, def: 93, spa: 58, spd: 61, spe: 81},
@@ -38214,7 +38214,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	dragonitesandslash: {
-		num: 12320,
+		num: 11928,
 		name: "dragonitesandslash",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 85, atk: 111, def: 105, spa: 81, spd: 85, spe: 70},
@@ -38225,7 +38225,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	kingdrasandslash: {
-		num: 12321,
+		num: 11929,
 		name: "kingdrasandslash",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 75, atk: 98, def: 105, spa: 78, spd: 81, spe: 71},
@@ -38236,7 +38236,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dragonairsandslash: {
-		num: 12322,
+		num: 11930,
 		name: "dragonairsandslash",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 65, atk: 94, def: 95, spa: 61, spd: 65, spe: 66},
@@ -38248,7 +38248,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	jolteonsandslash: {
-		num: 12323,
+		num: 11931,
 		name: "jolteonsandslash",
 		types: ["Electric", "Ground"],
 		baseStats: {hp: 68, atk: 88, def: 93, spa: 88, spd: 81, spe: 86},
@@ -38259,7 +38259,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	salamencesandslash: {
-		num: 12324,
+		num: 11932,
 		name: "salamencesandslash",
 		types: ["Dragon", "Ground"],
 		baseStats: {hp: 88, atk: 111, def: 100, spa: 88, spd: 71, spe: 76},
@@ -38270,7 +38270,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	crobatsandslash: {
-		num: 12325,
+		num: 11933,
 		name: "crobatsandslash",
 		types: ["Poison", "Ground"],
 		baseStats: {hp: 81, atk: 96, def: 100, spa: 61, spd: 71, spe: 86},
@@ -38281,7 +38281,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	heracrosssandslash: {
-		num: 12326,
+		num: 11934,
 		name: "heracrosssandslash",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 78, atk: 108, def: 98, spa: 41, spd: 81, spe: 71},
@@ -38292,7 +38292,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	crobatferaligatr: {
-		num: 12327,
+		num: 11935,
 		name: "crobatferaligatr",
 		types: ["Poison", "Water"],
 		baseStats: {hp: 85, atk: 100, def: 93, spa: 73, spd: 81, spe: 95},
@@ -38303,7 +38303,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	feraligatrsandslash: {
-		num: 12328,
+		num: 11936,
 		name: "feraligatrsandslash",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 81, atk: 101, def: 106, spa: 67, spd: 73, spe: 69},
@@ -38314,7 +38314,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	mismagiusferaligatr: {
-		num: 12329,
+		num: 11937,
 		name: "mismagiusferaligatr",
 		types: ["Ghost", "Water"],
 		baseStats: {hp: 68, atk: 90, def: 86, spa: 96, spd: 97, spe: 87},
@@ -38325,7 +38325,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	mismagiusklinklang: {
-		num: 12330,
+		num: 11938,
 		name: "mismagiusklinklang",
 		types: ["Ghost", "Steel"],
 		baseStats: {hp: 60, atk: 86, def: 96, spa: 93, spd: 98, spe: 95},
@@ -38336,7 +38336,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	mismagiusalakazam: {
-		num: 12331,
+		num: 11939,
 		name: "mismagiusalakazam",
 		types: ["Ghost", "Psychic"],
 		baseStats: {hp: 58, atk: 53, def: 50, spa: 115, spd: 101, spe: 115},
@@ -38347,7 +38347,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	mismagiusninetales: {
-		num: 12332,
+		num: 11940,
 		name: "mismagiusninetales",
 		types: ["Ghost", "Fire"],
 		baseStats: {hp: 64, atk: 70, def: 70, spa: 97, spd: 103, spe: 101},
@@ -38358,9 +38358,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	mismagiusarmaldo: {
-		num: 12333,
+		num: 11941,
 		name: "mismagiusarmaldo",
-		types: ["Ghost", "Rock"],
+		types: ["Ghost", "Bug"],
 		baseStats: {hp: 65, atk: 103, def: 86, spa: 93, spd: 96, spe: 65},
 		abilities: {0: "Levitate", 1: "Battle Armor", H: ""},
 		heightm: 1.2,
@@ -38369,9 +38369,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Amorphous"],
 	},
 	sandslasharmaldo: {
-		num: 12334,
+		num: 11942,
 		name: "sandslasharmaldo",
-		types: ["Ground", "Rock"],
+		types: ["Ground", "Bug"],
 		baseStats: {hp: 75, atk: 116, def: 103, spa: 53, spd: 63, spe: 51},
 		abilities: {0: "Sand Veil", 1: "Swift Swim", H: "Sand Rush"},
 		heightm: 1.25,
@@ -38380,7 +38380,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	armaldosandslash: {
-		num: 12335,
+		num: 11943,
 		name: "armaldosandslash",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 75, atk: 108, def: 106, spa: 61, spd: 71, spe: 58},
@@ -38391,7 +38391,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	armaldogallade: {
-		num: 12336,
+		num: 11944,
 		name: "armaldogallade",
 		types: ["Rock", "Fighting"],
 		baseStats: {hp: 72, atk: 125, def: 76, spa: 68, spd: 91, spe: 68},
@@ -38402,7 +38402,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 3"],
 	},
 	armaldosalamence: {
-		num: 12337,
+		num: 11945,
 		name: "armaldosalamence",
 		types: ["Rock", "Flying"],
 		baseStats: {hp: 81, atk: 131, def: 86, spa: 83, spd: 80, spe: 81},
@@ -38413,7 +38413,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Water 3"],
 	},
 	salamencemagmortar: {
-		num: 12338,
+		num: 11946,
 		name: "salamencemagmortar",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 88, atk: 108, def: 71, spa: 115, spd: 85, spe: 88},
@@ -38424,7 +38424,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Dragon"],
 	},
 	sandslashmagmortar: {
-		num: 12339,
+		num: 11947,
 		name: "sandslashmagmortar",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 75, atk: 96, def: 81, spa: 71, spd: 68, spe: 77},
@@ -38435,9 +38435,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	sandslashlapras: {
-		num: 12340,
+		num: 11948,
 		name: "sandslashlapras",
-		types: ["Ground", "Water"],
+		types: ["Ground", "Ice"],
 		baseStats: {hp: 93, atk: 90, def: 90, spa: 58, spd: 68, spe: 61},
 		abilities: {0: "Sand Veil", 1: "Shell Armor", H: "Sand Rush"},
 		heightm: 1.75,
@@ -38446,9 +38446,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	sandslashexeggutor: {
-		num: 12341,
+		num: 11949,
 		name: "sandslashexeggutor",
-		types: ["Ground", "Grass"],
+		types: ["Ground", "Psychic"],
 		baseStats: {hp: 81, atk: 96, def: 93, spa: 71, spd: 61, spe: 58},
 		abilities: {0: "Sand Veil", 1: "Harvest", H: "Sand Rush"},
 		heightm: 1,
@@ -38457,7 +38457,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Field"],
 	},
 	exeggutorsandslash: {
-		num: 12342,
+		num: 11950,
 		name: "exeggutorsandslash",
 		types: ["Grass", "Ground"],
 		baseStats: {hp: 88, atk: 98, def: 101, spa: 98, spd: 68, spe: 61},
@@ -38468,9 +38468,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	ampharosexeggutor: {
-		num: 12343,
+		num: 11951,
 		name: "ampharosexeggutor",
-		types: ["Electric", "Grass"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 91, atk: 88, def: 85, spa: 118, spd: 85, spe: 55},
 		abilities: {0: "Static", 1: "Harvest", H: "Plus"},
 		heightm: 1.7,
@@ -38479,9 +38479,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Monster"],
 	},
 	gardevoirexeggutor: {
-		num: 12344,
+		num: 11952,
 		name: "gardevoirexeggutor",
-		types: ["Fairy", "Psychic"],
+		types: ["Psychic", "Grass"],
 		baseStats: {hp: 77, atk: 85, def: 78, spa: 125, spd: 101, spe: 63},
 		abilities: {0: "Synchronize", 1: "Harvest", H: "Telepathy"},
 		heightm: 1.8,
@@ -38490,7 +38490,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	alakazamexeggutor: {
-		num: 12345,
+		num: 11953,
 		name: "alakazamexeggutor",
 		types: ["Psychic", "Grass"],
 		baseStats: {hp: 68, atk: 80, def: 71, spa: 131, spd: 88, spe: 76},
@@ -38501,7 +38501,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	gengarexeggutor: {
-		num: 12346,
+		num: 11954,
 		name: "gengarexeggutor",
 		types: ["Ghost", "Psychic"],
 		baseStats: {hp: 71, atk: 85, def: 76, spa: 128, spd: 75, spe: 73},
@@ -38512,7 +38512,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Amorphous"],
 	},
 	parasectexeggutor: {
-		num: 12347,
+		num: 11955,
 		name: "parasectexeggutor",
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 71, atk: 95, def: 83, spa: 81, spd: 78, spe: 46},
@@ -38523,9 +38523,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Bug"],
 	},
 	arbokexeggutor: {
-		num: 12348,
+		num: 11956,
 		name: "arbokexeggutor",
-		types: ["Poison", "Grass"],
+		types: ["Poison", "Psychic"],
 		baseStats: {hp: 71, atk: 95, def: 79, spa: 85, spd: 77, spe: 63},
 		abilities: {0: "Intimidate", 1: "Harvest", H: "Unnerve"},
 		heightm: 2.75,
@@ -38534,7 +38534,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Field"],
 	},
 	aerodactylexeggutor: {
-		num: 12349,
+		num: 11957,
 		name: "aerodactylexeggutor",
 		types: ["Rock", "Psychic"],
 		baseStats: {hp: 85, atk: 98, def: 78, spa: 81, spd: 75, spe: 80},
@@ -38545,7 +38545,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Flying"],
 	},
 	aerodactylmagmortar: {
-		num: 12350,
+		num: 11958,
 		name: "aerodactylmagmortar",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 78, atk: 98, def: 66, spa: 81, spd: 81, spe: 98},
@@ -38556,7 +38556,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Flying"],
 	},
 	aerodactylmagnezone: {
-		num: 12351,
+		num: 11959,
 		name: "aerodactylmagnezone",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 76, atk: 81, def: 98, spa: 83, spd: 80, spe: 83},
@@ -38567,7 +38567,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Flying"],
 	},
 	aerodactylcharizard: {
-		num: 12352,
+		num: 11960,
 		name: "aerodactylcharizard",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 79, atk: 91, def: 73, spa: 76, spd: 78, spe: 110},
@@ -38578,7 +38578,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	aerodactylmagneton: {
-		num: 12353,
+		num: 11961,
 		name: "aerodactylmagneton",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 70, atk: 75, def: 85, spa: 80, spd: 73, spe: 90},
@@ -38590,7 +38590,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Flying"],
 	},
 	aerodactyldragonair: {
-		num: 12354,
+		num: 11962,
 		name: "aerodactyldragonair",
 		types: ["Rock", "Dragon"],
 		baseStats: {hp: 73, atk: 91, def: 65, spa: 63, spd: 73, spe: 90},
@@ -38602,7 +38602,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	aerodactyldragonite: {
-		num: 12355,
+		num: 11963,
 		name: "aerodactyldragonite",
 		types: ["Rock", "Dragon"],
 		baseStats: {hp: 83, atk: 124, def: 85, spa: 73, spd: 83, spe: 96},
@@ -38613,7 +38613,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	aerodactylampharos: {
-		num: 12356,
+		num: 11964,
 		name: "aerodactylampharos",
 		types: ["Rock", "Electric"],
 		baseStats: {hp: 83, atk: 85, def: 78, spa: 78, spd: 80, spe: 80},
@@ -38624,9 +38624,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	ampharosaerodactyl: {
-		num: 12357,
+		num: 11965,
 		name: "ampharosaerodactyl",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 86, atk: 95, def: 71, spa: 96, spd: 85, spe: 105},
 		abilities: {0: "Static", 1: "Pressure", H: "Plus"},
 		heightm: 1.6,
@@ -38635,7 +38635,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	nidokingaerodactyl: {
-		num: 12358,
+		num: 11966,
 		name: "nidokingaerodactyl",
 		types: ["Poison", "Flying"],
 		baseStats: {hp: 80, atk: 104, def: 69, spa: 76, spd: 75, spe: 115},
@@ -38646,7 +38646,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	gengarslowbro: {
-		num: 12359,
+		num: 11967,
 		name: "gengarslowbro",
 		types: ["Ghost", "Psychic"],
 		baseStats: {hp: 71, atk: 71, def: 93, spa: 120, spd: 76, spe: 56},
@@ -38657,7 +38657,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Amorphous"],
 	},
 	nidokingslowbro: {
-		num: 12360,
+		num: 11968,
 		name: "nidokingslowbro",
 		types: ["Poison", "Psychic"],
 		baseStats: {hp: 85, atk: 84, def: 99, spa: 90, spd: 76, spe: 48},
@@ -38668,7 +38668,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	parasectslowbro: {
-		num: 12361,
+		num: 11969,
 		name: "parasectslowbro",
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 71, atk: 81, def: 100, spa: 73, spd: 80, spe: 30},
@@ -38679,9 +38679,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	ampharosslowbro: {
-		num: 12362,
+		num: 11970,
 		name: "ampharosslowbro",
-		types: ["Electric", "Water"],
+		types: ["Electric", "Psychic"],
 		baseStats: {hp: 91, atk: 75, def: 101, spa: 110, spd: 86, spe: 38},
 		abilities: {0: "Static", 1: "Own Tempo", H: "Plus"},
 		heightm: 1.5,
@@ -38690,9 +38690,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	arbokslowbro: {
-		num: 12363,
+		num: 11971,
 		name: "arbokslowbro",
-		types: ["Poison", "Water"],
+		types: ["Poison", "Psychic"],
 		baseStats: {hp: 71, atk: 81, def: 96, spa: 76, spd: 79, spe: 46},
 		abilities: {0: "Intimidate", 1: "Own Tempo", H: "Unnerve"},
 		heightm: 2.55,
@@ -38701,7 +38701,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	jynxslowbro: {
-		num: 12364,
+		num: 11972,
 		name: "jynxslowbro",
 		types: ["Ice", "Psychic"],
 		baseStats: {hp: 75, atk: 66, def: 85, spa: 110, spd: 90, spe: 51},
@@ -38712,7 +38712,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	magnezoneslowking: {
-		num: 12365,
+		num: 11973,
 		name: "magnezoneslowking",
 		types: ["Steel", "Psychic"],
 		baseStats: {hp: 78, atk: 73, def: 91, spa: 120, spd: 96, spe: 40},
@@ -38723,7 +38723,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	mantineslowking: {
-		num: 12366,
+		num: 11974,
 		name: "mantineslowking",
 		types: ["Water", "Psychic"],
 		baseStats: {hp: 88, atk: 63, def: 76, spa: 86, spd: 130, spe: 43},
@@ -38734,9 +38734,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	magmortarslowking: {
-		num: 12367,
+		num: 11975,
 		name: "magmortarslowking",
-		types: ["Fire", "Water"],
+		types: ["Fire", "Psychic"],
 		baseStats: {hp: 81, atk: 81, def: 75, spa: 116, spd: 100, spe: 47},
 		abilities: {0: "Flame Body", 1: "Own Tempo", H: "Vital Spirit"},
 		heightm: 1.8,
@@ -38745,9 +38745,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	magmortarslowbro: {
-		num: 12368,
+		num: 11976,
 		name: "magmortarslowbro",
-		types: ["Fire", "Water"],
+		types: ["Fire", "Psychic"],
 		baseStats: {hp: 81, atk: 81, def: 95, spa: 116, spd: 90, spe: 47},
 		abilities: {0: "Flame Body", 1: "Own Tempo", H: "Vital Spirit"},
 		heightm: 1.6,
@@ -38756,7 +38756,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	kangaskhanmagmortar: {
-		num: 12369,
+		num: 11977,
 		name: "kangaskhanmagmortar",
 		types: ["Normal", "Fire"],
 		baseStats: {hp: 95, atk: 95, def: 71, spa: 68, spd: 85, spe: 85},
@@ -38767,7 +38767,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	kangaskhancharizard: {
-		num: 12370,
+		num: 11978,
 		name: "kangaskhancharizard",
 		types: ["Normal", "Fire"],
 		baseStats: {hp: 96, atk: 87, def: 78, spa: 63, spd: 81, spe: 96},
@@ -38778,9 +38778,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	kangaskhanaerodactyl: {
-		num: 12371,
+		num: 11979,
 		name: "kangaskhanaerodactyl",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 96, atk: 101, def: 70, spa: 46, spd: 78, spe: 116},
 		abilities: {0: "Early Bird", 1: "Pressure", H: "Inner Focus"},
 		heightm: 2.0,
@@ -38789,7 +38789,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	aerodactylgyarados: {
-		num: 12372,
+		num: 11980,
 		name: "aerodactylgyarados",
 		types: ["Rock", "Water"],
 		baseStats: {hp: 85, atk: 118, def: 74, spa: 60, spd: 83, spe: 97},
@@ -38800,7 +38800,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Flying"],
 	},
 	tangrowthvenusaur: {
-		num: 12373,
+		num: 11981,
 		name: "tangrowthvenusaur",
 		types: ["Grass"],
 		baseStats: {hp: 93, atk: 88, def: 97, spa: 106, spd: 66, spe: 70},
@@ -38811,7 +38811,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	kangaskhanhitmontop: {
-		num: 12374,
+		num: 11982,
 		name: "kangaskhanhitmontop",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 86, atk: 95, def: 90, spa: 38, spd: 90, spe: 76},
@@ -38822,7 +38822,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	kangaskhanhitmonchan: {
-		num: 12375,
+		num: 11983,
 		name: "kangaskhanhitmonchan",
 		types: ["Normal", "Fighting"],
 		baseStats: {hp: 86, atk: 101, def: 79, spa: 38, spd: 90, spe: 80},
@@ -38833,7 +38833,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	kabutopsgyarados: {
-		num: 12376,
+		num: 11984,
 		name: "kabutopsgyarados",
 		types: ["Rock", "Water"],
 		baseStats: {hp: 71, atk: 121, def: 87, spa: 63, spd: 80, spe: 80},
@@ -38844,7 +38844,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 1"],
 	},
 	kabutopsferaligatr: {
-		num: 12377,
+		num: 11985,
 		name: "kabutopsferaligatr",
 		types: ["Rock", "Water"],
 		baseStats: {hp: 68, atk: 108, def: 101, spa: 69, spd: 74, spe: 78},
@@ -38855,7 +38855,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	kabutopssandslash: {
-		num: 12378,
+		num: 11986,
 		name: "kabutopssandslash",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 65, atk: 105, def: 108, spa: 58, spd: 65, spe: 70},
@@ -38866,7 +38866,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	kabutopsmuk: {
-		num: 12379,
+		num: 11987,
 		name: "kabutopsmuk",
 		types: ["Rock", "Poison"],
 		baseStats: {hp: 75, atk: 108, def: 85, spa: 65, spd: 80, spe: 60},
@@ -38877,7 +38877,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Water 1"],
 	},
 	kabutopskingdra: {
-		num: 12380,
+		num: 11988,
 		name: "kabutopskingdra",
 		types: ["Rock", "Dragon"],
 		baseStats: {hp: 65, atk: 101, def: 98, spa: 75, spd: 78, spe: 83},
@@ -38888,7 +38888,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	kabutopsdragonite: {
-		num: 12381,
+		num: 11989,
 		name: "kabutopsdragonite",
 		types: ["Rock", "Dragon"],
 		baseStats: {hp: 70, atk: 127, def: 98, spa: 76, spd: 80, spe: 80},
@@ -38899,9 +38899,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	kingdrakabutops: {
-		num: 12382,
+		num: 11990,
 		name: "kingdrakabutops",
-		types: ["Dragon", "Water"],
+		types: ["Water", "Rock"],
 		baseStats: {hp: 70, atk: 108, def: 101, spa: 85, spd: 86, spe: 81},
 		abilities: {0: "Swift Swim", 1: "Battle Armor", H: "Damp"},
 		heightm: 1.55,
@@ -38910,7 +38910,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	kabutopslapras: {
-		num: 12383,
+		num: 11991,
 		name: "kabutopslapras",
 		types: ["Rock", "Ice"],
 		baseStats: {hp: 83, atk: 95, def: 88, spa: 71, spd: 78, spe: 66},
@@ -38921,7 +38921,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	kabutopsblastoise: {
-		num: 12384,
+		num: 11992,
 		name: "kabutopsblastoise",
 		types: ["Rock", "Water"],
 		baseStats: {hp: 66, atk: 93, def: 101, spa: 71, spd: 81, spe: 78},
@@ -38932,7 +38932,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	blastoisekabutops: {
-		num: 12385,
+		num: 11993,
 		name: "blastoisekabutops",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 72, atk: 104, def: 103, spa: 78, spd: 93, spe: 79},
@@ -38943,7 +38943,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	kabutopsflareon: {
-		num: 12386,
+		num: 11994,
 		name: "kabutopsflareon",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 61, atk: 125, def: 75, spa: 75, spd: 83, spe: 70},
@@ -38954,9 +38954,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	jolteonkabutops: {
-		num: 12387,
+		num: 11995,
 		name: "jolteonkabutops",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Water"],
 		baseStats: {hp: 63, atk: 98, def: 90, spa: 95, spd: 86, spe: 96},
 		abilities: {0: "Volt Absorb", 1: "Battle Armor", H: "Quick Feet"},
 		heightm: 1.05,
@@ -38965,7 +38965,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	vaporeonkabutops: {
-		num: 12388,
+		num: 11996,
 		name: "vaporeonkabutops",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 106, atk: 98, def: 90, spa: 95, spd: 86, spe: 75},
@@ -38976,7 +38976,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	vaporeonscyther: {
-		num: 12389,
+		num: 11997,
 		name: "vaporeonscyther",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 110, atk: 95, def: 73, spa: 91, spd: 90, spe: 91},
@@ -38988,7 +38988,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	jolteonscyther: {
-		num: 12390,
+		num: 11998,
 		name: "jolteonscyther",
 		types: ["Electric", "Bug"],
 		baseStats: {hp: 66, atk: 95, def: 73, spa: 91, spd: 90, spe: 113},
@@ -39000,9 +39000,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	jolteongliscor: {
-		num: 12391,
+		num: 11999,
 		name: "jolteongliscor",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 68, atk: 85, def: 103, spa: 88, spd: 88, spe: 106},
 		abilities: {0: "Volt Absorb", 1: "Sand Veil", H: "Quick Feet"},
 		heightm: 1.4,
@@ -39011,7 +39011,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	jolteonsceptile: {
-		num: 12392,
+		num: 12000,
 		name: "jolteonsceptile",
 		types: ["Electric", "Grass"],
 		baseStats: {hp: 66, atk: 78, def: 63, spa: 108, spd: 91, spe: 123},
@@ -39022,7 +39022,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	kabutopssceptile: {
-		num: 12393,
+		num: 12001,
 		name: "kabutopssceptile",
 		types: ["Rock", "Grass"],
 		baseStats: {hp: 63, atk: 95, def: 78, spa: 78, spd: 75, spe: 106},
@@ -39033,9 +39033,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	sceptilekabutops: {
-		num: 12394,
+		num: 12002,
 		name: "sceptilekabutops",
-		types: ["Grass", "Rock"],
+		types: ["Grass", "Water"],
 		baseStats: {hp: 66, atk: 105, def: 91, spa: 91, spd: 80, spe: 93},
 		abilities: {0: "Overgrow", 1: "Battle Armor", H: "Unburden"},
 		heightm: 1.5,
@@ -39044,9 +39044,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	arcaninekabutops: {
-		num: 12395,
+		num: 12003,
 		name: "arcaninekabutops",
-		types: ["Fire", "Rock"],
+		types: ["Fire", "Water"],
 		baseStats: {hp: 80, atk: 113, def: 96, spa: 88, spd: 76, spe: 85},
 		abilities: {0: "Intimidate", 1: "Battle Armor", H: "Justified"},
 		heightm: 1.6,
@@ -39055,7 +39055,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	kabutopsarcanine: {
-		num: 12396,
+		num: 12004,
 		name: "kabutopsarcanine",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 70, atk: 111, def: 88, spa: 76, spd: 73, spe: 90},
@@ -39066,7 +39066,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	gyaradosarcanine: {
-		num: 12397,
+		num: 12005,
 		name: "gyaradosarcanine",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 93, atk: 115, def: 79, spa: 73, spd: 93, spe: 90},
@@ -39077,7 +39077,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	nidokingarcanine: {
-		num: 12398,
+		num: 12006,
 		name: "nidokingarcanine",
 		types: ["Poison", "Fire"],
 		baseStats: {hp: 84, atk: 107, def: 79, spa: 90, spd: 76, spe: 91},
@@ -39088,7 +39088,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	magmortararcanine: {
-		num: 12399,
+		num: 12007,
 		name: "magmortararcanine",
 		types: ["Fire"],
 		baseStats: {hp: 80, atk: 105, def: 75, spa: 116, spd: 90, spe: 91},
@@ -39099,7 +39099,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	arcaninemagmortar: {
-		num: 12400,
+		num: 12008,
 		name: "arcaninemagmortar",
 		types: ["Fire"],
 		baseStats: {hp: 85, atk: 100, def: 71, spa: 108, spd: 85, spe: 87},
@@ -39110,7 +39110,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	ninetalesarcanine: {
-		num: 12401,
+		num: 12009,
 		name: "ninetalesarcanine",
 		types: ["Fire"],
 		baseStats: {hp: 78, atk: 98, def: 78, spa: 87, spd: 93, spe: 96},
@@ -39121,7 +39121,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	magmortarscyther: {
-		num: 12402,
+		num: 12010,
 		name: "magmortarscyther",
 		types: ["Fire", "Bug"],
 		baseStats: {hp: 73, atk: 105, def: 75, spa: 101, spd: 90, spe: 97},
@@ -39133,9 +39133,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	magmortarscizor: {
-		num: 12403,
+		num: 12011,
 		name: "magmortarscizor",
-		types: ["Fire", "Steel"],
+		types: ["Fire", "Bug"],
 		baseStats: {hp: 73, atk: 118, def: 89, spa: 101, spd: 90, spe: 71},
 		abilities: {0: "Flame Body", 1: "Technician", H: "Vital Spirit"},
 		heightm: 1.7000000000000002,
@@ -39144,9 +39144,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	magmortargliscor: {
-		num: 12404,
+		num: 12012,
 		name: "magmortargliscor",
-		types: ["Fire", "Ground"],
+		types: ["Fire", "Flying"],
 		baseStats: {hp: 75, atk: 95, def: 105, spa: 98, spd: 88, spe: 91},
 		abilities: {0: "Flame Body", 1: "Sand Veil", H: "Vital Spirit"},
 		heightm: 1.8,
@@ -39155,7 +39155,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	electrodeelectivire: {
-		num: 12405,
+		num: 12013,
 		name: "electrodeelectivire",
 		types: ["Electric"],
 		baseStats: {hp: 65, atk: 98, def: 68, spa: 85, spd: 81, spe: 113},
@@ -39166,7 +39166,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Mineral"],
 	},
 	electrodevaporeon: {
-		num: 12406,
+		num: 12014,
 		name: "electrodevaporeon",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 83, atk: 60, def: 63, spa: 90, spd: 85, spe: 93},
@@ -39177,7 +39177,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	electrodemuk: {
-		num: 12407,
+		num: 12015,
 		name: "electrodemuk",
 		types: ["Electric", "Poison"],
 		baseStats: {hp: 75, atk: 86, def: 73, spa: 75, spd: 86, spe: 83},
@@ -39188,7 +39188,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Mineral"],
 	},
 	electrodekangaskhan: {
-		num: 12408,
+		num: 12016,
 		name: "electrodekangaskhan",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 75, atk: 80, def: 76, spa: 66, spd: 80, spe: 110},
@@ -39199,7 +39199,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	electrodegyarados: {
-		num: 12409,
+		num: 12017,
 		name: "electrodegyarados",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 71, atk: 100, def: 76, spa: 73, spd: 86, spe: 104},
@@ -39210,7 +39210,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Mineral"],
 	},
 	electrodecharizard: {
-		num: 12410,
+		num: 12018,
 		name: "electrodecharizard",
 		types: ["Electric", "Fire"],
 		baseStats: {hp: 66, atk: 72, def: 75, spa: 89, spd: 81, spe: 116},
@@ -39221,9 +39221,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	electrodeaerodactyl: {
-		num: 12411,
+		num: 12019,
 		name: "electrodeaerodactyl",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 66, atk: 86, def: 66, spa: 73, spd: 78, spe: 136},
 		abilities: {0: "Soundproof", 1: "Pressure", H: "Aftermath"},
 		heightm: 1.5,
@@ -39232,9 +39232,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Mineral"],
 	},
 	electrodeparasect: {
-		num: 12412,
+		num: 12020,
 		name: "electrodeparasect",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Grass"],
 		baseStats: {hp: 60, atk: 80, def: 76, spa: 73, spd: 80, spe: 70},
 		abilities: {0: "Soundproof", 1: "Dry Skin", H: "Aftermath"},
 		heightm: 1.1,
@@ -39243,9 +39243,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	electrodeprobopass: {
-		num: 12413,
+		num: 12021,
 		name: "electrodeprobopass",
-		types: ["Electric", "Rock"],
+		types: ["Electric", "Steel"],
 		baseStats: {hp: 60, atk: 53, def: 120, spa: 78, spd: 103, spe: 76},
 		abilities: {0: "Soundproof", 1: "Magnet Pull", H: "Aftermath"},
 		heightm: 1.2999999999999998,
@@ -39254,9 +39254,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	electrodepawniard: {
-		num: 12414,
+		num: 12022,
 		name: "electrodepawniard",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Ghost"],
 		baseStats: {hp: 60, atk: 110, def: 56, spa: 100, spd: 70, spe: 90},
 		abilities: {0: "Soundproof", 1: "Stance Change", H: "Aftermath"},
 		heightm: 1.45,
@@ -39265,7 +39265,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Mineral"],
 	},
 	electrodedunsparce: {
-		num: 12415,
+		num: 12023,
 		name: "electrodedunsparce",
 		types: ["Electric", "Normal"],
 		baseStats: {hp: 73, atk: 63, def: 70, spa: 75, spd: 75, spe: 80},
@@ -39276,7 +39276,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	electrodevenusaur: {
-		num: 12416,
+		num: 12024,
 		name: "electrodevenusaur",
 		types: ["Electric", "Grass"],
 		baseStats: {hp: 66, atk: 71, def: 78, spa: 86, spd: 86, spe: 103},
@@ -39287,9 +39287,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	electrodebutterfree: {
-		num: 12417,
+		num: 12025,
 		name: "electrodebutterfree",
-		types: ["Electric", "Bug"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 60, atk: 46, def: 56, spa: 83, spd: 80, spe: 96},
 		abilities: {0: "Soundproof", 1: "Tinted Lens", H: "Aftermath"},
 		heightm: 1.15,
@@ -39298,7 +39298,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	venomothelectrode: {
-		num: 12418,
+		num: 12026,
 		name: "venomothelectrode",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 66, atk: 55, def: 66, spa: 86, spd: 76, spe: 130},
@@ -39309,7 +39309,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	butterfreeelectrode: {
-		num: 12419,
+		num: 12027,
 		name: "butterfreeelectrode",
 		types: ["Bug", "Electric"],
 		baseStats: {hp: 60, atk: 48, def: 63, spa: 86, spd: 80, spe: 123},
@@ -39320,7 +39320,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	gengarelectrode: {
-		num: 12420,
+		num: 12028,
 		name: "gengarelectrode",
 		types: ["Ghost", "Electric"],
 		baseStats: {hp: 60, atk: 55, def: 66, spa: 113, spd: 76, spe: 136},
@@ -39331,7 +39331,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	gengarbutterfree: {
-		num: 12421,
+		num: 12029,
 		name: "gengarbutterfree",
 		types: ["Ghost", "Flying"],
 		baseStats: {hp: 60, atk: 51, def: 53, spa: 116, spd: 76, spe: 83},
@@ -39342,7 +39342,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Amorphous"],
 	},
 	butterfreegengar: {
-		num: 12422,
+		num: 12030,
 		name: "butterfreegengar",
 		types: ["Bug", "Ghost"],
 		baseStats: {hp: 60, atk: 58, def: 56, spa: 103, spd: 78, spe: 96},
@@ -39353,7 +39353,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Bug"],
 	},
 	granbullgengar: {
-		num: 12423,
+		num: 12031,
 		name: "granbullgengar",
 		types: ["Fairy", "Ghost"],
 		baseStats: {hp: 80, atk: 83, def: 65, spa: 83, spd: 65, spe: 88},
@@ -39364,7 +39364,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	venomothgengar: {
-		num: 12424,
+		num: 12032,
 		name: "venomothgengar",
 		types: ["Bug", "Ghost"],
 		baseStats: {hp: 66, atk: 65, def: 60, spa: 103, spd: 75, spe: 103},
@@ -39375,7 +39375,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Bug"],
 	},
 	gengarvenomoth: {
-		num: 12425,
+		num: 12033,
 		name: "gengarvenomoth",
 		types: ["Ghost", "Poison"],
 		baseStats: {hp: 63, atk: 65, def: 60, spa: 116, spd: 75, spe: 96},
@@ -39386,7 +39386,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Amorphous"],
 	},
 	gengargranbull: {
-		num: 12426,
+		num: 12034,
 		name: "gengargranbull",
 		types: ["Ghost", "Fairy"],
 		baseStats: {hp: 70, atk: 101, def: 70, spa: 106, spd: 70, spe: 66},
@@ -39397,7 +39397,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	gengarkabutops: {
-		num: 12427,
+		num: 12035,
 		name: "gengarkabutops",
 		types: ["Ghost", "Water"],
 		baseStats: {hp: 60, atk: 98, def: 90, spa: 108, spd: 73, spe: 90},
@@ -39408,7 +39408,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Amorphous"],
 	},
 	electrodeespeon: {
-		num: 12428,
+		num: 12036,
 		name: "electrodeespeon",
 		types: ["Electric", "Psychic"],
 		baseStats: {hp: 61, atk: 60, def: 63, spa: 96, spd: 85, spe: 123},
@@ -39419,7 +39419,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	espeonelectrode: {
-		num: 12429,
+		num: 12037,
 		name: "espeonelectrode",
 		types: ["Psychic", "Electric"],
 		baseStats: {hp: 63, atk: 55, def: 66, spa: 113, spd: 90, spe: 136},
@@ -39430,7 +39430,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Field"],
 	},
 	espeondarkrai: {
-		num: 12430,
+		num: 12038,
 		name: "espeondarkrai",
 		types: ["Psychic", "Dark"],
 		baseStats: {hp: 66, atk: 81, def: 80, spa: 131, spd: 93, spe: 120},
@@ -39441,7 +39441,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	darkraiespeon: {
-		num: 12431,
+		num: 12039,
 		name: "darkraiespeon",
 		types: ["Dark", "Psychic"],
 		baseStats: {hp: 68, atk: 73, def: 70, spa: 133, spd: 91, spe: 115},
@@ -39452,7 +39452,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	togekissweavile: {
-		num: 12432,
+		num: 12040,
 		name: "togekissweavile",
 		types: ["Fairy", "Ice"],
 		baseStats: {hp: 80, atk: 96, def: 75, spa: 95, spd: 105, spe: 110},
@@ -39463,7 +39463,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	weaviletogekiss: {
-		num: 12433,
+		num: 12041,
 		name: "weaviletogekiss",
 		types: ["Dark", "Flying"],
 		baseStats: {hp: 75, atk: 73, def: 85, spa: 70, spd: 95, spe: 95},
@@ -39474,9 +39474,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	weezingweavile: {
-		num: 12434,
+		num: 12042,
 		name: "weezingweavile",
-		types: ["Poison", "Dark"],
+		types: ["Poison", "Ice"],
 		baseStats: {hp: 66, atk: 110, def: 83, spa: 71, spd: 75, spe: 103},
 		abilities: {0: "Levitate", 1: "Pickpocket", H: "Stench"},
 		heightm: 1.15,
@@ -39485,7 +39485,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	weavileweezing: {
-		num: 12435,
+		num: 12043,
 		name: "weavileweezing",
 		types: ["Dark", "Poison"],
 		baseStats: {hp: 68, atk: 100, def: 101, spa: 58, spd: 80, spe: 81},
@@ -39496,7 +39496,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	weavilemuk: {
-		num: 12436,
+		num: 12044,
 		name: "weavilemuk",
 		types: ["Dark", "Poison"],
 		baseStats: {hp: 81, atk: 110, def: 71, spa: 51, spd: 90, spe: 75},
@@ -39507,9 +39507,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	mukweavile: {
-		num: 12437,
+		num: 12045,
 		name: "mukweavile",
-		types: ["Poison", "Dark"],
+		types: ["Poison", "Ice"],
 		baseStats: {hp: 93, atk: 115, def: 68, spa: 58, spd: 95, spe: 100},
 		abilities: {0: "Stench", 1: "Pickpocket", H: "Poison Touch"},
 		heightm: 1.15,
@@ -39518,7 +39518,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Amorphous"],
 	},
 	electivirescyther: {
-		num: 12438,
+		num: 12046,
 		name: "electivirescyther",
 		types: ["Electric", "Bug"],
 		baseStats: {hp: 73, atk: 114, def: 75, spa: 81, spd: 83, spe: 101},
@@ -39530,7 +39530,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	garchompscyther: {
-		num: 12439,
+		num: 12047,
 		name: "garchompscyther",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 95, atk: 116, def: 85, spa: 71, spd: 83, spe: 104},
@@ -39542,7 +39542,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	pidgeotseaking: {
-		num: 12440,
+		num: 12048,
 		name: "pidgeotseaking",
 		types: ["Flying", "Water"],
 		baseStats: {hp: 82, atk: 88, def: 68, spa: 68, spd: 73, spe: 79},
@@ -39553,7 +39553,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Flying"],
 	},
 	seakingpidgeot: {
-		num: 12441,
+		num: 12049,
 		name: "seakingpidgeot",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 84, def: 71, spa: 66, spd: 76, spe: 90},
@@ -39564,9 +39564,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingaerodactyl: {
-		num: 12442,
+		num: 12050,
 		name: "seakingaerodactyl",
-		types: ["Water", "Rock"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 80, atk: 100, def: 65, spa: 63, spd: 78, spe: 109},
 		abilities: {0: "Swift Swim", 1: "Pressure", H: "Lightning Rod"},
 		heightm: 1.55,
@@ -39575,7 +39575,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	aerodactylseaking: {
-		num: 12443,
+		num: 12051,
 		name: "aerodactylseaking",
 		types: ["Rock", "Water"],
 		baseStats: {hp: 80, atk: 96, def: 65, spa: 61, spd: 76, spe: 88},
@@ -39586,9 +39586,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Flying"],
 	},
 	gyaradosseaking: {
-		num: 12444,
+		num: 12052,
 		name: "gyaradosseaking",
-		types: ["Water"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 90, atk: 103, def: 69, spa: 61, spd: 93, spe: 72},
 		abilities: {0: "Intimidate", 1: "Water Veil", H: "Moxie"},
 		heightm: 3.9,
@@ -39597,7 +39597,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 2"],
 	},
 	seakinggyarados: {
-		num: 12445,
+		num: 12053,
 		name: "seakinggyarados",
 		types: ["Water"],
 		baseStats: {hp: 85, atk: 114, def: 74, spa: 63, spd: 86, spe: 76},
@@ -39608,7 +39608,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 2"],
 	},
 	seakingnoctowl: {
-		num: 12446,
+		num: 12054,
 		name: "seakingnoctowl",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 86, atk: 64, def: 55, spa: 72, spd: 85, spe: 69},
@@ -39619,7 +39619,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	noctowlseaking: {
-		num: 12447,
+		num: 12055,
 		name: "noctowlseaking",
 		types: ["Flying", "Water"],
 		baseStats: {hp: 93, atk: 78, def: 60, spa: 79, spd: 90, spe: 68},
@@ -39630,7 +39630,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Flying"],
 	},
 	azumarillrhyperior: {
-		num: 12448,
+		num: 12056,
 		name: "azumarillrhyperior",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 105, atk: 110, def: 113, spa: 58, spd: 71, spe: 43},
@@ -39641,7 +39641,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	azumarillsandslash: {
-		num: 12449,
+		num: 12057,
 		name: "azumarillsandslash",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 91, atk: 83, def: 100, spa: 55, spd: 71, spe: 60},
@@ -39652,7 +39652,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	azumarillmarowak: {
-		num: 12450,
+		num: 12058,
 		name: "azumarillmarowak",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 86, atk: 70, def: 100, spa: 56, spd: 80, spe: 46},
@@ -39663,9 +39663,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	azumarillkabutops: {
-		num: 12451,
+		num: 12059,
 		name: "azumarillkabutops",
-		types: ["Fairy", "Water"],
+		types: ["Water", "Rock"],
 		baseStats: {hp: 86, atk: 93, def: 96, spa: 61, spd: 76, spe: 70},
 		abilities: {0: "Thick Fat", 1: "Battle Armor", H: "Sap Sipper"},
 		heightm: 1.05,
@@ -39674,7 +39674,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	azumarillquagsire: {
-		num: 12452,
+		num: 12060,
 		name: "azumarillquagsire",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 98, atk: 73, def: 83, spa: 61, spd: 75, spe: 40},
@@ -39685,7 +39685,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	azumarillnidoqueen: {
-		num: 12453,
+		num: 12061,
 		name: "azumarillnidoqueen",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 96, atk: 78, def: 84, spa: 65, spd: 81, spe: 67},
@@ -39696,7 +39696,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	azumarillnidoking: {
-		num: 12454,
+		num: 12062,
 		name: "azumarillnidoking",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 93, atk: 84, def: 78, spa: 68, spd: 78, spe: 73},
@@ -39707,7 +39707,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	azumarilldugtrio: {
-		num: 12455,
+		num: 12063,
 		name: "azumarilldugtrio",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 78, atk: 83, def: 60, spa: 56, spd: 76, spe: 96},
@@ -39718,7 +39718,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	azumarillgolem: {
-		num: 12456,
+		num: 12064,
 		name: "azumarillgolem",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 93, atk: 96, def: 113, spa: 58, spd: 75, spe: 46},
@@ -39729,7 +39729,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	azumarillgliscor: {
-		num: 12457,
+		num: 12065,
 		name: "azumarillgliscor",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 91, atk: 80, def: 110, spa: 55, spd: 78, spe: 80},
@@ -39740,7 +39740,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	azumarillmamoswine: {
-		num: 12458,
+		num: 12066,
 		name: "azumarillmamoswine",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 103, atk: 103, def: 80, spa: 63, spd: 73, spe: 70},
@@ -39751,7 +39751,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	azumarillgarchomp: {
-		num: 12459,
+		num: 12067,
 		name: "azumarillgarchomp",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 102, atk: 103, def: 90, spa: 66, spd: 81, spe: 84},
@@ -39762,7 +39762,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	azumarillflygon: {
-		num: 12460,
+		num: 12068,
 		name: "azumarillflygon",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 93, atk: 83, def: 80, spa: 66, spd: 80, spe: 83},
@@ -39773,7 +39773,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	azumarillonix: {
-		num: 12461,
+		num: 12069,
 		name: "azumarillonix",
 		types: ["Water", "Rock"],
 		baseStats: {hp: 78, atk: 46, def: 133, spa: 50, spd: 68, spe: 63},
@@ -39785,7 +39785,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	azumarilllarvitar: {
-		num: 12462,
+		num: 12070,
 		name: "azumarilllarvitar",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 83, atk: 59, def: 60, spa: 55, spd: 70, spe: 44},
@@ -39797,7 +39797,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	azumarillpupitar: {
-		num: 12463,
+		num: 12071,
 		name: "azumarillpupitar",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 90, atk: 72, def: 73, spa: 61, spd: 76, spe: 50},
@@ -39809,7 +39809,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	azumarillswampert: {
-		num: 12464,
+		num: 12072,
 		name: "azumarillswampert",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 100, atk: 90, def: 86, spa: 68, spd: 83, spe: 56},
@@ -39820,9 +39820,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	seakingskarmory: {
-		num: 12465,
+		num: 12073,
 		name: "seakingskarmory",
-		types: ["Water", "Steel"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 75, atk: 84, def: 115, spa: 56, spd: 76, spe: 69},
 		abilities: {0: "Swift Swim", 1: "Sturdy", H: "Lightning Rod"},
 		heightm: 1.5,
@@ -39831,7 +39831,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingdragonite: {
-		num: 12466,
+		num: 12074,
 		name: "seakingdragonite",
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 83, atk: 120, def: 85, spa: 76, spd: 86, spe: 76},
@@ -39842,9 +39842,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	seakingtogekiss: {
-		num: 12467,
+		num: 12075,
 		name: "seakingtogekiss",
-		types: ["Water", "Fairy"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 64, def: 85, spa: 83, spd: 91, spe: 76},
 		abilities: {0: "Swift Swim", 1: "Serene Grace", H: "Lightning Rod"},
 		heightm: 1.4,
@@ -39853,7 +39853,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingmantine: {
-		num: 12468,
+		num: 12076,
 		name: "seakingmantine",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 57, def: 68, spa: 70, spd: 100, spe: 69},
@@ -39864,9 +39864,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	seakingyanmega: {
-		num: 12469,
+		num: 12077,
 		name: "seakingyanmega",
-		types: ["Water", "Bug"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 82, atk: 81, def: 79, spa: 82, spd: 72, spe: 86},
 		abilities: {0: "Swift Swim", 1: "Tinted Lens", H: "Lightning Rod"},
 		heightm: 1.6,
@@ -39875,9 +39875,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 2"],
 	},
 	seakingjumpluff: {
-		num: 12470,
+		num: 12078,
 		name: "seakingjumpluff",
-		types: ["Water", "Grass"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 78, atk: 67, def: 68, spa: 61, spd: 85, spe: 96},
 		abilities: {0: "Swift Swim", 1: "Leaf Guard", H: "Lightning Rod"},
 		heightm: 1.05,
@@ -39886,9 +39886,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Water 2"],
 	},
 	seakingcrobat: {
-		num: 12471,
+		num: 12079,
 		name: "seakingcrobat",
-		types: ["Water", "Poison"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 81, atk: 90, def: 75, spa: 66, spd: 80, spe: 109},
 		abilities: {0: "Swift Swim", 1: "Infiltrator", H: "Lightning Rod"},
 		heightm: 1.55,
@@ -39897,7 +39897,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingfearow: {
-		num: 12472,
+		num: 12080,
 		name: "seakingfearow",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 75, atk: 90, def: 65, spa: 63, spd: 73, spe: 89},
@@ -39908,7 +39908,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingfarfetchd: {
-		num: 12473,
+		num: 12081,
 		name: "seakingfarfetchd",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 70, atk: 90, def: 58, spa: 62, spd: 74, spe: 62},
@@ -39919,9 +39919,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingbutterfree: {
-		num: 12474,
+		num: 12082,
 		name: "seakingbutterfree",
-		types: ["Water", "Bug"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 73, atk: 60, def: 55, spa: 73, spd: 80, spe: 69},
 		abilities: {0: "Swift Swim", 1: "Tinted Lens", H: "Lightning Rod"},
 		heightm: 1.2000000000000002,
@@ -39930,7 +39930,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 2"],
 	},
 	seakingscyther: {
-		num: 12475,
+		num: 12083,
 		name: "seakingscyther",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 76, atk: 104, def: 75, spa: 61, spd: 80, spe: 92},
@@ -39942,9 +39942,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 2"],
 	},
 	seakinglugia: {
-		num: 12476,
+		num: 12084,
 		name: "seakinglugia",
-		types: ["Water", "Psychic"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 88, atk: 90, def: 108, spa: 73, spd: 104, spe: 96},
 		abilities: {0: "Swift Swim", 1: "Multiscale", H: "Lightning Rod"},
 		heightm: 3.25,
@@ -39953,7 +39953,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 2"],
 	},
 	seakingdodrio: {
-		num: 12477,
+		num: 12085,
 		name: "seakingdodrio",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 73, atk: 104, def: 68, spa: 63, spd: 73, spe: 96},
@@ -39964,9 +39964,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingxatu: {
-		num: 12478,
+		num: 12086,
 		name: "seakingxatu",
-		types: ["Water", "Psychic"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 75, atk: 80, def: 68, spa: 75, spd: 76, spe: 86},
 		abilities: {0: "Swift Swim", 1: "Early Bird", H: "Lightning Rod"},
 		heightm: 1.4,
@@ -39975,9 +39975,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakinghonchkrow: {
-		num: 12479,
+		num: 12087,
 		name: "seakinghonchkrow",
-		types: ["Water", "Dark"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 86, atk: 114, def: 56, spa: 78, spd: 70, spe: 70},
 		abilities: {0: "Swift Swim", 1: "Super Luck", H: "Lightning Rod"},
 		heightm: 1.1,
@@ -39986,9 +39986,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 2"],
 	},
 	seakingdelibird: {
-		num: 12480,
+		num: 12088,
 		name: "seakingdelibird",
-		types: ["Water", "Ice"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 68, atk: 67, def: 51, spa: 65, spd: 68, spe: 72},
 		abilities: {0: "Swift Swim", 1: "Hustle", H: "Lightning Rod"},
 		heightm: 1.1,
@@ -39997,7 +39997,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	cradilyflygon: {
-		num: 12481,
+		num: 12089,
 		name: "cradilyflygon",
 		types: ["Rock", "Dragon"],
 		baseStats: {hp: 84, atk: 93, def: 85, spa: 80, spd: 98, spe: 81},
@@ -40008,7 +40008,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 3"],
 	},
 	cradilyquagsire: {
-		num: 12482,
+		num: 12090,
 		name: "cradilyquagsire",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 89, atk: 83, def: 89, spa: 75, spd: 93, spe: 37},
@@ -40019,7 +40019,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	cradilyswampert: {
-		num: 12483,
+		num: 12091,
 		name: "cradilyswampert",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 90, atk: 100, def: 92, spa: 82, spd: 101, spe: 54},
@@ -40030,7 +40030,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	cradilymamoswine: {
-		num: 12484,
+		num: 12092,
 		name: "cradilymamoswine",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 94, atk: 113, def: 85, spa: 77, spd: 91, spe: 67},
@@ -40041,7 +40041,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	cradilynidoqueen: {
-		num: 12485,
+		num: 12093,
 		name: "cradilynidoqueen",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 87, atk: 88, def: 90, spa: 79, spd: 99, spe: 65},
@@ -40052,7 +40052,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 3"],
 	},
 	cradilynidoking: {
-		num: 12486,
+		num: 12094,
 		name: "cradilynidoking",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 84, atk: 95, def: 83, spa: 82, spd: 96, spe: 71},
@@ -40063,7 +40063,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	cradilygarchomp: {
-		num: 12487,
+		num: 12095,
 		name: "cradilygarchomp",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 93, atk: 113, def: 95, spa: 80, spd: 99, spe: 82},
@@ -40074,7 +40074,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	cradilygliscor: {
-		num: 12488,
+		num: 12096,
 		name: "cradilygliscor",
 		types: ["Rock", "Flying"],
 		baseStats: {hp: 82, atk: 90, def: 115, spa: 69, spd: 96, spe: 77},
@@ -40085,7 +40085,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 3"],
 	},
 	cradilytorterra: {
-		num: 12489,
+		num: 12097,
 		name: "cradilytorterra",
 		types: ["Rock", "Ground"],
 		baseStats: {hp: 89, atk: 99, def: 102, spa: 79, spd: 99, spe: 51},
@@ -40096,7 +40096,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	cradilyninetales: {
-		num: 12490,
+		num: 12098,
 		name: "cradilyninetales",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 81, atk: 77, def: 82, spa: 81, spd: 104, spe: 81},
@@ -40107,7 +40107,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	cradilyarcanine: {
-		num: 12491,
+		num: 12099,
 		name: "cradilyarcanine",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 87, atk: 100, def: 85, spa: 87, spd: 98, spe: 77},
@@ -40118,7 +40118,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	cradilymagmortar: {
-		num: 12492,
+		num: 12100,
 		name: "cradilymagmortar",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 82, atk: 90, def: 77, spa: 95, spd: 103, spe: 69},
@@ -40129,9 +40129,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Water 3"],
 	},
 	cradilymagcargo: {
-		num: 12493,
+		num: 12101,
 		name: "cradilymagcargo",
-		types: ["Grass", "Rock"],
+		types: ["Rock", "Fire"],
 		baseStats: {hp: 77, atk: 60, def: 112, spa: 84, spd: 98, spe: 34},
 		abilities: {0: "Suction Cups", 1: "Flame Body", H: "Storm Drain"},
 		heightm: 1.15,
@@ -40140,7 +40140,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Water 3"],
 	},
 	cradilycharizard: {
-		num: 12494,
+		num: 12102,
 		name: "cradilycharizard",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 83, atk: 83, def: 84, spa: 90, spd: 99, spe: 81},
@@ -40151,7 +40151,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 3"],
 	},
 	cradilyblaziken: {
-		num: 12495,
+		num: 12103,
 		name: "cradilyblaziken",
 		types: ["Rock", "Fighting"],
 		baseStats: {hp: 84, atk: 107, def: 79, spa: 90, spd: 94, spe: 67},
@@ -40162,7 +40162,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	cradilytyphlosion: {
-		num: 12496,
+		num: 12104,
 		name: "cradilytyphlosion",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 83, atk: 83, def: 84, spa: 90, spd: 99, spe: 81},
@@ -40173,7 +40173,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	cradilyflareon: {
-		num: 12497,
+		num: 12105,
 		name: "cradilyflareon",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 79, atk: 113, def: 72, spa: 85, spd: 108, spe: 57},
@@ -40184,7 +40184,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	cradilyinfernape: {
-		num: 12498,
+		num: 12106,
 		name: "cradilyinfernape",
 		types: ["Rock", "Fighting"],
 		baseStats: {hp: 82, atk: 96, def: 79, spa: 88, spd: 95, spe: 86},
@@ -40195,7 +40195,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	cradilymoltres: {
-		num: 12499,
+		num: 12107,
 		name: "cradilymoltres",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 87, atk: 93, def: 92, spa: 95, spd: 99, spe: 74},
@@ -40206,7 +40206,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 3"],
 	},
 	cradilyhooh: {
-		num: 12500,
+		num: 12108,
 		name: "cradilyhooh",
 		types: ["Rock", "Flying"],
 		baseStats: {hp: 92, atk: 113, def: 92, spa: 90, spd: 122, spe: 74},
@@ -40217,7 +40217,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 3"],
 	},
 	cradilyentei: {
-		num: 12501,
+		num: 12109,
 		name: "cradilyentei",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 95, atk: 103, def: 89, spa: 84, spd: 96, spe: 81},
@@ -40228,7 +40228,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 3"],
 	},
 	cradilyhoundoom: {
-		num: 12502,
+		num: 12110,
 		name: "cradilyhoundoom",
 		types: ["Rock", "Fire"],
 		baseStats: {hp: 82, atk: 87, def: 65, spa: 90, spd: 98, spe: 77},
@@ -40239,7 +40239,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	charizardbulbasaur: {
-		num: 12503,
+		num: 12111,
 		name: "charizardbulbasaur",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 67, atk: 60, def: 58, spa: 94, spd: 78, spe: 63},
@@ -40251,7 +40251,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	bulbasaurcharizard: {
-		num: 12504,
+		num: 12112,
 		name: "bulbasaurcharizard",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 56, atk: 72, def: 68, spa: 79, spd: 71, spe: 81},
@@ -40263,9 +40263,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	arboktyranitar: {
-		num: 12505,
+		num: 12113,
 		name: "arboktyranitar",
-		types: ["Poison", "Rock"],
+		types: ["Poison", "Dark"],
 		baseStats: {hp: 73, atk: 121, def: 96, spa: 75, spd: 86, spe: 67},
 		abilities: {0: "Intimidate", 1: "Sand Stream", H: "Unnerve"},
 		heightm: 2.75,
@@ -40274,7 +40274,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	raikougyarados: {
-		num: 12506,
+		num: 12114,
 		name: "raikougyarados",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 91, atk: 111, def: 77, spa: 96, spd: 100, spe: 92},
@@ -40285,7 +40285,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Undiscovered"],
 	},
 	noctowlquagsire: {
-		num: 12507,
+		num: 12115,
 		name: "noctowlquagsire",
 		types: ["Flying", "Ground"],
 		baseStats: {hp: 98, atk: 73, def: 73, spa: 79, spd: 85, spe: 46},
@@ -40296,9 +40296,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	darkraibastiodon: {
-		num: 12508,
+		num: 12116,
 		name: "darkraibastiodon",
-		types: ["Dark", "Rock"],
+		types: ["Dark", "Steel"],
 		baseStats: {hp: 66, atk: 64, def: 142, spa: 105, spd: 106, spe: 61},
 		abilities: {0: "Bad Dreams", 1: "Sturdy", H: ""},
 		heightm: 1.4,
@@ -40307,7 +40307,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	cradilygyarados: {
-		num: 12509,
+		num: 12117,
 		name: "cradilygyarados",
 		types: ["Rock", "Water"],
 		baseStats: {hp: 89, atk: 110, def: 85, spa: 74, spd: 104, spe: 68},
@@ -40318,9 +40318,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Water 3"],
 	},
 	smeargletorterra: {
-		num: 12510,
+		num: 12118,
 		name: "smeargletorterra",
-		types: ["Normal", "Grass"],
+		types: ["Normal", "Ground"],
 		baseStats: {hp: 68, atk: 79, def: 81, spa: 38, spd: 58, spe: 62},
 		abilities: {0: "Own Tempo", 1: "Shell Armor", H: "Moody"},
 		heightm: 1.7000000000000002,
@@ -40329,7 +40329,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	salamencewailord: {
-		num: 12511,
+		num: 12119,
 		name: "salamencewailord",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 120, atk: 105, def: 56, spa: 103, spd: 68, spe: 73},
@@ -40340,9 +40340,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	wailordmamoswine: {
-		num: 12512,
+		num: 12120,
 		name: "wailordmamoswine",
-		types: ["Water", "Ice"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 150, atk: 116, def: 68, spa: 83, spd: 50, spe: 73},
 		abilities: {0: "Water Veil", 1: "Snow Cloak", H: "Pressure"},
 		heightm: 8.5,
@@ -40351,7 +40351,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	jumpluffsudowoodo: {
-		num: 12513,
+		num: 12121,
 		name: "jumpluffsudowoodo",
 		types: ["Grass", "Rock"],
 		baseStats: {hp: 73, atk: 85, def: 100, spa: 46, spd: 85, spe: 56},
@@ -40362,7 +40362,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Fairy"],
 	},
 	hypnometagross: {
-		num: 12514,
+		num: 12122,
 		name: "hypnometagross",
 		types: ["Psychic", "Steel"],
 		baseStats: {hp: 83, atk: 114, def: 110, spa: 80, spd: 106, spe: 69},
@@ -40373,9 +40373,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Human-Like"],
 	},
 	hitmontopgarchomp: {
-		num: 12515,
+		num: 12123,
 		name: "hitmontopgarchomp",
-		types: ["Fighting", "Dragon"],
+		types: ["Fighting", "Ground"],
 		baseStats: {hp: 69, atk: 118, def: 95, spa: 50, spd: 101, spe: 91},
 		abilities: {0: "Intimidate", 1: "Rough Skin", H: "Steadfast"},
 		heightm: 1.65,
@@ -40384,9 +40384,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	electrodegliscor: {
-		num: 12516,
+		num: 12124,
 		name: "electrodegliscor",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 65, atk: 80, def: 106, spa: 68, spd: 78, spe: 113},
 		abilities: {0: "Soundproof", 1: "Sand Veil", H: "Aftermath"},
 		heightm: 1.6,
@@ -40395,7 +40395,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	venomothgarchomp: {
-		num: 12517,
+		num: 12125,
 		name: "venomothgarchomp",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 82, atk: 108, def: 83, spa: 86, spd: 78, spe: 98},
@@ -40406,7 +40406,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	garchompvenomoth: {
-		num: 12518,
+		num: 12126,
 		name: "garchompvenomoth",
 		types: ["Dragon", "Poison"],
 		baseStats: {hp: 95, atk: 86, def: 71, spa: 83, spd: 81, spe: 94},
@@ -40417,7 +40417,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	garchomphitmonlee: {
-		num: 12519,
+		num: 12127,
 		name: "garchomphitmonlee",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 88, atk: 123, def: 67, spa: 65, spd: 93, spe: 92},
@@ -40428,9 +40428,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	voltorbgliscor: {
-		num: 12520,
+		num: 12128,
 		name: "voltorbgliscor",
-		types: ["Electric", "Ground"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 51, atk: 73, def: 100, spa: 51, spd: 61, spe: 96},
 		abilities: {0: "Soundproof", 1: "Sand Veil", H: "Aftermath"},
 		heightm: 1.25,
@@ -40440,9 +40440,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	hitmonleegarchomp: {
-		num: 12521,
+		num: 12129,
 		name: "hitmonleegarchomp",
-		types: ["Fighting", "Dragon"],
+		types: ["Fighting", "Ground"],
 		baseStats: {hp: 69, atk: 126, def: 81, spa: 50, spd: 101, spe: 97},
 		abilities: {0: "Limber", 1: "Rough Skin", H: "Unburden"},
 		heightm: 1.7,
@@ -40451,7 +40451,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	remoraidmoltres: {
-		num: 12522,
+		num: 12130,
 		name: "remoraidmoltres",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 53, atk: 88, def: 71, spa: 85, spd: 51, spe: 81},
@@ -40463,9 +40463,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	unownparasect: {
-		num: 12523,
+		num: 12131,
 		name: "unownparasect",
-		types: ["Psychic", "Bug"],
+		types: ["Psychic", "Grass"],
 		baseStats: {hp: 52, atk: 87, def: 69, spa: 68, spd: 58, spe: 36},
 		abilities: {0: "Levitate", 1: "Dry Skin", H: "Damp"},
 		heightm: 0.75,
@@ -40474,9 +40474,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	remoraidgarchomp: {
-		num: 12524,
+		num: 12132,
 		name: "remoraidgarchomp",
-		types: ["Water", "Dragon"],
+		types: ["Water", "Ground"],
 		baseStats: {hp: 59, atk: 108, def: 75, spa: 70, spd: 51, spe: 89},
 		abilities: {0: "Hustle", 1: "Rough Skin", H: "Moody"},
 		heightm: 1.25,
@@ -40486,9 +40486,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	unowndelibird: {
-		num: 12525,
+		num: 12133,
 		name: "unowndelibird",
-		types: ["Psychic", "Ice"],
+		types: ["Psychic", "Flying"],
 		baseStats: {hp: 47, atk: 60, def: 46, spa: 69, spd: 47, spe: 66},
 		abilities: {0: "Levitate", 1: "Hustle", H: "Insomnia"},
 		heightm: 0.7,
@@ -40497,7 +40497,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Undiscovered"],
 	},
 	skarmorygarchomp: {
-		num: 12526,
+		num: 12134,
 		name: "skarmorygarchomp",
 		types: ["Steel", "Ground"],
 		baseStats: {hp: 79, atk: 113, def: 110, spa: 53, spd: 75, spe: 91},
@@ -40508,7 +40508,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Flying"],
 	},
 	garchompremoraid: {
-		num: 12527,
+		num: 12135,
 		name: "garchompremoraid",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 83, atk: 86, def: 55, spa: 75, spd: 68, spe: 77},
@@ -40520,7 +40520,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Monster"],
 	},
 	garchompskarmory: {
-		num: 12528,
+		num: 12136,
 		name: "garchompskarmory",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 93, atk: 96, def: 125, spa: 66, spd: 80, spe: 80},
@@ -40531,7 +40531,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Monster"],
 	},
 	delibirdunown: {
-		num: 12529,
+		num: 12137,
 		name: "delibirdunown",
 		types: ["Ice", "Psychic"],
 		baseStats: {hp: 46, atk: 66, def: 47, spa: 67, spd: 46, spe: 57},
@@ -40542,7 +40542,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Water 1"],
 	},
 	smoochumgarchomp: {
-		num: 12530,
+		num: 12138,
 		name: "smoochumgarchomp",
 		types: ["Ice", "Ground"],
 		baseStats: {hp: 66, atk: 96, def: 68, spa: 83, spd: 71, spe: 89},
@@ -40554,7 +40554,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Undiscovered"],
 	},
 	garchompmonferno: {
-		num: 12531,
+		num: 12139,
 		name: "garchompmonferno",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 93, atk: 95, def: 66, spa: 79, spd: 74, spe: 88},
@@ -40566,9 +40566,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	magmortargarchomp: {
-		num: 12532,
+		num: 12140,
 		name: "magmortargarchomp",
-		types: ["Fire", "Dragon"],
+		types: ["Fire", "Ground"],
 		baseStats: {hp: 86, atk: 118, def: 85, spa: 110, spd: 91, spe: 95},
 		abilities: {0: "Flame Body", 1: "Rough Skin", H: "Vital Spirit"},
 		heightm: 1.75,
@@ -40577,7 +40577,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Human-Like"],
 	},
 	garchompmagmortar: {
-		num: 12533,
+		num: 12141,
 		name: "garchompmagmortar",
 		types: ["Dragon", "Fire"],
 		baseStats: {hp: 97, atk: 106, def: 76, spa: 95, spd: 88, spe: 89},
@@ -40588,7 +40588,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Monster"],
 	},
 	mamoswinegarchomp: {
-		num: 12534,
+		num: 12142,
 		name: "mamoswinegarchomp",
 		types: ["Ice", "Ground"],
 		baseStats: {hp: 109, atk: 130, def: 90, spa: 73, spd: 68, spe: 94},
@@ -40599,7 +40599,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	monfernogarchomp: {
-		num: 12535,
+		num: 12143,
 		name: "monfernogarchomp",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 78, atk: 112, def: 80, spa: 78, spd: 63, spe: 95},
@@ -40611,7 +40611,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	garchompinfernape: {
-		num: 12536,
+		num: 12144,
 		name: "garchompinfernape",
 		types: ["Dragon", "Fighting"],
 		baseStats: {hp: 97, atk: 112, def: 79, spa: 88, spd: 80, spe: 106},
@@ -40622,9 +40622,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	spiritombdusknoir: {
-		num: 12537,
+		num: 12145,
 		name: "spiritombdusknoir",
-		types: ["Dark", "Ghost"],
+		types: ["Ghost", "Dark"],
 		baseStats: {hp: 48, atk: 97, def: 126, spa: 83, spd: 117, spe: 41},
 		abilities: {0: "Pressure", 1: "Frisk", H: "Infiltrator"},
 		heightm: 1.6,
@@ -40633,7 +40633,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Amorphous"],
 	},
 	infernapegarchomp: {
-		num: 12538,
+		num: 12146,
 		name: "infernapegarchomp",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 86, atk: 121, def: 87, spa: 96, spd: 75, spe: 104},
@@ -40644,9 +40644,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	spiritombdusclops: {
-		num: 12539,
+		num: 12147,
 		name: "spiritombdusclops",
-		types: ["Dark", "Ghost"],
+		types: ["Ghost", "Dark"],
 		baseStats: {hp: 46, atk: 77, def: 122, spa: 81, spd: 115, spe: 28},
 		abilities: {0: "Pressure", 1: "Frisk", H: "Infiltrator"},
 		heightm: 1.3,
@@ -40656,7 +40656,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Amorphous"],
 	},
 	dunsparcegranbull: {
-		num: 12540,
+		num: 12148,
 		name: "dunsparcegranbull",
 		types: ["Normal", "Fairy"],
 		baseStats: {hp: 96, atk: 103, def: 73, spa: 63, spd: 63, spe: 45},
@@ -40667,7 +40667,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	dunsparceelectivire: {
-		num: 12541,
+		num: 12149,
 		name: "dunsparceelectivire",
 		types: ["Normal", "Electric"],
 		baseStats: {hp: 91, atk: 105, def: 68, spa: 75, spd: 71, spe: 78},
@@ -40678,7 +40678,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Field"],
 	},
 	sunfloramismagius: {
-		num: 12542,
+		num: 12150,
 		name: "sunfloramismagius",
 		types: ["Grass", "Ghost"],
 		baseStats: {hp: 70, atk: 65, def: 58, spa: 105, spd: 91, spe: 80},
@@ -40689,7 +40689,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Grass"],
 	},
 	crobatkingler: {
-		num: 12543,
+		num: 12151,
 		name: "crobatkingler",
 		types: ["Poison", "Water"],
 		baseStats: {hp: 75, atk: 116, def: 103, spa: 63, spd: 70, spe: 93},
@@ -40700,7 +40700,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Flying"],
 	},
 	flareongranbull: {
-		num: 12544,
+		num: 12152,
 		name: "flareongranbull",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 73, atk: 123, def: 70, spa: 83, spd: 93, spe: 51},
@@ -40711,7 +40711,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	victreebelflareon: {
-		num: 12545,
+		num: 12153,
 		name: "victreebelflareon",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 75, atk: 121, def: 61, spa: 98, spd: 83, spe: 66},
@@ -40722,7 +40722,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	pinsirdugtrio: {
-		num: 12546,
+		num: 12154,
 		name: "pinsirdugtrio",
 		types: ["Bug", "Ground"],
 		baseStats: {hp: 55, atk: 108, def: 66, spa: 53, spd: 70, spe: 108},
@@ -40733,7 +40733,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	starmiedugtrio: {
-		num: 12547,
+		num: 12155,
 		name: "starmiedugtrio",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 51, atk: 91, def: 61, spa: 83, spd: 80, spe: 118},
@@ -40744,9 +40744,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	dittocorsola: {
-		num: 12548,
+		num: 12156,
 		name: "dittocorsola",
-		types: ["Normal", "Water"],
+		types: ["Normal", "Rock"],
 		baseStats: {hp: 53, atk: 52, def: 79, spa: 53, spd: 63, spe: 39},
 		abilities: {0: "Limber", 1: "Natural Cure", H: "Imposter"},
 		heightm: 0.44999999999999996,
@@ -40755,9 +40755,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Ditto"],
 	},
 	hypnoqwilfish: {
-		num: 12549,
+		num: 12157,
 		name: "hypnoqwilfish",
-		types: ["Psychic", "Water"],
+		types: ["Psychic", "Poison"],
 		baseStats: {hp: 78, atk: 87, def: 80, spa: 67, spd: 95, spe: 79},
 		abilities: {0: "Insomnia", 1: "Swift Swim", H: "Inner Focus"},
 		heightm: 1.05,
@@ -40766,7 +40766,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 2", "Human-Like"],
 	},
 	butterfreehitmonlee: {
-		num: 12550,
+		num: 12158,
 		name: "butterfreehitmonlee",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 56, atk: 95, def: 52, spa: 71, spd: 90, spe: 81},
@@ -40777,7 +40777,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	tentacrueldonphan: {
-		num: 12551,
+		num: 12159,
 		name: "tentacrueldonphan",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 83, atk: 103, def: 101, spa: 73, spd: 100, spe: 66},
@@ -40788,7 +40788,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 3"],
 	},
 	noctowlhypno: {
-		num: 12552,
+		num: 12160,
 		name: "noctowlhypno",
 		types: ["Flying", "Psychic"],
 		baseStats: {hp: 95, atk: 65, def: 63, spa: 81, spd: 102, spe: 68},
@@ -40799,9 +40799,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Flying"],
 	},
 	ninetalesexeggutor: {
-		num: 12553,
+		num: 12161,
 		name: "ninetalesexeggutor",
-		types: ["Fire", "Grass"],
+		types: ["Fire", "Psychic"],
 		baseStats: {hp: 80, atk: 88, def: 81, spa: 95, spd: 91, spe: 70},
 		abilities: {0: "Flash Fire", 1: "Harvest", H: "Drought"},
 		heightm: 1.55,
@@ -40810,7 +40810,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Field"],
 	},
 	exeggutorninetales: {
-		num: 12554,
+		num: 12162,
 		name: "exeggutorninetales",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 87, atk: 82, def: 78, spa: 110, spd: 83, spe: 85},
@@ -40821,7 +40821,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Grass"],
 	},
 	meganiumarcanine: {
-		num: 12555,
+		num: 12163,
 		name: "meganiumarcanine",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 83, atk: 100, def: 86, spa: 88, spd: 93, spe: 90},
@@ -40832,7 +40832,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Monster"],
 	},
 	arcaninemeganium: {
-		num: 12556,
+		num: 12164,
 		name: "arcaninemeganium",
 		types: ["Fire", "Grass"],
 		baseStats: {hp: 86, atk: 91, def: 93, spa: 94, spd: 86, spe: 85},
@@ -40843,7 +40843,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Field"],
 	},
 	raticatemilotic: {
-		num: 12557,
+		num: 12165,
 		name: "raticatemilotic",
 		types: ["Normal", "Water"],
 		baseStats: {hp: 68, atk: 67, def: 72, spa: 66, spd: 88, spe: 86},
@@ -40854,7 +40854,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	raticatesandslash: {
-		num: 12558,
+		num: 12166,
 		name: "raticatesandslash",
 		types: ["Normal", "Ground"],
 		baseStats: {hp: 61, atk: 93, def: 93, spa: 48, spd: 65, spe: 75},
@@ -40865,9 +40865,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raticateaerodactyl: {
-		num: 12559,
+		num: 12167,
 		name: "raticateaerodactyl",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 63, atk: 97, def: 63, spa: 53, spd: 71, spe: 119},
 		abilities: {0: "Run Away", 1: "Pressure", H: "Hustle"},
 		heightm: 1.25,
@@ -40876,7 +40876,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	raticatearbok: {
-		num: 12560,
+		num: 12168,
 		name: "raticatearbok",
 		types: ["Normal", "Poison"],
 		baseStats: {hp: 56, atk: 90, def: 66, spa: 55, spd: 73, spe: 85},
@@ -40887,7 +40887,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	raticatedunsparce: {
-		num: 12561,
+		num: 12169,
 		name: "raticatedunsparce",
 		types: ["Normal"],
 		baseStats: {hp: 70, atk: 73, def: 66, spa: 55, spd: 68, spe: 62},
@@ -40898,9 +40898,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	corsolamilotic: {
-		num: 12562,
+		num: 12170,
 		name: "corsolamilotic",
-		types: ["Rock", "Water"],
+		types: ["Water", "Rock"],
 		baseStats: {hp: 75, atk: 58, def: 84, spa: 76, spd: 105, spe: 65},
 		abilities: {0: "Hustle", 1: "Competitive", H: "Regenerator"},
 		heightm: 3.4,
@@ -40909,7 +40909,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	corsolaarbok: {
-		num: 12563,
+		num: 12171,
 		name: "corsolaarbok",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 63, atk: 81, def: 77, spa: 65, spd: 89, spe: 65},
@@ -40920,7 +40920,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	corsolasandslash: {
-		num: 12564,
+		num: 12172,
 		name: "corsolasandslash",
 		types: ["Water", "Ground"],
 		baseStats: {hp: 68, atk: 85, def: 105, spa: 58, spd: 81, spe: 55},
@@ -40931,7 +40931,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	corsoladunsparce: {
-		num: 12565,
+		num: 12173,
 		name: "corsoladunsparce",
 		types: ["Water", "Normal"],
 		baseStats: {hp: 76, atk: 65, def: 78, spa: 65, spd: 85, spe: 41},
@@ -40942,7 +40942,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	corsolaaerodactyl: {
-		num: 12566,
+		num: 12174,
 		name: "corsolaaerodactyl",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 70, atk: 88, def: 75, spa: 63, spd: 88, spe: 98},
@@ -40953,9 +40953,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	raticateweavile: {
-		num: 12567,
+		num: 12175,
 		name: "raticateweavile",
-		types: ["Normal", "Dark"],
+		types: ["Normal", "Ice"],
 		baseStats: {hp: 60, atk: 107, def: 63, spa: 48, spd: 75, spe: 115},
 		abilities: {0: "Run Away", 1: "Pickpocket", H: "Hustle"},
 		heightm: 0.9,
@@ -40964,7 +40964,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Field"],
 	},
 	corsolaweavile: {
-		num: 12568,
+		num: 12176,
 		name: "corsolaweavile",
 		types: ["Water", "Ice"],
 		baseStats: {hp: 66, atk: 98, def: 75, spa: 58, spd: 91, spe: 95},
@@ -40975,7 +40975,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	gliscorlapras: {
-		num: 12569,
+		num: 12177,
 		name: "gliscorlapras",
 		types: ["Ground", "Ice"],
 		baseStats: {hp: 93, atk: 88, def: 95, spa: 58, spd: 81, spe: 71},
@@ -40986,7 +40986,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	gliscorsnorlax: {
-		num: 12570,
+		num: 12178,
 		name: "gliscorsnorlax",
 		types: ["Ground", "Normal"],
 		baseStats: {hp: 103, atk: 105, def: 85, spa: 51, spd: 86, spe: 51},
@@ -40997,7 +40997,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	gliscortangrowth: {
-		num: 12571,
+		num: 12179,
 		name: "gliscortangrowth",
 		types: ["Ground", "Grass"],
 		baseStats: {hp: 83, atk: 98, def: 125, spa: 66, spd: 66, spe: 65},
@@ -41008,7 +41008,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Bug"],
 	},
 	gliscorrhyperior: {
-		num: 12572,
+		num: 12180,
 		name: "gliscorrhyperior",
 		types: ["Ground", "Rock"],
 		baseStats: {hp: 88, atk: 125, def: 128, spa: 48, spd: 68, spe: 58},
@@ -41019,7 +41019,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	shucklesceptile: {
-		num: 12573,
+		num: 12181,
 		name: "shucklesceptile",
 		types: ["Bug", "Grass"],
 		baseStats: {hp: 36, atk: 60, def: 120, spa: 41, spd: 181, spe: 81},
@@ -41030,9 +41030,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	raticatearmaldo: {
-		num: 12574,
+		num: 12182,
 		name: "raticatearmaldo",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Bug"],
 		baseStats: {hp: 61, atk: 110, def: 86, spa: 56, spd: 73, spe: 62},
 		abilities: {0: "Run Away", 1: "Swift Swim", H: "Hustle"},
 		heightm: 1.1,
@@ -41041,9 +41041,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 3", "Field"],
 	},
 	raticateskarmory: {
-		num: 12575,
+		num: 12183,
 		name: "raticateskarmory",
-		types: ["Normal", "Steel"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 58, atk: 80, def: 113, spa: 46, spd: 70, spe: 79},
 		abilities: {0: "Run Away", 1: "Sturdy", H: "Hustle"},
 		heightm: 1.2,
@@ -41052,9 +41052,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Field"],
 	},
 	raticatekabutops: {
-		num: 12576,
+		num: 12184,
 		name: "raticatekabutops",
-		types: ["Normal", "Rock"],
+		types: ["Normal", "Water"],
 		baseStats: {hp: 56, atk: 103, def: 90, spa: 55, spd: 70, spe: 85},
 		abilities: {0: "Run Away", 1: "Battle Armor", H: "Hustle"},
 		heightm: 1.0,
@@ -41063,7 +41063,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shuckleursaring: {
-		num: 12577,
+		num: 12185,
 		name: "shuckleursaring",
 		types: ["Bug", "Normal"],
 		baseStats: {hp: 43, atk: 90, def: 126, spa: 31, spd: 178, spe: 38},
@@ -41074,9 +41074,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	shucklepinsir: {
-		num: 12578,
+		num: 12186,
 		name: "shucklepinsir",
-		types: ["Rock", "Bug"],
+		types: ["Bug", "Rock"],
 		baseStats: {hp: 35, atk: 86, def: 143, spa: 25, spd: 176, spe: 58},
 		abilities: {0: "Sturdy", 1: "Mold Breaker", H: "Contrary"},
 		heightm: 1.05,
@@ -41085,7 +41085,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	shucklehitmontop: {
-		num: 12579,
+		num: 12187,
 		name: "shucklehitmontop",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 30, atk: 66, def: 140, spa: 18, spd: 190, spe: 48},
@@ -41096,7 +41096,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	shucklehitmonchan: {
-		num: 12580,
+		num: 12188,
 		name: "shucklehitmonchan",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 30, atk: 73, def: 129, spa: 18, spd: 190, spe: 52},
@@ -41107,7 +41107,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	shucklehitmonlee: {
-		num: 12581,
+		num: 12189,
 		name: "shucklehitmonlee",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 30, atk: 83, def: 112, spa: 18, spd: 190, spe: 59},
@@ -41118,7 +41118,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	shuckleheracross: {
-		num: 12582,
+		num: 12190,
 		name: "shuckleheracross",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 40, atk: 86, def: 126, spa: 20, spd: 185, spe: 58},
@@ -41129,7 +41129,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	dragonitemetagross: {
-		num: 12583,
+		num: 12191,
 		name: "dragonitemetagross",
 		types: ["Dragon", "Psychic"],
 		baseStats: {hp: 87, atk: 134, def: 118, spa: 98, spd: 96, spe: 73},
@@ -41140,7 +41140,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	metagrossdragonite: {
-		num: 12584,
+		num: 12192,
 		name: "metagrossdragonite",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 83, atk: 134, def: 106, spa: 96, spd: 93, spe: 76},
@@ -41151,7 +41151,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Mineral"],
 	},
 	doubladedragonite: {
-		num: 12585,
+		num: 12193,
 		name: "doubladedragonite",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 69, atk: 126, def: 113, spa: 63, spd: 66, spe: 65},
@@ -41163,7 +41163,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Mineral"],
 	},
 	doubladezekrom: {
-		num: 12586,
+		num: 12194,
 		name: "doubladezekrom",
 		types: ["Steel", "Electric"],
 		baseStats: {hp: 72, atk: 136, def: 130, spa: 70, spd: 66, spe: 71},
@@ -41175,7 +41175,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	zekromscizor: {
-		num: 12587,
+		num: 12195,
 		name: "zekromscizor",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 90, atk: 136, def: 106, spa: 98, spd: 93, spe: 73},
@@ -41186,7 +41186,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	rayquazascizor: {
-		num: 12588,
+		num: 12196,
 		name: "rayquazascizor",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 93, atk: 136, def: 96, spa: 118, spd: 86, spe: 75},
@@ -41197,7 +41197,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	salamenceklinklang: {
-		num: 12589,
+		num: 12197,
 		name: "salamenceklinklang",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 83, atk: 111, def: 103, spa: 96, spd: 81, spe: 93},
@@ -41208,7 +41208,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Dragon"],
 	},
 	rayquazaklinklang: {
-		num: 12590,
+		num: 12198,
 		name: "rayquazaklinklang",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 90, atk: 116, def: 106, spa: 123, spd: 88, spe: 91},
@@ -41219,7 +41219,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	garchompklinklang: {
-		num: 12591,
+		num: 12199,
 		name: "garchompklinklang",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 92, atk: 110, def: 108, spa: 76, spd: 85, spe: 94},
@@ -41230,7 +41230,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Monster"],
 	},
 	zekromklinklang: {
-		num: 12592,
+		num: 12200,
 		name: "zekromklinklang",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 86, atk: 116, def: 116, spa: 103, spd: 95, spe: 90},
@@ -41241,7 +41241,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	scizordragonite: {
-		num: 12593,
+		num: 12201,
 		name: "scizordragonite",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 77, atk: 132, def: 96, spa: 70, spd: 86, spe: 75},
@@ -41252,7 +41252,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	scizorrayquaza: {
-		num: 12594,
+		num: 12202,
 		name: "scizorrayquaza",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 81, atk: 143, def: 93, spa: 86, spd: 83, spe: 85},
@@ -41263,7 +41263,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	scizordialga: {
-		num: 12595,
+		num: 12203,
 		name: "scizordialga",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 80, atk: 123, def: 113, spa: 86, spd: 86, spe: 81},
@@ -41274,7 +41274,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	scizorpalkia: {
-		num: 12596,
+		num: 12204,
 		name: "scizorpalkia",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 76, atk: 123, def: 100, spa: 86, spd: 93, spe: 88},
@@ -41285,7 +41285,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	scizorgiratina: {
-		num: 12597,
+		num: 12205,
 		name: "scizorgiratina",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 96, atk: 110, def: 113, spa: 70, spd: 93, spe: 81},
@@ -41296,7 +41296,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	scizorcrobat: {
-		num: 12598,
+		num: 12206,
 		name: "scizorcrobat",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 75, atk: 103, def: 86, spa: 60, spd: 80, spe: 108},
@@ -41307,7 +41307,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Bug"],
 	},
 	gliscorzapdos: {
-		num: 12599,
+		num: 12207,
 		name: "gliscorzapdos",
 		types: ["Ground", "Electric"],
 		baseStats: {hp: 80, atk: 91, def: 98, spa: 71, spd: 80, spe: 98},
@@ -41318,7 +41318,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	gliscordragonite: {
-		num: 12600,
+		num: 12208,
 		name: "gliscordragonite",
 		types: ["Ground", "Dragon"],
 		baseStats: {hp: 80, atk: 121, def: 105, spa: 63, spd: 83, spe: 85},
@@ -41329,7 +41329,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	dragonitegliscor: {
-		num: 12601,
+		num: 12209,
 		name: "dragonitegliscor",
 		types: ["Dragon", "Flying"],
 		baseStats: {hp: 85, atk: 108, def: 115, spa: 81, spd: 91, spe: 90},
@@ -41340,7 +41340,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	dragoniteklinklang: {
-		num: 12602,
+		num: 12210,
 		name: "dragoniteklinklang",
 		types: ["Dragon", "Steel"],
 		baseStats: {hp: 80, atk: 111, def: 108, spa: 90, spd: 95, spe: 86},
@@ -41351,7 +41351,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Water 1"],
 	},
 	klinklangdragonite: {
-		num: 12603,
+		num: 12211,
 		name: "klinklangdragonite",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 70, atk: 122, def: 101, spa: 80, spd: 90, spe: 83},
@@ -41362,7 +41362,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Mineral"],
 	},
 	slowkingbellossom: {
-		num: 12604,
+		num: 12212,
 		name: "slowkingbellossom",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 88, atk: 78, def: 90, spa: 96, spd: 106, spe: 43},
@@ -41373,7 +41373,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Monster"],
 	},
 	slowkingvenusaur: {
-		num: 12605,
+		num: 12213,
 		name: "slowkingvenusaur",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 90, atk: 79, def: 82, spa: 100, spd: 106, spe: 63},
@@ -41384,7 +41384,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	aerodactylpinsir: {
-		num: 12606,
+		num: 12214,
 		name: "aerodactylpinsir",
 		types: ["Rock", "Bug"],
 		baseStats: {hp: 75, atk: 118, def: 88, spa: 58, spd: 73, spe: 100},
@@ -41395,7 +41395,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	slowkingcelebi: {
-		num: 12607,
+		num: 12215,
 		name: "slowkingcelebi",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 96, atk: 91, def: 93, spa: 100, spd: 106, spe: 76},
@@ -41406,7 +41406,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	charizardpinsir: {
-		num: 12608,
+		num: 12216,
 		name: "charizardpinsir",
 		types: ["Fire", "Bug"],
 		baseStats: {hp: 73, atk: 111, def: 92, spa: 91, spd: 80, spe: 90},
@@ -41417,7 +41417,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	sceptilepinsir: {
-		num: 12609,
+		num: 12217,
 		name: "sceptilepinsir",
 		types: ["Grass", "Bug"],
 		baseStats: {hp: 68, atk: 111, def: 88, spa: 88, spd: 80, spe: 96},
@@ -41428,7 +41428,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	kabutopspinsir: {
-		num: 12610,
+		num: 12218,
 		name: "kabutopspinsir",
 		types: ["Rock", "Bug"],
 		baseStats: {hp: 61, atk: 121, def: 101, spa: 61, spd: 70, spe: 83},
@@ -41439,7 +41439,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	slowkingtangrowth: {
-		num: 12611,
+		num: 12219,
 		name: "slowkingtangrowth",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 96, atk: 91, def: 110, spa: 103, spd: 90, spe: 43},
@@ -41450,7 +41450,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Monster"],
 	},
 	pawniardpinsir: {
-		num: 12612,
+		num: 12220,
 		name: "pawniardpinsir",
 		types: ["Steel", "Bug"],
 		baseStats: {hp: 61, atk: 130, def: 83, spa: 111, spd: 56, spe: 76},
@@ -41461,7 +41461,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	dragonitepinsir: {
-		num: 12613,
+		num: 12221,
 		name: "dragonitepinsir",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 82, atk: 128, def: 98, spa: 85, spd: 90, spe: 83},
@@ -41472,7 +41472,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	dragonairpinsir: {
-		num: 12614,
+		num: 12222,
 		name: "dragonairpinsir",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 62, atk: 111, def: 88, spa: 65, spd: 70, spe: 80},
@@ -41484,7 +41484,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	slowkingtangela: {
-		num: 12615,
+		num: 12223,
 		name: "slowkingtangela",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 85, atk: 61, def: 103, spa: 100, spd: 86, spe: 50},
@@ -41496,7 +41496,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Monster"],
 	},
 	nidokingpinsir: {
-		num: 12616,
+		num: 12224,
 		name: "nidokingpinsir",
 		types: ["Poison", "Bug"],
 		baseStats: {hp: 75, atk: 117, def: 92, spa: 75, spd: 73, spe: 85},
@@ -41507,7 +41507,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	onixpinsir: {
-		num: 12617,
+		num: 12225,
 		name: "onixpinsir",
 		types: ["Rock", "Bug"],
 		baseStats: {hp: 45, atk: 98, def: 120, spa: 38, spd: 53, spe: 80},
@@ -41519,7 +41519,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	steelixpinsir: {
-		num: 12618,
+		num: 12226,
 		name: "steelixpinsir",
 		types: ["Steel", "Bug"],
 		baseStats: {hp: 71, atk: 111, def: 133, spa: 55, spd: 66, spe: 66},
@@ -41530,7 +41530,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	granbullpinsir: {
-		num: 12619,
+		num: 12227,
 		name: "granbullpinsir",
 		types: ["Fairy", "Bug"],
 		baseStats: {hp: 81, atk: 123, def: 91, spa: 58, spd: 63, spe: 71},
@@ -41541,7 +41541,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	pinsirgranbull: {
-		num: 12620,
+		num: 12228,
 		name: "pinsirgranbull",
 		types: ["Bug", "Fairy"],
 		baseStats: {hp: 73, atk: 121, def: 83, spa: 56, spd: 66, spe: 58},
@@ -41552,7 +41552,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	arcaninepinsir: {
-		num: 12621,
+		num: 12229,
 		name: "arcaninepinsir",
 		types: ["Fire", "Bug"],
 		baseStats: {hp: 81, atk: 120, def: 93, spa: 85, spd: 76, spe: 88},
@@ -41563,7 +41563,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	pinsirgolem: {
-		num: 12622,
+		num: 12230,
 		name: "pinsirgolem",
 		types: ["Bug", "Rock"],
 		baseStats: {hp: 70, atk: 121, def: 120, spa: 55, spd: 68, spe: 58},
@@ -41574,7 +41574,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Bug"],
 	},
 	slowkingmeganium: {
-		num: 12623,
+		num: 12231,
 		name: "slowkingmeganium",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 90, atk: 79, def: 93, spa: 94, spd: 106, spe: 63},
@@ -41585,7 +41585,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Monster"],
 	},
 	pinsirarcanine: {
-		num: 12624,
+		num: 12232,
 		name: "pinsirarcanine",
 		types: ["Bug", "Fire"],
 		baseStats: {hp: 73, atk: 115, def: 86, spa: 70, spd: 73, spe: 91},
@@ -41596,7 +41596,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	golempinsir: {
-		num: 12625,
+		num: 12233,
 		name: "golempinsir",
 		types: ["Rock", "Bug"],
 		baseStats: {hp: 75, atk: 123, def: 110, spa: 55, spd: 66, spe: 71},
@@ -41607,7 +41607,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	rapidashpinsir: {
-		num: 12626,
+		num: 12234,
 		name: "rapidashpinsir",
 		types: ["Fire", "Bug"],
 		baseStats: {hp: 65, atk: 116, def: 90, spa: 71, spd: 76, spe: 91},
@@ -41618,7 +41618,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	armaldopinsir: {
-		num: 12627,
+		num: 12235,
 		name: "armaldopinsir",
 		types: ["Rock", "Bug"],
 		baseStats: {hp: 71, atk: 125, def: 100, spa: 65, spd: 76, spe: 71},
@@ -41629,7 +41629,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 3"],
 	},
 	kangaskhanpinsir: {
-		num: 12628,
+		num: 12236,
 		name: "kangaskhanpinsir",
 		types: ["Normal", "Bug"],
 		baseStats: {hp: 91, atk: 115, def: 93, spa: 45, spd: 76, spe: 86},
@@ -41640,7 +41640,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	dodriopinsir: {
-		num: 12629,
+		num: 12237,
 		name: "dodriopinsir",
 		types: ["Flying", "Bug"],
 		baseStats: {hp: 61, atk: 120, def: 90, spa: 58, spd: 63, spe: 93},
@@ -41651,7 +41651,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	starmiepinsir: {
-		num: 12630,
+		num: 12238,
 		name: "starmiepinsir",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 61, atk: 108, def: 95, spa: 85, spd: 80, spe: 95},
@@ -41662,7 +41662,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 3"],
 	},
 	electivirepinsir: {
-		num: 12631,
+		num: 12239,
 		name: "electivirepinsir",
 		types: ["Electric", "Bug"],
 		baseStats: {hp: 71, atk: 124, def: 89, spa: 81, spd: 80, spe: 88},
@@ -41673,7 +41673,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	swampertpinsir: {
-		num: 12632,
+		num: 12240,
 		name: "swampertpinsir",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 88, atk: 120, def: 96, spa: 75, spd: 83, spe: 76},
@@ -41684,7 +41684,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	magmortarpinsir: {
-		num: 12633,
+		num: 12241,
 		name: "magmortarpinsir",
 		types: ["Fire", "Bug"],
 		baseStats: {hp: 71, atk: 115, def: 89, spa: 101, spd: 86, spe: 84},
@@ -41695,7 +41695,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	gyaradospinsir: {
-		num: 12634,
+		num: 12242,
 		name: "gyaradospinsir",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 85, atk: 125, def: 93, spa: 58, spd: 90, spe: 83},
@@ -41706,9 +41706,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 2"],
 	},
 	pinsirswampert: {
-		num: 12635,
+		num: 12243,
 		name: "pinsirswampert",
-		types: ["Bug", "Water"],
+		types: ["Bug", "Ground"],
 		baseStats: {hp: 76, atk: 115, def: 93, spa: 65, spd: 76, spe: 68},
 		abilities: {0: "Hyper Cutter", 1: "Damp", H: "Moxie"},
 		heightm: 1.5,
@@ -41717,7 +41717,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	infernapepinsir: {
-		num: 12636,
+		num: 12244,
 		name: "infernapepinsir",
 		types: ["Fire", "Bug"],
 		baseStats: {hp: 72, atk: 118, def: 90, spa: 87, spd: 70, spe: 92},
@@ -41728,9 +41728,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	pinsirinfernape: {
-		num: 12637,
+		num: 12245,
 		name: "pinsirinfernape",
-		types: ["Bug", "Fire"],
+		types: ["Bug", "Fighting"],
 		baseStats: {hp: 68, atk: 111, def: 80, spa: 71, spd: 70, spe: 100},
 		abilities: {0: "Hyper Cutter", 1: "Iron Fist", H: "Moxie"},
 		heightm: 1.35,
@@ -41739,7 +41739,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	azumarillpinsir: {
-		num: 12638,
+		num: 12246,
 		name: "azumarillpinsir",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 88, atk: 100, def: 93, spa: 58, spd: 76, spe: 73},
@@ -41750,9 +41750,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	pinsirazumarill: {
-		num: 12639,
+		num: 12247,
 		name: "pinsirazumarill",
-		types: ["Bug", "Water"],
+		types: ["Bug", "Fairy"],
 		baseStats: {hp: 76, atk: 75, def: 86, spa: 56, spd: 73, spe: 61},
 		abilities: {0: "Hyper Cutter", 1: "Huge Power", H: "Moxie"},
 		heightm: 1.15,
@@ -41761,9 +41761,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	pinsirgarchomp: {
-		num: 12640,
+		num: 12248,
 		name: "pinsirgarchomp",
-		types: ["Bug", "Dragon"],
+		types: ["Bug", "Ground"],
 		baseStats: {hp: 79, atk: 128, def: 96, spa: 63, spd: 75, spe: 96},
 		abilities: {0: "Hyper Cutter", 1: "Rough Skin", H: "Moxie"},
 		heightm: 1.7,
@@ -41772,7 +41772,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Bug"],
 	},
 	garchomppinsir: {
-		num: 12641,
+		num: 12249,
 		name: "garchomppinsir",
 		types: ["Dragon", "Bug"],
 		baseStats: {hp: 93, atk: 126, def: 98, spa: 71, spd: 80, spe: 90},
@@ -41783,7 +41783,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	pidgeotpinsir: {
-		num: 12642,
+		num: 12250,
 		name: "pidgeotpinsir",
 		types: ["Flying", "Bug"],
 		baseStats: {hp: 77, atk: 110, def: 91, spa: 65, spd: 70, spe: 90},
@@ -41794,7 +41794,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	persianpinsir: {
-		num: 12643,
+		num: 12251,
 		name: "persianpinsir",
 		types: ["Normal", "Bug"],
 		baseStats: {hp: 65, atk: 106, def: 86, spa: 61, spd: 66, spe: 95},
@@ -41805,7 +41805,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Field"],
 	},
 	empoleonpinsir: {
-		num: 12644,
+		num: 12252,
 		name: "empoleonpinsir",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 77, atk: 112, def: 96, spa: 92, spd: 90, spe: 76},
@@ -41816,7 +41816,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	aggronpinsir: {
-		num: 12645,
+		num: 12253,
 		name: "aggronpinsir",
 		types: ["Steel", "Bug"],
 		baseStats: {hp: 68, atk: 120, def: 126, spa: 58, spd: 63, spe: 73},
@@ -41827,7 +41827,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Monster"],
 	},
 	poliwrathpinsir: {
-		num: 12646,
+		num: 12254,
 		name: "poliwrathpinsir",
 		types: ["Water", "Bug"],
 		baseStats: {hp: 81, atk: 115, def: 98, spa: 65, spd: 83, spe: 80},
@@ -41838,7 +41838,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Water 1"],
 	},
 	hitmonleepinsir: {
-		num: 12647,
+		num: 12255,
 		name: "hitmonleepinsir",
 		types: ["Fighting", "Bug"],
 		baseStats: {hp: 55, atk: 123, def: 84, spa: 41, spd: 96, spe: 85},
@@ -41849,7 +41849,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	hitmonchanpinsir: {
-		num: 12648,
+		num: 12256,
 		name: "hitmonchanpinsir",
 		types: ["Fighting", "Bug"],
 		baseStats: {hp: 55, atk: 118, def: 93, spa: 41, spd: 96, spe: 82},
@@ -41860,7 +41860,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	hitmontoppinsir: {
-		num: 12649,
+		num: 12257,
 		name: "hitmontoppinsir",
 		types: ["Fighting", "Bug"],
 		baseStats: {hp: 55, atk: 115, def: 98, spa: 41, spd: 96, spe: 80},
@@ -41871,7 +41871,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	pinsirhitmontop: {
-		num: 12650,
+		num: 12258,
 		name: "pinsirhitmontop",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 60, atk: 105, def: 96, spa: 48, spd: 83, spe: 75},
@@ -41882,7 +41882,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	pinsirhitmonchan: {
-		num: 12651,
+		num: 12259,
 		name: "pinsirhitmonchan",
 		types: ["Bug", "Fighting"],
 		baseStats: {hp: 60, atk: 111, def: 86, spa: 48, spd: 83, spe: 79},
@@ -41893,7 +41893,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Bug"],
 	},
 	kyogretangrowth: {
-		num: 12652,
+		num: 12260,
 		name: "kyogretangrowth",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 100, atk: 100, def: 113, spa: 136, spd: 110, spe: 63},
@@ -41904,7 +41904,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Undiscovered"],
 	},
 	hoohaegislash: {
-		num: 12653,
+		num: 12261,
 		name: "hoohaegislash",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 90, atk: 76, def: 123, spa: 90, spd: 149, spe: 70},
@@ -41915,7 +41915,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	hoohdusclops: {
-		num: 12654,
+		num: 12262,
 		name: "hoohdusclops",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 84, atk: 90, def: 116, spa: 93, spd: 146, spe: 46},
@@ -41927,7 +41927,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Undiscovered"],
 	},
 	caterpiewailord: {
-		num: 12655,
+		num: 12263,
 		name: "caterpiewailord",
 		types: ["Bug", "Water"],
 		baseStats: {hp: 86, atk: 70, def: 41, spa: 43, spd: 28, spe: 55},
@@ -41939,7 +41939,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Bug"],
 	},
 	crobatpinsir: {
-		num: 12656,
+		num: 12264,
 		name: "crobatpinsir",
 		types: ["Poison", "Bug"],
 		baseStats: {hp: 78, atk: 113, def: 93, spa: 65, spd: 76, spe: 100},
@@ -41950,7 +41950,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	crobatscyther: {
-		num: 12657,
+		num: 12265,
 		name: "crobatscyther",
 		types: ["Poison", "Bug"],
 		baseStats: {hp: 80, atk: 103, def: 80, spa: 65, spd: 80, spe: 113},
@@ -41962,7 +41962,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	crobatheracross: {
-		num: 12658,
+		num: 12266,
 		name: "crobatheracross",
 		types: ["Poison", "Fighting"],
 		baseStats: {hp: 83, atk: 113, def: 76, spa: 60, spd: 85, spe: 100},
@@ -41973,7 +41973,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Flying"],
 	},
 	crobatinfernape: {
-		num: 12659,
+		num: 12267,
 		name: "crobatinfernape",
 		types: ["Poison", "Fighting"],
 		baseStats: {hp: 82, atk: 99, def: 74, spa: 81, spd: 77, spe: 115},
@@ -41984,7 +41984,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Flying"],
 	},
 	crobathypno: {
-		num: 12660,
+		num: 12268,
 		name: "crobathypno",
 		types: ["Poison", "Psychic"],
 		baseStats: {hp: 85, atk: 78, def: 73, spa: 71, spd: 91, spe: 88},
@@ -41995,7 +41995,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Flying"],
 	},
 	weezinggengar: {
-		num: 12661,
+		num: 12269,
 		name: "weezinggengar",
 		types: ["Poison", "Ghost"],
 		baseStats: {hp: 63, atk: 73, def: 80, spa: 100, spd: 71, spe: 93},
@@ -42006,7 +42006,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Amorphous"],
 	},
 	gengarweezing: {
-		num: 12662,
+		num: 12270,
 		name: "gengarweezing",
 		types: ["Ghost", "Poison"],
 		baseStats: {hp: 61, atk: 81, def: 100, spa: 115, spd: 73, spe: 76},
@@ -42017,7 +42017,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Amorphous"],
 	},
 	tangrowthweezing: {
-		num: 12663,
+		num: 12271,
 		name: "tangrowthweezing",
 		types: ["Grass", "Poison"],
 		baseStats: {hp: 88, atk: 93, def: 121, spa: 101, spd: 56, spe: 56},
@@ -42028,7 +42028,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Grass"],
 	},
 	weezingtangrowth: {
-		num: 12664,
+		num: 12272,
 		name: "weezingtangrowth",
 		types: ["Poison", "Grass"],
 		baseStats: {hp: 76, atk: 96, def: 123, spa: 93, spd: 63, spe: 53},
@@ -42039,7 +42039,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Grass", "Amorphous"],
 	},
 	hoohmisdreavus: {
-		num: 12665,
+		num: 12273,
 		name: "hoohmisdreavus",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 90, atk: 83, def: 70, spa: 101, spd: 131, spe: 86},
@@ -42051,7 +42051,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Undiscovered"],
 	},
 	hoohmismagius: {
-		num: 12666,
+		num: 12274,
 		name: "hoohmismagius",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 90, atk: 83, def: 70, spa: 108, spd: 137, spe: 100},
@@ -42062,7 +42062,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Undiscovered"],
 	},
 	clefablekyogre: {
-		num: 12667,
+		num: 12275,
 		name: "clefablekyogre",
 		types: ["Fairy", "Water"],
 		baseStats: {hp: 96, atk: 90, def: 84, spa: 113, spd: 106, spe: 80},
@@ -42073,9 +42073,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Fairy"],
 	},
 	blisseytogekiss: {
-		num: 12668,
+		num: 12276,
 		name: "blisseytogekiss",
-		types: ["Normal", "Fairy"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 198, atk: 36, def: 66, spa: 90, spd: 128, spe: 71},
 		abilities: {0: "Natural Cure", 1: "Serene Grace", H: "Healer"},
 		heightm: 1.5,
@@ -42084,7 +42084,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	metapodkakuna: {
-		num: 12669,
+		num: 12277,
 		name: "metapodkakuna",
 		types: ["Bug", "Poison"],
 		baseStats: {hp: 48, atk: 23, def: 51, spa: 25, spd: 25, spe: 33},
@@ -42096,7 +42096,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Bug"],
 	},
 	dragonairwailord: {
-		num: 12670,
+		num: 12278,
 		name: "dragonairwailord",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 97, atk: 88, def: 51, spa: 76, spd: 61, spe: 63},
@@ -42108,7 +42108,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dragonairvaporeon: {
-		num: 12671,
+		num: 12279,
 		name: "dragonairvaporeon",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 84, atk: 71, def: 61, spa: 83, spd: 78, spe: 66},
@@ -42120,7 +42120,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Water 1"],
 	},
 	dragonairmilotic: {
-		num: 12672,
+		num: 12280,
 		name: "dragonairmilotic",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 72, atk: 68, def: 74, spa: 80, spd: 88, spe: 77},
@@ -42132,9 +42132,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	dragonairquagsire: {
-		num: 12673,
+		num: 12281,
 		name: "dragonairquagsire",
-		types: ["Dragon", "Water"],
+		types: ["Dragon", "Ground"],
 		baseStats: {hp: 72, atk: 84, def: 78, spa: 68, spd: 68, spe: 46},
 		abilities: {0: "Shed Skin", 1: "Water Absorb", H: "Marvel Scale"},
 		heightm: 2.7,
@@ -42144,9 +42144,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Water 1", "Water 1"],
 	},
 	electrodemawile: {
-		num: 12674,
+		num: 12282,
 		name: "electrodemawile",
-		types: ["Electric", "Steel"],
+		types: ["Electric", "Fairy"],
 		baseStats: {hp: 56, atk: 73, def: 80, spa: 71, spd: 71, spe: 83},
 		abilities: {0: "Soundproof", 1: "Intimidate", H: "Aftermath"},
 		heightm: 0.8999999999999999,
@@ -42155,9 +42155,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	electrodesalamence: {
-		num: 12675,
+		num: 12283,
 		name: "electrodesalamence",
-		types: ["Electric", "Dragon"],
+		types: ["Electric", "Flying"],
 		baseStats: {hp: 71, atk: 106, def: 76, spa: 90, spd: 80, spe: 116},
 		abilities: {0: "Soundproof", 1: "Moxie", H: "Aftermath"},
 		heightm: 1.35,
@@ -42166,7 +42166,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Mineral"],
 	},
 	umbreonweezing: {
-		num: 12676,
+		num: 12284,
 		name: "umbreonweezing",
 		types: ["Dark", "Poison"],
 		baseStats: {hp: 85, atk: 81, def: 116, spa: 68, spd: 110, spe: 61},
@@ -42177,7 +42177,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Amorphous", "Field"],
 	},
 	salamenceelectrode: {
-		num: 12677,
+		num: 12285,
 		name: "salamenceelectrode",
 		types: ["Dragon", "Electric"],
 		baseStats: {hp: 83, atk: 78, def: 73, spa: 100, spd: 80, spe: 133},
@@ -42188,7 +42188,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Dragon"],
 	},
 	salamencejigglypuff: {
-		num: 12678,
+		num: 12286,
 		name: "salamencejigglypuff",
 		types: ["Dragon", "Fairy"],
 		baseStats: {hp: 101, atk: 75, def: 40, spa: 88, spd: 61, spe: 46},
@@ -42200,7 +42200,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Dragon"],
 	},
 	gliscorkyogre: {
-		num: 12679,
+		num: 12287,
 		name: "gliscorkyogre",
 		types: ["Ground", "Water"],
 		baseStats: {hp: 83, atk: 98, def: 101, spa: 80, spd: 96, spe: 91},
@@ -42211,9 +42211,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Bug"],
 	},
 	kyogregliscor: {
-		num: 12680,
+		num: 12288,
 		name: "kyogregliscor",
-		types: ["Water", "Ground"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 91, atk: 96, def: 113, spa: 115, spd: 118, spe: 93},
 		abilities: {0: "Drizzle", 1: "Sand Veil", H: "Poison Heal"},
 		heightm: 3.25,
@@ -42222,9 +42222,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Bug", "Undiscovered"],
 	},
 	kyogrelugia: {
-		num: 12681,
+		num: 12289,
 		name: "kyogrelugia",
-		types: ["Water", "Psychic"],
+		types: ["Water", "Flying"],
 		baseStats: {hp: 102, atk: 93, def: 116, spa: 130, spd: 144, spe: 103},
 		abilities: {0: "Drizzle", 1: "Pressure", H: ""},
 		heightm: 4.85,
@@ -42233,7 +42233,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	aggronlugia: {
-		num: 12682,
+		num: 12290,
 		name: "aggronlugia",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 82, atk: 96, def: 146, spa: 70, spd: 91, spe: 90},
@@ -42244,7 +42244,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	aegislashlugia: {
-		num: 12683,
+		num: 12291,
 		name: "aegislashlugia",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 75, atk: 76, def: 133, spa: 63, spd: 144, spe: 93},
@@ -42255,9 +42255,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	groudonlugia: {
-		num: 12684,
+		num: 12292,
 		name: "groudonlugia",
-		types: ["Ground", "Psychic"],
+		types: ["Ground", "Flying"],
 		baseStats: {hp: 102, atk: 110, def: 133, spa: 96, spd: 111, spe: 103},
 		abilities: {0: "Drought", 1: "Pressure", H: ""},
 		heightm: 4.35,
@@ -42266,7 +42266,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	palkialugia: {
-		num: 12685,
+		num: 12293,
 		name: "palkialugia",
 		types: ["Water", "Flying"],
 		baseStats: {hp: 95, atk: 100, def: 120, spa: 130, spd: 131, spe: 106},
@@ -42277,7 +42277,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	dialgalugia: {
-		num: 12686,
+		num: 12294,
 		name: "dialgalugia",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 102, atk: 100, def: 126, spa: 130, spd: 118, spe: 103},
@@ -42288,7 +42288,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	giratinalugia: {
-		num: 12687,
+		num: 12295,
 		name: "giratinalugia",
 		types: ["Ghost", "Flying"],
 		baseStats: {hp: 135, atk: 93, def: 126, spa: 96, spd: 131, spe: 103},
@@ -42299,7 +42299,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	doubladelugia: {
-		num: 12688,
+		num: 12296,
 		name: "doubladelugia",
 		types: ["Steel", "Flying"],
 		baseStats: {hp: 74, atk: 96, def: 136, spa: 60, spd: 84, spe: 85},
@@ -42311,9 +42311,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	regigigaslugia: {
-		num: 12689,
+		num: 12297,
 		name: "regigigaslugia",
-		types: ["Normal", "Psychic"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 108, atk: 113, def: 123, spa: 83, spd: 124, spe: 106},
 		abilities: {0: "Slow Start", 1: "Pressure", H: ""},
 		heightm: 4.45,
@@ -42322,9 +42322,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	misdreavuslugia: {
-		num: 12690,
+		num: 12298,
 		name: "misdreavuslugia",
-		types: ["Ghost", "Psychic"],
+		types: ["Ghost", "Flying"],
 		baseStats: {hp: 75, atk: 80, def: 106, spa: 86, spd: 108, spe: 101},
 		abilities: {0: "Levitate", 1: "Pressure", H: ""},
 		heightm: 2.95,
@@ -42334,9 +42334,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Amorphous"],
 	},
 	mismagiuslugia: {
-		num: 12691,
+		num: 12299,
 		name: "mismagiuslugia",
-		types: ["Ghost", "Psychic"],
+		types: ["Ghost", "Flying"],
 		baseStats: {hp: 75, atk: 80, def: 106, spa: 100, spd: 121, spe: 108},
 		abilities: {0: "Levitate", 1: "Pressure", H: ""},
 		heightm: 3.0500000000000003,
@@ -42345,9 +42345,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Amorphous"],
 	},
 	misdreavushooh: {
-		num: 12692,
+		num: 12300,
 		name: "misdreavushooh",
-		types: ["Ghost", "Fire"],
+		types: ["Ghost", "Flying"],
 		baseStats: {hp: 75, atk: 106, def: 80, spa: 93, spd: 108, spe: 88},
 		abilities: {0: "Levitate", 1: "Pressure", H: ""},
 		heightm: 2.25,
@@ -42357,9 +42357,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Amorphous"],
 	},
 	mismagiushooh: {
-		num: 12693,
+		num: 12301,
 		name: "mismagiushooh",
-		types: ["Ghost", "Fire"],
+		types: ["Ghost", "Flying"],
 		baseStats: {hp: 75, atk: 106, def: 80, spa: 106, spd: 121, spe: 95},
 		abilities: {0: "Levitate", 1: "Pressure", H: ""},
 		heightm: 2.35,
@@ -42368,7 +42368,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Amorphous"],
 	},
 	celebilugia: {
-		num: 12694,
+		num: 12302,
 		name: "celebilugia",
 		types: ["Psychic", "Flying"],
 		baseStats: {hp: 102, atk: 93, def: 120, spa: 96, spd: 118, spe: 106},
@@ -42379,9 +42379,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	arceuslugia: {
-		num: 12695,
+		num: 12303,
 		name: "arceuslugia",
-		types: ["Normal", "Psychic"],
+		types: ["Normal", "Flying"],
 		baseStats: {hp: 115, atk: 100, def: 126, spa: 110, spd: 131, spe: 113},
 		abilities: {0: "Multitype", 1: "Pressure", H: ""},
 		heightm: 4.2,
@@ -42390,7 +42390,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Undiscovered"],
 	},
 	kyogreelectrode: {
-		num: 12696,
+		num: 12304,
 		name: "kyogreelectrode",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 86, atk: 66, def: 76, spa: 126, spd: 120, spe: 130},
@@ -42401,7 +42401,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral", "Undiscovered"],
 	},
 	electrodekyogre: {
-		num: 12697,
+		num: 12305,
 		name: "electrodekyogre",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 73, atk: 83, def: 83, spa: 103, spd: 100, spe: 110},
@@ -42412,7 +42412,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Mineral"],
 	},
 	jolteonkyogre: {
-		num: 12698,
+		num: 12306,
 		name: "jolteonkyogre",
 		types: ["Electric", "Water"],
 		baseStats: {hp: 76, atk: 88, def: 80, spa: 123, spd: 110, spe: 103},
@@ -42423,7 +42423,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Field"],
 	},
 	kyogrejolteon: {
-		num: 12699,
+		num: 12307,
 		name: "kyogrejolteon",
 		types: ["Water", "Electric"],
 		baseStats: {hp: 88, atk: 76, def: 70, spa: 136, spd: 125, spe: 116},
@@ -42434,9 +42434,9 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field", "Undiscovered"],
 	},
 	feraligatrzekrom: {
-		num: 12700,
+		num: 12308,
 		name: "feraligatrzekrom",
-		types: ["Water", "Dragon"],
+		types: ["Water", "Electric"],
 		baseStats: {hp: 90, atk: 135, def: 113, spa: 92, spd: 88, spe: 86},
 		abilities: {0: "Torrent", 1: "Teravolt", H: "Sheer Force"},
 		heightm: 2.5999999999999996,
@@ -42445,7 +42445,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered", "Monster"],
 	},
 	zekromferaligatr: {
-		num: 12701,
+		num: 12309,
 		name: "zekromferaligatr",
 		types: ["Dragon", "Water"],
 		baseStats: {hp: 95, atk: 120, def: 106, spa: 106, spd: 94, spe: 82},
