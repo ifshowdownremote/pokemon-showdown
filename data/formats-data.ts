@@ -12713,21 +12713,21 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	ambipombeedrill: {
-		tier: "PU",
+		tier: "UU",
 	},
 	beedrillambipom: {
-		tier: "PU",
+		tier: "UU",
 	},
 	beedrillpersian: {
-		tier: "PU",
+		tier: "UU",
 	},
 	persianbeedrill: {
-		tier: "PU",
+		tier: "UU",
 	},
 	hitmontopbeedrill: {
-		tier: "PU",
+		tier: "UU",
 	},
 	beedrillhitmontop: {
-		tier: "PU",
+		tier: "UU",
 	},
 };
