@@ -12793,4 +12793,112 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	gliscorporygon2: {
 		tier: "(PU)",
 	},
+	sylveonarceus: {
+		tier: "(PU)",
+	},
+	arcaninesylveon: {
+		tier: "(PU)",
+	},
+	sylveonarcanine: {
+		tier: "(PU)",
+	},
+	sylveonentei: {
+		tier: "(PU)",
+	},
+	sylveonlucario: {
+		tier: "(PU)",
+	},
+	raichusylveon: {
+		tier: "(PU)",
+	},
+	flareonarceus: {
+		tier: "(PU)",
+	},
+	arceusluxray: {
+		tier: "(PU)",
+	},
+	luxrayarceus: {
+		tier: "(PU)",
+	},
+	machamparceus: {
+		tier: "(PU)",
+	},
+	arceusmachamp: {
+		tier: "(PU)",
+	},
+	mewmewtwo: {
+		tier: "(PU)",
+	},
+	mewtwomew: {
+		tier: "(PU)",
+	},
+	mewcelebi: {
+		tier: "(PU)",
+	},
+	gliscorskarmory: {
+		tier: "(PU)",
+	},
+	skarmorygliscor: {
+		tier: "(PU)",
+	},
+	garchompgranbull: {
+		tier: "(PU)",
+	},
+	granbullgarchomp: {
+		tier: "(PU)",
+	},
+	garchompgraveler: {
+		tier: "(PU)",
+	},
+	gravelergarchomp: {
+		tier: "(PU)",
+	},
+	garchompaegislash: {
+		tier: "(PU)",
+	},
+	aegislashgarchomp: {
+		tier: "(PU)",
+	},
+	garchompdoublade: {
+		tier: "(PU)",
+	},
+	fearowgarchomp: {
+		tier: "(PU)",
+	},
+	garchompfearow: {
+		tier: "(PU)",
+	},
+	garchompbutterfree: {
+		tier: "(PU)",
+	},
+	garchompfarfetchd: {
+		tier: "(PU)",
+	},
+	garchompflareon: {
+		tier: "(PU)",
+	},
+	flareongarchomp: {
+		tier: "(PU)",
+	},
+	farfetchdgarchomp: {
+		tier: "(PU)",
+	},
+	gardevoirgengar: {
+		tier: "(PU)",
+	},
+	gligargarchomp: {
+		tier: "(PU)",
+	},
+	garchompgligar: {
+		tier: "(PU)",
+	},
+	metanggarchomp: {
+		tier: "(PU)",
+	},
+	garchompmetang: {
+		tier: "(PU)",
+	},
+	miloticmetang: {
+		tier: "(PU)",
+	},
 };
