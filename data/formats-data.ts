@@ -12768,14 +12768,29 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	kakunametapod: {
 		tier: "(PU)",
-	},
+	},        
 	weedlecaterpie: {
-		tier: "(PU)",
-	},
+                tier: "LC",
+        },        
 	caterpieweedle: {
+                tier: "LC",
+        },
+	dialgahooh: {
 		tier: "(PU)",
 	},
-	dialgahooh: {
+	gliscorregigigas: {
+		tier: "(PU)",
+	},
+	gliscorslaking: {
+		tier: "(PU)",
+	},
+	gliscorarceus: {
+		tier: "(PU)",
+	},
+	gliscorblissey: {
+		tier: "(PU)",
+	},
+	gliscorporygon2: {
 		tier: "(PU)",
 	},
 };
