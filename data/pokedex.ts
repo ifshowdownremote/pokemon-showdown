@@ -43492,4 +43492,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Brown",
 		eggGroups: ["Field", "Mineral"],
 	},
+	aegislashmuk: {
+		num: 12401,
+		name: "aegislashmuk",
+		types: ["Steel", "Poison"],
+		baseStats: {hp: 75, atk: 86, def: 96, spa: 55, spd: 126, spe: 53},
+		abilities: {0: "Stance Change", 1: "Sticky Hold", H: "Poison Touch"},
+		heightm: 1.45,
+		weightkg: 41,
+		color: "Brown",
+		eggGroups: ["Amorphous", "Mineral"],
+	},
 };
