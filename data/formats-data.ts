@@ -6408,10 +6408,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	crobatarbok: {
 		tier: "OU",
-	},
+	},        
 	arbokcharizard: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	alakazamampharos: {
 		tier: "OU",
 	},
@@ -7097,7 +7097,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
                 tier: "UU",
         },        
 	dittoeevee: {
-                tier: "LC",
+                tier: "PU",
         },        
 	alakazamcelebi: {
                 tier: "UU",
@@ -7224,10 +7224,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},        
 	blisseyaggron: {
                 tier: "UU",
-        },
+        },        
 	arboksandslash: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	primeapecrobat: {
 		tier: "OU",
 	},
@@ -7647,10 +7647,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},        
 	dialgagroudon: {
                 tier: "Uber",
-        },
+        },        
 	arbokmilotic: {
-		tier: "OU",
-	},        
+                tier: "UU",
+        },        
 	arceusazumarill: {
                 tier: "Uber",
         },        
@@ -7746,10 +7746,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	togekissraichu: {
 		tier: "OU",
-	},
+	},        
 	azumarillraichu: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	dusknoironix: {
 		tier: "OU",
 	},
@@ -8526,10 +8526,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	tentacrueldragonite: {
 		tier: "OU",
-	},
+	},        
 	azumarillforretress: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	azumarilltyranitar: {
 		tier: "OU",
 	},
@@ -8913,10 +8913,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	mrmimesnorlax: {
 		tier: "OU",
-	},
+	},        
 	azumarillhitmonchan: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	hitmonchanazumarill: {
 		tier: "OU",
 	},        
@@ -9015,10 +9015,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	houndoomquagsire: {
 		tier: "OU",
-	},
+	},        
 	ariadosraichu: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	girafarigraichu: {
 		tier: "OU",
 	},        
@@ -9210,10 +9210,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},        
 	scytherraichu: {
                 tier: "UU",
-        },
+        },        
 	aggronraichu: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	blisseytangrowth: {
 		tier: "OU",
 	},
@@ -9932,7 +9932,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
                 tier: "Uber",
         },        
 	unownunown: {
-                tier: "Uber",
+                tier: "LC",
         },
 	klinklangparasect: {
 		tier: "OU",
@@ -10131,10 +10131,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	dialgaclefable: {
 		tier: "OU",
-	},
+	},        
 	arbokpidgeot: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	pidgeotsandslash: {
 		tier: "OU",
 	},
@@ -10392,10 +10392,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	golduckambipom: {
 		tier: "OU",
-	},
+	},        
 	ambipomgolduck: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	golduckhitmontop: {
 		tier: "OU",
 	},
@@ -10668,10 +10668,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},        
 	raichudonphan: {
                 tier: "UU",
-        },
+        },        
 	bastiodonraichu: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	raichumilotic: {
 		tier: "OU",
 	},
@@ -10887,10 +10887,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	taurosweezing: {
 		tier: "OU",
-	},
+	},        
 	ampharostauros: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	granbulltauros: {
 		tier: "OU",
 	},
@@ -11034,10 +11034,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
         },
 	parasectpersian: {
 		tier: "OU",
-	},
+	},        
 	aerodactylparasect: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	magmortargolem: {
 		tier: "OU",
 	},
@@ -11652,31 +11652,31 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	arbokexeggutor: {
 		tier: "OU",
-	},
+	},        
 	aerodactylexeggutor: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },        
 	aerodactylmagmortar: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },        
 	aerodactylmagnezone: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	aerodactylcharizard: {
 		tier: "OU",
-	},
+	},        
 	aerodactylmagneton: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	aerodactyldragonair: {
 		tier: "OU",
 	},
 	aerodactyldragonite: {
 		tier: "OU",
-	},
+	},        
 	aerodactylampharos: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	ampharosaerodactyl: {
 		tier: "OU",
 	},
@@ -11934,10 +11934,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
         },
 	seakingaerodactyl: {
 		tier: "OU",
-	},
+	},        
 	aerodactylseaking: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	gyaradosseaking: {
 		tier: "OU",
 	},
@@ -11955,28 +11955,28 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	azumarillsandslash: {
 		tier: "OU",
-	},
+	},        
 	azumarillmarowak: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },        
 	azumarillkabutops: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },        
 	azumarillquagsire: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	azumarillnidoqueen: {
 		tier: "OU",
 	},
 	azumarillnidoking: {
 		tier: "OU",
-	},
+	},        
 	azumarilldugtrio: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },        
 	azumarillgolem: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	azumarillgliscor: {
 		tier: "OU",
 	},
@@ -11988,16 +11988,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	azumarillflygon: {
 		tier: "OU",
-	},
-	azumarillonix: {
-		tier: "OU",
 	},        
+	azumarillonix: {
+                tier: "UU",
+        },        
 	azumarilllarvitar: {
                 tier: "RU",
-        },
+        },        
 	azumarillpupitar: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	azumarillswampert: {
 		tier: "OU",
 	},
@@ -12961,4 +12961,25 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	gastlybulbasaur: {
                 tier: "LC",
         },
+	aegislashumbreon: {
+		tier: "(PU)",
+	},
+	aegislashsylveon: {
+		tier: "(PU)",
+	},
+	aegislashleafeon: {
+		tier: "(PU)",
+	},
+	aegislashglaceon: {
+		tier: "(PU)",
+	},
+	aegislashvaporeon: {
+		tier: "(PU)",
+	},
+	aegislashjolteon: {
+		tier: "(PU)",
+	},
+	aegislashflareon: {
+		tier: "(PU)",
+	},
 };
