@@ -9690,10 +9690,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},        
 	weepinbelldoduo: {
                 tier: "PU",
-        },
+        },        
 	chikoritacombusken: {
-		tier: "OU",
-	},        
+                tier: "UU",
+        },        
 	combuskenchikorita: {
                 tier: "PU",
         },
@@ -12717,10 +12717,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	beedrillambipom: {
 		tier: "(PU)",
-	},
-	beedrillpersian: {
-		tier: "(PU)",
 	},        
+	beedrillpersian: {
+                tier: "RU",
+        },        
 	persianbeedrill: {
                 tier: "UU",
         },        
@@ -12903,16 +12903,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},        
 	magnemitemimejr: {
                 tier: "LC",
-        },
+        },        
 	mimejrmagnemite: {
-		tier: "(PU)",
-	},
+                tier: "LC",
+        },        
 	mimejrsmoochum: {
-		tier: "(PU)",
-	},
+                tier: "LC",
+        },        
 	smoochummimejr: {
-		tier: "(PU)",
-	},        
+                tier: "LC",
+        },        
 	dratinimankey: {
                 tier: "LC",
         },        
@@ -12942,16 +12942,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
         },        
 	meowthbidoof: {
                 tier: "LC",
-        },
+        },        
 	bidoofmeowth: {
-		tier: "(PU)",
-	},        
+                tier: "LC",
+        },        
 	bulbasaurcaterpie: {
                 tier: "LC",
-        },
+        },        
 	caterpiebulbasaur: {
-		tier: "(PU)",
-	},        
+                tier: "LC",
+        },        
 	gastlycharmander: {
                 tier: "LC",
         },        
