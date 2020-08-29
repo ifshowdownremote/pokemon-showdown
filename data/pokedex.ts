@@ -43503,4 +43503,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Brown",
 		eggGroups: ["Amorphous", "Mineral"],
 	},
+	aegislashjigglypuff: {
+		num: 12402,
+		name: "aegislashjigglypuff",
+		types: ["Steel", "Fairy"],
+		baseStats: {hp: 78, atk: 46, def: 60, spa: 48, spd: 101, spe: 33},
+		abilities: {0: "Stance Change", 1: "Competitive", H: "Friend Guard"},
+		heightm: 1.1,
+		weightkg: 29.25,
+		color: "Brown",
+		evos: ["Wigglytuff"],
+		eggGroups: ["Fairy", "Mineral"],
+	},
 };
