@@ -6249,10 +6249,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},        
 	steelixkingler: {
                 tier: "UU",
-        },
+        },        
 	magnezonetogekiss: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	zapdosbutterfree: {
 		tier: "OU",
 	},
@@ -9459,10 +9459,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	xatublissey: {
 		tier: "OU",
-	},
+	},        
 	exeggutormagnezone: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	blazikenslaking: {
 		tier: "OU",
 	},
@@ -10530,10 +10530,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	hypnotauros: {
 		tier: "OU",
-	},
+	},        
 	taurospinsir: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	taurosblastoise: {
 		tier: "OU",
 	},
@@ -11127,10 +11127,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	pidgeotrapidash: {
 		tier: "OU",
-	},
+	},        
 	rapidashpidgeot: {
-		tier: "OU",
-	},
+                tier: "NU",
+        },
 	pidgeotmoltres: {
 		tier: "OU",
 	},
@@ -11814,10 +11814,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	magmortarscyther: {
 		tier: "OU",
-	},
+	},        
 	magmortarscizor: {
-		tier: "OU",
-	},
+                tier: "UU",
+        },
 	magmortargliscor: {
 		tier: "OU",
 	},
@@ -12719,17 +12719,17 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},        
 	beedrillpersian: {
-                tier: "RU",
+                tier: "PU",
         },        
 	persianbeedrill: {
                 tier: "UU",
         },        
 	hitmontopbeedrill: {
                 tier: "UU",
-        },
+        },        
 	beedrillhitmontop: {
-		tier: "(PU)",
-	},
+                tier: "PU",
+        },
 	aegislashblaziken: {
 		tier: "(PU)",
 	},
