@@ -43515,4 +43515,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Wigglytuff"],
 		eggGroups: ["Fairy", "Mineral"],
 	},
+	aegislashfearow: {
+		num: 12403,
+		name: "aegislashfearow",
+		types: ["Steel", "Flying"],
+		baseStats: {hp: 61, atk: 76, def: 90, spa: 53, spd: 113, spe: 86},
+		abilities: {0: "Stance Change", 1: "Keen Eye", H: "Sniper"},
+		heightm: 1.45,
+		weightkg: 45,
+		color: "Brown",
+		eggGroups: ["Flying", "Mineral"],
+	},
 };

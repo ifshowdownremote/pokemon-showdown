@@ -12991,4 +12991,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	aegislashjigglypuff: {
 		tier: "(PU)",
 	},
+	aegislashfearow: {
+		tier: "(PU)",
+	},
 };
