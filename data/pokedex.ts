@@ -43481,4 +43481,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Brown",
 		eggGroups: ["Field", "Mineral"],
 	},
+	aegislashsandslash: {
+		num: 12400,
+		name: "aegislashsandslash",
+		types: ["Steel", "Ground"],
+		baseStats: {hp: 65, atk: 83, def: 120, spa: 48, spd: 111, spe: 63},
+		abilities: {0: "Stance Change", 1: "Sand Veil", H: "Sand Rush"},
+		heightm: 1.35,
+		weightkg: 41.25,
+		color: "Brown",
+		eggGroups: ["Field", "Mineral"],
+	},
 };

@@ -12982,4 +12982,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	aegislashflareon: {
 		tier: "(PU)",
 	},
+	aegislashsandslash: {
+		tier: "(PU)",
+	},
 };
