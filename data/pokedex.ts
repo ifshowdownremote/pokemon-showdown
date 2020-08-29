@@ -43526,4 +43526,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Brown",
 		eggGroups: ["Flying", "Mineral"],
 	},
+	beedrillfearow: {
+		num: 12404,
+		name: "beedrillfearow",
+		types: ["Bug", "Flying"],
+		baseStats: {hp: 65, atk: 90, def: 56, spa: 50, spd: 73, spe: 91},
+		abilities: {0: "Swarm", 1: "Keen Eye", H: "Sniper"},
+		heightm: 1.1,
+		weightkg: 33.75,
+		color: "Yellow",
+		eggGroups: ["Flying", "Bug"],
+	},
 };
