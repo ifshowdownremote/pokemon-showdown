@@ -12997,4 +12997,13 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	beedrillfearow: {
         tier: "NU",
     },
+	infernapegroudon: {
+		tier: "(PU)",
+	},
+	enteigroudon: {
+		tier: "(PU)",
+	},
+	sylveonrayquaza: {
+		tier: "(PU)",
+	},
 };
