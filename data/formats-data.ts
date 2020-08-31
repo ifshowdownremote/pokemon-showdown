@@ -10418,7 +10418,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	magmortarrapidash: {
-		tier: "OU",
+		tier: "UU",
 	},
 	venusaurgranbull: {
 		tier: "OU",
@@ -11009,7 +11009,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
                 tier: "UU",
         },
 	parasectbellossom: {
-		tier: "OU",
+		tier: "UU",
 	},
 	bellossomparasect: {
 		tier: "OU",
@@ -13088,6 +13088,12 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	mankeyazurill: {
+		tier: "(PU)",
+	},
+	pawniardbulbasaur: {
+		tier: "(PU)",
+	},
+	pawniardsnubbull: {
 		tier: "(PU)",
 	},
 };
