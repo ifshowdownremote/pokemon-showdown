@@ -13006,4 +13006,61 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	sylveonrayquaza: {
 		tier: "(PU)",
 	},
+	torchicweavile: {
+		tier: "(PU)",
+	},
+	murkrowporygon: {
+		tier: "(PU)",
+	},
+	parasmurkrow: {
+		tier: "(PU)",
+	},
+	weaviletorchic: {
+		tier: "(PU)",
+	},
+	porygonmurkrow: {
+		tier: "(PU)",
+	},
+	yanmagastly: {
+		tier: "(PU)",
+	},
+	gastlyyanma: {
+		tier: "(PU)",
+	},
+	yanmaabra: {
+		tier: "(PU)",
+	},
+	abrayanma: {
+		tier: "(PU)",
+	},
+	happinymisdreavus: {
+		tier: "(PU)",
+	},
+	misdreavusporygon: {
+		tier: "(PU)",
+	},
+	igglybuffmisdreavus: {
+		tier: "(PU)",
+	},
+	porygonmisdreavus: {
+		tier: "(PU)",
+	},
+	pawniardmeowth: {
+		tier: "(PU)",
+	},
+	meowthpawniard: {
+		tier: "(PU)",
+	},
+	honedgedratini: {
+		tier: "(PU)",
+	},
+	dratinihonedge: {
+		tier: "(PU)",
+	},
+	sneaseltorchic: {
+		tier: "(PU)",
+	},
+	torchicsneasel: {
+		tier: "(PU)",
+	},
 };
