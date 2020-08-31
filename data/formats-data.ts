@@ -13096,4 +13096,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	pawniardsnubbull: {
 		tier: "(PU)",
 	},
+	laprasgranbull: {
+		tier: "(PU)",
+	},
+	aerodactylgranbull: {
+		tier: "(PU)",
+	},
+	charizardgranbull: {
+		tier: "(PU)",
+	},
+	bulbasaursquirtle: {
+		tier: "LC",
+	},
 };
