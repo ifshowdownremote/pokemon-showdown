@@ -13108,4 +13108,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	bulbasaursquirtle: {
 		tier: "LC",
 	},
+	sunkernsunkern: {
+		tier: "(PU)",
+	},
+	sunkernmagikarp: {
+		tier: "(PU)",
+	},
+	magikarpsunkern: {
+		tier: "(PU)",
+	},
+	sunkernhappiny: {
+		tier: "(PU)",
+	},
 };
