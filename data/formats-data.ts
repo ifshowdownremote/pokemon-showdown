@@ -13063,4 +13063,31 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	torchicsneasel: {
 		tier: "(PU)",
 	},
+	pawniardpawniard: {
+		tier: "(PU)",
+	},
+	vulpixcyndaquil: {
+		tier: "(PU)",
+	},
+	cyndaquilvulpix: {
+		tier: "(PU)",
+	},
+	azurilltyrogue: {
+		tier: "(PU)",
+	},
+	tyrogueazurill: {
+		tier: "(PU)",
+	},
+	machopazurill: {
+		tier: "(PU)",
+	},
+	azurillmachop: {
+		tier: "(PU)",
+	},
+	azurillmankey: {
+		tier: "(PU)",
+	},
+	mankeyazurill: {
+		tier: "(PU)",
+	},
 };
