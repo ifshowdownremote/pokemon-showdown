@@ -13156,4 +13156,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	venusaurcharizard: {
 		tier: "(PU)",
 	},
+	ivysaurcharmander: {
+		tier: "(PU)",
+	},
 };

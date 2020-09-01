@@ -44158,4 +44158,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Monster", "Monster"],
 	},
+	ivysaurcharmander: {
+		num: 12458,
+		name: "ivysaurcharmander",
+		types: ["Grass", "Fire"],
+		baseStats: {hp: 53, atk: 55, def: 49, spa: 73, spd: 70, spe: 63},
+		abilities: {0: "Overgrow", 1: "Solar Power", H: "Chlorophyll"},
+		heightm: 0.8,
+		weightkg: 10.75,
+		color: "Green",
+		evos: ["CharmeleonVenusaur"],
+		eggGroups: ["Monster", "Monster"],
+	},
 };
