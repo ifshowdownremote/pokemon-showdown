@@ -13028,10 +13028,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	yanmaabra: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	abrayanma: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	happinymisdreavus: {
 		tier: "(PU)",
@@ -13046,31 +13046,31 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	pawniardmeowth: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	meowthpawniard: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	honedgedratini: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	dratinihonedge: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	sneaseltorchic: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	torchicsneasel: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	pawniardpawniard: {
 		tier: "(PU)",
 	},
 	vulpixcyndaquil: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	cyndaquilvulpix: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	azurilltyrogue: {
 		tier: "(PU)",
@@ -13118,6 +13118,42 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	sunkernhappiny: {
+		tier: "(PU)",
+	},
+	tentacruelaggron: {
+		tier: "(PU)",
+	},
+	tentacruelgolem: {
+		tier: "(PU)",
+	},
+	tentacruelmagnezone: {
+		tier: "(PU)",
+	},
+	tentacruelforretress: {
+		tier: "(PU)",
+	},
+	togekissarbok: {
+		tier: "(PU)",
+	},
+	slowpoketangela: {
+		tier: "(PU)",
+	},
+	blisseymew: {
+		tier: "(PU)",
+	},
+	mukmarowak: {
+		tier: "(PU)",
+	},
+	umbreonarbok: {
+		tier: "(PU)",
+	},
+	dragonitetyranitar: {
+		tier: "(PU)",
+	},
+	arbokumbreon: {
+		tier: "(PU)",
+	},
+	venusaurcharizard: {
 		tier: "(PU)",
 	},
 };
