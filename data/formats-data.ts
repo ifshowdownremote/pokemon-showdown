@@ -12731,7 +12731,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
                 tier: "PU",
         },
 	aegislashblaziken: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	blazikenaegislash: {
 		tier: "(PU)",
@@ -12857,7 +12857,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	aegislashgarchomp: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	garchompdoublade: {
 		tier: "(PU)",
@@ -12965,31 +12965,31 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	aegislashsylveon: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	aegislashleafeon: {
-		tier: "(PU)",
+		tier: "UU",
 	},
 	aegislashglaceon: {
-		tier: "(PU)",
+		tier: "UU",
 	},
 	aegislashvaporeon: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	aegislashjolteon: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	aegislashflareon: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	aegislashsandslash: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	aegislashmuk: {
 		tier: "(PU)",
 	},
 	aegislashjigglypuff: {
-		tier: "(PU)",
+		tier: "UU",
 	},        
 	aegislashfearow: {
                 tier: "NU",
@@ -13157,6 +13157,30 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	ivysaurcharmander: {
+		tier: "(PU)",
+	},
+	charmandercharizard: {
+		tier: "(PU)",
+	},
+	vulpixmisdreavus: {
+		tier: "(PU)",
+	},
+	misdreavusvulpix: {
+		tier: "(PU)",
+	},
+	vulpixmismagius: {
+		tier: "(PU)",
+	},
+	mismagiusvulpix: {
+		tier: "(PU)",
+	},
+	sneaseldiglett: {
+		tier: "(PU)",
+	},
+	diglettdratini: {
+		tier: "(PU)",
+	},
+	wynautgible: {
 		tier: "(PU)",
 	},
 };
