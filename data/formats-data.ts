@@ -13183,4 +13183,229 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	wynautgible: {
 		tier: "(PU)",
 	},
+	seelponyta: {
+		tier: "(PU)",
+	},
+	seelgeodude: {
+		tier: "(PU)",
+	},
+	seelonix: {
+		tier: "(PU)",
+	},
+	seelomanyte: {
+		tier: "(PU)",
+	},
+	seelnosepass: {
+		tier: "(PU)",
+	},
+	houndourmantyke: {
+		tier: "(PU)",
+	},
+	mantykehoundour: {
+		tier: "(PU)",
+	},
+	charmandermagnemite: {
+		tier: "LC",
+	},
+	magnemitebulbasaur: {
+		tier: "LC",
+	},
+	magnemitecharmander: {
+		tier: "LC",
+	},
+	bulbasaurmagnemite: {
+		tier: "LC",
+	},
+	totodilecranidos: {
+		tier: "(PU)",
+	},
+	sneaselcranidos: {
+		tier: "(PU)",
+	},
+	cranidostotodile: {
+		tier: "(PU)",
+	},
+	cranidossneasel: {
+		tier: "(PU)",
+	},
+	cranidostorchic: {
+		tier: "(PU)",
+	},
+	torchiccranidos: {
+		tier: "(PU)",
+	},
+	treeckogligar: {
+		tier: "(PU)",
+	},
+	gligartreecko: {
+		tier: "(PU)",
+	},
+	squirtletreecko: {
+		tier: "(PU)",
+	},
+	treeckosquirtle: {
+		tier: "(PU)",
+	},
+	squirtlegastly: {
+		tier: "(PU)",
+	},
+	gastlyomanyte: {
+		tier: "(PU)",
+	},
+	omanytegastly: {
+		tier: "(PU)",
+	},
+	azurillrhyhorn: {
+		tier: "LC",
+	},
+	rhyhornazurill: {
+		tier: "LC",
+	},
+	azurilldratini: {
+		tier: "(PU)",
+	},
+	dratiniazurill: {
+		tier: "(PU)",
+	},
+	poliwagcharmander: {
+		tier: "LC",
+	},
+	charmanderpoliwag: {
+		tier: "LC",
+	},
+	gastlyporygon: {
+		tier: "(PU)",
+	},
+	porygongastly: {
+		tier: "(PU)",
+	},
+	elekidmagby: {
+		tier: "(PU)",
+	},
+	cleffagible: {
+		tier: "(PU)",
+	},
+	abratotodile: {
+		tier: "(PU)",
+	},
+	totodileabra: {
+		tier: "(PU)",
+	},
+	gastlyabra: {
+		tier: "(PU)",
+	},
+	gastlytotodile: {
+		tier: "(PU)",
+	},
+	abragastly: {
+		tier: "(PU)",
+	},
+	totodilegastly: {
+		tier: "(PU)",
+	},
+	totodileyanma: {
+		tier: "(PU)",
+	},
+	yanmatotodile: {
+		tier: "(PU)",
+	},
+	onixmurkrow: {
+		tier: "(PU)",
+	},
+	murkrowonix: {
+		tier: "(PU)",
+	},
+	staryuabra: {
+		tier: "LC",
+	},
+	abrastaryu: {
+		tier: "LC",
+	},
+	gastlystaryu: {
+		tier: "(PU)",
+	},
+	staryugastly: {
+		tier: "(PU)",
+	},
+	staryuyanma: {
+		tier: "(PU)",
+	},
+	yanmastaryu: {
+		tier: "(PU)",
+	},
+	charmandersneasel: {
+		tier: "(PU)",
+	},
+	sneaselcharmander: {
+		tier: "(PU)",
+	},
+	sneaselduskull: {
+		tier: "(PU)",
+	},
+	duskullsneasel: {
+		tier: "(PU)",
+	},
+	dratinisneasel: {
+		tier: "(PU)",
+	},
+	sneaseldratini: {
+		tier: "(PU)",
+	},
+	sneasellarvitar: {
+		tier: "(PU)",
+	},
+	larvitareevee: {
+		tier: "LC",
+	},
+	larvitarsneasel: {
+		tier: "(PU)",
+	},
+	eeveelarvitar: {
+		tier: "LC",
+	},
+	duskulleevee: {
+		tier: "LC",
+	},
+	porygonduskull: {
+		tier: "LC",
+	},
+	eeveeduskull: {
+		tier: "LC",
+	},
+	duskullporygon: {
+		tier: "LC",
+	},
+	murkrownosepass: {
+		tier: "(PU)",
+	},
+	nosepassmurkrow: {
+		tier: "(PU)",
+	},
+	kabutosandshrew: {
+		tier: "(PU)",
+	},
+	anorithsandshrew: {
+		tier: "(PU)",
+	},
+	cranidossandshrew: {
+		tier: "(PU)",
+	},
+	larvitarteddiursa: {
+		tier: "(PU)",
+	},
+	teddiursalarvitar: {
+		tier: "(PU)",
+	},
+	murkrowshellder: {
+		tier: "(PU)",
+	},
+	mantykeshellder: {
+		tier: "LC",
+	},
+	mantykeomanyte: {
+		tier: "(PU)",
+	},
+	slowpoketentacool: {
+		tier: "LC",
+	},
 };
