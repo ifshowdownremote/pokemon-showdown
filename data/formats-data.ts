@@ -13420,4 +13420,103 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	mismagiusmunchlax: {
 		tier: "(PU)",
 	},
+	drowzeecubone: {
+		tier: "(PU)",
+	},
+	drowzeedratini: {
+		tier: "(PU)",
+	},
+	dratinidrowzee: {
+		tier: "(PU)",
+	},
+	dratinicubone: {
+		tier: "(PU)",
+	},
+	cubonedratini: {
+		tier: "(PU)",
+	},
+	mantykegoldeen: {
+		tier: "LC",
+	},
+	mantykegrimer: {
+		tier: "(PU)",
+	},
+	voltorbgrowlithe: {
+		tier: "(PU)",
+	},
+	honedgeelekid: {
+		tier: "(PU)",
+	},
+	elekidhonedge: {
+		tier: "(PU)",
+	},
+	magbyhonedge: {
+		tier: "(PU)",
+	},
+	horseaigglybuff: {
+		tier: "LC",
+	},
+	horseahappiny: {
+		tier: "LC",
+	},
+	houndourdrowzee: {
+		tier: "(PU)",
+	},
+	houndoomyanma: {
+		tier: "(PU)",
+	},
+	yanmahoundoom: {
+		tier: "(PU)",
+	},
+	meowthcubone: {
+		tier: "LC",
+	},
+	cubonemeowth: {
+		tier: "LC",
+	},
+	munchlaxnatu: {
+		tier: "LC",
+	},
+	mantykeonix: {
+		tier: "LC",
+	},
+	pawniardonix: {
+		tier: "(PU)",
+	},
+	rattataekans: {
+		tier: "(PU)",
+	},
+	spinarakpineco: {
+		tier: "(PU)",
+	},
+	poliwagponyta: {
+		tier: "LC",
+	},
+	voltorbkoffing: {
+		tier: "(PU)",
+	},
+	voltorbekans: {
+		tier: "(PU)",
+	},
+	pikachukoffing: {
+		tier: "(PU)",
+	},
+	pichukoffing: {
+		tier: "LC",
+	},
+	voltorbslugma: {
+		tier: "(PU)",
+	},
+	tentacoolgrimer: {
+		tier: "(PU)",
+	},
+	tentacoollickitung: {
+		tier: "LC",
+	},
+	magnemitedrowzee: {
+		tier: "(PU)",
+	},
+	magnemitelickitung: {
+		tier: "LC",
+	},
 };
