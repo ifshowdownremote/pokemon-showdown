@@ -13346,7 +13346,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	dratinisneasel: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	sneaseldratini: {
 		tier: "(PU)",
@@ -13424,16 +13424,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	drowzeedratini: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	dratinidrowzee: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	dratinicubone: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	cubonedratini: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	mantykegoldeen: {
 		tier: "LC",
@@ -13448,10 +13448,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	elekidhonedge: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	magbyhonedge: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	horseaigglybuff: {
 		tier: "LC",
@@ -13487,7 +13487,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	spinarakpineco: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	poliwagponyta: {
 		tier: "LC",
@@ -13518,5 +13518,62 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	magnemitelickitung: {
 		tier: "LC",
+	},
+	bellsproutgrowlithe: {
+		tier: "(PU)",
+	},
+	goldeenmantyke: {
+		tier: "LC",
+	},
+	girafarigrapidash: {
+		tier: "(PU)",
+	},
+	gengargirafarig: {
+		tier: "(PU)",
+	},
+	psyduckexeggcute: {
+		tier: "LC",
+	},
+	spinarakgeodude: {
+		tier: "(PU)",
+	},
+	grimeronix: {
+		tier: "(PU)",
+	},
+	onixgrimer: {
+		tier: "(PU)",
+	},
+	vulpixgrowlithe: {
+		tier: "LC",
+	},
+	magbygrimer: {
+		tier: "(PU)",
+	},
+	nidoranmsneasel: {
+		tier: "(PU)",
+	},
+	sneaselnidoranm: {
+		tier: "(PU)",
+	},
+	ekansnidoranm: {
+		tier: "(PU)",
+	},
+	nidoranmekans: {
+		tier: "(PU)",
+	},
+	nidoranmsandshrew: {
+		tier: "(PU)",
+	},
+	sandshrewnidoranm: {
+		tier: "(PU)",
+	},
+	diglettnidoranm: {
+		tier: "(PU)",
+	},
+	nidoranmdiglett: {
+		tier: "(PU)",
+	},
+	bidoofarceus: {
+		tier: "(PU)",
 	},
 };
