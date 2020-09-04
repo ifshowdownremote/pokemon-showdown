@@ -12794,7 +12794,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	sylveonarceus: {
-		tier: "(PU)",
+		tier: "Uber",
 	},
 	arcaninesylveon: {
 		tier: "OU",
@@ -13004,7 +13004,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Uber",
 	},
 	sylveonrayquaza: {
-		tier: "(PU)",
+		tier: "Uber",
 	},
 	torchicweavile: {
 		tier: "(PU)",
@@ -13574,6 +13574,105 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	bidoofarceus: {
+		tier: "(PU)",
+	},
+	muksalamence: {
+		tier: "(PU)",
+	},
+	mukgarchomp: {
+		tier: "(PU)",
+	},
+	qwilfishsalamence: {
+		tier: "(PU)",
+	},
+	squirtlegarchomp: {
+		tier: "(PU)",
+	},
+	weezingsalamence: {
+		tier: "(PU)",
+	},
+	weezinggarchomp: {
+		tier: "(PU)",
+	},
+	venusaursalamence: {
+		tier: "(PU)",
+	},
+	aipombidoof: {
+		tier: "(PU)",
+	},
+	clefairymewtwo: {
+		tier: "(PU)",
+	},
+	raichuaipom: {
+		tier: "(PU)",
+	},
+	aipomraichu: {
+		tier: "(PU)",
+	},
+	mewtwoclefairy: {
+		tier: "(PU)",
+	},
+	bidoofaipom: {
+		tier: "(PU)",
+	},
+	pawniardraichu: {
+		tier: "(PU)",
+	},
+	raichupawniard: {
+		tier: "(PU)",
+	},
+	aipomonix: {
+		tier: "(PU)",
+	},
+	onixaipom: {
+		tier: "(PU)",
+	},
+	kyogrecrobat: {
+		tier: "(PU)",
+	},
+	crobatkyogre: {
+		tier: "(PU)",
+	},
+	tentacruelkyogre: {
+		tier: "(PU)",
+	},
+	kyogretentacruel: {
+		tier: "(PU)",
+	},
+	hoohcrobat: {
+		tier: "(PU)",
+	},
+	crobathooh: {
+		tier: "(PU)",
+	},
+	natuonix: {
+		tier: "LC",
+	},
+	onixnatu: {
+		tier: "LC",
+	},
+	blastoisecharizard: {
+		tier: "(PU)",
+	},
+	blastoiselugia: {
+		tier: "(PU)",
+	},
+	lugiablastoise: {
+		tier: "(PU)",
+	},
+	gliscorblastoise: {
+		tier: "(PU)",
+	},
+	aerodactylhooh: {
+		tier: "(PU)",
+	},
+	aerodactylcrobat: {
+		tier: "(PU)",
+	},
+	aerodactylrayquaza: {
+		tier: "(PU)",
+	},
+	machoppawniard: {
 		tier: "(PU)",
 	},
 };
