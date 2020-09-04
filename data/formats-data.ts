@@ -13550,7 +13550,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	nidoranmsneasel: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	sneaselnidoranm: {
 		tier: "(PU)",
@@ -13559,10 +13559,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	nidoranmekans: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	nidoranmsandshrew: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	sandshrewnidoranm: {
 		tier: "(PU)",
@@ -13571,7 +13571,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	nidoranmdiglett: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	bidoofarceus: {
 		tier: "(PU)",
