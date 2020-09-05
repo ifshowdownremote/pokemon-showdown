@@ -13723,4 +13723,52 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	mimejrcubone: {
 		tier: "LC",
 	},
+	grimerteddiursa: {
+		tier: "(PU)",
+	},
+	wooperteddiursa: {
+		tier: "(PU)",
+	},
+	grimerbonsly: {
+		tier: "(PU)",
+	},
+	charmanderabra: {
+		tier: "LC",
+	},
+	charmandergastly: {
+		tier: "(PU)",
+	},
+	charmandercharmander: {
+		tier: "LC",
+	},
+	charmandertentacool: {
+		tier: "LC",
+	},
+	charmandertreecko: {
+		tier: "(PU)",
+	},
+	venonatabra: {
+		tier: "(PU)",
+	},
+	voltorbcharmander: {
+		tier: "(PU)",
+	},
+	charmandervoltorb: {
+		tier: "(PU)",
+	},
+	tentacoolsquirtle: {
+		tier: "LC",
+	},
+	tyranitarmachamp: {
+		tier: "(PU)",
+	},
+	machamptyranitar: {
+		tier: "(PU)",
+	},
+	mamoswinerhyperior: {
+		tier: "(PU)",
+	},
+	rhyperiormamoswine: {
+		tier: "(PU)",
+	},
 };
