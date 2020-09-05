@@ -13702,4 +13702,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	dodrioaggron: {
 		tier: "(PU)",
 	},
+	aipomcubone: {
+		tier: "(PU)",
+	},
+	cuboneaipom: {
+		tier: "(PU)",
+	},
+	beldumgible: {
+		tier: "(PU)",
+	},
+	giblebeldum: {
+		tier: "(PU)",
+	},
+	gabitebeldum: {
+		tier: "(PU)",
+	},
+	beldumgabite: {
+		tier: "(PU)",
+	},
 };
