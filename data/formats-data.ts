@@ -13169,10 +13169,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	vulpixmismagius: {
-		tier: "(PU)",
+		tier: "RU",
 	},
 	mismagiusvulpix: {
-		tier: "LC",
+		tier: "RU",
 	},
 	sneaseldiglett: {
 		tier: "LC",
@@ -13679,6 +13679,27 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	rampardosklinklang: {
+		tier: "(PU)",
+	},
+	rampardosaerodactyl: {
+		tier: "(PU)",
+	},
+	aerodactylrampardos: {
+		tier: "(PU)",
+	},
+	weavileaerodactyl: {
+		tier: "(PU)",
+	},
+	rampardosweavile: {
+		tier: "(PU)",
+	},
+	weavilerampardos: {
+		tier: "(PU)",
+	},
+	aerodactylweavile: {
+		tier: "(PU)",
+	},
+	dodrioaggron: {
 		tier: "(PU)",
 	},
 };
