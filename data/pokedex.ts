@@ -46384,4 +46384,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["GarchompMetang"],
 		eggGroups: ["Monster", "Mineral"],
 	},
+	mimejrcubone: {
+		num: 12646,
+		name: "mimejrcubone",
+		types: ["Psychic", "Ground"],
+		baseStats: {hp: 30, atk: 41, def: 78, spa: 60, spd: 76, spe: 43},
+		abilities: {0: "Soundproof", 1: "Lightning Rod", H: "Technician"},
+		heightm: 0.5,
+		weightkg: 9.75,
+		color: "Pink",
+		evos: ["MarowakMr. MimeMarowak-AlolaMr. Mime-Galar"],
+		eggGroups: ["Monster", "Undiscovered"],
+	},
 };

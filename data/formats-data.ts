@@ -13720,4 +13720,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	beldumgabite: {
 		tier: "(PU)",
 	},
+	mimejrcubone: {
+		tier: "LC",
+	},
 };
