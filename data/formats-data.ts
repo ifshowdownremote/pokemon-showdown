@@ -13771,4 +13771,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	rhyperiormamoswine: {
 		tier: "(PU)",
 	},
+	hitmonleeskarmory: {
+		tier: "(PU)",
+	},
+	skarmoryhitmonlee: {
+		tier: "(PU)",
+	},
+	bulbasauronix: {
+		tier: "LC",
+	},
+	squirtleonix: {
+		tier: "LC",
+	},
+	squirtlegeodude: {
+		tier: "(PU)",
+	},
+	tentacoolgeodude: {
+		tier: "(PU)",
+	},
 };
