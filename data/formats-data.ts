@@ -13789,4 +13789,88 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	tentacoolgeodude: {
 		tier: "(PU)",
 	},
+	tentacoolrhydon: {
+		tier: "(PU)",
+	},
+	reshiramferaligatr: {
+		tier: "(PU)",
+	},
+	feraligatrreshiram: {
+		tier: "(PU)",
+	},
+	tentacoolrhyhorn: {
+		tier: "LC",
+	},
+	doduogrowlithe: {
+		tier: "LC",
+	},
+	growlithedoduo: {
+		tier: "LC",
+	},
+	doduokrabby: {
+		tier: "LC",
+	},
+	krabbydoduo: {
+		tier: "LC",
+	},
+	spinarakkoffing: {
+		tier: "LC",
+	},
+	koffingspinarak: {
+		tier: "LC",
+	},
+	tentacoolkoffing: {
+		tier: "LC",
+	},
+	koffingtentacool: {
+		tier: "LC",
+	},
+	mantykekoffing: {
+		tier: "LC",
+	},
+	koffingvoltorb: {
+		tier: "LC",
+	},
+	koffingmantyke: {
+		tier: "LC",
+	},
+	gastlykoffing: {
+		tier: "LC",
+	},
+	misdreavuskoffing: {
+		tier: "LC",
+	},
+	koffingmuk: {
+		tier: "(PU)",
+	},
+	mukkoffing: {
+		tier: "(PU)",
+	},
+	abramisdreavus: {
+		tier: "LC",
+	},
+	misdreavusabra: {
+		tier: "LC",
+	},
+	krabbylarvitar: {
+		tier: "LC",
+	},
+	larvitarkrabby: {
+		tier: "LC",
+	},
+	mantykemagnemite: {
+		tier: "LC",
+	},
+	hoppipphanpy: {
+		tier: "LC",
+	},
+	hoppipkrabby: {
+		tier: "LC",
+	},
+	hoppipmunchlax: {
+		tier: "LC",
+	},
+	hoppiponix: {
+		tier: "LC",
+	},
 };
