@@ -13873,4 +13873,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	hoppiponix: {
 		tier: "LC",
 	},
+	suicunedragonite: {
+		tier: "(PU)",
+	},
+	vaporeondragonite: {
+		tier: "(PU)",
+	},
+	poliwrathdragonite: {
+		tier: "(PU)",
+	},
+	lanturndragonite: {
+		tier: "(PU)",
+	},
+	quagsiredragonite: {
+		tier: "(PU)",
+	},
+	kyogredragonite: {
+		tier: "(PU)",
+	},
 };
