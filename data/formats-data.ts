@@ -13891,4 +13891,25 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	kyogredragonite: {
 		tier: "(PU)",
 	},
+	wynautmisdreavus: {
+		tier: "LC",
+	},
+	misdreavuswynaut: {
+		tier: "LC",
+	},
+	wynautcubone: {
+		tier: "LC",
+	},
+	misdreavustangela: {
+		tier: "(PU)",
+	},
+	slowbroporygon: {
+		tier: "(PU)",
+	},
+	slowbroduskull: {
+		tier: "(PU)",
+	},
+	slowbronosepass: {
+		tier: "(PU)",
+	},
 };
