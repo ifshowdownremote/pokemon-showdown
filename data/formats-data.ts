@@ -13930,4 +13930,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	porygonslowpoke: {
 		tier: "LC",
 	},
+	machamprhydon: {
+		tier: "(PU)",
+	},
+	rhydonmachamp: {
+		tier: "(PU)",
+	},
 };
