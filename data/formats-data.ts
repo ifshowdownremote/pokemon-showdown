@@ -13912,4 +13912,22 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	slowbronosepass: {
 		tier: "(PU)",
 	},
+	slowpokenosepass: {
+		tier: "LC",
+	},
+	nosepassslowpoke: {
+		tier: "LC",
+	},
+	slowpokeduskull: {
+		tier: "LC",
+	},
+	slowpokeporygon: {
+		tier: "LC",
+	},
+	duskullslowpoke: {
+		tier: "LC",
+	},
+	porygonslowpoke: {
+		tier: "LC",
+	},
 };
