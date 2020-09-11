@@ -13954,4 +13954,115 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	banettevolcarona: {
 		tier: "(PU)",
 	},
+	gastlylitwick: {
+		tier: "LC",
+	},
+	volcaronasteelix: {
+		tier: "(PU)",
+	},
+	volcaronachandelure: {
+		tier: "(PU)",
+	},
+	chandelurevolcarona: {
+		tier: "(PU)",
+	},
+	chandelurebreloom: {
+		tier: "(PU)",
+	},
+	lopunnyraichu: {
+		tier: "(PU)",
+	},
+	raichulopunny: {
+		tier: "(PU)",
+	},
+	garchomplopunny: {
+		tier: "(PU)",
+	},
+	lopunnygarchomp: {
+		tier: "(PU)",
+	},
+	volcaronaraichu: {
+		tier: "(PU)",
+	},
+	klefkiraichu: {
+		tier: "(PU)",
+	},
+	mimikyuraichu: {
+		tier: "(PU)",
+	},
+	raichuklefki: {
+		tier: "(PU)",
+	},
+	raichumimikyu: {
+		tier: "(PU)",
+	},
+	raichuvolcarona: {
+		tier: "(PU)",
+	},
+	raichuchandelure: {
+		tier: "(PU)",
+	},
+	chandelureraichu: {
+		tier: "(PU)",
+	},
+	latiasraichu: {
+		tier: "(PU)",
+	},
+	raichulatias: {
+		tier: "(PU)",
+	},
+	latiosraichu: {
+		tier: "(PU)",
+	},
+	raichulatios: {
+		tier: "(PU)",
+	},
+	krookodileraichu: {
+		tier: "(PU)",
+	},
+	raichukrookodile: {
+		tier: "(PU)",
+	},
+	rotomraichu: {
+		tier: "(PU)",
+	},
+	raichurotom: {
+		tier: "(PU)",
+	},
+	haxorusraichu: {
+		tier: "(PU)",
+	},
+	raichuhaxorus: {
+		tier: "(PU)",
+	},
+	golurkraichu: {
+		tier: "(PU)",
+	},
+	raichugolurk: {
+		tier: "(PU)",
+	},
+	talonflameraichu: {
+		tier: "(PU)",
+	},
+	hydreigonraichu: {
+		tier: "(PU)",
+	},
+	deoxysraichu: {
+		tier: "(PU)",
+	},
+	raichudeoxys: {
+		tier: "(PU)",
+	},
+	cofagrigusraichu: {
+		tier: "(PU)",
+	},
+	raichucofagrigus: {
+		tier: "(PU)",
+	},
+	ferrothornraichu: {
+		tier: "(PU)",
+	},
+	raichuferrothorn: {
+		tier: "(PU)",
+	},
 };
