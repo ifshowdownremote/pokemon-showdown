@@ -13942,4 +13942,16 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	charizardhydreigon: {
 		tier: "OU",
 	},
+	roseradewhimsicott: {
+		tier: "(PU)",
+	},
+	whimsicottroserade: {
+		tier: "(PU)",
+	},
+	hydreigoncharizard: {
+		tier: "(PU)",
+	},
+	banettevolcarona: {
+		tier: "(PU)",
+	},
 };
