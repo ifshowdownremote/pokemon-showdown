@@ -13936,4 +13936,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	rhydonmachamp: {
 		tier: "(PU)",
 	},
+	metapodhitmonchan: {
+		tier: "(PU)",
+	},
+	charizardhydreigon: {
+		tier: "(PU)",
+	},
 };
