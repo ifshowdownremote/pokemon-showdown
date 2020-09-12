@@ -14065,4 +14065,61 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	raichuferrothorn: {
 		tier: "(PU)",
 	},
+	breloomscizor: {
+		tier: "(PU)",
+	},
+	scizorbreloom: {
+		tier: "(PU)",
+	},
+	dusclopsferrothorn: {
+		tier: "(PU)",
+	},
+	ferrothorndusclops: {
+		tier: "(PU)",
+	},
+	chanseycofagrigus: {
+		tier: "(PU)",
+	},
+	volcaronawhimsicott: {
+		tier: "(PU)",
+	},
+	whimsicottvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronahydreigon: {
+		tier: "(PU)",
+	},
+	klinklangmimikyu: {
+		tier: "(PU)",
+	},
+	hydreigonvolcarona: {
+		tier: "(PU)",
+	},
+	drifblimdarkrai: {
+		tier: "(PU)",
+	},
+	darkraidrifblim: {
+		tier: "(PU)",
+	},
+	breloomferrothorn: {
+		tier: "(PU)",
+	},
+	ferrothorntangrowth: {
+		tier: "(PU)",
+	},
+	ferrothornhooh: {
+		tier: "(PU)",
+	},
+	hoohferrothorn: {
+		tier: "(PU)",
+	},
+	ferrothornlugia: {
+		tier: "(PU)",
+	},
+	slowkingferrothorn: {
+		tier: "(PU)",
+	},
+	ferrothornslowbro: {
+		tier: "(PU)",
+	},
 };
