@@ -12803,7 +12803,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	sylveonentei: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	sylveonlucario: {
 		tier: "(PU)",
@@ -12833,7 +12833,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	mewcelebi: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	gliscorskarmory: {
 		tier: "UU",
@@ -13412,7 +13412,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	munchlaxmisdreavus: {
-		tier: "(PU)",
+		tier: "LC",
 	},
 	munchlaxmismagius: {
 		tier: "(PU)",
@@ -13466,7 +13466,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	yanmahoundoom: {
-		tier: "(PU)",
+		tier: "PU",
 	},
 	meowthcubone: {
 		tier: "LC",
@@ -13595,7 +13595,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	venusaursalamence: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	aipombidoof: {
 		tier: "LC",
@@ -13631,19 +13631,19 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	crobatkyogre: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	tentacruelkyogre: {
 		tier: "(PU)",
 	},
 	kyogretentacruel: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	hoohcrobat: {
 		tier: "OU",
 	},
 	crobathooh: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	natuonix: {
 		tier: "LC",
@@ -13655,10 +13655,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	blastoiselugia: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	lugiablastoise: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	gliscorblastoise: {
 		tier: "(PU)",
@@ -13670,7 +13670,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	aerodactylrayquaza: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	machoppawniard: {
 		tier: "LC",
@@ -13796,7 +13796,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	feraligatrreshiram: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	tentacoolrhyhorn: {
 		tier: "LC",
@@ -13874,10 +13874,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	suicunedragonite: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	vaporeondragonite: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	poliwrathdragonite: {
 		tier: "(PU)",
@@ -13949,7 +13949,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	hydreigoncharizard: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	banettevolcarona: {
 		tier: "(PU)",
@@ -13967,7 +13967,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	chandelurebreloom: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	lopunnyraichu: {
 		tier: "(PU)",
@@ -14087,7 +14087,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	volcaronahydreigon: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	klinklangmimikyu: {
 		tier: "(PU)",
@@ -14114,12 +14114,33 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	ferrothornlugia: {
-		tier: "(PU)",
+		tier: "OU",
 	},
 	slowkingferrothorn: {
 		tier: "(PU)",
 	},
 	ferrothornslowbro: {
+		tier: "(PU)",
+	},
+	chandelureexeggutor: {
+		tier: "(PU)",
+	},
+	exeggutorchandelure: {
+		tier: "(PU)",
+	},
+	chandelurevenusaur: {
+		tier: "(PU)",
+	},
+	venusaurchandelure: {
+		tier: "(PU)",
+	},
+	chandeluresteelix: {
+		tier: "(PU)",
+	},
+	chandelureforretress: {
+		tier: "(PU)",
+	},
+	chandelureaggron: {
 		tier: "(PU)",
 	},
 };
