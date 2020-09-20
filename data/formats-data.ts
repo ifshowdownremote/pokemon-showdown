@@ -13415,7 +13415,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "LC",
 	},
 	munchlaxmismagius: {
-		tier: "(PU)",
+		tier: "PU",
 	},
 	mismagiusmunchlax: {
 		tier: "PU",
@@ -13586,7 +13586,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	squirtlegarchomp: {
-		tier: "(PU)",
+		tier: "PU",
 	},
 	weezingsalamence: {
 		tier: "(PU)",
