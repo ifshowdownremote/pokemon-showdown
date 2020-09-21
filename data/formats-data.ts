@@ -14143,4 +14143,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	chandelureaggron: {
 		tier: "(PU)",
 	},
+	pyukumukulapras: {
+		tier: "(PU)",
+	},
 };

@@ -47998,4 +47998,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Black",
 		eggGroups: ["Monster", "Amorphous"],
 	},
+	pyukumukulapras: {
+		num: 12790,
+		name: "pyukumukulapras",
+		types: ["Water", "Ice"],
+		baseStats: {hp: 80, atk: 76, def: 96, spa: 48, spd: 118, spe: 41},
+		abilities: {0: "Innards Out", 1: "Shell Armor", H: "Unaware"},
+		heightm: 1.4,
+		weightkg: 110.6,
+		color: "Black",
+		eggGroups: ["Monster", "Water 1"],
+	},
 };
