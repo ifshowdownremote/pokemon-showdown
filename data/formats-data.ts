@@ -14146,4 +14146,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	pyukumukulapras: {
 		tier: "(PU)",
 	},
+	charizardmachamp: {
+		tier: "(PU)",
+	},
 };

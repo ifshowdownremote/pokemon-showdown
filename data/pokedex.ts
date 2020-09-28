@@ -48009,4 +48009,15 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Black",
 		eggGroups: ["Monster", "Water 1"],
 	},
+	charizardmachamp: {
+		num: 12791,
+		name: "charizardmachamp",
+		types: ["Fire", "Fighting"],
+		baseStats: {hp: 82, atk: 114, def: 79, spa: 94, spd: 85, spe: 70},
+		abilities: {0: "Blaze", 1: "No Guard", H: "Solar Power"},
+		heightm: 1.65,
+		weightkg: 110.25,
+		color: "Red",
+		eggGroups: ["Human-Like", "Monster"],
+	},
 };
