@@ -47254,7 +47254,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		abilities: {0: "Blaze", 1: "Levitate", H: "Solar Power"},
 		heightm: 1.75,
 		weightkg: 125.25,
-		color: "Blue",
+		color: "Pink",
 		eggGroups: ["Dragon", "Monster"],
 	},
 	roseradewhimsicott: {
