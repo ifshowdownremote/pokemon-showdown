@@ -48017,7 +48017,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		abilities: {0: "Blaze", 1: "No Guard", H: "Solar Power"},
 		heightm: 1.65,
 		weightkg: 110.25,
-		color: "Red",
+		color: "Green",
 		eggGroups: ["Human-Like", "Monster"],
 	},
 };
