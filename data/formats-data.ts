@@ -7530,10 +7530,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	typhlosionraichu: {
 		tier: "OU",
-	},        
+	},
 	porygon2lugia: {
-                tier: "OU",
-        },
+		tier: "Uber",
+	},
 	porygonzlugia: {
 		tier: "OU",
 	},
@@ -11351,7 +11351,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	sceptilekyogre: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	umbreonkyogre: {
 		tier: "OU",
@@ -14147,6 +14147,7344 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "(PU)",
 	},
 	charizardmachamp: {
+		tier: "(PU)",
+	},
+	bulbasaurblastoise: {
+		tier: "(PU)",
+	},
+	wartortlebutterfree: {
+		tier: "(PU)",
+	},
+	tauroslanturn: {
+		tier: "(PU)",
+	},
+	venusaurazumarill: {
+		tier: "(PU)",
+	},
+	pidgeotazumarill: {
+		tier: "(PU)",
+	},
+	bulbasaurbulbasaur: {
+		tier: "LC",
+	},
+	infernapeditto: {
+		tier: "(PU)",
+	},
+	dodrioaerodactyl: {
+		tier: "(PU)",
+	},
+	zoroarklucario: {
+		tier: "(PU)",
+	},
+	dittoinfernape: {
+		tier: "(PU)",
+	},
+	lucariozoroark: {
+		tier: "(PU)",
+	},
+	aerodactyldodrio: {
+		tier: "(PU)",
+	},
+	zoroarkdarkrai: {
+		tier: "(PU)",
+	},
+	infernapecharizard: {
+		tier: "(PU)",
+	},
+	charizardinfernape: {
+		tier: "(PU)",
+	},
+	infernapeblaziken: {
+		tier: "(PU)",
+	},
+	bisharpregigigas: {
+		tier: "(PU)",
+	},
+	blazikeninfernape: {
+		tier: "(PU)",
+	},
+	shedinjaeevee: {
+		tier: "Uber",
+	},
+	ivysaurbulbasaur: {
+		tier: "(PU)",
+	},
+	weezingshuckle: {
+		tier: "(PU)",
+	},
+	charmeleonivysaur: {
+		tier: "(PU)",
+	},
+	aggrontyranitar: {
+		tier: "(PU)",
+	},
+	tangrowthbastiodon: {
+		tier: "(PU)",
+	},
+	tyranitaraggron: {
+		tier: "(PU)",
+	},
+	aggronazumarill: {
+		tier: "(PU)",
+	},
+	salamenceaggron: {
+		tier: "(PU)",
+	},
+	tangelacharizard: {
+		tier: "(PU)",
+	},
+	weedleraticate: {
+		tier: "(PU)",
+	},
+	piplupunown: {
+		tier: "(PU)",
+	},
+	slakinggroudon: {
+		tier: "(PU)",
+	},
+	venomothdarkrai: {
+		tier: "(PU)",
+	},
+	chandelurearceus: {
+		tier: "(PU)",
+	},
+	gyaradosmilotic: {
+		tier: "(PU)",
+	},
+	chandeluregroudon: {
+		tier: "(PU)",
+	},
+	groudonchandelure: {
+		tier: "(PU)",
+	},
+	galladebisharp: {
+		tier: "(PU)",
+	},
+	hitmonleekingler: {
+		tier: "(PU)",
+	},
+	tyranitargolurk: {
+		tier: "(PU)",
+	},
+	galvantulawigglytuff: {
+		tier: "(PU)",
+	},
+	hydreigonweezing: {
+		tier: "(PU)",
+	},
+	bulbasaurivysaur: {
+		tier: "(PU)",
+	},
+	snorlaxmrmime: {
+		tier: "(PU)",
+	},
+	dittodialga: {
+		tier: "(PU)",
+	},
+	darkraisylveon: {
+		tier: "(PU)",
+	},
+	bulbasaurcharmander: {
+		tier: "LC",
+	},
+	metapodcharmander: {
+		tier: "(PU)",
+	},
+	garchompclefable: {
+		tier: "(PU)",
+	},
+	sandslashweavile: {
+		tier: "(PU)",
+	},
+	squirtlecharmander: {
+		tier: "LC",
+	},
+	dusknoirgarchomp: {
+		tier: "(PU)",
+	},
+	dusclopsdarkrai: {
+		tier: "(PU)",
+	},
+	taurosmiltank: {
+		tier: "(PU)",
+	},
+	miltanktauros: {
+		tier: "(PU)",
+	},
+	dittoshedinja: {
+		tier: "Uber",
+	},
+	shedinjaditto: {
+		tier: "Uber",
+	},
+	kyuremroserade: {
+		tier: "(PU)",
+	},
+	gardevoirlopunny: {
+		tier: "(PU)",
+	},
+	magbysquirtle: {
+		tier: "LC",
+	},
+	lugiaporygon2: {
+		tier: "(PU)",
+	},
+	dusclopsporygon2: {
+		tier: "(PU)",
+	},
+	shuckledunsparce: {
+		tier: "(PU)",
+	},
+	dragonitecharizard: {
+		tier: "(PU)",
+	},
+	quilavasandshrew: {
+		tier: "(PU)",
+	},
+	venusaurmagnezone: {
+		tier: "(PU)",
+	},
+	lickitungrayquaza: {
+		tier: "(PU)",
+	},
+	lickilickyrayquaza: {
+		tier: "(PU)",
+	},
+	rayquazalickilicky: {
+		tier: "(PU)",
+	},
+	lickitunglickilicky: {
+		tier: "(PU)",
+	},
+	rayquazalickitung: {
+		tier: "(PU)",
+	},
+	metapodblastoise: {
+		tier: "(PU)",
+	},
+	zapdoskingdra: {
+		tier: "(PU)",
+	},
+	gyaradosmawile: {
+		tier: "(PU)",
+	},
+	lugiamewtwo: {
+		tier: "(PU)",
+	},
+	wailordvenusaur: {
+		tier: "(PU)",
+	},
+	wailordcharizard: {
+		tier: "(PU)",
+	},
+	wailordbutterfree: {
+		tier: "(PU)",
+	},
+	wailordblastoise: {
+		tier: "(PU)",
+	},
+	wailordalakazam: {
+		tier: "(PU)",
+	},
+	wailordbreloom: {
+		tier: "(PU)",
+	},
+	wailordcelebi: {
+		tier: "(PU)",
+	},
+	wailordcloyster: {
+		tier: "(PU)",
+	},
+	wailorddragonite: {
+		tier: "(PU)",
+	},
+	wailordespeon: {
+		tier: "(PU)",
+	},
+	wartortleblastoise: {
+		tier: "(PU)",
+	},
+	wailordferrothorn: {
+		tier: "(PU)",
+	},
+	wailordforretress: {
+		tier: "(PU)",
+	},
+	ampharosvolcarona: {
+		tier: "(PU)",
+	},
+	wailordgarchomp: {
+		tier: "(PU)",
+	},
+	wailordgyarados: {
+		tier: "(PU)",
+	},
+	wailordgengar: {
+		tier: "(PU)",
+	},
+	wailordgliscor: {
+		tier: "(PU)",
+	},
+	wailordhaxorus: {
+		tier: "(PU)",
+	},
+	wailordhydreigon: {
+		tier: "(PU)",
+	},
+	wailordinfernape: {
+		tier: "(PU)",
+	},
+	wailordferaligatr: {
+		tier: "(PU)",
+	},
+	wailordmeganium: {
+		tier: "(PU)",
+	},
+	wailordblaziken: {
+		tier: "(PU)",
+	},
+	wailordswampert: {
+		tier: "(PU)",
+	},
+	wailordempoleon: {
+		tier: "(PU)",
+	},
+	wailordtyphlosion: {
+		tier: "(PU)",
+	},
+	wailordsceptile: {
+		tier: "(PU)",
+	},
+	wailordtorterra: {
+		tier: "(PU)",
+	},
+	bulbasaurwartortle: {
+		tier: "LC",
+	},
+	wailordlatias: {
+		tier: "(PU)",
+	},
+	wailordlatios: {
+		tier: "(PU)",
+	},
+	wailordlucario: {
+		tier: "(PU)",
+	},
+	wailordmagnezone: {
+		tier: "(PU)",
+	},
+	wailordpolitoed: {
+		tier: "(PU)",
+	},
+	wailordninetales: {
+		tier: "(PU)",
+	},
+	ninetaleswailord: {
+		tier: "(PU)",
+	},
+	reunicluswailord: {
+		tier: "(PU)",
+	},
+	wailordrotom: {
+		tier: "(PU)",
+	},
+	wailordreuniclus: {
+		tier: "(PU)",
+	},
+	wailordsalamence: {
+		tier: "(PU)",
+	},
+	wailordskarmory: {
+		tier: "(PU)",
+	},
+	skarmorywailord: {
+		tier: "(PU)",
+	},
+	scizorwailord: {
+		tier: "(PU)",
+	},
+	wailordscizor: {
+		tier: "(PU)",
+	},
+	doubladechansey: {
+		tier: "(PU)",
+	},
+	electrodedeoxys: {
+		tier: "(PU)",
+	},
+	arceusmagikarp: {
+		tier: "(PU)",
+	},
+	wailordtyranitar: {
+		tier: "(PU)",
+	},
+	wailordvaporeon: {
+		tier: "(PU)",
+	},
+	furretvenusaur: {
+		tier: "(PU)",
+	},
+	chanseywailord: {
+		tier: "(PU)",
+	},
+	wailordchansey: {
+		tier: "(PU)",
+	},
+	wailordvolcarona: {
+		tier: "(PU)",
+	},
+	wailordblissey: {
+		tier: "(PU)",
+	},
+	wailorddonphan: {
+		tier: "(PU)",
+	},
+	wailorddugtrio: {
+		tier: "(PU)",
+	},
+	wailordjolteon: {
+		tier: "(PU)",
+	},
+	wailordmetagross: {
+		tier: "(PU)",
+	},
+	wailordchandelure: {
+		tier: "(PU)",
+	},
+	wailordkyurem: {
+		tier: "(PU)",
+	},
+	wailordwobbuffet: {
+		tier: "(PU)",
+	},
+	wailordazumarill: {
+		tier: "(PU)",
+	},
+	wailordarcanine: {
+		tier: "(PU)",
+	},
+	wailordbisharp: {
+		tier: "(PU)",
+	},
+	blastoisewailord: {
+		tier: "(PU)",
+	},
+	venusaurtalonflame: {
+		tier: "(PU)",
+	},
+	slowbrowailord: {
+		tier: "(PU)",
+	},
+	wailordslowbro: {
+		tier: "(PU)",
+	},
+	wailordcofagrigus: {
+		tier: "(PU)",
+	},
+	cofagriguswailord: {
+		tier: "(PU)",
+	},
+	pikachumimikyu: {
+		tier: "(PU)",
+	},
+	swampertivysaur: {
+		tier: "(PU)",
+	},
+	bisharprampardos: {
+		tier: "(PU)",
+	},
+	ivysaurswampert: {
+		tier: "(PU)",
+	},
+	charmanderbulbasaur: {
+		tier: "LC",
+	},
+	beedrillcharizard: {
+		tier: "(PU)",
+	},
+	venomothmetagross: {
+		tier: "(PU)",
+	},
+	mareepcharizard: {
+		tier: "(PU)",
+	},
+	furretgiratina: {
+		tier: "(PU)",
+	},
+	metapodvenusaur: {
+		tier: "(PU)",
+	},
+	beedrillgliscor: {
+		tier: "(PU)",
+	},
+	venusaurbulbasaur: {
+		tier: "(PU)",
+	},
+	gliscorbeedrill: {
+		tier: "(PU)",
+	},
+	pikachuraichu: {
+		tier: "(PU)",
+	},
+	raichupikachu: {
+		tier: "(PU)",
+	},
+	ivysaurcharizard: {
+		tier: "(PU)",
+	},
+	lucariopersian: {
+		tier: "(PU)",
+	},
+	charizardivysaur: {
+		tier: "(PU)",
+	},
+	beedrillsalamence: {
+		tier: "(PU)",
+	},
+	squirtlecharmeleon: {
+		tier: "(PU)",
+	},
+	aegislashlucario: {
+		tier: "(PU)",
+	},
+	charizardmetapod: {
+		tier: "(PU)",
+	},
+	charmeleonbulbasaur: {
+		tier: "(PU)",
+	},
+	charmanderweedle: {
+		tier: "LC",
+	},
+	miltankonix: {
+		tier: "(PU)",
+	},
+	rayquazalatios: {
+		tier: "(PU)",
+	},
+	rayquazaluxray: {
+		tier: "(PU)",
+	},
+	caterpieonix: {
+		tier: "LC",
+	},
+	bulbasaurcharmeleon: {
+		tier: "(PU)",
+	},
+	charmandercaterpie: {
+		tier: "LC",
+	},
+	caterpiecharmander: {
+		tier: "LC",
+	},
+	wailordsnorlax: {
+		tier: "(PU)",
+	},
+	meweevee: {
+		tier: "(PU)",
+	},
+	eeveemew: {
+		tier: "(PU)",
+	},
+	raichugengar: {
+		tier: "(PU)",
+	},
+	steelixtotodile: {
+		tier: "(PU)",
+	},
+	salamencemuk: {
+		tier: "(PU)",
+	},
+	mukpyukumuku: {
+		tier: "(PU)",
+	},
+	pyukumukumuk: {
+		tier: "(PU)",
+	},
+	dragoniteinfernape: {
+		tier: "(PU)",
+	},
+	ivysaurwartortle: {
+		tier: "(PU)",
+	},
+	garchompregigigas: {
+		tier: "(PU)",
+	},
+	infernapedragonite: {
+		tier: "(PU)",
+	},
+	kyurembeedrill: {
+		tier: "(PU)",
+	},
+	blastoisemetapod: {
+		tier: "(PU)",
+	},
+	regigigasgarchomp: {
+		tier: "(PU)",
+	},
+	machampregigigas: {
+		tier: "(PU)",
+	},
+	regigigasmachamp: {
+		tier: "(PU)",
+	},
+	gliscormuk: {
+		tier: "(PU)",
+	},
+	wartortlecaterpie: {
+		tier: "LC",
+	},
+	butterfreeivysaur: {
+		tier: "(PU)",
+	},
+	heracrossforretress: {
+		tier: "(PU)",
+	},
+	luxraysnorlax: {
+		tier: "(PU)",
+	},
+	blastoiseivysaur: {
+		tier: "(PU)",
+	},
+	charizardpidgeotto: {
+		tier: "(PU)",
+	},
+	ivysaurvenusaur: {
+		tier: "(PU)",
+	},
+	arceussunkern: {
+		tier: "(PU)",
+	},
+	garchompcaterpie: {
+		tier: "(PU)",
+	},
+	zekromregigigas: {
+		tier: "(PU)",
+	},
+	cyndaquilmagcargo: {
+		tier: "(PU)",
+	},
+	porygonporygonz: {
+		tier: "(PU)",
+	},
+	skarmoryhooh: {
+		tier: "(PU)",
+	},
+	shuckleditto: {
+		tier: "(PU)",
+	},
+	dittoshuckle: {
+		tier: "(PU)",
+	},
+	mukgliscor: {
+		tier: "(PU)",
+	},
+	blisseychansey: {
+		tier: "(PU)",
+	},
+	chanseyblissey: {
+		tier: "(PU)",
+	},
+	kyuremreshiram: {
+		tier: "(PU)",
+	},
+	reshiramkyurem: {
+		tier: "(PU)",
+	},
+	blastoisecharmander: {
+		tier: "(PU)",
+	},
+	metapodivysaur: {
+		tier: "(PU)",
+	},
+	metapodmetapod: {
+		tier: "(PU)",
+	},
+	venusaurcharmeleon: {
+		tier: "(PU)",
+	},
+	azumarillshuckle: {
+		tier: "(PU)",
+	},
+	slakinggengar: {
+		tier: "(PU)",
+	},
+	rayquazakyogre: {
+		tier: "(PU)",
+	},
+	bulbasaurvenusaur: {
+		tier: "(PU)",
+	},
+	venusaurivysaur: {
+		tier: "(PU)",
+	},
+	gyaradostyranitar: {
+		tier: "(PU)",
+	},
+	charizardferaligatr: {
+		tier: "(PU)",
+	},
+	espeonyanmega: {
+		tier: "(PU)",
+	},
+	feraligatrcharizard: {
+		tier: "(PU)",
+	},
+	krookodileswampert: {
+		tier: "(PU)",
+	},
+	groudonoddish: {
+		tier: "(PU)",
+	},
+	alakazamleafeon: {
+		tier: "(PU)",
+	},
+	darkraizekrom: {
+		tier: "(PU)",
+	},
+	salamencehydreigon: {
+		tier: "(PU)",
+	},
+	butterfreevenusaur: {
+		tier: "(PU)",
+	},
+	bellsproutdeoxys: {
+		tier: "(PU)",
+	},
+	hitmontopcrobat: {
+		tier: "(PU)",
+	},
+	crobathitmontop: {
+		tier: "(PU)",
+	},
+	dittometagross: {
+		tier: "(PU)",
+	},
+	drowzeeninetales: {
+		tier: "(PU)",
+	},
+	charmeleoncaterpie: {
+		tier: "(PU)",
+	},
+	arcanineregigigas: {
+		tier: "(PU)",
+	},
+	charizarddragonite: {
+		tier: "(PU)",
+	},
+	infernapeslaking: {
+		tier: "(PU)",
+	},
+	venusaurcharmander: {
+		tier: "(PU)",
+	},
+	gengarshedinja: {
+		tier: "Uber",
+	},
+	gengaralakazam: {
+		tier: "(PU)",
+	},
+	flygonscizor: {
+		tier: "(PU)",
+	},
+	scytherflygon: {
+		tier: "(PU)",
+	},
+	darkraibulbasaur: {
+		tier: "(PU)",
+	},
+	venomothtalonflame: {
+		tier: "(PU)",
+	},
+	corsolapidgey: {
+		tier: "(PU)",
+	},
+	pidgeycorsola: {
+		tier: "(PU)",
+	},
+	blastoisebutterfree: {
+		tier: "(PU)",
+	},
+	wigglytuffsnorlax: {
+		tier: "(PU)",
+	},
+	granbulldragonite: {
+		tier: "(PU)",
+	},
+	jigglypuffslaking: {
+		tier: "(PU)",
+	},
+	groudonarcanine: {
+		tier: "(PU)",
+	},
+	slakinggranbull: {
+		tier: "(PU)",
+	},
+	eeveemimikyu: {
+		tier: "(PU)",
+	},
+	ivysaurivysaur: {
+		tier: "(PU)",
+	},
+	gengarmetagross: {
+		tier: "(PU)",
+	},
+	gardevoirmetagross: {
+		tier: "(PU)",
+	},
+	squirtlevenusaur: {
+		tier: "(PU)",
+	},
+	arcaninearcanine: {
+		tier: "(PU)",
+	},
+	venusaurarcanine: {
+		tier: "(PU)",
+	},
+	charizardarceus: {
+		tier: "(PU)",
+	},
+	arceuscharizard: {
+		tier: "(PU)",
+	},
+	dusclopsflygon: {
+		tier: "(PU)",
+	},
+	gliscorflygon: {
+		tier: "(PU)",
+	},
+	sceptileflygon: {
+		tier: "(PU)",
+	},
+	dunsparcemetagross: {
+		tier: "(PU)",
+	},
+	chandelurezoroark: {
+		tier: "(PU)",
+	},
+	metagrosssalamence: {
+		tier: "(PU)",
+	},
+	pinsirbreloom: {
+		tier: "(PU)",
+	},
+	gardevoirmisdreavus: {
+		tier: "(PU)",
+	},
+	salamencekyogre: {
+		tier: "(PU)",
+	},
+	charizardmetagross: {
+		tier: "(PU)",
+	},
+	metagrosscharizard: {
+		tier: "(PU)",
+	},
+	typhlosionampharos: {
+		tier: "(PU)",
+	},
+	roseradedarkrai: {
+		tier: "(PU)",
+	},
+	volcaronaelectrode: {
+		tier: "(PU)",
+	},
+	bulbasaurpikachu: {
+		tier: "(PU)",
+	},
+	zoroarkweavile: {
+		tier: "(PU)",
+	},
+	dittoivysaur: {
+		tier: "(PU)",
+	},
+	charmandermew: {
+		tier: "(PU)",
+	},
+	mewcharmander: {
+		tier: "(PU)",
+	},
+	aipomdugtrio: {
+		tier: "(PU)",
+	},
+	charmeleonsquirtle: {
+		tier: "(PU)",
+	},
+	shedinjaslaking: {
+		tier: "Uber",
+	},
+	galladegardevoir: {
+		tier: "(PU)",
+	},
+	mukmagnezone: {
+		tier: "(PU)",
+	},
+	mukmagneton: {
+		tier: "(PU)",
+	},
+	gengarmewtwo: {
+		tier: "(PU)",
+	},
+	alakazamgardevoir: {
+		tier: "(PU)",
+	},
+	sandslashscizor: {
+		tier: "(PU)",
+	},
+	scizorcharizard: {
+		tier: "(PU)",
+	},
+	dragoniteweavile: {
+		tier: "(PU)",
+	},
+	beedrillbutterfree: {
+		tier: "(PU)",
+	},
+	weedlebeedrill: {
+		tier: "(PU)",
+	},
+	rhyperiorpidgeot: {
+		tier: "(PU)",
+	},
+	ivysaurcharmeleon: {
+		tier: "(PU)",
+	},
+	ivysaursquirtle: {
+		tier: "(PU)",
+	},
+	arceusdragonite: {
+		tier: "(PU)",
+	},
+	dragonitearceus: {
+		tier: "(PU)",
+	},
+	zoroarkarceus: {
+		tier: "(PU)",
+	},
+	steelixhoundoom: {
+		tier: "(PU)",
+	},
+	nidoqueencharizard: {
+		tier: "(PU)",
+	},
+	aipomtorterra: {
+		tier: "(PU)",
+	},
+	dittomew: {
+		tier: "(PU)",
+	},
+	flareonjolteon: {
+		tier: "(PU)",
+	},
+	umbreonjolteon: {
+		tier: "(PU)",
+	},
+	sylveonjolteon: {
+		tier: "(PU)",
+	},
+	dittoblissey: {
+		tier: "(PU)",
+	},
+	charmeleonbeedrill: {
+		tier: "(PU)",
+	},
+	beedrillcharmeleon: {
+		tier: "(PU)",
+	},
+	blastoisevenusaur: {
+		tier: "(PU)",
+	},
+	venusauraggron: {
+		tier: "(PU)",
+	},
+	magnemiteonix: {
+		tier: "LC",
+	},
+	squirtlewartortle: {
+		tier: "LC",
+	},
+	garchomptyphlosion: {
+		tier: "(PU)",
+	},
+	shuckleforretress: {
+		tier: "(PU)",
+	},
+	forretressshuckle: {
+		tier: "(PU)",
+	},
+	forretressgalvantula: {
+		tier: "(PU)",
+	},
+	galvantulaforretress: {
+		tier: "(PU)",
+	},
+	jolteonabsol: {
+		tier: "(PU)",
+	},
+	butterfreedusknoir: {
+		tier: "(PU)",
+	},
+	butterfreedarkrai: {
+		tier: "(PU)",
+	},
+	roseradechandelure: {
+		tier: "(PU)",
+	},
+	chandelureroserade: {
+		tier: "(PU)",
+	},
+	charizardcaterpie: {
+		tier: "(PU)",
+	},
+	gardevoirpidgeot: {
+		tier: "(PU)",
+	},
+	gardevoirzapdos: {
+		tier: "(PU)",
+	},
+	zapdosgardevoir: {
+		tier: "(PU)",
+	},
+	weedlesteelix: {
+		tier: "(PU)",
+	},
+	gardevoirbastiodon: {
+		tier: "(PU)",
+	},
+	bastiodongardevoir: {
+		tier: "(PU)",
+	},
+	shedinjaspiritomb: {
+		tier: "Uber",
+	},
+	gardevoirstarmie: {
+		tier: "(PU)",
+	},
+	starmiegardevoir: {
+		tier: "(PU)",
+	},
+	steelixrayquaza: {
+		tier: "(PU)",
+	},
+	wartortlecharizard: {
+		tier: "(PU)",
+	},
+	charizardcharizard: {
+		tier: "(PU)",
+	},
+	dunsparcecharizard: {
+		tier: "(PU)",
+	},
+	charizarddunsparce: {
+		tier: "(PU)",
+	},
+	eeveecombusken: {
+		tier: "(PU)",
+	},
+	deoxysrayquaza: {
+		tier: "(PU)",
+	},
+	yanmegadragonite: {
+		tier: "(PU)",
+	},
+	dragoniteyanmega: {
+		tier: "(PU)",
+	},
+	lucarioaegislash: {
+		tier: "(PU)",
+	},
+	aegislashpidgeot: {
+		tier: "(PU)",
+	},
+	yanmegagardevoir: {
+		tier: "(PU)",
+	},
+	gardevoiryanmega: {
+		tier: "(PU)",
+	},
+	gardevoirdragonair: {
+		tier: "(PU)",
+	},
+	dragonairgardevoir: {
+		tier: "(PU)",
+	},
+	raltsmew: {
+		tier: "(PU)",
+	},
+	hoohgardevoir: {
+		tier: "(PU)",
+	},
+	gardevoirhooh: {
+		tier: "(PU)",
+	},
+	gengarclefable: {
+		tier: "(PU)",
+	},
+	gardevoirarcanine: {
+		tier: "(PU)",
+	},
+	arcaninegardevoir: {
+		tier: "(PU)",
+	},
+	rotomregigigas: {
+		tier: "(PU)",
+	},
+	regigigasrotom: {
+		tier: "(PU)",
+	},
+	rotomsceptile: {
+		tier: "(PU)",
+	},
+	sceptilerotom: {
+		tier: "(PU)",
+	},
+	dusclopsgliscor: {
+		tier: "(PU)",
+	},
+	scizorgliscor: {
+		tier: "(PU)",
+	},
+	bisharpgallade: {
+		tier: "(PU)",
+	},
+	galladebeedrill: {
+		tier: "(PU)",
+	},
+	scythergallade: {
+		tier: "(PU)",
+	},
+	galladescyther: {
+		tier: "(PU)",
+	},
+	scizorgallade: {
+		tier: "(PU)",
+	},
+	galladescizor: {
+		tier: "(PU)",
+	},
+	galladeaegislash: {
+		tier: "(PU)",
+	},
+	aegislashgallade: {
+		tier: "(PU)",
+	},
+	zekromgallade: {
+		tier: "(PU)",
+	},
+	galladezekrom: {
+		tier: "(PU)",
+	},
+	reshiramgardevoir: {
+		tier: "(PU)",
+	},
+	gardevoirreshiram: {
+		tier: "(PU)",
+	},
+	absolhydreigon: {
+		tier: "(PU)",
+	},
+	galladepalkia: {
+		tier: "(PU)",
+	},
+	dialgagardevoir: {
+		tier: "(PU)",
+	},
+	giratinagardevoir: {
+		tier: "(PU)",
+	},
+	galladeinfernape: {
+		tier: "(PU)",
+	},
+	chanseydialga: {
+		tier: "(PU)",
+	},
+	charmandercharmeleon: {
+		tier: "(PU)",
+	},
+	giratinaditto: {
+		tier: "(PU)",
+	},
+	galladeblaziken: {
+		tier: "(PU)",
+	},
+	galvantulaariados: {
+		tier: "(PU)",
+	},
+	ariadosgalvantula: {
+		tier: "(PU)",
+	},
+	slakinglopunny: {
+		tier: "(PU)",
+	},
+	snorlaxshedinja: {
+		tier: "Uber",
+	},
+	darkraismeargle: {
+		tier: "(PU)",
+	},
+	clefableaegislash: {
+		tier: "(PU)",
+	},
+	blisseyaegislash: {
+		tier: "(PU)",
+	},
+	gliscorweavile: {
+		tier: "(PU)",
+	},
+	pidgeotblaziken: {
+		tier: "(PU)",
+	},
+	blazikenpidgeot: {
+		tier: "(PU)",
+	},
+	mimikyubulbasaur: {
+		tier: "(PU)",
+	},
+	zekromreshiram: {
+		tier: "(PU)",
+	},
+	kyuremzekrom: {
+		tier: "(PU)",
+	},
+	zekromkyurem: {
+		tier: "(PU)",
+	},
+	kakunahitmontop: {
+		tier: "(PU)",
+	},
+	nidokingnidoqueen: {
+		tier: "(PU)",
+	},
+	darkraihitmonchan: {
+		tier: "(PU)",
+	},
+	blisseyforretress: {
+		tier: "(PU)",
+	},
+	forretressblissey: {
+		tier: "(PU)",
+	},
+	bulbasaurdragonite: {
+		tier: "(PU)",
+	},
+	darkraidoublade: {
+		tier: "(PU)",
+	},
+	giratinaarceus: {
+		tier: "(PU)",
+	},
+	blisseyshedinja: {
+		tier: "Uber",
+	},
+	dialgabisharp: {
+		tier: "(PU)",
+	},
+	palkiabisharp: {
+		tier: "(PU)",
+	},
+	darkraibisharp: {
+		tier: "(PU)",
+	},
+	torterraweezing: {
+		tier: "(PU)",
+	},
+	gengarrotom: {
+		tier: "(PU)",
+	},
+	doublademetagross: {
+		tier: "(PU)",
+	},
+	pichuarceus: {
+		tier: "(PU)",
+	},
+	chandelureheracross: {
+		tier: "(PU)",
+	},
+	lucarioazumarill: {
+		tier: "(PU)",
+	},
+	shucklesnorlax: {
+		tier: "(PU)",
+	},
+	azumarillpoliwrath: {
+		tier: "(PU)",
+	},
+	swinubvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronaswinub: {
+		tier: "(PU)",
+	},
+	kakunabeedrill: {
+		tier: "(PU)",
+	},
+	dittocharizard: {
+		tier: "(PU)",
+	},
+	dittomimikyu: {
+		tier: "(PU)",
+	},
+	pidgeycharizard: {
+		tier: "(PU)",
+	},
+	rampardosshuckle: {
+		tier: "(PU)",
+	},
+	misdreavusmimikyu: {
+		tier: "(PU)",
+	},
+	golemgeodude: {
+		tier: "(PU)",
+	},
+	geodudegolem: {
+		tier: "(PU)",
+	},
+	aegislashclefable: {
+		tier: "(PU)",
+	},
+	ferrothornclefable: {
+		tier: "(PU)",
+	},
+	clefableforretress: {
+		tier: "(PU)",
+	},
+	forretressclefable: {
+		tier: "(PU)",
+	},
+	clefableferrothorn: {
+		tier: "(PU)",
+	},
+	galladeelectivire: {
+		tier: "(PU)",
+	},
+	charmeleoncharmeleon: {
+		tier: "(PU)",
+	},
+	regigigasblaziken: {
+		tier: "(PU)",
+	},
+	blisseybastiodon: {
+		tier: "(PU)",
+	},
+	blazikenregigigas: {
+		tier: "(PU)",
+	},
+	poliwrathdugtrio: {
+		tier: "(PU)",
+	},
+	skarmoryferrothorn: {
+		tier: "(PU)",
+	},
+	quagsireferrothorn: {
+		tier: "(PU)",
+	},
+	celebidialga: {
+		tier: "(PU)",
+	},
+	dialgacelebi: {
+		tier: "(PU)",
+	},
+	shuckleaegislash: {
+		tier: "(PU)",
+	},
+	aegislashskarmory: {
+		tier: "(PU)",
+	},
+	charizardsquirtle: {
+		tier: "(PU)",
+	},
+	sylveonscizor: {
+		tier: "(PU)",
+	},
+	sylveonninetales: {
+		tier: "(PU)",
+	},
+	sunkernarceus: {
+		tier: "(PU)",
+	},
+	blastoisecharmeleon: {
+		tier: "(PU)",
+	},
+	poliwrathnidoking: {
+		tier: "(PU)",
+	},
+	azumarillmachamp: {
+		tier: "(PU)",
+	},
+	shedinjaninjask: {
+		tier: "Uber",
+	},
+	klefkisylveon: {
+		tier: "(PU)",
+	},
+	forretressshedinja: {
+		tier: "Uber",
+	},
+	chanseyvenusaur: {
+		tier: "(PU)",
+	},
+	caterpiecharizard: {
+		tier: "(PU)",
+	},
+	clefableonix: {
+		tier: "(PU)",
+	},
+	pidgeotgiratina: {
+		tier: "(PU)",
+	},
+	shucklescizor: {
+		tier: "(PU)",
+	},
+	aerodactyldialga: {
+		tier: "(PU)",
+	},
+	dialgaaerodactyl: {
+		tier: "(PU)",
+	},
+	sylveonaerodactyl: {
+		tier: "(PU)",
+	},
+	kyuremmetagross: {
+		tier: "(PU)",
+	},
+	metagrosskyurem: {
+		tier: "(PU)",
+	},
+	meganiumgengar: {
+		tier: "(PU)",
+	},
+	sylveonbulbasaur: {
+		tier: "(PU)",
+	},
+	furretslaking: {
+		tier: "(PU)",
+	},
+	arceuspalkia: {
+		tier: "(PU)",
+	},
+	venusaurvenusaur: {
+		tier: "(PU)",
+	},
+	bidoofcloyster: {
+		tier: "(PU)",
+	},
+	furretmachamp: {
+		tier: "(PU)",
+	},
+	dusclopsblissey: {
+		tier: "(PU)",
+	},
+	kecleonoctillery: {
+		tier: "(PU)",
+	},
+	ninjaskazumarill: {
+		tier: "(PU)",
+	},
+	kecleondeoxys: {
+		tier: "(PU)",
+	},
+	klinklanggroudon: {
+		tier: "(PU)",
+	},
+	genesectgliscor: {
+		tier: "(PU)",
+	},
+	volcaronagroudon: {
+		tier: "(PU)",
+	},
+	groudonvolcarona: {
+		tier: "(PU)",
+	},
+	blisseyregigigas: {
+		tier: "(PU)",
+	},
+	blastoisesquirtle: {
+		tier: "(PU)",
+	},
+	venomothsnorlax: {
+		tier: "(PU)",
+	},
+	squirtleblastoise: {
+		tier: "(PU)",
+	},
+	snorlaxvenomoth: {
+		tier: "(PU)",
+	},
+	blazikenrampardos: {
+		tier: "(PU)",
+	},
+	bisharpgiratina: {
+		tier: "(PU)",
+	},
+	giratinabisharp: {
+		tier: "(PU)",
+	},
+	arceusshedinja: {
+		tier: "Uber",
+	},
+	absolgyarados: {
+		tier: "(PU)",
+	},
+	gyaradosabsol: {
+		tier: "(PU)",
+	},
+	salamenceabsol: {
+		tier: "(PU)",
+	},
+	charmandersquirtle: {
+		tier: "LC",
+	},
+	talonflamerayquaza: {
+		tier: "(PU)",
+	},
+	rayquazatalonflame: {
+		tier: "(PU)",
+	},
+	shedinjaarceus: {
+		tier: "Uber",
+	},
+	onixmagnemite: {
+		tier: "LC",
+	},
+	ambipomweavile: {
+		tier: "(PU)",
+	},
+	weavileambipom: {
+		tier: "(PU)",
+	},
+	kecleongiratina: {
+		tier: "(PU)",
+	},
+	giratinakecleon: {
+		tier: "(PU)",
+	},
+	kecleonrayquaza: {
+		tier: "(PU)",
+	},
+	kecleonbanette: {
+		tier: "(PU)",
+	},
+	aegislashmurkrow: {
+		tier: "(PU)",
+	},
+	murkrowaegislash: {
+		tier: "(PU)",
+	},
+	murkrowwobbuffet: {
+		tier: "(PU)",
+	},
+	murkrowbanette: {
+		tier: "(PU)",
+	},
+	porygonzmewtwo: {
+		tier: "(PU)",
+	},
+	porygonzelectrode: {
+		tier: "(PU)",
+	},
+	reshiramquagsire: {
+		tier: "(PU)",
+	},
+	dunsparcegyarados: {
+		tier: "(PU)",
+	},
+	torterragyarados: {
+		tier: "(PU)",
+	},
+	reshiramgyarados: {
+		tier: "(PU)",
+	},
+	zekromgyarados: {
+		tier: "(PU)",
+	},
+	arceusgyarados: {
+		tier: "(PU)",
+	},
+	gyaradosdunsparce: {
+		tier: "(PU)",
+	},
+	quagsiregiratina: {
+		tier: "(PU)",
+	},
+	quagsirearceus: {
+		tier: "(PU)",
+	},
+	quagsireswampert: {
+		tier: "(PU)",
+	},
+	blazikenswampert: {
+		tier: "(PU)",
+	},
+	miltankswampert: {
+		tier: "(PU)",
+	},
+	sceptileblaziken: {
+		tier: "(PU)",
+	},
+	typhlosionalakazam: {
+		tier: "(PU)",
+	},
+	typhlosionninjask: {
+		tier: "(PU)",
+	},
+	typhlosionblaziken: {
+		tier: "(PU)",
+	},
+	spiritombdarkrai: {
+		tier: "(PU)",
+	},
+	darkraispiritomb: {
+		tier: "(PU)",
+	},
+	moltreszapdos: {
+		tier: "(PU)",
+	},
+	eeveelopunny: {
+		tier: "(PU)",
+	},
+	ferrothorngarchomp: {
+		tier: "(PU)",
+	},
+	squirtlebulbasaur: {
+		tier: "LC",
+	},
+	arceusbidoof: {
+		tier: "(PU)",
+	},
+	spiritombscizor: {
+		tier: "(PU)",
+	},
+	regigigasregigigas: {
+		tier: "(PU)",
+	},
+	kyuremhooh: {
+		tier: "(PU)",
+	},
+	kyuremlugia: {
+		tier: "(PU)",
+	},
+	kyuremscizor: {
+		tier: "(PU)",
+	},
+	doubladescizor: {
+		tier: "(PU)",
+	},
+	mewtwozekrom: {
+		tier: "(PU)",
+	},
+	mewtworeshiram: {
+		tier: "(PU)",
+	},
+	metapodmetagross: {
+		tier: "(PU)",
+	},
+	zekromdoublade: {
+		tier: "(PU)",
+	},
+	zekromhonedge: {
+		tier: "(PU)",
+	},
+	kyuremmewtwo: {
+		tier: "(PU)",
+	},
+	zekromaegislash: {
+		tier: "(PU)",
+	},
+	zekrompalkia: {
+		tier: "(PU)",
+	},
+	zekromazumarill: {
+		tier: "(PU)",
+	},
+	zekromzapdos: {
+		tier: "(PU)",
+	},
+	zekromscyther: {
+		tier: "(PU)",
+	},
+	dialgareshiram: {
+		tier: "(PU)",
+	},
+	reshiramkyogre: {
+		tier: "(PU)",
+	},
+	reshiramdialga: {
+		tier: "(PU)",
+	},
+	reshiramaegislash: {
+		tier: "(PU)",
+	},
+	reshiramdoublade: {
+		tier: "(PU)",
+	},
+	reshiramhonedge: {
+		tier: "(PU)",
+	},
+	reshiramblaziken: {
+		tier: "(PU)",
+	},
+	reshiramhooh: {
+		tier: "(PU)",
+	},
+	reshiramzapdos: {
+		tier: "(PU)",
+	},
+	reshiramrapidash: {
+		tier: "(PU)",
+	},
+	genesectkyogre: {
+		tier: "(PU)",
+	},
+	genesectmewtwo: {
+		tier: "(PU)",
+	},
+	genesectmamoswine: {
+		tier: "(PU)",
+	},
+	darkraireshiram: {
+		tier: "(PU)",
+	},
+	darkraidialga: {
+		tier: "(PU)",
+	},
+	darkrailucario: {
+		tier: "(PU)",
+	},
+	darkraisceptile: {
+		tier: "(PU)",
+	},
+	darkraimewtwo: {
+		tier: "(PU)",
+	},
+	darkraiflareon: {
+		tier: "(PU)",
+	},
+	doubladeregigigas: {
+		tier: "(PU)",
+	},
+	regigigasdoublade: {
+		tier: "(PU)",
+	},
+	regigigasarceus: {
+		tier: "Uber",
+	},
+	regigigasgiratina: {
+		tier: "(PU)",
+	},
+	giratinaregigigas: {
+		tier: "(PU)",
+	},
+	giratinadialga: {
+		tier: "(PU)",
+	},
+	giratinarayquaza: {
+		tier: "(PU)",
+	},
+	palkiagiratina: {
+		tier: "(PU)",
+	},
+	kyogrepalkia: {
+		tier: "(PU)",
+	},
+	aegislashhitmonlee: {
+		tier: "(PU)",
+	},
+	dialgagirafarig: {
+		tier: "(PU)",
+	},
+	dialgadialga: {
+		tier: "(PU)",
+	},
+	aegislashaegislash: {
+		tier: "(PU)",
+	},
+	dialgacharizard: {
+		tier: "(PU)",
+	},
+	rayquazagenesect: {
+		tier: "(PU)",
+	},
+	rayquazagiratina: {
+		tier: "(PU)",
+	},
+	rayquazaarceus: {
+		tier: "Uber",
+	},
+	gyaradosrayquaza: {
+		tier: "(PU)",
+	},
+	groudonaegislash: {
+		tier: "(PU)",
+	},
+	groudonhonedge: {
+		tier: "(PU)",
+	},
+	groudondialga: {
+		tier: "(PU)",
+	},
+	groudondoublade: {
+		tier: "(PU)",
+	},
+	kyogredeoxys: {
+		tier: "(PU)",
+	},
+	zoroarkmewtwo: {
+		tier: "(PU)",
+	},
+	klinklangflygon: {
+		tier: "(PU)",
+	},
+	pyukumukukangaskhan: {
+		tier: "(PU)",
+	},
+	aggronkangaskhan: {
+		tier: "(PU)",
+	},
+	pyukumukukyogre: {
+		tier: "(PU)",
+	},
+	pyukumukuarceus: {
+		tier: "Uber",
+	},
+	bisharprapidash: {
+		tier: "(PU)",
+	},
+	bisharpmewtwo: {
+		tier: "(PU)",
+	},
+	bisharpgarchomp: {
+		tier: "(PU)",
+	},
+	aegislashzoroark: {
+		tier: "(PU)",
+	},
+	aegislashsalamence: {
+		tier: "(PU)",
+	},
+	aegislashbisharp: {
+		tier: "(PU)",
+	},
+	aegislashempoleon: {
+		tier: "(PU)",
+	},
+	aegislashinfernape: {
+		tier: "(PU)",
+	},
+	aegislashwailord: {
+		tier: "(PU)",
+	},
+	aegislashyanmega: {
+		tier: "(PU)",
+	},
+	aegislashelectivire: {
+		tier: "(PU)",
+	},
+	aegislashtyranitar: {
+		tier: "(PU)",
+	},
+	aegislashscizor: {
+		tier: "(PU)",
+	},
+	aegislashsnorlax: {
+		tier: "(PU)",
+	},
+	aegislashomastar: {
+		tier: "(PU)",
+	},
+	omastaraegislash: {
+		tier: "(PU)",
+	},
+	aegislashdodrio: {
+		tier: "(PU)",
+	},
+	aegislashfarfetchd: {
+		tier: "(PU)",
+	},
+	aegislashrapidash: {
+		tier: "(PU)",
+	},
+	aegislashmachamp: {
+		tier: "(PU)",
+	},
+	aegislashgrowlithe: {
+		tier: "(PU)",
+	},
+	aegislashnidoqueen: {
+		tier: "(PU)",
+	},
+	aegislashnidoking: {
+		tier: "(PU)",
+	},
+	aegislashaggron: {
+		tier: "(PU)",
+	},
+	doubladeaggron: {
+		tier: "(PU)",
+	},
+	doubladelucario: {
+		tier: "(PU)",
+	},
+	doublademachamp: {
+		tier: "(PU)",
+	},
+	doubladedodrio: {
+		tier: "(PU)",
+	},
+	doubladehitmonchan: {
+		tier: "(PU)",
+	},
+	doubladereshiram: {
+		tier: "(PU)",
+	},
+	doubladedialga: {
+		tier: "(PU)",
+	},
+	doubladepalkia: {
+		tier: "(PU)",
+	},
+	doubladearceus: {
+		tier: "Uber",
+	},
+	doubladeslaking: {
+		tier: "(PU)",
+	},
+	doubladeblissey: {
+		tier: "(PU)",
+	},
+	blisseydoublade: {
+		tier: "(PU)",
+	},
+	doubladegarchomp: {
+		tier: "(PU)",
+	},
+	doubladehooh: {
+		tier: "(PU)",
+	},
+	doubladeshedinja: {
+		tier: "Uber",
+	},
+	shedinjaaegislash: {
+		tier: "Uber",
+	},
+	shedinjadoublade: {
+		tier: "Uber",
+	},
+	arceusdunsparce: {
+		tier: "Uber",
+	},
+	dunsparcearceus: {
+		tier: "Uber",
+	},
+	genesectarceus: {
+		tier: "Uber",
+	},
+	arceusgenesect: {
+		tier: "Uber",
+	},
+	arceuskyogre: {
+		tier: "Uber",
+	},
+	arceuszoroark: {
+		tier: "Uber",
+	},
+	arceusaegislash: {
+		tier: "Uber",
+	},
+	arceusempoleon: {
+		tier: "Uber",
+	},
+	arceusinfernape: {
+		tier: "Uber",
+	},
+	arceusporygon: {
+		tier: "Uber",
+	},
+	arceusporygon2: {
+		tier: "Uber",
+	},
+	arceusporygonz: {
+		tier: "Uber",
+	},
+	arceusscizor: {
+		tier: "Uber",
+	},
+	arceusmew: {
+		tier: "Uber",
+	},
+	mewarceus: {
+		tier: "Uber",
+	},
+	mewtwoarceus: {
+		tier: "Uber",
+	},
+	arceusmewtwo: {
+		tier: "Uber",
+	},
+	arceustauros: {
+		tier: "Uber",
+	},
+	taurosarceus: {
+		tier: "Uber",
+	},
+	arceuskangaskhan: {
+		tier: "Uber",
+	},
+	kangaskhanarceus: {
+		tier: "Uber",
+	},
+	arceusgengar: {
+		tier: "Uber",
+	},
+	kangaskhancubone: {
+		tier: "(PU)",
+	},
+	kangaskhanmarowak: {
+		tier: "(PU)",
+	},
+	arceusdodrio: {
+		tier: "Uber",
+	},
+	arceushaunter: {
+		tier: "Uber",
+	},
+	rhydonscizor: {
+		tier: "(PU)",
+	},
+	mewtwokangaskhan: {
+		tier: "(PU)",
+	},
+	laprasmewtwo: {
+		tier: "(PU)",
+	},
+	mewtwolapras: {
+		tier: "(PU)",
+	},
+	mewtwoarticuno: {
+		tier: "(PU)",
+	},
+	articunomewtwo: {
+		tier: "(PU)",
+	},
+	mewtwozapdos: {
+		tier: "(PU)",
+	},
+	moltresmewtwo: {
+		tier: "(PU)",
+	},
+	zapdosmewtwo: {
+		tier: "(PU)",
+	},
+	mewtwomoltres: {
+		tier: "(PU)",
+	},
+	scizormewtwo: {
+		tier: "(PU)",
+	},
+	mewtwoscizor: {
+		tier: "(PU)",
+	},
+	mewtwoskarmory: {
+		tier: "(PU)",
+	},
+	skarmorymewtwo: {
+		tier: "(PU)",
+	},
+	mewtwoporygon2: {
+		tier: "(PU)",
+	},
+	mewtwolugia: {
+		tier: "(PU)",
+	},
+	mewtwoporygonz: {
+		tier: "(PU)",
+	},
+	infernapemewtwo: {
+		tier: "(PU)",
+	},
+	porygonmewtwo: {
+		tier: "(PU)",
+	},
+	porygon2mewtwo: {
+		tier: "(PU)",
+	},
+	mewtwoinfernape: {
+		tier: "(PU)",
+	},
+	mewtwogiratina: {
+		tier: "(PU)",
+	},
+	mewninetales: {
+		tier: "(PU)",
+	},
+	ninetalesmew: {
+		tier: "(PU)",
+	},
+	mewzapdos: {
+		tier: "(PU)",
+	},
+	mewscizor: {
+		tier: "(PU)",
+	},
+	aggronskarmory: {
+		tier: "(PU)",
+	},
+	mamoswineskarmory: {
+		tier: "(PU)",
+	},
+	skarmorymamoswine: {
+		tier: "(PU)",
+	},
+	skarmoryscizor: {
+		tier: "(PU)",
+	},
+	skarmoryzapdos: {
+		tier: "(PU)",
+	},
+	skarmorymoltres: {
+		tier: "(PU)",
+	},
+	moltresskarmory: {
+		tier: "(PU)",
+	},
+	articunoskarmory: {
+		tier: "(PU)",
+	},
+	skarmoryarticuno: {
+		tier: "(PU)",
+	},
+	skarmoryaerodactyl: {
+		tier: "(PU)",
+	},
+	aerodactylskarmory: {
+		tier: "(PU)",
+	},
+	garchompgenesect: {
+		tier: "(PU)",
+	},
+	palkiagarchomp: {
+		tier: "(PU)",
+	},
+	garchompluxray: {
+		tier: "(PU)",
+	},
+	luxraygarchomp: {
+		tier: "(PU)",
+	},
+	lucariogarchomp: {
+		tier: "(PU)",
+	},
+	garchomplucario: {
+		tier: "(PU)",
+	},
+	electiviregarchomp: {
+		tier: "(PU)",
+	},
+	garchompelectivire: {
+		tier: "(PU)",
+	},
+	marowakgarchomp: {
+		tier: "(PU)",
+	},
+	garchompnidoking: {
+		tier: "(PU)",
+	},
+	nidokinggarchomp: {
+		tier: "(PU)",
+	},
+	honedgenidoqueen: {
+		tier: "(PU)",
+	},
+	honedgenidoking: {
+		tier: "(PU)",
+	},
+	honedgemarowak: {
+		tier: "(PU)",
+	},
+	honedgecubone: {
+		tier: "LC",
+	},
+	honedgeporygon: {
+		tier: "LC",
+	},
+	honedgeporygonz: {
+		tier: "(PU)",
+	},
+	honedgeporygon2: {
+		tier: "(PU)",
+	},
+	honedgezapdos: {
+		tier: "(PU)",
+	},
+	magnezonemewtwo: {
+		tier: "(PU)",
+	},
+	klinklangmewtwo: {
+		tier: "(PU)",
+	},
+	klefkimewtwo: {
+		tier: "(PU)",
+	},
+	caterpiearceus: {
+		tier: "Uber",
+	},
+	ivysaurarceus: {
+		tier: "Uber",
+	},
+	arceusivysaur: {
+		tier: "Uber",
+	},
+	caterpiesquirtle: {
+		tier: "LC",
+	},
+	salamencebeedrill: {
+		tier: "(PU)",
+	},
+	caterpiewartortle: {
+		tier: "LC",
+	},
+	blastoisecaterpie: {
+		tier: "(PU)",
+	},
+	caterpieblastoise: {
+		tier: "(PU)",
+	},
+	dittoblaziken: {
+		tier: "(PU)",
+	},
+	blazikenditto: {
+		tier: "(PU)",
+	},
+	octilleryditto: {
+		tier: "(PU)",
+	},
+	dittooctillery: {
+		tier: "(PU)",
+	},
+	kyogremimikyu: {
+		tier: "(PU)",
+	},
+	ninjaskelectrode: {
+		tier: "(PU)",
+	},
+	electrodeninjask: {
+		tier: "(PU)",
+	},
+	charmanderhitmontop: {
+		tier: "(PU)",
+	},
+	breloomdarkrai: {
+		tier: "(PU)",
+	},
+	squirtlebutterfree: {
+		tier: "(PU)",
+	},
+	charmandermewtwo: {
+		tier: "(PU)",
+	},
+	reuniclusfurret: {
+		tier: "(PU)",
+	},
+	darkraidusknoir: {
+		tier: "(PU)",
+	},
+	darkraibreloom: {
+		tier: "(PU)",
+	},
+	nidokingdiglett: {
+		tier: "(PU)",
+	},
+	galladehaxorus: {
+		tier: "(PU)",
+	},
+	machampvolcarona: {
+		tier: "(PU)",
+	},
+	alakazamelectrode: {
+		tier: "(PU)",
+	},
+	tentacruelcharizard: {
+		tier: "(PU)",
+	},
+	tentacruelcharmander: {
+		tier: "(PU)",
+	},
+	tentacruelbulbasaur: {
+		tier: "(PU)",
+	},
+	bulbasaurelectabuzz: {
+		tier: "(PU)",
+	},
+	gengarmuk: {
+		tier: "(PU)",
+	},
+	giratinadusclops: {
+		tier: "(PU)",
+	},
+	dunsparcesunkern: {
+		tier: "(PU)",
+	},
+	dittozekrom: {
+		tier: "(PU)",
+	},
+	zekromditto: {
+		tier: "(PU)",
+	},
+	dittoarceus: {
+		tier: "Uber",
+	},
+	dittoreshiram: {
+		tier: "(PU)",
+	},
+	arceusditto: {
+		tier: "Uber",
+	},
+	reshiramditto: {
+		tier: "(PU)",
+	},
+	dialgaditto: {
+		tier: "(PU)",
+	},
+	dittopalkia: {
+		tier: "(PU)",
+	},
+	palkiaditto: {
+		tier: "(PU)",
+	},
+	regigigasditto: {
+		tier: "(PU)",
+	},
+	dittoregigigas: {
+		tier: "(PU)",
+	},
+	kecleonregigigas: {
+		tier: "(PU)",
+	},
+	celebirayquaza: {
+		tier: "(PU)",
+	},
+	garchompazumarill: {
+		tier: "(PU)",
+	},
+	blastoiseslaking: {
+		tier: "(PU)",
+	},
+	blastoiseregigigas: {
+		tier: "(PU)",
+	},
+	charmeleonblastoise: {
+		tier: "(PU)",
+	},
+	typhlosionshedinja: {
+		tier: "Uber",
+	},
+	shedinjatyphlosion: {
+		tier: "Uber",
+	},
+	gardevoirtogekiss: {
+		tier: "(PU)",
+	},
+	togekissgardevoir: {
+		tier: "(PU)",
+	},
+	galladetogekiss: {
+		tier: "(PU)",
+	},
+	gligargardevoir: {
+		tier: "(PU)",
+	},
+	togekissgallade: {
+		tier: "(PU)",
+	},
+	gardevoirgligar: {
+		tier: "(PU)",
+	},
+	gligargallade: {
+		tier: "(PU)",
+	},
+	galladegligar: {
+		tier: "(PU)",
+	},
+	meganiumgligar: {
+		tier: "(PU)",
+	},
+	togekissvileplume: {
+		tier: "(PU)",
+	},
+	electiviretogekiss: {
+		tier: "(PU)",
+	},
+	electiviredarkrai: {
+		tier: "(PU)",
+	},
+	electiviregardevoir: {
+		tier: "(PU)",
+	},
+	electiviregallade: {
+		tier: "(PU)",
+	},
+	clefablescizor: {
+		tier: "(PU)",
+	},
+	scizorclefable: {
+		tier: "(PU)",
+	},
+	dragoniteclefable: {
+		tier: "(PU)",
+	},
+	dragonitevenusaur: {
+		tier: "(PU)",
+	},
+	dragonitegallade: {
+		tier: "(PU)",
+	},
+	galladedragonite: {
+		tier: "(PU)",
+	},
+	typhlosiondragonite: {
+		tier: "(PU)",
+	},
+	typhlosiondarkrai: {
+		tier: "(PU)",
+	},
+	darkraityphlosion: {
+		tier: "(PU)",
+	},
+	blazikentyphlosion: {
+		tier: "(PU)",
+	},
+	blazikendarkrai: {
+		tier: "(PU)",
+	},
+	bellossomblaziken: {
+		tier: "(PU)",
+	},
+	blazikenbellossom: {
+		tier: "(PU)",
+	},
+	blazikendrifblim: {
+		tier: "(PU)",
+	},
+	drifblimblaziken: {
+		tier: "(PU)",
+	},
+	blazikenbeedrill: {
+		tier: "(PU)",
+	},
+	blazikenempoleon: {
+		tier: "(PU)",
+	},
+	empoleonblaziken: {
+		tier: "(PU)",
+	},
+	empoleonkyurem: {
+		tier: "(PU)",
+	},
+	mamoswinekyurem: {
+		tier: "(PU)",
+	},
+	mamoswineempoleon: {
+		tier: "(PU)",
+	},
+	mamoswinetogekiss: {
+		tier: "(PU)",
+	},
+	mismagiusgallade: {
+		tier: "(PU)",
+	},
+	gardevoirmismagius: {
+		tier: "(PU)",
+	},
+	gallademismagius: {
+		tier: "(PU)",
+	},
+	mismagiusgardevoir: {
+		tier: "(PU)",
+	},
+	mismagiusgligar: {
+		tier: "(PU)",
+	},
+	mismagiustogekiss: {
+		tier: "(PU)",
+	},
+	togekissmismagius: {
+		tier: "(PU)",
+	},
+	mismagiusvenusaur: {
+		tier: "(PU)",
+	},
+	mismagiusbutterfree: {
+		tier: "(PU)",
+	},
+	mismagiusempoleon: {
+		tier: "(PU)",
+	},
+	mismagiusvolcarona: {
+		tier: "(PU)",
+	},
+	butterfreemismagius: {
+		tier: "(PU)",
+	},
+	gardevoirvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronagardevoir: {
+		tier: "(PU)",
+	},
+	galladevolcarona: {
+		tier: "(PU)",
+	},
+	volcaronameganium: {
+		tier: "(PU)",
+	},
+	volcaronatyphlosion: {
+		tier: "(PU)",
+	},
+	typhlosionvolcarona: {
+		tier: "(PU)",
+	},
+	nidoqueentyphlosion: {
+		tier: "(PU)",
+	},
+	typhlosionnidoqueen: {
+		tier: "(PU)",
+	},
+	typhlosionwigglytuff: {
+		tier: "(PU)",
+	},
+	typhlosionaegislash: {
+		tier: "(PU)",
+	},
+	typhlosionninetales: {
+		tier: "(PU)",
+	},
+	ninetalestyphlosion: {
+		tier: "(PU)",
+	},
+	ninetalesmismagius: {
+		tier: "(PU)",
+	},
+	ninetalesmilotic: {
+		tier: "(PU)",
+	},
+	cranidosbisharp: {
+		tier: "(PU)",
+	},
+	ninetalesstarmie: {
+		tier: "(PU)",
+	},
+	starmieninetales: {
+		tier: "(PU)",
+	},
+	magnezonemismagius: {
+		tier: "(PU)",
+	},
+	mismagiusmagnezone: {
+		tier: "(PU)",
+	},
+	mismagiusmagcargo: {
+		tier: "(PU)",
+	},
+	mismagiusluxray: {
+		tier: "(PU)",
+	},
+	luxraymismagius: {
+		tier: "(PU)",
+	},
+	luxrayblaziken: {
+		tier: "(PU)",
+	},
+	blazikenluxray: {
+		tier: "(PU)",
+	},
+	lopunnyluxray: {
+		tier: "(PU)",
+	},
+	luxraylopunny: {
+		tier: "(PU)",
+	},
+	mismagiuslopunny: {
+		tier: "(PU)",
+	},
+	lopunnymismagius: {
+		tier: "(PU)",
+	},
+	lopunnyglaceon: {
+		tier: "(PU)",
+	},
+	lopunnyjolteon: {
+		tier: "(PU)",
+	},
+	lopunnyjumpluff: {
+		tier: "(PU)",
+	},
+	lopunnyumbreon: {
+		tier: "(PU)",
+	},
+	lopunnyespeon: {
+		tier: "(PU)",
+	},
+	lopunnyvaporeon: {
+		tier: "(PU)",
+	},
+	lopunnyleafeon: {
+		tier: "(PU)",
+	},
+	leafeonlopunny: {
+		tier: "(PU)",
+	},
+	espeonlopunny: {
+		tier: "(PU)",
+	},
+	glaceonlopunny: {
+		tier: "(PU)",
+	},
+	jolteonlopunny: {
+		tier: "(PU)",
+	},
+	vaporeonlopunny: {
+		tier: "(PU)",
+	},
+	blastoiselopunny: {
+		tier: "(PU)",
+	},
+	flareonlopunny: {
+		tier: "(PU)",
+	},
+	snorlaxlopunny: {
+		tier: "(PU)",
+	},
+	aegislashlopunny: {
+		tier: "(PU)",
+	},
+	wigglytufflopunny: {
+		tier: "(PU)",
+	},
+	butterfreelopunny: {
+		tier: "(PU)",
+	},
+	lopunnyabsol: {
+		tier: "(PU)",
+	},
+	absollopunny: {
+		tier: "(PU)",
+	},
+	luxrayreuniclus: {
+		tier: "(PU)",
+	},
+	absolluxray: {
+		tier: "(PU)",
+	},
+	luxrayabsol: {
+		tier: "(PU)",
+	},
+	luxrayninetales: {
+		tier: "(PU)",
+	},
+	luxrayespeon: {
+		tier: "(PU)",
+	},
+	krookodileferaligatr: {
+		tier: "(PU)",
+	},
+	absolninetales: {
+		tier: "(PU)",
+	},
+	absolespeon: {
+		tier: "(PU)",
+	},
+	luxrayreshiram: {
+		tier: "(PU)",
+	},
+	absolreshiram: {
+		tier: "(PU)",
+	},
+	absolgenesect: {
+		tier: "(PU)",
+	},
+	absolgallade: {
+		tier: "(PU)",
+	},
+	galladeabsol: {
+		tier: "(PU)",
+	},
+	sylveonlopunny: {
+		tier: "(PU)",
+	},
+	lopunnysylveon: {
+		tier: "(PU)",
+	},
+	sylveongardevoir: {
+		tier: "(PU)",
+	},
+	gardevoirsylveon: {
+		tier: "(PU)",
+	},
+	gardevoirflareon: {
+		tier: "(PU)",
+	},
+	gardevoirumbreon: {
+		tier: "(PU)",
+	},
+	gardevoirvaporeon: {
+		tier: "(PU)",
+	},
+	gardevoirjolteon: {
+		tier: "(PU)",
+	},
+	gardevoirespeon: {
+		tier: "(PU)",
+	},
+	gardevoirglaceon: {
+		tier: "(PU)",
+	},
+	glaceongardevoir: {
+		tier: "(PU)",
+	},
+	vaporeongardevoir: {
+		tier: "(PU)",
+	},
+	jolteongardevoir: {
+		tier: "(PU)",
+	},
+	espeongardevoir: {
+		tier: "(PU)",
+	},
+	umbreongardevoir: {
+		tier: "(PU)",
+	},
+	flareongardevoir: {
+		tier: "(PU)",
+	},
+	leafeongardevoir: {
+		tier: "(PU)",
+	},
+	arceusgiratina: {
+		tier: "Uber",
+	},
+	lickilickygardevoir: {
+		tier: "(PU)",
+	},
+	lickilickysnorlax: {
+		tier: "(PU)",
+	},
+	latioslapras: {
+		tier: "(PU)",
+	},
+	lapraslatias: {
+		tier: "(PU)",
+	},
+	latiaslapras: {
+		tier: "(PU)",
+	},
+	poliwrathabra: {
+		tier: "(PU)",
+	},
+	quagsirevolcarona: {
+		tier: "(PU)",
+	},
+	arcaninegallade: {
+		tier: "(PU)",
+	},
+	slakingblaziken: {
+		tier: "(PU)",
+	},
+	venusaursquirtle: {
+		tier: "(PU)",
+	},
+	latiasmawile: {
+		tier: "(PU)",
+	},
+	mawilelatias: {
+		tier: "(PU)",
+	},
+	latiosmawile: {
+		tier: "(PU)",
+	},
+	mawilelatios: {
+		tier: "(PU)",
+	},
+	mawiledialga: {
+		tier: "(PU)",
+	},
+	dialgamawile: {
+		tier: "(PU)",
+	},
+	mismagiusmawile: {
+		tier: "(PU)",
+	},
+	mawilemismagius: {
+		tier: "(PU)",
+	},
+	gardevoirmawile: {
+		tier: "(PU)",
+	},
+	mawilegardevoir: {
+		tier: "(PU)",
+	},
+	mawiletogekiss: {
+		tier: "(PU)",
+	},
+	mawiletyphlosion: {
+		tier: "(PU)",
+	},
+	mawileaerodactyl: {
+		tier: "(PU)",
+	},
+	aerodactylmawile: {
+		tier: "(PU)",
+	},
+	breloomumbreon: {
+		tier: "(PU)",
+	},
+	ambipombreloom: {
+		tier: "(PU)",
+	},
+	breloomambipom: {
+		tier: "(PU)",
+	},
+	breloomslowbro: {
+		tier: "(PU)",
+	},
+	ambipomclefable: {
+		tier: "(PU)",
+	},
+	ambipombutterfree: {
+		tier: "(PU)",
+	},
+	ambipomdunsparce: {
+		tier: "(PU)",
+	},
+	dunsparceambipom: {
+		tier: "(PU)",
+	},
+	ambipomcloyster: {
+		tier: "(PU)",
+	},
+	cloysterambipom: {
+		tier: "(PU)",
+	},
+	smeargleambipom: {
+		tier: "(PU)",
+	},
+	ambipomsmeargle: {
+		tier: "(PU)",
+	},
+	gardevoirsmeargle: {
+		tier: "(PU)",
+	},
+	typhlosionsmeargle: {
+		tier: "(PU)",
+	},
+	smeargletyphlosion: {
+		tier: "(PU)",
+	},
+	meganiumsandslash: {
+		tier: "(PU)",
+	},
+	ariadostyphlosion: {
+		tier: "(PU)",
+	},
+	ariadosreuniclus: {
+		tier: "(PU)",
+	},
+	jynxgardevoir: {
+		tier: "(PU)",
+	},
+	jynxgallade: {
+		tier: "(PU)",
+	},
+	galladejynx: {
+		tier: "(PU)",
+	},
+	gardevoirjynx: {
+		tier: "(PU)",
+	},
+	garchompblaziken: {
+		tier: "(PU)",
+	},
+	garchompblissey: {
+		tier: "(PU)",
+	},
+	wobbuffetcombusken: {
+		tier: "(PU)",
+	},
+	jynxyanmega: {
+		tier: "(PU)",
+	},
+	jynxmeganium: {
+		tier: "(PU)",
+	},
+	luxrayjynx: {
+		tier: "(PU)",
+	},
+	jynxarticuno: {
+		tier: "(PU)",
+	},
+	galvantulavolcarona: {
+		tier: "(PU)",
+	},
+	volcaronagalvantula: {
+		tier: "(PU)",
+	},
+	wartortlebulbasaur: {
+		tier: "LC",
+	},
+	metapodblaziken: {
+		tier: "(PU)",
+	},
+	luxrayarticuno: {
+		tier: "(PU)",
+	},
+	luxraylatias: {
+		tier: "(PU)",
+	},
+	luxraylatios: {
+		tier: "(PU)",
+	},
+	gardevoirluxray: {
+		tier: "(PU)",
+	},
+	luxraygardevoir: {
+		tier: "(PU)",
+	},
+	luxraypyukumuku: {
+		tier: "(PU)",
+	},
+	luxrayralts: {
+		tier: "(PU)",
+	},
+	luxrayalakazam: {
+		tier: "(PU)",
+	},
+	luxraycharizard: {
+		tier: "(PU)",
+	},
+	luxraybisharp: {
+		tier: "(PU)",
+	},
+	bisharpluxray: {
+		tier: "(PU)",
+	},
+	luxraycelebi: {
+		tier: "(PU)",
+	},
+	luxrayambipom: {
+		tier: "(PU)",
+	},
+	mismagiusambipom: {
+		tier: "(PU)",
+	},
+	jumpluffambipom: {
+		tier: "(PU)",
+	},
+	mismagiuswhimsicott: {
+		tier: "(PU)",
+	},
+	whimsicottmismagius: {
+		tier: "(PU)",
+	},
+	smearglewhimsicott: {
+		tier: "(PU)",
+	},
+	whimsicottbellossom: {
+		tier: "(PU)",
+	},
+	whimsicotttyphlosion: {
+		tier: "(PU)",
+	},
+	whimsicottgallade: {
+		tier: "(PU)",
+	},
+	volcaronagallade: {
+		tier: "(PU)",
+	},
+	charizardvolcarona: {
+		tier: "(PU)",
+	},
+	roseradevolcarona: {
+		tier: "(PU)",
+	},
+	volcaronaroserade: {
+		tier: "(PU)",
+	},
+	roseradegarchomp: {
+		tier: "(PU)",
+	},
+	roseradegardevoir: {
+		tier: "(PU)",
+	},
+	roseradegallade: {
+		tier: "(PU)",
+	},
+	galladeroserade: {
+		tier: "(PU)",
+	},
+	roseradeluxray: {
+		tier: "(PU)",
+	},
+	luxrayroserade: {
+		tier: "(PU)",
+	},
+	lickitungroserade: {
+		tier: "(PU)",
+	},
+	beedrillroserade: {
+		tier: "(PU)",
+	},
+	roseradebeedrill: {
+		tier: "(PU)",
+	},
+	sandslashroserade: {
+		tier: "(PU)",
+	},
+	umbreonroserade: {
+		tier: "(PU)",
+	},
+	jolteonroserade: {
+		tier: "(PU)",
+	},
+	leafeonroserade: {
+		tier: "(PU)",
+	},
+	vaporeonroserade: {
+		tier: "(PU)",
+	},
+	flareonroserade: {
+		tier: "(PU)",
+	},
+	espeonroserade: {
+		tier: "(PU)",
+	},
+	glaceonroserade: {
+		tier: "(PU)",
+	},
+	roseradeglaceon: {
+		tier: "(PU)",
+	},
+	roseradejolteon: {
+		tier: "(PU)",
+	},
+	roseradeespeon: {
+		tier: "(PU)",
+	},
+	roseradeumbreon: {
+		tier: "(PU)",
+	},
+	roseradeleafeon: {
+		tier: "(PU)",
+	},
+	roseradevaporeon: {
+		tier: "(PU)",
+	},
+	roseradesylveon: {
+		tier: "(PU)",
+	},
+	roseradescizor: {
+		tier: "(PU)",
+	},
+	roseradesceptile: {
+		tier: "(PU)",
+	},
+	roseradelopunny: {
+		tier: "(PU)",
+	},
+	roseradeampharos: {
+		tier: "(PU)",
+	},
+	lopunnyroserade: {
+		tier: "(PU)",
+	},
+	ampharosroserade: {
+		tier: "(PU)",
+	},
+	metagrossampharos: {
+		tier: "(PU)",
+	},
+	lopunnyampharos: {
+		tier: "(PU)",
+	},
+	ampharoslopunny: {
+		tier: "(PU)",
+	},
+	hydreigonampharos: {
+		tier: "(PU)",
+	},
+	lopunnyhydreigon: {
+		tier: "(PU)",
+	},
+	hydreigonlopunny: {
+		tier: "(PU)",
+	},
+	ampharoshydreigon: {
+		tier: "(PU)",
+	},
+	gligarhydreigon: {
+		tier: "(PU)",
+	},
+	hydreigongliscor: {
+		tier: "(PU)",
+	},
+	gliscorhydreigon: {
+		tier: "(PU)",
+	},
+	gardevoirhydreigon: {
+		tier: "(PU)",
+	},
+	hydreigongardevoir: {
+		tier: "(PU)",
+	},
+	bellossomgardevoir: {
+		tier: "(PU)",
+	},
+	gardevoirbellossom: {
+		tier: "(PU)",
+	},
+	gardevoirrhyperior: {
+		tier: "(PU)",
+	},
+	gardevoirweezing: {
+		tier: "(PU)",
+	},
+	weezinggardevoir: {
+		tier: "(PU)",
+	},
+	torterrablastoise: {
+		tier: "(PU)",
+	},
+	blastoisetorterra: {
+		tier: "(PU)",
+	},
+	darkraimismagius: {
+		tier: "(PU)",
+	},
+	mismagiusmrmime: {
+		tier: "(PU)",
+	},
+	mismagiusmilotic: {
+		tier: "(PU)",
+	},
+	miloticmismagius: {
+		tier: "(PU)",
+	},
+	darkraimilotic: {
+		tier: "(PU)",
+	},
+	mismagiusdarkrai: {
+		tier: "(PU)",
+	},
+	darkraistarmie: {
+		tier: "(PU)",
+	},
+	darkraicrobat: {
+		tier: "(PU)",
+	},
+	darkraiivysaur: {
+		tier: "(PU)",
+	},
+	gliscorcrobat: {
+		tier: "(PU)",
+	},
+	crobatgliscor: {
+		tier: "(PU)",
+	},
+	crobatcharizard: {
+		tier: "(PU)",
+	},
+	darkraivenusaur: {
+		tier: "(PU)",
+	},
+	darkraicharmander: {
+		tier: "(PU)",
+	},
+	darkraicharmeleon: {
+		tier: "(PU)",
+	},
+	vileplumevenusaur: {
+		tier: "(PU)",
+	},
+	darkraicharizard: {
+		tier: "(PU)",
+	},
+	venomothvenusaur: {
+		tier: "(PU)",
+	},
+	darkraiarceus: {
+		tier: "Uber",
+	},
+	darkraiscizor: {
+		tier: "(PU)",
+	},
+	charmanderblastoise: {
+		tier: "(PU)",
+	},
+	zoroarksalamence: {
+		tier: "(PU)",
+	},
+	arceusflygon: {
+		tier: "Uber",
+	},
+	flygonarceus: {
+		tier: "Uber",
+	},
+	shedinjascizor: {
+		tier: "Uber",
+	},
+	venomothcharizard: {
+		tier: "(PU)",
+	},
+	bisharptyranitar: {
+		tier: "(PU)",
+	},
+	tyranitarbisharp: {
+		tier: "(PU)",
+	},
+	pyukumukugroudon: {
+		tier: "(PU)",
+	},
+	groudonpyukumuku: {
+		tier: "(PU)",
+	},
+	kyogrepyukumuku: {
+		tier: "(PU)",
+	},
+	hoohpyukumuku: {
+		tier: "(PU)",
+	},
+	lugiapyukumuku: {
+		tier: "(PU)",
+	},
+	aggronshuckle: {
+		tier: "(PU)",
+	},
+	swamperttyranitar: {
+		tier: "(PU)",
+	},
+	pyukumukugiratina: {
+		tier: "(PU)",
+	},
+	giratinapyukumuku: {
+		tier: "(PU)",
+	},
+	pyukumukuferrothorn: {
+		tier: "(PU)",
+	},
+	ferrothornpyukumuku: {
+		tier: "(PU)",
+	},
+	pyukumukuaegislash: {
+		tier: "(PU)",
+	},
+	aegislashpyukumuku: {
+		tier: "(PU)",
+	},
+	pyukumukucofagrigus: {
+		tier: "(PU)",
+	},
+	cofagriguspyukumuku: {
+		tier: "(PU)",
+	},
+	groudonquagsire: {
+		tier: "(PU)",
+	},
+	quagsiregroudon: {
+		tier: "(PU)",
+	},
+	mewdialga: {
+		tier: "(PU)",
+	},
+	mewsteelix: {
+		tier: "(PU)",
+	},
+	skarmorygiratina: {
+		tier: "(PU)",
+	},
+	giratinaskarmory: {
+		tier: "(PU)",
+	},
+	chandelureskarmory: {
+		tier: "(PU)",
+	},
+	kinglerslaking: {
+		tier: "(PU)",
+	},
+	skarmorychandelure: {
+		tier: "(PU)",
+	},
+	zekromferrothorn: {
+		tier: "(PU)",
+	},
+	ferrothornzekrom: {
+		tier: "(PU)",
+	},
+	zekrommarill: {
+		tier: "(PU)",
+	},
+	nidokingnidoking: {
+		tier: "(PU)",
+	},
+	kinglerseaking: {
+		tier: "(PU)",
+	},
+	marillzekrom: {
+		tier: "(PU)",
+	},
+	slowkingreshiram: {
+		tier: "(PU)",
+	},
+	reshiramslowking: {
+		tier: "(PU)",
+	},
+	slowkingkyurem: {
+		tier: "(PU)",
+	},
+	kyuremslowking: {
+		tier: "(PU)",
+	},
+	dragonitegengar: {
+		tier: "(PU)",
+	},
+	palkiaslowking: {
+		tier: "(PU)",
+	},
+	slowkingdialga: {
+		tier: "(PU)",
+	},
+	dialgaslowking: {
+		tier: "(PU)",
+	},
+	slowkingpalkia: {
+		tier: "(PU)",
+	},
+	hoohmantine: {
+		tier: "(PU)",
+	},
+	mantinehooh: {
+		tier: "(PU)",
+	},
+	arceuscaterpie: {
+		tier: "Uber",
+	},
+	kyogregiratina: {
+		tier: "(PU)",
+	},
+	giratinakyogre: {
+		tier: "(PU)",
+	},
+	miloticarceus: {
+		tier: "Uber",
+	},
+	miloticgiratina: {
+		tier: "(PU)",
+	},
+	giratinamilotic: {
+		tier: "(PU)",
+	},
+	arceusmilotic: {
+		tier: "Uber",
+	},
+	gliscorgroudon: {
+		tier: "(PU)",
+	},
+	gliscorgiratina: {
+		tier: "(PU)",
+	},
+	giratinagliscor: {
+		tier: "(PU)",
+	},
+	groudongliscor: {
+		tier: "(PU)",
+	},
+	gliscorlugia: {
+		tier: "(PU)",
+	},
+	gliscorhooh: {
+		tier: "(PU)",
+	},
+	hoohgliscor: {
+		tier: "(PU)",
+	},
+	lugiagliscor: {
+		tier: "(PU)",
+	},
+	breloomhooh: {
+		tier: "(PU)",
+	},
+	hoohbreloom: {
+		tier: "(PU)",
+	},
+	breloomarceus: {
+		tier: "Uber",
+	},
+	arceusbreloom: {
+		tier: "Uber",
+	},
+	miloticvolcarona: {
+		tier: "(PU)",
+	},
+	breloomgiratina: {
+		tier: "(PU)",
+	},
+	giratinabreloom: {
+		tier: "(PU)",
+	},
+	slakingbreloom: {
+		tier: "(PU)",
+	},
+	breloomregigigas: {
+		tier: "(PU)",
+	},
+	breloomslaking: {
+		tier: "(PU)",
+	},
+	regigigasbreloom: {
+		tier: "(PU)",
+	},
+	gliscorkyurem: {
+		tier: "(PU)",
+	},
+	kyuremgliscor: {
+		tier: "(PU)",
+	},
+	klefkizekrom: {
+		tier: "(PU)",
+	},
+	zekromklefki: {
+		tier: "(PU)",
+	},
+	murkrowgiratina: {
+		tier: "(PU)",
+	},
+	giratinaquagsire: {
+		tier: "(PU)",
+	},
+	giratinamurkrow: {
+		tier: "(PU)",
+	},
+	quagsirehooh: {
+		tier: "(PU)",
+	},
+	hoohquagsire: {
+		tier: "(PU)",
+	},
+	klinklangscizor: {
+		tier: "(PU)",
+	},
+	scizorklinklang: {
+		tier: "(PU)",
+	},
+	breloomklinklang: {
+		tier: "(PU)",
+	},
+	empoleonbisharp: {
+		tier: "(PU)",
+	},
+	bisharpempoleon: {
+		tier: "(PU)",
+	},
+	klinklangbreloom: {
+		tier: "(PU)",
+	},
+	xatukyogre: {
+		tier: "(PU)",
+	},
+	kyogrexatu: {
+		tier: "(PU)",
+	},
+	giratinaxatu: {
+		tier: "(PU)",
+	},
+	xatugiratina: {
+		tier: "(PU)",
+	},
+	xatugroudon: {
+		tier: "(PU)",
+	},
+	metagrossregigigas: {
+		tier: "(PU)",
+	},
+	groudonxatu: {
+		tier: "(PU)",
+	},
+	regigigasmetagross: {
+		tier: "(PU)",
+	},
+	xatuarceus: {
+		tier: "Uber",
+	},
+	arceusxatu: {
+		tier: "Uber",
+	},
+	donphanshedinja: {
+		tier: "Uber",
+	},
+	shedinjadonphan: {
+		tier: "Uber",
+	},
+	probopassshedinja: {
+		tier: "Uber",
+	},
+	shedinjaprobopass: {
+		tier: "Uber",
+	},
+	skarmorygroudon: {
+		tier: "(PU)",
+	},
+	slowbrogiratina: {
+		tier: "(PU)",
+	},
+	giratinaslowbro: {
+		tier: "(PU)",
+	},
+	dittopikachu: {
+		tier: "(PU)",
+	},
+	pikachuditto: {
+		tier: "(PU)",
+	},
+	arbokgiratina: {
+		tier: "(PU)",
+	},
+	arbokzekrom: {
+		tier: "(PU)",
+	},
+	giratinaarbok: {
+		tier: "(PU)",
+	},
+	zekromarbok: {
+		tier: "(PU)",
+	},
+	cloysterbidoof: {
+		tier: "(PU)",
+	},
+	chanseyxatu: {
+		tier: "(PU)",
+	},
+	xatuchansey: {
+		tier: "(PU)",
+	},
+	chanseyclefable: {
+		tier: "(PU)",
+	},
+	clefablechansey: {
+		tier: "(PU)",
+	},
+	chanseyvaporeon: {
+		tier: "(PU)",
+	},
+	vaporeonchansey: {
+		tier: "(PU)",
+	},
+	chanseyslowbro: {
+		tier: "(PU)",
+	},
+	slowbrochansey: {
+		tier: "(PU)",
+	},
+	volcaronagiratina: {
+		tier: "(PU)",
+	},
+	giratinavolcarona: {
+		tier: "(PU)",
+	},
+	dialgavolcarona: {
+		tier: "(PU)",
+	},
+	volcaronadialga: {
+		tier: "(PU)",
+	},
+	aerodactylaggron: {
+		tier: "(PU)",
+	},
+	aerodactylnidoking: {
+		tier: "(PU)",
+	},
+	aggronaerodactyl: {
+		tier: "(PU)",
+	},
+	dragoniteporygon2: {
+		tier: "(PU)",
+	},
+	venusaurslowbro: {
+		tier: "(PU)",
+	},
+	slowbrovenusaur: {
+		tier: "(PU)",
+	},
+	tentacruelslowbro: {
+		tier: "(PU)",
+	},
+	slowbrotentacruel: {
+		tier: "(PU)",
+	},
+	weezingbellossom: {
+		tier: "(PU)",
+	},
+	bellossomweezing: {
+		tier: "(PU)",
+	},
+	weezingdrifblim: {
+		tier: "(PU)",
+	},
+	drifblimweezing: {
+		tier: "(PU)",
+	},
+	blisseykyogre: {
+		tier: "(PU)",
+	},
+	kyogreblissey: {
+		tier: "(PU)",
+	},
+	blisseymantine: {
+		tier: "(PU)",
+	},
+	mantineblissey: {
+		tier: "(PU)",
+	},
+	zekromdragonair: {
+		tier: "(PU)",
+	},
+	pidgeottorterra: {
+		tier: "(PU)",
+	},
+	magikarplugia: {
+		tier: "(PU)",
+	},
+	shuckletyranitar: {
+		tier: "(PU)",
+	},
+	hoohtyranitar: {
+		tier: "(PU)",
+	},
+	mantinetyranitar: {
+		tier: "(PU)",
+	},
+	tyranitarmantine: {
+		tier: "(PU)",
+	},
+	tyranitarhooh: {
+		tier: "(PU)",
+	},
+	infernapelucario: {
+		tier: "(PU)",
+	},
+	butterfreevolcarona: {
+		tier: "(PU)",
+	},
+	venusaurmewtwo: {
+		tier: "(PU)",
+	},
+	wigglytuffgrovyle: {
+		tier: "(PU)",
+	},
+	wobbuffetchansey: {
+		tier: "(PU)",
+	},
+	chanseywobbuffet: {
+		tier: "(PU)",
+	},
+	chanseysmeargle: {
+		tier: "(PU)",
+	},
+	celebidusknoir: {
+		tier: "(PU)",
+	},
+	wigglytuffcelebi: {
+		tier: "(PU)",
+	},
+	lapraslugia: {
+		tier: "(PU)",
+	},
+	laprascharizard: {
+		tier: "(PU)",
+	},
+	laprasarceus: {
+		tier: "Uber",
+	},
+	laprasgroudon: {
+		tier: "(PU)",
+	},
+	laprasrayquaza: {
+		tier: "(PU)",
+	},
+	groudoncaterpie: {
+		tier: "(PU)",
+	},
+	sylveonmetagross: {
+		tier: "(PU)",
+	},
+	metagrosssylveon: {
+		tier: "(PU)",
+	},
+	sylveonstarmie: {
+		tier: "(PU)",
+	},
+	starmiesylveon: {
+		tier: "(PU)",
+	},
+	dragonitebutterfree: {
+		tier: "(PU)",
+	},
+	shedinjagiratina: {
+		tier: "Uber",
+	},
+	giratinashedinja: {
+		tier: "Uber",
+	},
+	arceusrayquaza: {
+		tier: "Uber",
+	},
+	palkiashuckle: {
+		tier: "(PU)",
+	},
+	dialgashuckle: {
+		tier: "(PU)",
+	},
+	giratinashuckle: {
+		tier: "(PU)",
+	},
+	volcaronashuckle: {
+		tier: "(PU)",
+	},
+	groudonshuckle: {
+		tier: "(PU)",
+	},
+	kyogreshuckle: {
+		tier: "(PU)",
+	},
+	kyogrebutterfree: {
+		tier: "(PU)",
+	},
+	butterfreekyogre: {
+		tier: "(PU)",
+	},
+	quagsirekyogre: {
+		tier: "(PU)",
+	},
+	kyogrequagsire: {
+		tier: "(PU)",
+	},
+	palkiakyogre: {
+		tier: "(PU)",
+	},
+	palkiaquagsire: {
+		tier: "(PU)",
+	},
+	quagsirepalkia: {
+		tier: "(PU)",
+	},
+	arceusquagsire: {
+		tier: "Uber",
+	},
+	quagsireslowking: {
+		tier: "(PU)",
+	},
+	slowbroquagsire: {
+		tier: "(PU)",
+	},
+	slowkingquagsire: {
+		tier: "(PU)",
+	},
+	wooperarceus: {
+		tier: "Uber",
+	},
+	wooperbidoof: {
+		tier: "LC",
+	},
+	nidokingazumarill: {
+		tier: "(PU)",
+	},
+	snorlaxshuckle: {
+		tier: "(PU)",
+	},
+	octilleryreuniclus: {
+		tier: "(PU)",
+	},
+	blazikenraikou: {
+		tier: "(PU)",
+	},
+	deoxysarceus: {
+		tier: "Uber",
+	},
+	darkraicelebi: {
+		tier: "(PU)",
+	},
+	rayquazabisharp: {
+		tier: "(PU)",
+	},
+	mewtwowooper: {
+		tier: "(PU)",
+	},
+	charmanderivysaur: {
+		tier: "(PU)",
+	},
+	dialgatorterra: {
+		tier: "(PU)",
+	},
+	shedinjaluxray: {
+		tier: "Uber",
+	},
+	luxrayshedinja: {
+		tier: "Uber",
+	},
+	spiritombshedinja: {
+		tier: "Uber",
+	},
+	shedinjapikachu: {
+		tier: "Uber",
+	},
+	scytherregigigas: {
+		tier: "(PU)",
+	},
+	squirtlemetapod: {
+		tier: "(PU)",
+	},
+	klefkimuk: {
+		tier: "(PU)",
+	},
+	mukklefki: {
+		tier: "(PU)",
+	},
+	omastarsteelix: {
+		tier: "(PU)",
+	},
+	steelixomastar: {
+		tier: "(PU)",
+	},
+	alakazamshuckle: {
+		tier: "(PU)",
+	},
+	shucklealakazam: {
+		tier: "(PU)",
+	},
+	shuckledusclops: {
+		tier: "(PU)",
+	},
+	dusclopsshuckle: {
+		tier: "(PU)",
+	},
+	golurkregigigas: {
+		tier: "(PU)",
+	},
+	lanturnlugia: {
+		tier: "(PU)",
+	},
+	lugialanturn: {
+		tier: "(PU)",
+	},
+	lugiasnorlax: {
+		tier: "(PU)",
+	},
+	snorlaxlugia: {
+		tier: "(PU)",
+	},
+	dusclopsscyther: {
+		tier: "(PU)",
+	},
+	scytherdusclops: {
+		tier: "(PU)",
+	},
+	rhydondusclops: {
+		tier: "(PU)",
+	},
+	dusclopsrhydon: {
+		tier: "(PU)",
+	},
+	groudontangrowth: {
+		tier: "(PU)",
+	},
+	tangrowthgroudon: {
+		tier: "(PU)",
+	},
+	dusclopslapras: {
+		tier: "(PU)",
+	},
+	laprasdusclops: {
+		tier: "(PU)",
+	},
+	steelixblissey: {
+		tier: "(PU)",
+	},
+	ninetalesdusclops: {
+		tier: "(PU)",
+	},
+	dusclopsazumarill: {
+		tier: "(PU)",
+	},
+	dusclopsninetales: {
+		tier: "(PU)",
+	},
+	azumarilldusclops: {
+		tier: "(PU)",
+	},
+	charizardcharmander: {
+		tier: "(PU)",
+	},
+	charmanderchandelure: {
+		tier: "(PU)",
+	},
+	dusclopsgirafarig: {
+		tier: "(PU)",
+	},
+	roseradevenusaur: {
+		tier: "(PU)",
+	},
+	girafarigdusclops: {
+		tier: "(PU)",
+	},
+	venusaurroserade: {
+		tier: "(PU)",
+	},
+	kinglerblaziken: {
+		tier: "(PU)",
+	},
+	blazikenkingler: {
+		tier: "(PU)",
+	},
+	dusclopsvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronadusclops: {
+		tier: "(PU)",
+	},
+	togekisstangrowth: {
+		tier: "(PU)",
+	},
+	volcaronaklefki: {
+		tier: "(PU)",
+	},
+	togetictangrowth: {
+		tier: "(PU)",
+	},
+	klefkivolcarona: {
+		tier: "(PU)",
+	},
+	klefkidusclops: {
+		tier: "(PU)",
+	},
+	dusclopsklefki: {
+		tier: "(PU)",
+	},
+	sylveontangrowth: {
+		tier: "(PU)",
+	},
+	rayquazadusclops: {
+		tier: "(PU)",
+	},
+	dusclopsrayquaza: {
+		tier: "(PU)",
+	},
+	arceusdusclops: {
+		tier: "Uber",
+	},
+	dusclopsarceus: {
+		tier: "Uber",
+	},
+	dusclopshooh: {
+		tier: "(PU)",
+	},
+	dusclopslugia: {
+		tier: "(PU)",
+	},
+	lugiadusclops: {
+		tier: "(PU)",
+	},
+	dusclopszapdos: {
+		tier: "(PU)",
+	},
+	zapdosdusclops: {
+		tier: "(PU)",
+	},
+	gliscordusclops: {
+		tier: "(PU)",
+	},
+	dusclopsgligar: {
+		tier: "(PU)",
+	},
+	gligardusclops: {
+		tier: "(PU)",
+	},
+	dusclopsaggron: {
+		tier: "(PU)",
+	},
+	aggrondusclops: {
+		tier: "(PU)",
+	},
+	galvantuladusclops: {
+		tier: "(PU)",
+	},
+	dusclopsgalvantula: {
+		tier: "(PU)",
+	},
+	espeondusclops: {
+		tier: "(PU)",
+	},
+	dusclopsespeon: {
+		tier: "(PU)",
+	},
+	espeonrayquaza: {
+		tier: "(PU)",
+	},
+	rayquazaespeon: {
+		tier: "(PU)",
+	},
+	lugiaespeon: {
+		tier: "(PU)",
+	},
+	espeonlugia: {
+		tier: "(PU)",
+	},
+	espeonhooh: {
+		tier: "(PU)",
+	},
+	hoohespeon: {
+		tier: "(PU)",
+	},
+	dugtriovenusaur: {
+		tier: "(PU)",
+	},
+	dugtriocharizard: {
+		tier: "(PU)",
+	},
+	dugtrioblastoise: {
+		tier: "(PU)",
+	},
+	shuckleespeon: {
+		tier: "(PU)",
+	},
+	espeonshuckle: {
+		tier: "(PU)",
+	},
+	espeonvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronaespeon: {
+		tier: "(PU)",
+	},
+	arceusespeon: {
+		tier: "Uber",
+	},
+	espeonarceus: {
+		tier: "Uber",
+	},
+	espeonchansey: {
+		tier: "(PU)",
+	},
+	chanseyespeon: {
+		tier: "(PU)",
+	},
+	groudonespeon: {
+		tier: "(PU)",
+	},
+	espeonkyogre: {
+		tier: "(PU)",
+	},
+	espeongroudon: {
+		tier: "(PU)",
+	},
+	kyogreespeon: {
+		tier: "(PU)",
+	},
+	espeonmimikyu: {
+		tier: "(PU)",
+	},
+	kyuremespeon: {
+		tier: "(PU)",
+	},
+	espeonkyurem: {
+		tier: "(PU)",
+	},
+	mimikyuespeon: {
+		tier: "(PU)",
+	},
+	bellossomespeon: {
+		tier: "(PU)",
+	},
+	espeonbellossom: {
+		tier: "(PU)",
+	},
+	venomothespeon: {
+		tier: "(PU)",
+	},
+	espeonvenomoth: {
+		tier: "(PU)",
+	},
+	persianespeon: {
+		tier: "(PU)",
+	},
+	slakingelectrode: {
+		tier: "(PU)",
+	},
+	slakingjolteon: {
+		tier: "(PU)",
+	},
+	slakingninjask: {
+		tier: "(PU)",
+	},
+	arcanineespeon: {
+		tier: "(PU)",
+	},
+	espeonarcanine: {
+		tier: "(PU)",
+	},
+	espeonmilotic: {
+		tier: "(PU)",
+	},
+	miloticespeon: {
+		tier: "(PU)",
+	},
+	espeonforretress: {
+		tier: "(PU)",
+	},
+	galvantulaespeon: {
+		tier: "(PU)",
+	},
+	forretressespeon: {
+		tier: "(PU)",
+	},
+	slakingweavile: {
+		tier: "(PU)",
+	},
+	espeongalvantula: {
+		tier: "(PU)",
+	},
+	ariadosespeon: {
+		tier: "(PU)",
+	},
+	espeonariados: {
+		tier: "(PU)",
+	},
+	weezingespeon: {
+		tier: "(PU)",
+	},
+	espeonweezing: {
+		tier: "(PU)",
+	},
+	espeontangrowth: {
+		tier: "(PU)",
+	},
+	tangrowthespeon: {
+		tier: "(PU)",
+	},
+	dusknoirtangrowth: {
+		tier: "(PU)",
+	},
+	tangrowthdusknoir: {
+		tier: "(PU)",
+	},
+	tangrowthdusclops: {
+		tier: "(PU)",
+	},
+	dusclopstangrowth: {
+		tier: "(PU)",
+	},
+	shuckletangrowth: {
+		tier: "(PU)",
+	},
+	blazikenkyurem: {
+		tier: "(PU)",
+	},
+	kyuremblaziken: {
+		tier: "(PU)",
+	},
+	mimikyublaziken: {
+		tier: "(PU)",
+	},
+	blazikenmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyukyurem: {
+		tier: "(PU)",
+	},
+	kyuremmimikyu: {
+		tier: "(PU)",
+	},
+	slakingmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyugarchomp: {
+		tier: "(PU)",
+	},
+	mimikyuslaking: {
+		tier: "(PU)",
+	},
+	garchompmimikyu: {
+		tier: "(PU)",
+	},
+	rayquazamimikyu: {
+		tier: "(PU)",
+	},
+	mimikyurayquaza: {
+		tier: "(PU)",
+	},
+	dialgamimikyu: {
+		tier: "(PU)",
+	},
+	palkiamimikyu: {
+		tier: "(PU)",
+	},
+	mimikyudialga: {
+		tier: "(PU)",
+	},
+	mimikyupalkia: {
+		tier: "(PU)",
+	},
+	mimikyugroudon: {
+		tier: "(PU)",
+	},
+	groudonmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyukyogre: {
+		tier: "(PU)",
+	},
+	dusclopsmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyudusclops: {
+		tier: "(PU)",
+	},
+	mimikyudragonite: {
+		tier: "(PU)",
+	},
+	dragonitemimikyu: {
+		tier: "(PU)",
+	},
+	mimikyumetagross: {
+		tier: "(PU)",
+	},
+	metagrossmimikyu: {
+		tier: "(PU)",
+	},
+	hydreigonmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuhydreigon: {
+		tier: "(PU)",
+	},
+	mimikyublastoise: {
+		tier: "(PU)",
+	},
+	blastoisemimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuflygon: {
+		tier: "(PU)",
+	},
+	flygonmimikyu: {
+		tier: "(PU)",
+	},
+	tyranitarmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyutyranitar: {
+		tier: "(PU)",
+	},
+	mimikyumagnezone: {
+		tier: "(PU)",
+	},
+	magnezonemimikyu: {
+		tier: "(PU)",
+	},
+	mewtwomimikyu: {
+		tier: "(PU)",
+	},
+	mimikyumewtwo: {
+		tier: "(PU)",
+	},
+	kyogrecranidos: {
+		tier: "(PU)",
+	},
+	mewmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyurampardos: {
+		tier: "(PU)",
+	},
+	rampardosmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyualakazam: {
+		tier: "(PU)",
+	},
+	alakazammimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuhaxorus: {
+		tier: "(PU)",
+	},
+	haxorusmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyureshiram: {
+		tier: "(PU)",
+	},
+	reshirammimikyu: {
+		tier: "(PU)",
+	},
+	zekrommimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuzekrom: {
+		tier: "(PU)",
+	},
+	mimikyuelectrode: {
+		tier: "(PU)",
+	},
+	mimikyuninjask: {
+		tier: "(PU)",
+	},
+	ninjaskmimikyu: {
+		tier: "(PU)",
+	},
+	electrodemimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuaggron: {
+		tier: "(PU)",
+	},
+	aggronmimikyu: {
+		tier: "(PU)",
+	},
+	machampmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyumachamp: {
+		tier: "(PU)",
+	},
+	mimikyupoliwrath: {
+		tier: "(PU)",
+	},
+	poliwrathmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyulapras: {
+		tier: "(PU)",
+	},
+	politoedmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyupolitoed: {
+		tier: "(PU)",
+	},
+	laprasmimikyu: {
+		tier: "(PU)",
+	},
+	gyaradosmimikyu: {
+		tier: "(PU)",
+	},
+	primeapemimikyu: {
+		tier: "(PU)",
+	},
+	mimikyugyarados: {
+		tier: "(PU)",
+	},
+	charizarddarkrai: {
+		tier: "(PU)",
+	},
+	regigigasmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuregigigas: {
+		tier: "(PU)",
+	},
+	mimikyuaegislash: {
+		tier: "(PU)",
+	},
+	aegislashmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuwailord: {
+		tier: "(PU)",
+	},
+	wailordmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuclefable: {
+		tier: "(PU)",
+	},
+	chanseymimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuchansey: {
+		tier: "(PU)",
+	},
+	clefablemimikyu: {
+		tier: "(PU)",
+	},
+	mimikyublissey: {
+		tier: "(PU)",
+	},
+	blisseymimikyu: {
+		tier: "(PU)",
+	},
+	steelixmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyucloyster: {
+		tier: "(PU)",
+	},
+	cloystermimikyu: {
+		tier: "(PU)",
+	},
+	mimikyusteelix: {
+		tier: "(PU)",
+	},
+	mimikyuomastar: {
+		tier: "(PU)",
+	},
+	omastarmimikyu: {
+		tier: "(PU)",
+	},
+	rapidashmimikyu: {
+		tier: "(PU)",
+	},
+	mimikyurapidash: {
+		tier: "(PU)",
+	},
+	absollucario: {
+		tier: "(PU)",
+	},
+	mimikyutyphlosion: {
+		tier: "(PU)",
+	},
+	typhlosionmimikyu: {
+		tier: "(PU)",
+	},
+	exeggutormimikyu: {
+		tier: "(PU)",
+	},
+	mimikyuexeggutor: {
+		tier: "(PU)",
+	},
+	mimikyudeoxys: {
+		tier: "(PU)",
+	},
+	deoxysmimikyu: {
+		tier: "(PU)",
+	},
+	espeondeoxys: {
+		tier: "(PU)",
+	},
+	deoxysespeon: {
+		tier: "(PU)",
+	},
+	deoxysdragonite: {
+		tier: "(PU)",
+	},
+	dragonitedeoxys: {
+		tier: "(PU)",
+	},
+	volcaronadeoxys: {
+		tier: "(PU)",
+	},
+	deoxysvolcarona: {
+		tier: "(PU)",
+	},
+	deoxysmilotic: {
+		tier: "(PU)",
+	},
+	miloticdeoxys: {
+		tier: "(PU)",
+	},
+	deoxysjolteon: {
+		tier: "(PU)",
+	},
+	jolteondeoxys: {
+		tier: "(PU)",
+	},
+	miloticjolteon: {
+		tier: "(PU)",
+	},
+	dragonitejolteon: {
+		tier: "(PU)",
+	},
+	jolteonmilotic: {
+		tier: "(PU)",
+	},
+	jolteondragonite: {
+		tier: "(PU)",
+	},
+	gliscorjolteon: {
+		tier: "(PU)",
+	},
+	bulbasaurgroudon: {
+		tier: "(PU)",
+	},
+	wigglytuffbutterfree: {
+		tier: "(PU)",
+	},
+	butterfreewigglytuff: {
+		tier: "(PU)",
+	},
+	wigglytuffcharizard: {
+		tier: "(PU)",
+	},
+	kecleonslaking: {
+		tier: "(PU)",
+	},
+	mewtwokecleon: {
+		tier: "(PU)",
+	},
+	slakingkecleon: {
+		tier: "(PU)",
+	},
+	kecleongroudon: {
+		tier: "(PU)",
+	},
+	rayquazakecleon: {
+		tier: "(PU)",
+	},
+	groudonkecleon: {
+		tier: "(PU)",
+	},
+	kyogrekecleon: {
+		tier: "(PU)",
+	},
+	kecleonkyogre: {
+		tier: "(PU)",
+	},
+	hydreigonkecleon: {
+		tier: "(PU)",
+	},
+	kecleonhydreigon: {
+		tier: "(PU)",
+	},
+	kecleondialga: {
+		tier: "(PU)",
+	},
+	dialgakecleon: {
+		tier: "(PU)",
+	},
+	dragonitekecleon: {
+		tier: "(PU)",
+	},
+	metagrosskecleon: {
+		tier: "(PU)",
+	},
+	kecleondragonite: {
+		tier: "(PU)",
+	},
+	kecleonmetagross: {
+		tier: "(PU)",
+	},
+	kecleonchansey: {
+		tier: "(PU)",
+	},
+	chanseykecleon: {
+		tier: "(PU)",
+	},
+	kecleonklefki: {
+		tier: "(PU)",
+	},
+	klefkikecleon: {
+		tier: "(PU)",
+	},
+	lapraskecleon: {
+		tier: "(PU)",
+	},
+	kecleonlapras: {
+		tier: "(PU)",
+	},
+	blazikenkecleon: {
+		tier: "(PU)",
+	},
+	kecleonblaziken: {
+		tier: "(PU)",
+	},
+	deoxyskecleon: {
+		tier: "(PU)",
+	},
+	hitmonchankecleon: {
+		tier: "(PU)",
+	},
+	kecleongyarados: {
+		tier: "(PU)",
+	},
+	talonflamekecleon: {
+		tier: "(PU)",
+	},
+	gyaradoskecleon: {
+		tier: "(PU)",
+	},
+	kecleontalonflame: {
+		tier: "(PU)",
+	},
+	sandslashblastoise: {
+		tier: "(PU)",
+	},
+	kecleonalakazam: {
+		tier: "(PU)",
+	},
+	alakazamkecleon: {
+		tier: "(PU)",
+	},
+	lanturnskarmory: {
+		tier: "(PU)",
+	},
+	salamencekecleon: {
+		tier: "(PU)",
+	},
+	kecleonsalamence: {
+		tier: "(PU)",
+	},
+	kecleonmachamp: {
+		tier: "(PU)",
+	},
+	machampkecleon: {
+		tier: "(PU)",
+	},
+	aggronkecleon: {
+		tier: "(PU)",
+	},
+	kecleonaggron: {
+		tier: "(PU)",
+	},
+	kecleonblastoise: {
+		tier: "(PU)",
+	},
+	kecleoncharizard: {
+		tier: "(PU)",
+	},
+	charizardkecleon: {
+		tier: "(PU)",
+	},
+	blastoisekecleon: {
+		tier: "(PU)",
+	},
+	lugiakecleon: {
+		tier: "(PU)",
+	},
+	kecleonlugia: {
+		tier: "(PU)",
+	},
+	hoohkecleon: {
+		tier: "(PU)",
+	},
+	kecleonhooh: {
+		tier: "(PU)",
+	},
+	galvantulacrobat: {
+		tier: "(PU)",
+	},
+	dialgatyphlosion: {
+		tier: "(PU)",
+	},
+	parasectgarchomp: {
+		tier: "(PU)",
+	},
+	mimikyukecleon: {
+		tier: "(PU)",
+	},
+	kinglerninjask: {
+		tier: "(PU)",
+	},
+	ninjaskkingler: {
+		tier: "(PU)",
+	},
+	umbreonclefable: {
+		tier: "(PU)",
+	},
+	clefableumbreon: {
+		tier: "(PU)",
+	},
+	gengardoublade: {
+		tier: "(PU)",
+	},
+	aegislashwigglytuff: {
+		tier: "(PU)",
+	},
+	palkiaarceus: {
+		tier: "Uber",
+	},
+	porygonzdeoxys: {
+		tier: "(PU)",
+	},
+	celebiaegislash: {
+		tier: "(PU)",
+	},
+	enteihooh: {
+		tier: "(PU)",
+	},
+	hoohentei: {
+		tier: "(PU)",
+	},
+	lugialugia: {
+		tier: "(PU)",
+	},
+	lugiahooh: {
+		tier: "(PU)",
+	},
+	hoohlugia: {
+		tier: "(PU)",
+	},
+	lugiakyogre: {
+		tier: "(PU)",
+	},
+	hoohaerodactyl: {
+		tier: "(PU)",
+	},
+	tyranitarinfernape: {
+		tier: "(PU)",
+	},
+	infernapetyranitar: {
+		tier: "(PU)",
+	},
+	aegislashdeoxys: {
+		tier: "(PU)",
+	},
+	deoxysaegislash: {
+		tier: "(PU)",
+	},
+	deoxysdoublade: {
+		tier: "(PU)",
+	},
+	doubladedeoxys: {
+		tier: "(PU)",
+	},
+	honedgedeoxys: {
+		tier: "(PU)",
+	},
+	deoxyskyogre: {
+		tier: "(PU)",
+	},
+	deoxyshonedge: {
+		tier: "(PU)",
+	},
+	deoxyszapdos: {
+		tier: "(PU)",
+	},
+	deoxysmewtwo: {
+		tier: "(PU)",
+	},
+	deoxyshooh: {
+		tier: "(PU)",
+	},
+	deoxysazumarill: {
+		tier: "(PU)",
+	},
+	azumarilldeoxys: {
+		tier: "(PU)",
+	},
+	tyranitarscizor: {
+		tier: "(PU)",
+	},
+	scizortyranitar: {
+		tier: "(PU)",
+	},
+	tyranitarmoltres: {
+		tier: "(PU)",
+	},
+	moltrestyranitar: {
+		tier: "(PU)",
+	},
+	tyranitararticuno: {
+		tier: "(PU)",
+	},
+	groudonentei: {
+		tier: "(PU)",
+	},
+	tyranitarentei: {
+		tier: "(PU)",
+	},
+	enteibisharp: {
+		tier: "(PU)",
+	},
+	bisharpentei: {
+		tier: "(PU)",
+	},
+	enteityranitar: {
+		tier: "(PU)",
+	},
+	heracrossentei: {
+		tier: "(PU)",
+	},
+	enteiheracross: {
+		tier: "(PU)",
+	},
+	raikoudarkrai: {
+		tier: "(PU)",
+	},
+	raikoudeoxys: {
+		tier: "(PU)",
+	},
+	raikougarchomp: {
+		tier: "(PU)",
+	},
+	garchompraikou: {
+		tier: "(PU)",
+	},
+	raikouarceus: {
+		tier: "Uber",
+	},
+	raikoutyranitar: {
+		tier: "(PU)",
+	},
+	tyranitarraikou: {
+		tier: "(PU)",
+	},
+	marowakdeoxys: {
+		tier: "(PU)",
+	},
+	raikoumarowak: {
+		tier: "(PU)",
+	},
+	deoxysmarowak: {
+		tier: "(PU)",
+	},
+	aggronblissey: {
+		tier: "(PU)",
+	},
+	garchompsmeargle: {
+		tier: "(PU)",
+	},
+	smearglegarchomp: {
+		tier: "(PU)",
+	},
+	smearglemew: {
+		tier: "(PU)",
+	},
+	donphanrampardos: {
+		tier: "(PU)",
+	},
+	rampardosdonphan: {
+		tier: "(PU)",
+	},
+	houndoomarcanine: {
+		tier: "(PU)",
+	},
+	arcaninehoundoom: {
+		tier: "(PU)",
+	},
+	mantinelapras: {
+		tier: "(PU)",
+	},
+	aggronrampardos: {
+		tier: "(PU)",
+	},
+	remoraidcubone: {
+		tier: "LC",
+	},
+	octilleryblastoise: {
+		tier: "(PU)",
+	},
+	octilleryjolteon: {
+		tier: "(PU)",
+	},
+	octilleryomastar: {
+		tier: "(PU)",
+	},
+	piloswinebastiodon: {
+		tier: "(PU)",
+	},
+	swinubswinub: {
+		tier: "LC",
+	},
+	swinubdiglett: {
+		tier: "LC",
+	},
+	piloswinedugtrio: {
+		tier: "(PU)",
+	},
+	swinubdugtrio: {
+		tier: "(PU)",
+	},
+	magcargoarbok: {
+		tier: "(PU)",
+	},
+	magcargodeoxys: {
+		tier: "(PU)",
+	},
+	magcargoarceus: {
+		tier: "Uber",
+	},
+	heracrossaggron: {
+		tier: "(PU)",
+	},
+	heracrossarmaldo: {
+		tier: "(PU)",
+	},
+	heracrossariados: {
+		tier: "(PU)",
+	},
+	heracrosstyphlosion: {
+		tier: "(PU)",
+	},
+	shucklemetagross: {
+		tier: "(PU)",
+	},
+	shuckleshuckle: {
+		tier: "(PU)",
+	},
+	scizorscizor: {
+		tier: "(PU)",
+	},
+	scizorparasect: {
+		tier: "(PU)",
+	},
+	pikachuscizor: {
+		tier: "(PU)",
+	},
+	ambipomsteelix: {
+		tier: "(PU)",
+	},
+	scythergligar: {
+		tier: "(PU)",
+	},
+	gligarscyther: {
+		tier: "(PU)",
+	},
+	gligarscizor: {
+		tier: "(PU)",
+	},
+	scizorgligar: {
+		tier: "(PU)",
+	},
+	gliscorscizor: {
+		tier: "(PU)",
+	},
+	dunsparceshedinja: {
+		tier: "Uber",
+	},
+	shedinjadunsparce: {
+		tier: "Uber",
+	},
+	dunsparcescizor: {
+		tier: "(PU)",
+	},
+	scizordunsparce: {
+		tier: "(PU)",
+	},
+	dunsparcescyther: {
+		tier: "(PU)",
+	},
+	scytherdunsparce: {
+		tier: "(PU)",
+	},
+	girafariggirafarig: {
+		tier: "(PU)",
+	},
+	girafariglapras: {
+		tier: "(PU)",
+	},
+	wobbuffetwobbuffet: {
+		tier: "(PU)",
+	},
+	unownregigigas: {
+		tier: "(PU)",
+	},
+	unownaegislash: {
+		tier: "(PU)",
+	},
+	unownarceus: {
+		tier: "Uber",
+	},
+	unownspiritomb: {
+		tier: "(PU)",
+	},
+	unownshedinja: {
+		tier: "Uber",
+	},
+	unownmetagross: {
+		tier: "(PU)",
+	},
+	unownmagmortar: {
+		tier: "(PU)",
+	},
+	unownsuicune: {
+		tier: "(PU)",
+	},
+	unownmew: {
+		tier: "(PU)",
+	},
+	unownelectrode: {
+		tier: "(PU)",
+	},
+	umbreondoublade: {
+		tier: "(PU)",
+	},
+	umbreonhonedge: {
+		tier: "(PU)",
+	},
+	umbreonraikou: {
+		tier: "(PU)",
+	},
+	umbreonheracross: {
+		tier: "(PU)",
+	},
+	umbreonscizor: {
+		tier: "(PU)",
+	},
+	umbreonespeon: {
+		tier: "(PU)",
+	},
+	umbreoneevee: {
+		tier: "(PU)",
+	},
+	umbreonvaporeon: {
+		tier: "(PU)",
+	},
+	espeonleafeon: {
+		tier: "(PU)",
+	},
+	espeonmoltres: {
+		tier: "(PU)",
+	},
+	espeonvaporeon: {
+		tier: "(PU)",
+	},
+	espeoneevee: {
+		tier: "(PU)",
+	},
+	meganiumrayquaza: {
+		tier: "(PU)",
+	},
+	sudowoodotorterra: {
+		tier: "(PU)",
+	},
+	sudowoodogrotle: {
+		tier: "(PU)",
+	},
+	rayquazameganium: {
+		tier: "(PU)",
+	},
+	bellossomskarmory: {
+		tier: "(PU)",
+	},
+	bellossomblastoise: {
+		tier: "(PU)",
+	},
+	ampharosreshiram: {
+		tier: "(PU)",
+	},
+	ampharosampharos: {
+		tier: "(PU)",
+	},
+	ampharosscizor: {
+		tier: "(PU)",
+	},
+	ampharosskarmory: {
+		tier: "(PU)",
+	},
+	flaaffyampharos: {
+		tier: "(PU)",
+	},
+	flaaffylugia: {
+		tier: "(PU)",
+	},
+	flaaffymareep: {
+		tier: "(PU)",
+	},
+	mareeparceus: {
+		tier: "Uber",
+	},
+	xatudarkrai: {
+		tier: "(PU)",
+	},
+	darkraixatu: {
+		tier: "(PU)",
+	},
+	togepityranitar: {
+		tier: "(PU)",
+	},
+	tyranitartogepi: {
+		tier: "(PU)",
+	},
+	lanturnrayquaza: {
+		tier: "(PU)",
+	},
+	lanturntorterra: {
+		tier: "(PU)",
+	},
+	lanturngarchomp: {
+		tier: "(PU)",
+	},
+	lanturntyranitar: {
+		tier: "(PU)",
+	},
+	lanturnscizor: {
+		tier: "(PU)",
+	},
+	ariadosscizor: {
+		tier: "(PU)",
+	},
+	ariadosmarowak: {
+		tier: "(PU)",
+	},
+	ledianmagikarp: {
+		tier: "(PU)",
+	},
+	ledianarceus: {
+		tier: "Uber",
+	},
+	magikarpledian: {
+		tier: "(PU)",
+	},
+	feraligatrkyurem: {
+		tier: "(PU)",
+	},
+	feraligatrrayquaza: {
+		tier: "(PU)",
+	},
+	feraligatrzoroark: {
+		tier: "(PU)",
+	},
+	feraligatrgroudon: {
+		tier: "(PU)",
+	},
+	feraligatrkingdra: {
+		tier: "(PU)",
+	},
+	feraligatrscizor: {
+		tier: "(PU)",
+	},
+	feraligatrtyphlosion: {
+		tier: "(PU)",
+	},
+	feraligatrmeganium: {
+		tier: "(PU)",
+	},
+	feraligatrsylveon: {
+		tier: "(PU)",
+	},
+	typhlosionsylveon: {
+		tier: "(PU)",
+	},
+	typhlosionempoleon: {
+		tier: "(PU)",
+	},
+	typhlosionarmaldo: {
+		tier: "(PU)",
+	},
+	typhlosiongardevoir: {
+		tier: "(PU)",
+	},
+	typhlosionabsol: {
+		tier: "(PU)",
+	},
+	typhlosionswampert: {
+		tier: "(PU)",
+	},
+	typhlosionporygonz: {
+		tier: "(PU)",
+	},
+	typhlosionmamoswine: {
+		tier: "(PU)",
+	},
+	typhlosionglaceon: {
+		tier: "(PU)",
+	},
+	typhlosionscizor: {
+		tier: "(PU)",
+	},
+	typhlosionsneasel: {
+		tier: "(PU)",
+	},
+	typhlosionferaligatr: {
+		tier: "(PU)",
+	},
+	typhlosionmeganium: {
+		tier: "(PU)",
+	},
+	typhlosionscyther: {
+		tier: "(PU)",
+	},
+	dragonitescyther: {
+		tier: "(PU)",
+	},
+	typhlosionmarowak: {
+		tier: "(PU)",
+	},
+	typhlosionelectrode: {
+		tier: "(PU)",
+	},
+	scytherdragonite: {
+		tier: "(PU)",
+	},
+	typhlosiondodrio: {
+		tier: "(PU)",
+	},
+	typhlosionblastoise: {
+		tier: "(PU)",
+	},
+	typhlosioncharizard: {
+		tier: "(PU)",
+	},
+	quilavapupitar: {
+		tier: "(PU)",
+	},
+	typhlosionpupitar: {
+		tier: "(PU)",
+	},
+	typhlosiontyranitar: {
+		tier: "(PU)",
+	},
+	quilavatyranitar: {
+		tier: "(PU)",
+	},
+	meganiumgroudon: {
+		tier: "(PU)",
+	},
+	meganiumaegislash: {
+		tier: "(PU)",
+	},
+	meganiumdoublade: {
+		tier: "(PU)",
+	},
+	meganiumhonedge: {
+		tier: "(PU)",
+	},
+	meganiumbastiodon: {
+		tier: "(PU)",
+	},
+	meganiumtyphlosion: {
+		tier: "(PU)",
+	},
+	meganiumferaligatr: {
+		tier: "(PU)",
+	},
+	meganiumarticuno: {
+		tier: "(PU)",
+	},
+	mewgroudon: {
+		tier: "(PU)",
+	},
+	dragonitearmaldo: {
+		tier: "(PU)",
+	},
+	dragonitemawile: {
+		tier: "(PU)",
+	},
+	dragoniteslaking: {
+		tier: "(PU)",
+	},
+	salamenceslaking: {
+		tier: "(PU)",
+	},
+	dragonitescizor: {
+		tier: "(PU)",
+	},
+	dragonitegenesect: {
+		tier: "(PU)",
+	},
+	moltrespalkia: {
+		tier: "(PU)",
+	},
+	moltresgenesect: {
+		tier: "(PU)",
+	},
+	moltresgroudon: {
+		tier: "(PU)",
+	},
+	moltresaegislash: {
+		tier: "(PU)",
+	},
+	moltreshonedge: {
+		tier: "(PU)",
+	},
+	moltresblaziken: {
+		tier: "(PU)",
+	},
+	moltreslucario: {
+		tier: "(PU)",
+	},
+	moltresyanmega: {
+		tier: "(PU)",
+	},
+	moltrestogekiss: {
+		tier: "(PU)",
+	},
+	moltreshooh: {
+		tier: "(PU)",
+	},
+	moltresentei: {
+		tier: "(PU)",
+	},
+	moltresscyther: {
+		tier: "(PU)",
+	},
+	moltresscizor: {
+		tier: "(PU)",
+	},
+	moltresarticuno: {
+		tier: "(PU)",
+	},
+	articunomoltres: {
+		tier: "(PU)",
+	},
+	zapdosmoltres: {
+		tier: "(PU)",
+	},
+	moltresmoltres: {
+		tier: "(PU)",
+	},
+	moltresrhydon: {
+		tier: "(PU)",
+	},
+	zapdosgenesect: {
+		tier: "(PU)",
+	},
+	zapdoskyogre: {
+		tier: "(PU)",
+	},
+	zapdoshooh: {
+		tier: "(PU)",
+	},
+	ariadoshonchkrow: {
+		tier: "(PU)",
+	},
+	zapdosdragonite: {
+		tier: "(PU)",
+	},
+	nidokingzapdos: {
+		tier: "(PU)",
+	},
+	zapdosnidoking: {
+		tier: "(PU)",
+	},
+	articunomawile: {
+		tier: "(PU)",
+	},
+	articunohonedge: {
+		tier: "(PU)",
+	},
+	articunoleafeon: {
+		tier: "(PU)",
+	},
+	articunogallade: {
+		tier: "(PU)",
+	},
+	articunoscizor: {
+		tier: "(PU)",
+	},
+	articunodragonite: {
+		tier: "(PU)",
+	},
+	snorlaxdoublade: {
+		tier: "(PU)",
+	},
+	snorlaxhonedge: {
+		tier: "(PU)",
+	},
+	snorlaxblissey: {
+		tier: "(PU)",
+	},
+	snorlaxdarkrai: {
+		tier: "(PU)",
+	},
+	snorlaxrhydon: {
+		tier: "(PU)",
+	},
+	snorlaxkangaskhan: {
+		tier: "(PU)",
+	},
+	azumarillarceus: {
+		tier: "Uber",
+	},
+	kabutopsflygon: {
+		tier: "(PU)",
+	},
+	kabutopsinfernape: {
+		tier: "(PU)",
+	},
+	kabutopsbisharp: {
+		tier: "(PU)",
+	},
+	kabutopsscizor: {
+		tier: "(PU)",
+	},
+	scytherkabutops: {
+		tier: "(PU)",
+	},
+	kabutopsscyther: {
+		tier: "(PU)",
+	},
+	kabutopskabuto: {
+		tier: "(PU)",
+	},
+	kabutopscharizard: {
+		tier: "(PU)",
+	},
+	kabutocharizard: {
+		tier: "(PU)",
+	},
+	kabutotogekiss: {
+		tier: "(PU)",
+	},
+	kabutopupitar: {
+		tier: "(PU)",
+	},
+	kabutoarbok: {
+		tier: "(PU)",
+	},
+	omastarariados: {
+		tier: "(PU)",
+	},
+	omastardragonite: {
+		tier: "(PU)",
+	},
+	omastargyarados: {
+		tier: "(PU)",
+	},
+	omanytearceus: {
+		tier: "Uber",
+	},
+	omastarkingler: {
+		tier: "(PU)",
+	},
+	omastarslowking: {
+		tier: "(PU)",
+	},
+	omastarslowbro: {
+		tier: "(PU)",
+	},
+	omanyteomanyte: {
+		tier: "LC",
+	},
+	articunobastiodon: {
+		tier: "(PU)",
+	},
+	porygondragonite: {
+		tier: "(PU)",
+	},
+	porygonkabuto: {
+		tier: "LC",
+	},
+	porygonmoltres: {
+		tier: "(PU)",
+	},
+	porygonscyther: {
+		tier: "(PU)",
+	},
+	flareonsylveon: {
+		tier: "(PU)",
+	},
+	articunoblaziken: {
+		tier: "(PU)",
+	},
+	flareonrampardos: {
+		tier: "(PU)",
+	},
+	flareonrhyperior: {
+		tier: "(PU)",
+	},
+	flareonskarmory: {
+		tier: "(PU)",
+	},
+	flareondragonite: {
+		tier: "(PU)",
+	},
+	flareonmew: {
+		tier: "(PU)",
+	},
+	flareonvaporeon: {
+		tier: "(PU)",
+	},
+	flareoneevee: {
+		tier: "(PU)",
+	},
+	flareonrhydon: {
+		tier: "(PU)",
+	},
+	jolteonsylveon: {
+		tier: "(PU)",
+	},
+	jolteonflygon: {
+		tier: "(PU)",
+	},
+	jolteonarmaldo: {
+		tier: "(PU)",
+	},
+	jolteonlucario: {
+		tier: "(PU)",
+	},
+	jolteonyanmega: {
+		tier: "(PU)",
+	},
+	jolteonmew: {
+		tier: "(PU)",
+	},
+	dialgamew: {
+		tier: "(PU)",
+	},
+	jolteonzapdos: {
+		tier: "(PU)",
+	},
+	jolteonvaporeon: {
+		tier: "(PU)",
+	},
+	jolteonelectabuzz: {
+		tier: "(PU)",
+	},
+	jolteoneevee: {
+		tier: "(PU)",
+	},
+	vaporeonlugia: {
+		tier: "(PU)",
+	},
+	lugiavaporeon: {
+		tier: "(PU)",
+	},
+	vaporeongallade: {
+		tier: "(PU)",
+	},
+	vaporeonscizor: {
+		tier: "(PU)",
+	},
+	vaporeonumbreon: {
+		tier: "(PU)",
+	},
+	vaporeonespeon: {
+		tier: "(PU)",
+	},
+	vaporeonmew: {
+		tier: "(PU)",
+	},
+	vaporeonmewtwo: {
+		tier: "(PU)",
+	},
+	vaporeontyphlosion: {
+		tier: "(PU)",
+	},
+	vaporeoneevee: {
+		tier: "(PU)",
+	},
+	vaporeonmarowak: {
+		tier: "(PU)",
+	},
+	eeveeabsol: {
+		tier: "(PU)",
+	},
+	eeveezoroark: {
+		tier: "(PU)",
+	},
+	eeveelucario: {
+		tier: "(PU)",
+	},
+	eeveeshedinja: {
+		tier: "Uber",
+	},
+	dittoditto: {
+		tier: "(PU)",
+	},
+	dittovaporeon: {
+		tier: "(PU)",
+	},
+	laprastorterra: {
+		tier: "(PU)",
+	},
+	laprasmilotic: {
+		tier: "(PU)",
+	},
+	laprasgiratina: {
+		tier: "(PU)",
+	},
+	laprassceptile: {
+		tier: "(PU)",
+	},
+	laprasswampert: {
+		tier: "(PU)",
+	},
+	laprasscizor: {
+		tier: "(PU)",
+	},
+	laprasentei: {
+		tier: "(PU)",
+	},
+	laprastyphlosion: {
+		tier: "(PU)",
+	},
+	laprasgirafarig: {
+		tier: "(PU)",
+	},
+	laprasforretress: {
+		tier: "(PU)",
+	},
+	laprasquilava: {
+		tier: "(PU)",
+	},
+	laprasdragonair: {
+		tier: "(PU)",
+	},
+	laprasmoltres: {
+		tier: "(PU)",
+	},
+	laprasomastar: {
+		tier: "(PU)",
+	},
+	gyaradosgarchomp: {
+		tier: "(PU)",
+	},
+	magikarpwailord: {
+		tier: "(PU)",
+	},
+	magikarpskarmory: {
+		tier: "(PU)",
+	},
+	magikarpshuckle: {
+		tier: "(PU)",
+	},
+	magikarpdunsparce: {
+		tier: "(PU)",
+	},
+	magikarpmoltres: {
+		tier: "(PU)",
+	},
+	magikarpzapdos: {
+		tier: "(PU)",
+	},
+	magikarpmewtwo: {
+		tier: "(PU)",
+	},
+	magikarpmagikarp: {
+		tier: "LC",
+	},
+	heracrosspinsir: {
+		tier: "(PU)",
+	},
+	electabuzzscizor: {
+		tier: "(PU)",
+	},
+	electabuzzrhydon: {
+		tier: "(PU)",
+	},
+	scytherpawniard: {
+		tier: "(PU)",
+	},
+	scytherblaziken: {
+		tier: "(PU)",
+	},
+	scytherazumarill: {
+		tier: "(PU)",
+	},
+	scythermagmar: {
+		tier: "(PU)",
+	},
+	scytherscyther: {
+		tier: "(PU)",
+	},
+	scizorscyther: {
+		tier: "(PU)",
+	},
+	blazikenrayquaza: {
+		tier: "(PU)",
+	},
+	blazikengarchomp: {
+		tier: "(PU)",
+	},
+	blazikengardevoir: {
+		tier: "(PU)",
+	},
+	blazikensceptile: {
+		tier: "(PU)",
+	},
+	blazikenscizor: {
+		tier: "(PU)",
+	},
+	blazikenheracross: {
+		tier: "(PU)",
+	},
+	blazikenarticuno: {
+		tier: "(PU)",
+	},
+	blazikenkingdra: {
+		tier: "(PU)",
+	},
+	blazikenaerodactyl: {
+		tier: "(PU)",
+	},
+	rampardosblaziken: {
+		tier: "(PU)",
+	},
+	blazikencharizard: {
+		tier: "(PU)",
+	},
+	blazikennidoking: {
+		tier: "(PU)",
+	},
+	sceptilerayquaza: {
+		tier: "(PU)",
+	},
+	sceptilerampardos: {
+		tier: "(PU)",
+	},
+	beedrillblastoise: {
+		tier: "(PU)",
+	},
+	sceptilelucario: {
+		tier: "(PU)",
+	},
+	sceptileswampert: {
+		tier: "(PU)",
+	},
+	sceptileentei: {
+		tier: "(PU)",
+	},
+	sceptilebreloom: {
+		tier: "(PU)",
+	},
+	sceptilehitmontop: {
+		tier: "(PU)",
+	},
+	swampertswampert: {
+		tier: "(PU)",
+	},
+	swampertlugia: {
+		tier: "(PU)",
+	},
+	swampertzekrom: {
+		tier: "(PU)",
+	},
+	mawilegiratina: {
+		tier: "(PU)",
+	},
+	rampardosbastiodon: {
+		tier: "(PU)",
+	},
+	bastiodonrampardos: {
+		tier: "(PU)",
+	},
+	rampardosrhyperior: {
+		tier: "(PU)",
+	},
+	rampardoskabutops: {
+		tier: "(PU)",
+	},
+	rampardosmarowak: {
+		tier: "(PU)",
+	},
+	rampardosrhydon: {
+		tier: "(PU)",
+	},
+	rampardosrhyhorn: {
+		tier: "(PU)",
+	},
+	rampardosblastoise: {
+		tier: "(PU)",
+	},
+	bastiodonaggron: {
+		tier: "(PU)",
+	},
+	duskullmoltres: {
+		tier: "(PU)",
+	},
+	duskullaerodactyl: {
+		tier: "(PU)",
+	},
+	duskullrhydon: {
+		tier: "(PU)",
+	},
+	duskullrhyhorn: {
+		tier: "LC",
+	},
+	duskullrhyperior: {
+		tier: "(PU)",
+	},
+	duskullbeldum: {
+		tier: "LC",
+	},
+	duskullmetang: {
+		tier: "(PU)",
+	},
+	dusclopsrhyhorn: {
+		tier: "(PU)",
+	},
+	dusclopsrhyperior: {
+		tier: "(PU)",
+	},
+	dusclopsheracross: {
+		tier: "(PU)",
+	},
+	dusclopsgallade: {
+		tier: "(PU)",
+	},
+	arceusgalvantula: {
+		tier: "Uber",
+	},
+	deoxysgalvantula: {
+		tier: "(PU)",
+	},
+	zekromgalvantula: {
+		tier: "(PU)",
+	},
+	reshiramgalvantula: {
+		tier: "(PU)",
+	},
+	dusclopsregigigas: {
+		tier: "(PU)",
+	},
+	dusknoirblastoise: {
+		tier: "(PU)",
+	},
+	dusknoirvenusaur: {
+		tier: "(PU)",
+	},
+	dusknoircharizard: {
+		tier: "(PU)",
+	},
+	dusknoirrhydon: {
+		tier: "(PU)",
+	},
+	dusknoirdodrio: {
+		tier: "(PU)",
+	},
+	dusknoirrhyhorn: {
+		tier: "(PU)",
+	},
+	dusknoirrhyperior: {
+		tier: "(PU)",
+	},
+	dusknoiraerodactyl: {
+		tier: "(PU)",
+	},
+	dusknoirtyphlosion: {
+		tier: "(PU)",
+	},
+	dusknoirfurret: {
+		tier: "(PU)",
+	},
+	dusknoirsteelix: {
+		tier: "(PU)",
+	},
+	dusknoirscizor: {
+		tier: "(PU)",
+	},
+	dusknoirscyther: {
+		tier: "(PU)",
+	},
+	dusknoirheracross: {
+		tier: "(PU)",
+	},
+	dusknoirursaring: {
+		tier: "(PU)",
+	},
+	dusknoirtorterra: {
+		tier: "(PU)",
+	},
+	dusknoiraggron: {
+		tier: "(PU)",
+	},
+	dusknoirregigigas: {
+		tier: "(PU)",
+	},
+	arceusunown: {
+		tier: "Uber",
+	},
+	scizorarceus: {
+		tier: "Uber",
+	},
+	arceusbastiodon: {
+		tier: "Uber",
+	},
+	torterratorterra: {
+		tier: "(PU)",
+	},
+	torterrainfernape: {
+		tier: "(PU)",
+	},
+	empoleoncharizard: {
+		tier: "(PU)",
+	},
+	empoleonalakazam: {
+		tier: "(PU)",
+	},
+	empoleonnidoking: {
+		tier: "(PU)",
+	},
+	empoleonmachamp: {
+		tier: "(PU)",
+	},
+	empoleonmarowak: {
+		tier: "(PU)",
+	},
+	empoleonaerodactyl: {
+		tier: "(PU)",
+	},
+	empoleonsnorlax: {
+		tier: "(PU)",
+	},
+	empoleonarticuno: {
+		tier: "(PU)",
+	},
+	empoleondragonite: {
+		tier: "(PU)",
+	},
+	empoleontyphlosion: {
+		tier: "(PU)",
+	},
+	empoleonscizor: {
+		tier: "(PU)",
+	},
+	empoleontyranitar: {
+		tier: "(PU)",
+	},
+	empoleonelectivire: {
+		tier: "(PU)",
+	},
+	empoleonsceptile: {
+		tier: "(PU)",
+	},
+	empoleonbastiodon: {
+		tier: "(PU)",
+	},
+	empoleonzoroark: {
+		tier: "(PU)",
+	},
+	talonflamelugia: {
+		tier: "(PU)",
+	},
+	talonflamearceus: {
+		tier: "Uber",
+	},
+	talonflamecharizard: {
+		tier: "(PU)",
+	},
+	talonflamelatios: {
+		tier: "(PU)",
+	},
+	talonflamelatias: {
+		tier: "(PU)",
+	},
+	wobbuffetmewtwo: {
+		tier: "(PU)",
+	},
+	arcanineslaking: {
+		tier: "(PU)",
+	},
+	talonflameregigigas: {
+		tier: "(PU)",
+	},
+	talonflametalonflame: {
+		tier: "(PU)",
+	},
+	woopermewtwo: {
+		tier: "(PU)",
+	},
+	talonflameaegislash: {
+		tier: "(PU)",
+	},
+	aegislashtalonflame: {
+		tier: "(PU)",
+	},
+	talonflameslaking: {
+		tier: "(PU)",
+	},
+	hydreigonreuniclus: {
+		tier: "(PU)",
+	},
+	klefkishuckle: {
+		tier: "(PU)",
+	},
+	shuckleklefki: {
+		tier: "(PU)",
+	},
+	darkraideoxys: {
+		tier: "(PU)",
+	},
+	deoxysdarkrai: {
+		tier: "(PU)",
+	},
+	roseradejynx: {
+		tier: "(PU)",
+	},
+	jynxroserade: {
+		tier: "(PU)",
+	},
+	mudkipmunchlax: {
+		tier: "LC",
+	},
+	mudkipmudkip: {
+		tier: "LC",
+	},
+	mewtwomudkip: {
+		tier: "(PU)",
+	},
+	lopunnychansey: {
+		tier: "(PU)",
+	},
+	talonflametogekiss: {
+		tier: "(PU)",
+	},
+	ninetalestogekiss: {
+		tier: "(PU)",
+	},
+	togekisstalonflame: {
+		tier: "(PU)",
+	},
+	togekissninetales: {
+		tier: "(PU)",
+	},
+	talonflamepidgeot: {
+		tier: "(PU)",
+	},
+	vileplumewhimsicott: {
+		tier: "(PU)",
+	},
+	whimsicottvileplume: {
+		tier: "(PU)",
+	},
+	mawilewhimsicott: {
+		tier: "(PU)",
+	},
+	whimsicottmawile: {
+		tier: "(PU)",
+	},
+	mawiledragonite: {
+		tier: "(PU)",
+	},
+	mawileklefki: {
+		tier: "(PU)",
+	},
+	butterfreeklefki: {
+		tier: "(PU)",
+	},
+	mawilevolcarona: {
+		tier: "(PU)",
+	},
+	volcaronabutterfree: {
+		tier: "(PU)",
+	},
+	volcaronahonchkrow: {
+		tier: "(PU)",
+	},
+	honchkrowvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronascizor: {
+		tier: "(PU)",
+	},
+	scizorvolcarona: {
+		tier: "(PU)",
+	},
+	mimikyuvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronamimikyu: {
+		tier: "(PU)",
+	},
+	togekissvolcarona: {
+		tier: "(PU)",
+	},
+	gengargolurk: {
+		tier: "(PU)",
+	},
+	volcaronatogekiss: {
+		tier: "(PU)",
+	},
+	tangrowthmuk: {
+		tier: "(PU)",
+	},
+	golurkgarchomp: {
+		tier: "(PU)",
+	},
+	golurkgengar: {
+		tier: "(PU)",
+	},
+	golurklucario: {
+		tier: "(PU)",
+	},
+	golurkursaring: {
+		tier: "(PU)",
+	},
+	golurkelectrode: {
+		tier: "(PU)",
+	},
+	ivysaurluxray: {
+		tier: "(PU)",
+	},
+	charizardluxray: {
+		tier: "(PU)",
+	},
+	golurkdarkrai: {
+		tier: "(PU)",
+	},
+	darkraigolurk: {
+		tier: "(PU)",
+	},
+	golurksteelix: {
+		tier: "(PU)",
+	},
+	golurkcorsola: {
+		tier: "(PU)",
+	},
+	corsolagolurk: {
+		tier: "(PU)",
+	},
+	roseradegolurk: {
+		tier: "(PU)",
+	},
+	golurkroserade: {
+		tier: "(PU)",
+	},
+	golurkbisharp: {
+		tier: "(PU)",
+	},
+	pyukumukuchansey: {
+		tier: "(PU)",
+	},
+	golurkslaking: {
+		tier: "(PU)",
+	},
+	slakinggolurk: {
+		tier: "(PU)",
+	},
+	chanseypyukumuku: {
+		tier: "(PU)",
+	},
+	golurkmagmortar: {
+		tier: "(PU)",
+	},
+	magmortargolurk: {
+		tier: "(PU)",
+	},
+	rayquazaekans: {
+		tier: "(PU)",
+	},
+	golurkdugtrio: {
+		tier: "(PU)",
+	},
+	dugtriogolurk: {
+		tier: "(PU)",
+	},
+	golurkspiritomb: {
+		tier: "(PU)",
+	},
+	spiritombgolurk: {
+		tier: "(PU)",
+	},
+	golurkdunsparce: {
+		tier: "(PU)",
+	},
+	dunsparcegolurk: {
+		tier: "(PU)",
+	},
+	golurktyranitar: {
+		tier: "(PU)",
+	},
+	zekromrayquaza: {
+		tier: "(PU)",
+	},
+	golurkaggron: {
+		tier: "(PU)",
+	},
+	aggrongolurk: {
+		tier: "(PU)",
+	},
+	golurkempoleon: {
+		tier: "(PU)",
+	},
+	empoleongolurk: {
+		tier: "(PU)",
+	},
+	golurksudowoodo: {
+		tier: "(PU)",
+	},
+	sudowoodogolurk: {
+		tier: "(PU)",
+	},
+	golurkdragonite: {
+		tier: "(PU)",
+	},
+	dragonitegolurk: {
+		tier: "(PU)",
+	},
+	golurkzoroark: {
+		tier: "(PU)",
+	},
+	scizorgolurk: {
+		tier: "(PU)",
+	},
+	zoroarkgolurk: {
+		tier: "(PU)",
+	},
+	golurkscizor: {
+		tier: "(PU)",
+	},
+	golurkbreloom: {
+		tier: "(PU)",
+	},
+	breloomgolurk: {
+		tier: "(PU)",
+	},
+	lucariogolurk: {
+		tier: "(PU)",
+	},
+	golurkweavile: {
+		tier: "(PU)",
+	},
+	weavilegolurk: {
+		tier: "(PU)",
+	},
+	charmandervenusaur: {
+		tier: "(PU)",
+	},
+	honchkrowgolurk: {
+		tier: "(PU)",
+	},
+	golurkhonchkrow: {
+		tier: "(PU)",
+	},
+	marowakambipom: {
+		tier: "(PU)",
+	},
+	ambipommarowak: {
+		tier: "(PU)",
+	},
+	ambipommachamp: {
+		tier: "(PU)",
+	},
+	golurkprimeape: {
+		tier: "(PU)",
+	},
+	primeapegolurk: {
+		tier: "(PU)",
+	},
+	golurkalakazam: {
+		tier: "(PU)",
+	},
+	kyuremkingler: {
+		tier: "(PU)",
+	},
+	alakazamgolurk: {
+		tier: "(PU)",
+	},
+	kinglerkyurem: {
+		tier: "(PU)",
+	},
+	golurkmamoswine: {
+		tier: "(PU)",
+	},
+	mamoswinegolurk: {
+		tier: "(PU)",
+	},
+	golurkmachamp: {
+		tier: "(PU)",
+	},
+	ambipomcofagrigus: {
+		tier: "(PU)",
+	},
+	machampgolurk: {
+		tier: "(PU)",
+	},
+	gardevoircofagrigus: {
+		tier: "(PU)",
+	},
+	cofagrigusgardevoir: {
+		tier: "(PU)",
+	},
+	golurktangrowth: {
+		tier: "(PU)",
+	},
+	lucariocofagrigus: {
+		tier: "(PU)",
+	},
+	cofagrigusroserade: {
+		tier: "(PU)",
+	},
+	roseradecofagrigus: {
+		tier: "(PU)",
+	},
+	tangrowthgolurk: {
+		tier: "(PU)",
+	},
+	cofagriguslucario: {
+		tier: "(PU)",
+	},
+	golurkfarfetchd: {
+		tier: "(PU)",
+	},
+	farfetchdgolurk: {
+		tier: "(PU)",
+	},
+	golurkstantler: {
+		tier: "(PU)",
+	},
+	stantlergolurk: {
+		tier: "(PU)",
+	},
+	steelixgolurk: {
+		tier: "(PU)",
+	},
+	electrodegolurk: {
+		tier: "(PU)",
+	},
+	golurkpoliwrath: {
+		tier: "(PU)",
+	},
+	poliwrathgolurk: {
+		tier: "(PU)",
+	},
+	golurkaegislash: {
+		tier: "(PU)",
+	},
+	aegislashgolurk: {
+		tier: "(PU)",
+	},
+	cofagrigusgolurk: {
+		tier: "(PU)",
+	},
+	charizardgolurk: {
+		tier: "(PU)",
+	},
+	golurkparasect: {
+		tier: "(PU)",
+	},
+	clefablegolurk: {
+		tier: "(PU)",
+	},
+	parasectgolurk: {
+		tier: "(PU)",
+	},
+	golurkclefable: {
+		tier: "(PU)",
+	},
+	blastoisegolurk: {
+		tier: "(PU)",
+	},
+	golurknidoking: {
+		tier: "(PU)",
+	},
+	golurkcharizard: {
+		tier: "(PU)",
+	},
+	golurkblastoise: {
+		tier: "(PU)",
+	},
+	nidokinggolurk: {
+		tier: "(PU)",
+	},
+	golurknidoqueen: {
+		tier: "(PU)",
+	},
+	nidoqueengolurk: {
+		tier: "(PU)",
+	},
+	nidoqueencofagrigus: {
+		tier: "(PU)",
+	},
+	golurkoctillery: {
+		tier: "(PU)",
+	},
+	octillerygolurk: {
+		tier: "(PU)",
+	},
+	golurkferaligatr: {
+		tier: "(PU)",
+	},
+	golurkinfernape: {
+		tier: "(PU)",
+	},
+	feraligatrgolurk: {
+		tier: "(PU)",
+	},
+	infernapegolurk: {
+		tier: "(PU)",
+	},
+	golurkwigglytuff: {
+		tier: "(PU)",
+	},
+	wigglytuffgolurk: {
+		tier: "(PU)",
+	},
+	golurkwailord: {
+		tier: "(PU)",
+	},
+	wailordgolurk: {
+		tier: "(PU)",
+	},
+	golurkkangaskhan: {
+		tier: "(PU)",
+	},
+	kangaskhangolurk: {
+		tier: "(PU)",
+	},
+	galladegolurk: {
+		tier: "(PU)",
+	},
+	golurkgardevoir: {
+		tier: "(PU)",
+	},
+	gardevoirgolurk: {
+		tier: "(PU)",
+	},
+	golurkgallade: {
+		tier: "(PU)",
+	},
+	golurkgolem: {
+		tier: "(PU)",
+	},
+	golemgolurk: {
+		tier: "(PU)",
+	},
+	golurkcaterpie: {
+		tier: "(PU)",
+	},
+	caterpiegolurk: {
+		tier: "(PU)",
+	},
+	unowngolurk: {
+		tier: "(PU)",
+	},
+	golurkunown: {
+		tier: "(PU)",
+	},
+	golurksalamence: {
+		tier: "(PU)",
+	},
+	salamencegolurk: {
+		tier: "(PU)",
+	},
+	golurkcelebi: {
+		tier: "(PU)",
+	},
+	golurkelectivire: {
+		tier: "(PU)",
+	},
+	electiviregolurk: {
+		tier: "(PU)",
+	},
+	celebigolurk: {
+		tier: "(PU)",
+	},
+	golurkflygon: {
+		tier: "(PU)",
+	},
+	flygongolurk: {
+		tier: "(PU)",
+	},
+	golurksnorlax: {
+		tier: "(PU)",
+	},
+	snorlaxgolurk: {
+		tier: "(PU)",
+	},
+	rampardosninjask: {
+		tier: "(PU)",
+	},
+	ninjaskrampardos: {
+		tier: "(PU)",
+	},
+	golurkhitmonchan: {
+		tier: "(PU)",
+	},
+	hitmonchangolurk: {
+		tier: "(PU)",
+	},
+	golurkhitmontop: {
+		tier: "(PU)",
+	},
+	hitmontopgolurk: {
+		tier: "(PU)",
+	},
+	hitmonleegolurk: {
+		tier: "(PU)",
+	},
+	golurkhitmonlee: {
+		tier: "(PU)",
+	},
+	golurkkecleon: {
+		tier: "(PU)",
+	},
+	kecleongolurk: {
+		tier: "(PU)",
+	},
+	garchompkecleon: {
+		tier: "(PU)",
+	},
+	kecleongarchomp: {
+		tier: "(PU)",
+	},
+	kecleongengar: {
+		tier: "(PU)",
+	},
+	gengarkecleon: {
+		tier: "(PU)",
+	},
+	gardevoirkecleon: {
+		tier: "(PU)",
+	},
+	kecleongardevoir: {
+		tier: "(PU)",
+	},
+	octillerykecleon: {
+		tier: "(PU)",
+	},
+	octillerymewtwo: {
+		tier: "(PU)",
+	},
+	mewtwooctillery: {
+		tier: "(PU)",
+	},
+	volcaronamewtwo: {
+		tier: "(PU)",
+	},
+	mewtwovolcarona: {
+		tier: "(PU)",
+	},
+	raichuoctillery: {
+		tier: "(PU)",
+	},
+	octilleryvenusaur: {
+		tier: "(PU)",
+	},
+	venusauroctillery: {
+		tier: "(PU)",
+	},
+	octillerycharizard: {
+		tier: "(PU)",
+	},
+	octillerypidgeot: {
+		tier: "(PU)",
+	},
+	alakazamvolcarona: {
+		tier: "(PU)",
+	},
+	volcaronaalakazam: {
+		tier: "(PU)",
+	},
+	pidgeotoctillery: {
+		tier: "(PU)",
+	},
+	blastoiseoctillery: {
+		tier: "(PU)",
+	},
+	charizardoctillery: {
+		tier: "(PU)",
+	},
+	octilleryaegislash: {
+		tier: "(PU)",
+	},
+	aegislashoctillery: {
+		tier: "(PU)",
+	},
+	octillerydonphan: {
+		tier: "(PU)",
+	},
+	donphanoctillery: {
+		tier: "(PU)",
+	},
+	kecleondonphan: {
+		tier: "(PU)",
+	},
+	donphankecleon: {
+		tier: "(PU)",
+	},
+	octillerywigglytuff: {
+		tier: "(PU)",
+	},
+	wigglytuffoctillery: {
+		tier: "(PU)",
+	},
+	octillerygarchomp: {
+		tier: "(PU)",
+	},
+	garchompoctillery: {
+		tier: "(PU)",
+	},
+	octillerydragonite: {
+		tier: "(PU)",
+	},
+	dragoniteoctillery: {
+		tier: "(PU)",
+	},
+	octillerysalamence: {
+		tier: "(PU)",
+	},
+	breloomazumarill: {
+		tier: "(PU)",
+	},
+	salamenceoctillery: {
+		tier: "(PU)",
+	},
+	octillerymetagross: {
+		tier: "(PU)",
+	},
+	azumarillbreloom: {
+		tier: "(PU)",
+	},
+	metagrossoctillery: {
+		tier: "(PU)",
+	},
+	octilleryflygon: {
+		tier: "(PU)",
+	},
+	flygonoctillery: {
+		tier: "(PU)",
+	},
+	octilleryhydreigon: {
+		tier: "(PU)",
+	},
+	charizardcofagrigus: {
+		tier: "(PU)",
+	},
+	hydreigonoctillery: {
+		tier: "(PU)",
+	},
+	azumarillninjask: {
+		tier: "(PU)",
+	},
+	octilleryhypno: {
+		tier: "(PU)",
+	},
+	hypnooctillery: {
+		tier: "(PU)",
+	},
+	hypnogolurk: {
+		tier: "(PU)",
+	},
+	hypnogengar: {
+		tier: "(PU)",
+	},
+	golurkhypno: {
+		tier: "(PU)",
+	},
+	gengarhypno: {
+		tier: "(PU)",
+	},
+	metagrossazumarill: {
+		tier: "(PU)",
+	},
+	golurkrhyperior: {
+		tier: "(PU)",
+	},
+	rhyperiorgolurk: {
+		tier: "(PU)",
+	},
+	golurkhydreigon: {
+		tier: "(PU)",
+	},
+	hydreigongolurk: {
+		tier: "(PU)",
+	},
+	golurkscyther: {
+		tier: "(PU)",
+	},
+	scythergolurk: {
+		tier: "(PU)",
+	},
+	golurksceptile: {
+		tier: "(PU)",
+	},
+	sceptilegolurk: {
+		tier: "(PU)",
+	},
+	garchompsceptile: {
+		tier: "(PU)",
+	},
+	sceptiledragonite: {
+		tier: "(PU)",
+	},
+	dragonitesceptile: {
+		tier: "(PU)",
+	},
+	sceptilesalamence: {
+		tier: "(PU)",
+	},
+	salamencesceptile: {
+		tier: "(PU)",
+	},
+	mamoswineazumarill: {
+		tier: "(PU)",
+	},
+	sceptilehydreigon: {
+		tier: "(PU)",
+	},
+	hydreigonsceptile: {
+		tier: "(PU)",
+	},
+	sceptilekingdra: {
+		tier: "(PU)",
+	},
+	kingdrasceptile: {
+		tier: "(PU)",
+	},
+	arcanineazumarill: {
+		tier: "(PU)",
+	},
+	flygonsceptile: {
+		tier: "(PU)",
+	},
+	gardevoirsceptile: {
+		tier: "(PU)",
+	},
+	sceptilegengar: {
+		tier: "(PU)",
+	},
+	gengarsceptile: {
+		tier: "(PU)",
+	},
+	sceptilegardevoir: {
+		tier: "(PU)",
+	},
+	metagrossgyarados: {
+		tier: "(PU)",
+	},
+	azumarilllopunny: {
+		tier: "(PU)",
+	},
+	hydreigonazumarill: {
+		tier: "(PU)",
+	},
+	lopunnyazumarill: {
+		tier: "(PU)",
+	},
+	garchompgolem: {
+		tier: "(PU)",
+	},
+	golemgarchomp: {
+		tier: "(PU)",
+	},
+	golemdragonite: {
+		tier: "(PU)",
+	},
+	dragonitegolem: {
+		tier: "(PU)",
+	},
+	golemflygon: {
+		tier: "(PU)",
+	},
+	flygongolem: {
+		tier: "(PU)",
+	},
+	golemsalamence: {
+		tier: "(PU)",
+	},
+	metagrossgolem: {
+		tier: "(PU)",
+	},
+	golemhydreigon: {
+		tier: "(PU)",
+	},
+	golemmetagross: {
+		tier: "(PU)",
+	},
+	salamencegolem: {
+		tier: "(PU)",
+	},
+	hydreigonalakazam: {
+		tier: "(PU)",
+	},
+	alakazamhydreigon: {
+		tier: "(PU)",
+	},
+	charizardbreloom: {
+		tier: "(PU)",
+	},
+	hydreigongolem: {
+		tier: "(PU)",
+	},
+	blastoisebreloom: {
+		tier: "(PU)",
+	},
+	venusaurbreloom: {
+		tier: "(PU)",
+	},
+	magnezonealakazam: {
+		tier: "(PU)",
+	},
+	alakazammagnezone: {
+		tier: "(PU)",
+	},
+	torterrahydreigon: {
+		tier: "(PU)",
+	},
+	hydreigontorterra: {
+		tier: "(PU)",
+	},
+	rampardosclefable: {
+		tier: "(PU)",
+	},
+	torterraflygon: {
+		tier: "(PU)",
+	},
+	flygontorterra: {
+		tier: "(PU)",
+	},
+	torterragarchomp: {
+		tier: "(PU)",
+	},
+	garchomptorterra: {
+		tier: "(PU)",
+	},
+	clefablerampardos: {
+		tier: "(PU)",
+	},
+	torterradragonite: {
+		tier: "(PU)",
+	},
+	dragonitetorterra: {
+		tier: "(PU)",
+	},
+	torterrametagross: {
+		tier: "(PU)",
+	},
+	metagrosstorterra: {
+		tier: "(PU)",
+	},
+	parasectvoltorb: {
+		tier: "(PU)",
+	},
+	torterradusknoir: {
+		tier: "(PU)",
+	},
+	sudowoodogarchomp: {
+		tier: "(PU)",
+	},
+	garchompsudowoodo: {
+		tier: "(PU)",
+	},
+	sudowoodometagross: {
+		tier: "(PU)",
+	},
+	sudowoodoflygon: {
+		tier: "(PU)",
+	},
+	metagrosssudowoodo: {
+		tier: "(PU)",
+	},
+	flygonsudowoodo: {
+		tier: "(PU)",
+	},
+	sudowoodomamoswine: {
+		tier: "(PU)",
+	},
+	mamoswinesudowoodo: {
+		tier: "(PU)",
+	},
+	sudowoodogolduck: {
+		tier: "(PU)",
+	},
+	sudowoodohydreigon: {
+		tier: "(PU)",
+	},
+	golducksudowoodo: {
+		tier: "(PU)",
+	},
+	hydreigonsudowoodo: {
+		tier: "(PU)",
+	},
+	stantlermetagross: {
+		tier: "(PU)",
+	},
+	metagrossstantler: {
+		tier: "(PU)",
+	},
+	flygonstantler: {
+		tier: "(PU)",
+	},
+	garchompstantler: {
+		tier: "(PU)",
+	},
+	stantlergarchomp: {
+		tier: "(PU)",
+	},
+	stantlerflygon: {
+		tier: "(PU)",
+	},
+	stantlerhydreigon: {
+		tier: "(PU)",
+	},
+	hydreigonstantler: {
+		tier: "(PU)",
+	},
+	stantlerdragonite: {
+		tier: "(PU)",
+	},
+	dragonitestantler: {
+		tier: "(PU)",
+	},
+	slakingstantler: {
+		tier: "(PU)",
+	},
+	stantlerslaking: {
+		tier: "(PU)",
+	},
+	torterraslaking: {
+		tier: "(PU)",
+	},
+	slakingtorterra: {
+		tier: "(PU)",
+	},
+	slakinghypno: {
+		tier: "(PU)",
+	},
+	hypnoslaking: {
+		tier: "(PU)",
+	},
+	golemslaking: {
+		tier: "(PU)",
+	},
+	cofagrigusmilotic: {
+		tier: "(PU)",
+	},
+	slakinggolem: {
+		tier: "(PU)",
+	},
+	miloticcofagrigus: {
+		tier: "(PU)",
+	},
+	miltankmilotic: {
+		tier: "(PU)",
+	},
+	klefkimilotic: {
+		tier: "(PU)",
+	},
+	klefkicofagrigus: {
+		tier: "(PU)",
+	},
+	regigigasgolurk: {
+		tier: "(PU)",
+	},
+	golemregigigas: {
+		tier: "(PU)",
+	},
+	regigigasgolem: {
+		tier: "(PU)",
+	},
+	regigigastorterra: {
+		tier: "(PU)",
+	},
+	torterraregigigas: {
+		tier: "(PU)",
+	},
+	sudowoodoregigigas: {
+		tier: "(PU)",
+	},
+	regigigassudowoodo: {
+		tier: "(PU)",
+	},
+	regigigasmrmime: {
+		tier: "(PU)",
+	},
+	mrmimeregigigas: {
+		tier: "(PU)",
+	},
+	mrmimegarchomp: {
+		tier: "(PU)",
+	},
+	garchompmrmime: {
+		tier: "(PU)",
+	},
+	mrmimegardevoir: {
+		tier: "(PU)",
+	},
+	gardevoirmrmime: {
+		tier: "(PU)",
+	},
+	metagrossmrmime: {
+		tier: "(PU)",
+	},
+	flygonmrmime: {
+		tier: "(PU)",
+	},
+	mrmimeflygon: {
+		tier: "(PU)",
+	},
+	mrmimehydreigon: {
+		tier: "(PU)",
+	},
+	hydreigonmrmime: {
+		tier: "(PU)",
+	},
+	mrmimedragonite: {
+		tier: "(PU)",
+	},
+	dragonitemrmime: {
+		tier: "(PU)",
+	},
+	mrmimeslaking: {
+		tier: "(PU)",
+	},
+	slakingmrmime: {
+		tier: "(PU)",
+	},
+	mrmimeaegislash: {
+		tier: "(PU)",
+	},
+	aegislashmrmime: {
+		tier: "(PU)",
+	},
+	luxrayregigigas: {
+		tier: "(PU)",
+	},
+	regigigasluxray: {
+		tier: "(PU)",
+	},
+	luxrayslaking: {
+		tier: "(PU)",
+	},
+	slakingluxray: {
+		tier: "(PU)",
+	},
+	dragoniteluxray: {
+		tier: "(PU)",
+	},
+	luxraydragonite: {
+		tier: "(PU)",
+	},
+	luxrayflygon: {
+		tier: "(PU)",
+	},
+	flygonluxray: {
+		tier: "(PU)",
+	},
+	luxrayhydreigon: {
+		tier: "(PU)",
+	},
+	hydreigonluxray: {
+		tier: "(PU)",
+	},
+	luxrayrhyperior: {
+		tier: "(PU)",
+	},
+	rhyperiorluxray: {
+		tier: "(PU)",
+	},
+	weavileluxray: {
+		tier: "(PU)",
+	},
+	luxrayweavile: {
+		tier: "(PU)",
+	},
+	luxraygolurk: {
+		tier: "(PU)",
+	},
+	golurkluxray: {
+		tier: "(PU)",
+	},
+	luxraymetagross: {
+		tier: "(PU)",
+	},
+	metagrossluxray: {
+		tier: "(PU)",
+	},
+	luxrayumbreon: {
+		tier: "(PU)",
+	},
+	umbreonluxray: {
+		tier: "(PU)",
+	},
+	luxrayvenusaur: {
+		tier: "(PU)",
+	},
+	venusaurluxray: {
+		tier: "(PU)",
+	},
+	luxrayferaligatr: {
+		tier: "(PU)",
+	},
+	infernapeluxray: {
+		tier: "(PU)",
+	},
+	torterraluxray: {
+		tier: "(PU)",
+	},
+	feraligatrluxray: {
+		tier: "(PU)",
+	},
+	luxrayinfernape: {
+		tier: "(PU)",
+	},
+	luxraytorterra: {
+		tier: "(PU)",
+	},
+	luxrayempoleon: {
+		tier: "(PU)",
+	},
+	empoleonluxray: {
+		tier: "(PU)",
+	},
+	luxraygolem: {
+		tier: "(PU)",
+	},
+	golemluxray: {
+		tier: "(PU)",
+	},
+	sudowoodoluxray: {
+		tier: "(PU)",
+	},
+	luxraysudowoodo: {
+		tier: "(PU)",
+	},
+	luxraygroudon: {
+		tier: "(PU)",
+	},
+	groudonluxray: {
+		tier: "(PU)",
+	},
+	aggronluxray: {
+		tier: "(PU)",
+	},
+	luxrayaggron: {
+		tier: "(PU)",
+	},
+	electivireluxray: {
+		tier: "(PU)",
+	},
+	luxrayelectrode: {
+		tier: "(PU)",
+	},
+	electrodeluxray: {
+		tier: "(PU)",
+	},
+	luxrayelectivire: {
+		tier: "(PU)",
+	},
+	lopunnygardevoir: {
+		tier: "(PU)",
+	},
+	lopunnygengar: {
+		tier: "(PU)",
+	},
+	darkrailopunny: {
+		tier: "(PU)",
+	},
+	gengarlopunny: {
+		tier: "(PU)",
+	},
+	dragonitelopunny: {
+		tier: "(PU)",
+	},
+	lopunnydarkrai: {
+		tier: "(PU)",
+	},
+	lopunnydragonite: {
+		tier: "(PU)",
+	},
+	lopunnyflygon: {
+		tier: "(PU)",
+	},
+	flygonlopunny: {
+		tier: "(PU)",
+	},
+	machamplopunny: {
+		tier: "(PU)",
+	},
+	lopunnymachamp: {
+		tier: "(PU)",
+	},
+	kangaskhanlopunny: {
+		tier: "(PU)",
+	},
+	lopunnykangaskhan: {
+		tier: "(PU)",
+	},
+	wailordlopunny: {
+		tier: "(PU)",
+	},
+	lopunnywailord: {
+		tier: "(PU)",
+	},
+	charmeleonlopunny: {
+		tier: "(PU)",
+	},
+	lopunnycharmeleon: {
+		tier: "(PU)",
+	},
+	charizardlopunny: {
+		tier: "(PU)",
+	},
+	lopunnycharizard: {
+		tier: "(PU)",
+	},
+	lopunnyweavile: {
+		tier: "(PU)",
+	},
+	weavilelopunny: {
+		tier: "(PU)",
+	},
+	galladelopunny: {
+		tier: "(PU)",
+	},
+	lopunnygallade: {
+		tier: "(PU)",
+	},
+	lucariolopunny: {
+		tier: "(PU)",
+	},
+	lopunnylucario: {
+		tier: "(PU)",
+	},
+	lopunnygolurk: {
+		tier: "(PU)",
+	},
+	golurklopunny: {
+		tier: "(PU)",
+	},
+	metagrosslopunny: {
+		tier: "(PU)",
+	},
+	lopunnymetagross: {
+		tier: "(PU)",
+	},
+	lopunnymewtwo: {
+		tier: "(PU)",
+	},
+	mewtwolopunny: {
+		tier: "(PU)",
+	},
+	lopunnyslaking: {
+		tier: "(PU)",
+	},
+	lopunnyregigigas: {
+		tier: "(PU)",
+	},
+	regigigaslopunny: {
+		tier: "(PU)",
+	},
+	lopunnymiltank: {
+		tier: "(PU)",
+	},
+	lopunnymarowak: {
+		tier: "(PU)",
+	},
+	marowaklopunny: {
+		tier: "(PU)",
+	},
+	miltanklopunny: {
+		tier: "(PU)",
+	},
+	lopunnykecleon: {
+		tier: "(PU)",
+	},
+	kecleonlopunny: {
+		tier: "(PU)",
+	},
+	lopunnywigglytuff: {
+		tier: "(PU)",
+	},
+	furretlopunny: {
+		tier: "(PU)",
+	},
+	lopunnyfurret: {
+		tier: "(PU)",
+	},
+	gardevoirfurret: {
+		tier: "(PU)",
+	},
+	furretgardevoir: {
+		tier: "(PU)",
+	},
+	dragonitefurret: {
+		tier: "(PU)",
+	},
+	furretdragonite: {
+		tier: "(PU)",
+	},
+	garchompfurret: {
+		tier: "(PU)",
+	},
+	furretgarchomp: {
+		tier: "(PU)",
+	},
+	slakingfurret: {
+		tier: "(PU)",
+	},
+	regigigasfurret: {
+		tier: "(PU)",
+	},
+	furretregigigas: {
+		tier: "(PU)",
+	},
+	furretflygon: {
+		tier: "(PU)",
+	},
+	furretmetagross: {
+		tier: "(PU)",
+	},
+	flygonfurret: {
+		tier: "(PU)",
+	},
+	metagrossfurret: {
+		tier: "(PU)",
+	},
+	metagrossfarfetchd: {
+		tier: "(PU)",
+	},
+	farfetchdmetagross: {
+		tier: "(PU)",
+	},
+	farfetchdslaking: {
+		tier: "(PU)",
+	},
+	slakingfarfetchd: {
+		tier: "(PU)",
+	},
+	farfetchdflygon: {
+		tier: "(PU)",
+	},
+	flygonfarfetchd: {
+		tier: "(PU)",
+	},
+	farfetchddragonite: {
+		tier: "(PU)",
+	},
+	dragonitefarfetchd: {
+		tier: "(PU)",
+	},
+	corsolaregigigas: {
+		tier: "(PU)",
+	},
+	regigigascorsola: {
+		tier: "(PU)",
+	},
+	corsolagarchomp: {
+		tier: "(PU)",
+	},
+	garchompcorsola: {
+		tier: "(PU)",
+	},
+	corsolaslaking: {
+		tier: "(PU)",
+	},
+	slakingcorsola: {
+		tier: "(PU)",
+	},
+	corsolablastoise: {
+		tier: "(PU)",
+	},
+	blastoisecorsola: {
+		tier: "(PU)",
+	},
+	corsolahydreigon: {
+		tier: "(PU)",
+	},
+	hydreigoncorsola: {
+		tier: "(PU)",
+	},
+	corsolametagross: {
+		tier: "(PU)",
+	},
+	metagrosscorsola: {
+		tier: "(PU)",
+	},
+	corsolabanette: {
+		tier: "(PU)",
+	},
+	banettecorsola: {
+		tier: "(PU)",
+	},
+	mimikyubanette: {
+		tier: "(PU)",
+	},
+	banettemimikyu: {
+		tier: "(PU)",
+	},
+	banetteslaking: {
+		tier: "(PU)",
+	},
+	slakingbanette: {
+		tier: "(PU)",
+	},
+	banettegarchomp: {
+		tier: "(PU)",
+	},
+	garchompbanette: {
+		tier: "(PU)",
+	},
+	banettegengar: {
+		tier: "(PU)",
+	},
+	gengarbanette: {
 		tier: "(PU)",
 	},
 };
