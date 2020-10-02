@@ -5782,94 +5782,169 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
-	kingdrareshiram: {
-		tier: "(PU)",
+	kyogresceptile: {
+		tier: "OU",
 	},
-	reshiramkingdra: {
-		tier: "(PU)",
+	kyogrejolteon: {
+		tier: "OU",
 	},
-	kingdrazekrom: {
-		tier: "(PU)",
+	kyogreelectrode: {
+		tier: "OU",
 	},
-	zekromkingdra: {
-		tier: "(PU)",
+	rhyperiormantine: {
+		tier: "OU",
 	},
-	palkiakingdra: {
-		tier: "(PU)",
+	groudonmantine: {
+		tier: "OU",
 	},
-	blastoisekingdra: {
-		tier: "(PU)",
+	clefabledialga: {
+		tier: "OU",
 	},
-	kingdrapalkia: {
-		tier: "(PU)",
+	clefablesteelix: {
+		tier: "OU",
 	},
-	palkiablastoise: {
-		tier: "(PU)",
+	espeonjolteon: {
+		tier: "OU",
 	},
-	blastoisepalkia: {
-		tier: "(PU)",
+	clefablegiratina: {
+		tier: "OU",
 	},
-	electrodereshiram: {
-		tier: "(PU)",
+	espeondarkrai: {
+		tier: "OU",
 	},
-	reshiramelectrode: {
-		tier: "(PU)",
+	venusaurespeon: {
+		tier: "OU",
 	},
-	zekromblaziken: {
-		tier: "(PU)",
+	blisseyshuckle: {
+		tier: "OU",
 	},
-	blazikengroudon: {
-		tier: "(PU)",
+	blisseydusclops: {
+		tier: "OU",
 	},
-	blazikenzekrom: {
-		tier: "(PU)",
+	kyogretangrowth: {
+		tier: "OU",
 	},
-	groudonblaziken: {
-		tier: "(PU)",
+	giratinaumbreon: {
+		tier: "OU",
 	},
-	hoohgroudon: {
-		tier: "(PU)",
+	aggronhooh: {
+		tier: "OU",
 	},
-	groudonhooh: {
-		tier: "(PU)",
+	aegislashhooh: {
+		tier: "OU",
 	},
-	bisharparceus: {
+	hoohferrothorn: {
+		tier: "OU",
+	},
+	slowbrogroudon: {
+		tier: "OU",
+	},
+	umbreonweezing: {
+		tier: "OU",
+	},
+	sylveondragonite: {
+		tier: "OU",
+	},
+	sylveonregigigas: {
+		tier: "OU",
+	},
+	machamparceus: {
 		tier: "Uber",
 	},
-	arceusbisharp: {
+	snorlaxhitmontop: {
+		tier: "OU",
+	},
+	zoroarkgengar: {
+		tier: "OU",
+	},
+	gliscorgarchomp: {
+		tier: "OU",
+	},
+	gliscorregigigas: {
+		tier: "OU",
+	},
+	giratinazoroark: {
+		tier: "OU",
+	},
+	luxrayarceus: {
 		tier: "Uber",
 	},
-	bisharpmetagross: {
-		tier: "(PU)",
+	weavileblaziken: {
+		tier: "OU",
 	},
-	miloticpalkia: {
-		tier: "(PU)",
+	hoohtentacruel: {
+		tier: "OU",
 	},
-	palkiamilotic: {
-		tier: "(PU)",
+	blazikenweavile: {
+		tier: "OU",
 	},
-	metagrossbisharp: {
-		tier: "(PU)",
+	slakingblaziken: {
+		tier: "OU",
 	},
-	dialgamilotic: {
-		tier: "(PU)",
+	lucarioblaziken: {
+		tier: "OU",
 	},
-	reshirammilotic: {
-		tier: "(PU)",
+	shucklemachamp: {
+		tier: "OU",
 	},
-	miloticdialga: {
-		tier: "(PU)",
+	shucklereshiram: {
+		tier: "OU",
 	},
-	miloticreshiram: {
-		tier: "(PU)",
+	rayquazashuckle: {
+		tier: "OU",
 	},
-	miloticalakazam: {
-		tier: "(PU)",
+	klinklangrampardos: {
+		tier: "OU",
 	},
-	alakazammilotic: {
-		tier: "(PU)",
+	regigigasrampardos: {
+		tier: "OU",
 	},
-	miloticgengar: {
-		tier: "(PU)",
+	salamenceklinklang: {
+		tier: "OU",
+	},
+	darkraibutterfree: {
+		tier: "OU",
+	},
+	genesectgarchomp: {
+		tier: "OU",
+	},
+	aegislashparasect: {
+		tier: "OU",
+	},
+	kingdragarchomp: {
+		tier: "OU",
+	},
+	arcaninedragonite: {
+		tier: "OU",
+	},
+	aerodactylleafeon: {
+		tier: "OU",
+	},
+	slakingmurkrow: {
+		tier: "OU",
+	},
+	arcanineleafeon: {
+		tier: "OU",
+	},
+	leafeonarcanine: {
+		tier: "OU",
+	},
+	blastoiselugia: {
+		tier: "OU",
+	},
+	volcaronalugia: {
+		tier: "OU",
+	},
+	reshiramnidoking: {
+		tier: "OU",
+	},
+	jolteoncharizard: {
+		tier: "OU",
+	},
+	infernapegroudon: {
+		tier: "OU",
+	},
+	typhlosiongroudon: {
+		tier: "OU",
 	},
 };
