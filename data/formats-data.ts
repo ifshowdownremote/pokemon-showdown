@@ -5947,4 +5947,142 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	typhlosiongroudon: {
 		tier: "OU",
 	},
+	sylveonflygon: {
+		tier: "OU",
+	},
+	tyranitargarchomp: {
+		tier: "OU",
+	},
+	dragonitearcanine: {
+		tier: "OU",
+	},
+	scizorflygon: {
+		tier: "UU",
+	},
+	kyogreraichu: {
+		tier: "UU",
+	},
+	clefabletangrowth: {
+		tier: "UU",
+	},
+	blisseysteelix: {
+		tier: "UU",
+	},
+	steelixclefable: {
+		tier: "UU",
+	},
+	tangrowthmilotic: {
+		tier: "UU",
+	},
+	milotictangrowth: {
+		tier: "UU",
+	},
+	miloticsuicune: {
+		tier: "UU",
+	},
+	zoroarkumbreon: {
+		tier: "UU",
+	},
+	sylveonzoroark: {
+		tier: "UU",
+	},
+	weavilerampardos: {
+		tier: "UU",
+	},
+	rampardosslaking: {
+		tier: "UU",
+	},
+	rampardosaerodactyl: {
+		tier: "UU",
+	},
+	rampardosweavile: {
+		tier: "UU",
+	},
+	gengartauros: {
+		tier: "UU",
+	},
+	parasectscizor: {
+		tier: "UU",
+	},
+	dragoniteblastoise: {
+		tier: "UU",
+	},
+	jynxmagnezone: {
+		tier: "UU",
+	},
+	snorlaxmiltank: {
+		tier: "UU",
+	},
+	whimsicottroserade: {
+		tier: "UU",
+	},
+	palkiarapidash: {
+		tier: "UU",
+	},
+	espeonsteelix: {
+		tier: "UU",
+	},
+	raichucrobat: {
+		tier: "UU",
+	},
+	aerodactylcrobat: {
+		tier: "UU",
+	},
+	xatusteelix: {
+		tier: "UU",
+	},
+	suicunearcanine: {
+		tier: "UU",
+	},
+	miloticgyarados: {
+		tier: "UU",
+	},
+	pinsirheracross: {
+		tier: "UU",
+	},
+	arboktyranitar: {
+		tier: "UU",
+	},
+	whimsicottvolcarona: {
+		tier: "UU",
+	},
+	darkraiweezing: {
+		tier: "UU",
+	},
+	azumarillquagsire: {
+		tier: "UU",
+	},
+	mewshuckle: {
+		tier: "UU",
+	},
+	hoohrapidash: {
+		tier: "UU",
+	},
+	jolteonslaking: {
+		tier: "UU",
+	},
+	absolweavile: {
+		tier: "UU",
+	},
+	drifblimdarkrai: {
+		tier: "UU",
+	},
+	zapdosmantine: {
+		tier: "UU",
+	},
+	electrodetogekiss: {
+		tier: "UU",
+	},
+	blisseyditto: {
+		tier: "UU",
+	},
+	wooperwooper: {
+		tier: "LC",
+	},
+	typhlosionshedinja: {
+		tier: "Uber",
+	},
+	shedinjatyphlosion: {
+		tier: "Uber",
+	},
 };
