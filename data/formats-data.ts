@@ -21487,4 +21487,76 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	gengarbanette: {
 		tier: "(PU)",
 	},
+	banettearmaldo: {
+		tier: "(PU)",
+	},
+	armaldobanette: {
+		tier: "(PU)",
+	},
+	armaldogarchomp: {
+		tier: "(PU)",
+	},
+	garchomparmaldo: {
+		tier: "(PU)",
+	},
+	spiritombgengar: {
+		tier: "(PU)",
+	},
+	gengarspiritomb: {
+		tier: "(PU)",
+	},
+	qwilfishspiritomb: {
+		tier: "(PU)",
+	},
+	spiritombqwilfish: {
+		tier: "(PU)",
+	},
+	slakingqwilfish: {
+		tier: "(PU)",
+	},
+	qwilfishslaking: {
+		tier: "(PU)",
+	},
+	qwilfishgarchomp: {
+		tier: "(PU)",
+	},
+	garchompqwilfish: {
+		tier: "(PU)",
+	},
+	qwilfishgolem: {
+		tier: "(PU)",
+	},
+	golemqwilfish: {
+		tier: "(PU)",
+	},
+	qwilfishsteelix: {
+		tier: "(PU)",
+	},
+	steelixqwilfish: {
+		tier: "(PU)",
+	},
+	bisharpdeoxys: {
+		tier: "(PU)",
+	},
+	deoxysbisharp: {
+		tier: "(PU)",
+	},
+	onixkecleon: {
+		tier: "(PU)",
+	},
+	weezingtyphlosion: {
+		tier: "(PU)",
+	},
+	typhlosionweezing: {
+		tier: "(PU)",
+	},
+	rotomluxray: {
+		tier: "(PU)",
+	},
+	luxrayrotom: {
+		tier: "(PU)",
+	},
+	golurkrotom: {
+		tier: "(PU)",
+	},
 };
