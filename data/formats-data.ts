@@ -5903,7 +5903,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	darkraibutterfree: {
-		tier: "OU",
+		tier: "UU",
 	},
 	genesectgarchomp: {
 		tier: "OU",
@@ -6443,6 +6443,75 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	chandelureinfernape: {
+		tier: "OU",
+	},
+	galvantulaespeon: {
+		tier: "OU",
+	},
+	nidokinggengar: {
+		tier: "OU",
+	},
+	gengarnidoking: {
+		tier: "OU",
+	},
+	marowakscizor: {
+		tier: "OU",
+	},
+	togekisspersian: {
+		tier: "OU",
+	},
+	togekissclefable: {
+		tier: "UU",
+	},
+	yanmegahypno: {
+		tier: "UU",
+	},
+	dragonairgyarados: {
+		tier: "UU",
+	},
+	crobatcharizard: {
+		tier: "UU",
+	},
+	exeggutorblastoise: {
+		tier: "UU",
+	},
+	exeggutormagnezone: {
+		tier: "UU",
+	},
+	magnezonetogetic: {
+		tier: "UU",
+	},
+	gengarkangaskhan: {
+		tier: "UU",
+	},
+	nidokingalakazam: {
+		tier: "UU",
+	},
+	ampharosmachamp: {
+		tier: "UU",
+	},
+	klinklanghitmontop: {
+		tier: "OU",
+	},
+	laprasarticuno: {
+		tier: "UU",
+	},
+	electivireferaligatr: {
+		tier: "UU",
+	},
+	slowbromantine: {
+		tier: "UU",
+	},
+	mantineslowbro: {
+		tier: "UU",
+	},
+	metagrossblaziken: {
+		tier: "OU",
+	},
+	togekisshaunter: {
+		tier: "OU",
+	},
+	clefablemagnezone: {
 		tier: "OU",
 	},
 };
