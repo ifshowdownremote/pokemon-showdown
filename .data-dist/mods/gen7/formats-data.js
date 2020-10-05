@@ -3,4 +3,3 @@
 		tier: "LC",
 	},
 }; exports.BattleFormatsData = BattleFormatsData;
-

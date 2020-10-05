@@ -13,4 +13,3 @@
 		eggGroups: ["Monster", "Grass"],
 	},
 }; exports.BattlePokedex = BattlePokedex;
-
