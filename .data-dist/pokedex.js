@@ -1,3 +1,3 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const BattlePokedex = {^M
-}; exports.BattlePokedex = BattlePokedex;^M
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const BattlePokedex = {
+}; exports.BattlePokedex = BattlePokedex;
 

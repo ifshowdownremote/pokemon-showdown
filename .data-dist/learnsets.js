@@ -1,5 +1,4 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true});/* eslint-disable max-len */^M
-^M
- const BattleLearnsets = {^M
+"use strict";Object.defineProperty(exports, "__esModule", {value: true});/* eslint-disable max-len */
+const BattleLearnsets = {
 }; exports.BattleLearnsets = BattleLearnsets;
 
