@@ -1,5 +1,15 @@
 /* eslint-disable max-len */^M
 export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {^M
+	bulbasaur: {
+                learnset: {
+                        absorb:  ["7L5", "6L5", "5L6", "5S1", "4L6", "3L6", "3S0"],
+                        attract:  ["7M", "6M", "5M", "4M", "3M"],
+                        counter:  ["3T"],
+                        crushclaw:  ["7E", "6E", "5E", "4E", "3E"],
+                        detect:  ["7L33", "6L33", "5L41", "4L41", "3L41"],
+			drainpunch:  ["7T", "6T", "5T", "4M"],
+		},
+	},
 	kyogresceptile: {
 		learnset: {
 			absorb:  ["7L5", "6L5", "5L6", "5S1", "4L6", "3L6", "3S0"],
