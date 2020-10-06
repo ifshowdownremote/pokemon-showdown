@@ -6509,9 +6509,132 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	togekisshaunter: {
-		tier: "OU",
+		tier: "UU",
 	},
 	clefablemagnezone: {
+		tier: "OU",
+	},
+	kabutopsaerodactyl: {
+		tier: "OU",
+	},
+	chanseymew: {
+		tier: "OU",
+	},
+	skarmorylugia: {
+		tier: "OU",
+	},
+	espeongalvantula: {
+		tier: "OU",
+	},
+	sylveonmewtwo: {
+		tier: "OU",
+	},
+	volcaronadeoxys: {
+		tier: "OU",
+	},
+	volcaronasteelix: {
+		tier: "OU",
+	},
+	kyogregliscor: {
+		tier: "OU",
+	},
+	porygonzraikou: {
+		tier: "OU",
+	},
+	deoxyszekrom: {
+		tier: "OU",
+	},
+	nidokingzekrom: {
+		tier: "OU",
+	},
+	garchompaegislash: {
+		tier: "OU",
+	},
+	ampharostangrowth: {
+		tier: "UU",
+	},
+	mantinemuk: {
+		tier: "UU",
+	},
+	cradilytyranitar: {
+		tier: "UU",
+	},
+	umbreontentacruel: {
+		tier: "UU",
+	},
+	sylveonforretress: {
+		tier: "UU",
+	},
+	kecleonmewtwo: {
+		tier: "Uber",
+	},
+	chanseycofagrigus: {
+		tier: "OU",
+	},
+	kecleonaerodactyl: {
+		tier: "OU",
+	},
+	sylveongenesect: {
+		tier: "Uber",
+	},
+	jumpluffklefki: {
+		tier: "OU",
+	},
+	breloomklefki: {
+		tier: "OU",
+	},
+	drifblimklefki: {
+		tier: "OU",
+	},
+	blazikenbreloom: {
+		tier: "Uber",
+	},
+	breloomblaziken: {
+		tier: "Uber",
+	},
+	zekromklefki: {
+		tier: "OU",
+	},
+	mantineferrothorn: {
+		tier: "OU",
+	},
+	porygonzgenesect: {
+		tier: "Uber",
+	},
+	ferrothornpyukumuku: {
+		tier: "OU",
+	},
+	dodriohitmonlee: {
+		tier: "UU",
+	},
+	primeapehooh: {
+		tier: "UU",
+	},
+	bisharpsalamence: {
+		tier: "OU",
+	},
+	deoxysmilotic: {
+		tier: "UU",
+	},
+	aegislashpyukumuku: {
+		tier: "OU",
+	},
+	aerodactylhydreigon: {
+		tier: "OU",
+	},
+	mawilegenesect: {
+		tier: "Uber",
+	},
+	ninjaskslaking: {
+		tier: "Uber",
+	},
+	ninjaskrampardos: {
+		tier: "OU",
+	},
+	hoohgroudon: {
+		tier: "Uber",
+	},
+	sceptileelectrode: {
 		tier: "OU",
 	},
 };
