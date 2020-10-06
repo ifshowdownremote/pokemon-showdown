@@ -1,4 +1,4 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const FormatsData = {
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const BattleFormatsData = {
 	bulbasaur: {
 		tier: "LC",
 	},
