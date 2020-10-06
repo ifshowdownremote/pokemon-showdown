@@ -1,4 +1,7 @@
 export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {^M
+        bulbasaur: {
+                tier: "OU",
+        },
 	kyogresceptile: {
 		tier: "OU",
 	},
