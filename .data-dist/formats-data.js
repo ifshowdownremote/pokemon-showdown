@@ -6637,4 +6637,157 @@
 	sceptileelectrode: {
 		tier: "OU",
 	},
+	charizardhitmonlee: {
+		tier: "OU",
+	},
+	venusaurelectivire: {
+		tier: "UU",
+	},
+	vaporeongroudon: {
+		tier: "OU",
+	},
+	groudonpyukumuku: {
+		tier: "OU",
+	},
+	metagrossbreloom: {
+		tier: "OU",
+	},
+	hoohmagnezone: {
+		tier: "OU",
+	},
+	mukcloyster: {
+		tier: "UU",
+	},
+	slowkinggroudon: {
+		tier: "OU",
+	},
+	zekrompyukumuku: {
+		tier: "OU",
+	},
+	porygonzkyurem: {
+		tier: "OU",
+	},
+	porygonzslowking: {
+		tier: "OU",
+	},
+	blazikenswampert: {
+		tier: "UU",
+	},
+	zapdosweezing: {
+		tier: "OU",
+	},
+	volcaronazoroark: {
+		tier: "OU",
+	},
+	scizorgroudon: {
+		tier: "OU",
+	},
+	tangrowthslaking: {
+		tier: "OU",
+	},
+	vaporeonumbreon: {
+		tier: "UU",
+	},
+	reshiramgardevoir: {
+		tier: "OU",
+	},
+	crobataerodactyl: {
+		tier: "UU",
+	},
+	kabutopsinfernape: {
+		tier: "UU",
+	},
+	magnezonechandelure: {
+		tier: "OU",
+	},
+	chandeluremagnezone: {
+		tier: "OU",
+	},
+	alakazamgengar: {
+		tier: "UU",
+	},
+	chandelureglaceon: {
+		tier: "UU",
+	},
+	dewgongtangrowth: {
+		tier: "UU",
+	},
+	breloomweavile: {
+		tier: "OU",
+	},
+	clefairylugia: {
+		tier: "OU",
+	},
+	lugialucario: {
+		tier: "OU",
+	},
+	chandelureforretress: {
+		tier: "UU",
+	},
+	typhlosiongenesect: {
+		tier: "UU",
+	},
+	weavilescizor: {
+		tier: "OU",
+	},
+	rhyperiormachamp: {
+		tier: "UU",
+	},
+	azumarillmamoswine: {
+		tier: "UU",
+	},
+	bidoofarceus: {
+		tier: "Uber",
+	},
+	weezingtyranitar: {
+		tier: "OU",
+	},
+	gengarjolteon: {
+		tier: "UU",
+	},
+	zekromdoublade: {
+		tier: "OU",
+	},
+	deoxysgalvantula: {
+		tier: "OU",
+	},
+	klefkiparasect: {
+		tier: "OU",
+	},
+	heracrossscyther: {
+		tier: "UU",
+	},
+	drifblimskarmory: {
+		tier: "OU",
+	},
+	groudonheracross: {
+		tier: "UU",
+	},
+	sylveonvolcarona: {
+		tier: "OU",
+	},	
+	lugiaclefairy: {
+		tier: "OU",
+	},
+	muklugia: {
+		tier: "OU",
+	},
+	blisseygliscor: {
+		tier: "OU",
+	},
+	zoroarkdeoxys: {
+		tier: "OU",
+	},
+	porygonzmewtwo: {
+		tier: "Uber",
+	},
+	rayquazaklinklang: {
+		tier: "Uber",
+	},
+	groudonkyogre: {
+		tier: "Uber",
+	},
+	ferrothorndusclops: {
+		tier: "OU",
+	},
 }; exports.BattleFormatsData = BattleFormatsData;
