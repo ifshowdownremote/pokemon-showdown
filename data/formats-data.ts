@@ -7033,4 +7033,112 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	torchicmagby: {
 		tier: "LC",
 	},
+	yanmaekans: {
+		tier: "LC",
+	},
+	clefableferrothorn: {
+		tier: "OU",
+	},
+	suicunecradily: {
+		tier: "OU",
+	},
+	gardevoirzekrom: {
+		tier: "OU",
+	},
+	porygonzflygon: {
+		tier: "OU",
+	},
+	espeonumbreon: {
+		tier: "OU",
+	},
+	blazikensteelix: {
+		tier: "UU",
+	},
+	palkiaclefable: {
+		tier: "OU",
+	},
+	palkiaroserade: {
+		tier: "OU",
+	},
+	omastardarkrai: {
+		tier: "OU",
+	},
+	hitmontopgarchomp: {
+		tier: "OU",
+	},
+	alakazamlucario: {
+		tier: "OU",
+	},
+	roseradeinfernape: {
+		tier: "OU",
+	},
+	miltankprimeape: {
+		tier: "UU",
+	},
+	clefabledusclops: {
+		tier: "OU",
+	},
+	volcaronaalakazam: {
+		tier: "OU",
+	},
+	arceusflygon: {
+		tier: "Uber",
+	},
+	misdreavuslileep: {
+		tier: "LC",
+	},
+	tyranitarrhyperior: {
+		tier: "UU",
+	},
+	deoxyshonchkrow: {
+		tier: "OU",
+	},
+	honchkrowdusknoir: {
+		tier: "UU",
+	},
+	dragoniteaggron: {
+		tier: "OU",
+	},
+	mewsalamence: {
+		tier: "UU",
+	},
+	roseradearticuno: {
+		tier: "UU",
+	},
+	cradilygroudon: {
+		tier: "OU",
+	},
+	volcaronagardevoir: {
+		tier: "OU",
+	},
+	breloomklinklang: {
+		tier: "OU",
+	},
+	gyaradoshooh: {
+		tier: "OU",
+	},
+	elekidcranidos: {
+		tier: "LC",
+	},
+	giratinaarceus: {
+		tier: "Uber",
+	},
+	porygonzdeoxys: {
+		tier: "Uber",
+	},
+	abravoltorb: {
+		tier: "LC",
+	},
+	porygon2dusclops: {
+		tier: "UU",
+	},
+	articunozekrom: {
+		tier: "OU",
+	},
+	reshiramcharizard: {
+		tier: "OU",
+	},
+	regigigasdodrio: {
+		tier: "UU",
+	},
 };
