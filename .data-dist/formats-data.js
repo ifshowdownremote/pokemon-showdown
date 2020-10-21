@@ -5792,7 +5792,7 @@
 		tier: "OU",
 	},
 	rhyperiormantine: {
-		tier: "OU",
+		tier: "UU",
 	},
 	groudonmantine: {
 		tier: "OU",
@@ -5813,7 +5813,7 @@
 		tier: "OU",
 	},
 	venusaurespeon: {
-		tier: "OU",
+		tier: "UU",
 	},
 	blisseyshuckle: {
 		tier: "OU",
@@ -5882,10 +5882,10 @@
 		tier: "OU",
 	},
 	lucarioblaziken: {
-		tier: "OU",
+		tier: "UU",
 	},
 	shucklemachamp: {
-		tier: "OU",
+		tier: "UU",
 	},
 	shucklereshiram: {
 		tier: "OU",
@@ -5894,7 +5894,7 @@
 		tier: "OU",
 	},
 	klinklangrampardos: {
-		tier: "OU",
+		tier: "UU",
 	},
 	regigigasrampardos: {
 		tier: "OU",
@@ -5927,7 +5927,7 @@
 		tier: "OU",
 	},
 	leafeonarcanine: {
-		tier: "OU",
+		tier: "UU",
 	},
 	blastoiselugia: {
 		tier: "OU",
@@ -5939,7 +5939,7 @@
 		tier: "OU",
 	},
 	jolteoncharizard: {
-		tier: "OU",
+		tier: "UU",
 	},
 	infernapegroudon: {
 		tier: "OU",
@@ -6059,7 +6059,7 @@
 		tier: "UU",
 	},
 	jolteonslaking: {
-		tier: "UU",
+		tier: "OU",
 	},
 	absolweavile: {
 		tier: "UU",
@@ -6125,7 +6125,7 @@
 		tier: "Uber",
 	},
 	quagsiregroudon: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	giratinaespeon: {
 		tier: "Uber",
@@ -6152,7 +6152,7 @@
 		tier: "Uber",
 	},
 	dialgaporygon2: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	giratinaporygon2: {
 		tier: "Uber",
@@ -6179,10 +6179,10 @@
 		tier: "Uber",
 	},
 	dialgaferrothorn: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	ferrothornkyogre: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	kyogreferrothorn: {
 		tier: "Uber",
@@ -6224,7 +6224,7 @@
 		tier: "Uber",
 	},
 	mamoswineazumarill: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	gliscorlugia: {
 		tier: "Uber",
@@ -6236,7 +6236,7 @@
 		tier: "Uber",
 	},
 	feraligatrazumarill: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	zekromblaziken: {
 		tier: "Uber",
@@ -6263,10 +6263,10 @@
 		tier: "Uber",
 	},
 	blazikenhitmonlee: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	kecleonmew: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	genesectgroudon: {
 		tier: "Uber",
@@ -6290,7 +6290,7 @@
 		tier: "Uber",
 	},
 	kingdragroudon: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	deoxysmewtwo: {
 		tier: "Uber",
@@ -6311,13 +6311,13 @@
 		tier: "Uber",
 	},
 	palkiakingdra: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	leafeongroudon: {
 		tier: "Uber",
 	},
 	leafeonreshiram: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	reshiramleafeon: {
 		tier: "Uber",
@@ -6431,7 +6431,7 @@
 		tier: "LC",
 	},
 	hitmonleetalonflame: {
-		tier: "OU",
+		tier: "UU",
 	},
 	clefabletangela: {
 		tier: "OU",
@@ -6530,7 +6530,7 @@
 		tier: "OU",
 	},
 	volcaronadeoxys: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	volcaronasteelix: {
 		tier: "OU",
@@ -6548,7 +6548,7 @@
 		tier: "OU",
 	},
 	garchompaegislash: {
-		tier: "OU",
+		tier: "UU",
 	},
 	ampharostangrowth: {
 		tier: "UU",
@@ -6590,7 +6590,7 @@
 		tier: "Uber",
 	},
 	breloomblaziken: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	zekromklefki: {
 		tier: "OU",
@@ -6611,7 +6611,7 @@
 		tier: "UU",
 	},
 	bisharpsalamence: {
-		tier: "OU",
+		tier: "UU",
 	},
 	deoxysmilotic: {
 		tier: "UU",
@@ -6623,7 +6623,7 @@
 		tier: "OU",
 	},
 	mawilegenesect: {
-		tier: "Uber",
+		tier: "UU",
 	},
 	ninjaskslaking: {
 		tier: "Uber",
@@ -6635,10 +6635,10 @@
 		tier: "Uber",
 	},
 	sceptileelectrode: {
-		tier: "OU",
+		tier: "UU",
 	},
 	charizardhitmonlee: {
-		tier: "OU",
+		tier: "UU",
 	},
 	venusaurelectivire: {
 		tier: "UU",
@@ -6716,7 +6716,7 @@
 		tier: "OU",
 	},
 	clefairylugia: {
-		tier: "OU",
+		tier: "UU",
 	},
 	lugialucario: {
 		tier: "OU",
@@ -6740,7 +6740,7 @@
 		tier: "UU",
 	},
 	weezingtyranitar: {
-		tier: "OU",
+		tier: "UU",
 	},
 	gengarjolteon: {
 		tier: "UU",
@@ -6806,16 +6806,16 @@
 		tier: "UU",
 	},
 	aegislashtangrowth: {
-		tier: "OU",
+		tier: "UU",
 	},
 	tangrowthaegislash: {
-		tier: "OU",
+		tier: "UU",
 	},
 	metagrosslugia: {
 		tier: "OU",
 	},
 	togekisscharizard: {
-		tier: "OU",
+		tier: "UU",
 	},
 	regigigasbreloom: {
 		tier: "OU",
@@ -6857,7 +6857,7 @@
 		tier: "OU",
 	},
 	haxoruscrobat: {
-		tier: "OU",
+		tier: "UU",
 	},
 	porygonzchandelure: {
 		tier: "UU",
@@ -7140,5 +7140,290 @@
 	},
 	regigigasdodrio: {
 		tier: "UU",
+	},
+	alakazamjirachi: {
+		tier: "OU",
+	},
+	snorlaxdusknoir: {
+		tier: "OU",
+	},
+	zoroarkregigigas: {
+		tier: "OU",
+	},
+	kyuremprobopass: {
+		tier: "OU",
+	},
+	weezingmagnezone: {
+		tier: "OU",
+	},
+	azumarillgarchomp: {
+		tier: "OU",
+	},
+	hoohinfernape: {
+		tier: "OU",
+	},
+	galvantulainfernape: {
+		tier: "OU",
+	},
+	kinglerzekrom: {
+		tier: "OU",
+	},
+	tyranitarzekrom: {
+		tier: "OU",
+	},
+	dusclopshitmontop: {
+		tier: "OU",
+	},
+	lanturnhooh: {
+		tier: "OU",
+	},
+	butterfreemewtwo: {
+		tier: "OU",
+	},
+	chandeluregenesect: {
+		tier: "OU",
+	},
+	reuniclusreshiram: {
+		tier: "OU",
+	},
+	giratinaquagsire: {
+		tier: "OU",
+	},
+	darkraihooh: {
+		tier: "OU",
+	},
+	slowkingsteelix: {
+		tier: "OU",
+	},
+	regigigasparasect: {
+		tier: "OU",
+	},
+	klefkivaporeon: {
+		tier: "OU",
+	},
+	jirachiweavile: {
+		tier: "OU",
+	},
+	aegislashdusclops: {
+		tier: "OU",
+	},
+	vaporeonweezing: {
+		tier: "OU",
+	},
+	jirachitangrowth: {
+		tier: "OU",
+	},
+	zekromshuckle: {
+		tier: "OU",
+	},
+	ninetalessceptile: {
+		tier: "OU",
+	},
+	snorlaxdoublade: {
+		tier: "OU",
+	},
+	blazikengardevoir: {
+		tier: "OU",
+	},
+	reuniclusazumarill: {
+		tier: "OU",
+	},
+	palkiaklinklang: {
+		tier: "OU",
+	},
+	pyukumukudusclops: {
+		tier: "OU",
+	},
+	sandslashslaking: {
+		tier: "OU",
+	},
+	giratinastarmie: {
+		tier: "OU",
+	},
+	ampharoslugia: {
+		tier: "OU",
+	},
+	palkiainfernape: {
+		tier: "OU",
+	},
+	metagrossgarchomp: {
+		tier: "OU",
+	},
+	arceusraichu: {
+		tier: "Uber",
+	},
+	slakingdusknoir: {
+		tier: "OU",
+	},
+	dialgareuniclus: {
+		tier: "OU",
+	},
+	dialgagranbull: {
+		tier: "OU",
+	},
+	poliwrathregigigas: {
+		tier: "OU",
+	},
+	reuniclusmew: {
+		tier: "OU",
+	},
+	giratinagliscor: {
+		tier: "OU",
+	},
+	tyranitartangrowth: {
+		tier: "OU",
+	},
+	kyuremzekrom: {
+		tier: "OU",
+	},
+	slowkingforretress: {
+		tier: "OU",
+	},
+	lanturnlugia: {
+		tier: "OU",
+	},
+	shuckleazumarill: {
+		tier: "OU",
+	},
+	articunohaxorus: {
+		tier: "OU",
+	},
+	groudongliscor: {
+		tier: "OU",
+	},
+	arbokregigigas: {
+		tier: "UU",
+	},
+	magmortarelectivire: {
+		tier: "UU",
+	},
+	scythermurkrow: {
+		tier: "UU",
+	},
+	starmieweezing: {
+		tier: "UU",
+	},
+	swampertmetagross: {
+		tier: "UU",
+	},
+	togekissaggron: {
+		tier: "UU",
+	},
+	palkiasandslash: {
+		tier: "UU",
+	},
+	weezingsudowoodo: {
+		tier: "UU",
+	},
+	deoxyslopunny: {
+		tier: "UU",
+	},
+	butterfreeflygon: {
+		tier: "UU",
+	},
+	gardevoirtogekiss: {
+		tier: "UU",
+	},
+	palkiaarticuno: {
+		tier: "UU",
+	},
+	lucarioinfernape: {
+		tier: "UU",
+	},
+	blastoisemiltank: {
+		tier: "UU",
+	},
+	jolteonkyurem: {
+		tier: "UU",
+	},
+	electiviregyarados: {
+		tier: "UU",
+	},
+	snorlaxmetagross: {
+		tier: "UU",
+	},
+	golurkkangaskhan: {
+		tier: "UU",
+	},
+	scizorcrobat: {
+		tier: "UU",
+	},
+	infernapeaggron: {
+		tier: "UU",
+	},
+	kingdramagmortar: {
+		tier: "UU",
+	},
+	infernapelapras: {
+		tier: "UU",
+	},
+	machampdoublade: {
+		tier: "UU",
+	},
+	houndoomhaxorus: {
+		tier: "UU",
+	},
+	houndoomscyther: {
+		tier: "UU",
+	},
+	empoleonforretress: {
+		tier: "UU",
+	},
+	blisseydoublade: {
+		tier: "UU",
+	},
+	nidokingaggron: {
+		tier: "UU",
+	},
+	salamencecofagrigus: {
+		tier: "UU",
+	},
+	kingdrascyther: {
+		tier: "UU",
+	},
+	kecleondonphan: {
+		tier: "UU",
+	},
+	bisharpdusknoir: {
+		tier: "UU",
+	},
+	seakingmantine: {
+		tier: "UU",
+	},
+	charizardflygon: {
+		tier: "UU",
+	},
+	pidgeotsudowoodo: {
+		tier: "UU",
+	},
+	bisharprampardos: {
+		tier: "UU",
+	},
+	chanseyhaxorus: {
+		tier: "UU",
+	},
+	articunokingdra: {
+		tier: "UU",
+	},
+	latioslatias: {
+		tier: "Uber",
+	},
+	reshiramzekrom: {
+		tier: "Uber",
+	},
+	arceusgiratina: {
+		tier: "Uber",
+	},
+	blazikengengar: {
+		tier: "Uber",
+	},
+	palkiadialga: {
+		tier: "Uber",
+	},
+	arceusrotom: {
+		tier: "Uber",
+	},
+	arceusheracross: {
+		tier: "Uber",
 	},
 }; exports.BattleFormatsData = BattleFormatsData;
