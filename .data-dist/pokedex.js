@@ -22889,4 +22889,15 @@
 		color: "White",
 		eggGroups: ["Bug", "Undiscovered"],
 	},
+	stunfisksudowoodo: {
+		num: 10669,
+		name: "stunfisksudowoodo",
+		types: ["Ground", "Rock"],
+		baseStats: {hp: 96, atk: 88, def: 104, spa: 64, spd: 87, spe: 30},
+		abilities: {0: "Static", 1: "Rock Head", H: "Sand Veil"},
+		heightm: 0.95,
+		weightkg: 24,
+		color: "Brown",
+		eggGroups: ["Mineral", "Water 1"],
+	},
 }; exports.BattlePokedex = BattlePokedex;
