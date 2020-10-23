@@ -23777,8 +23777,8 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	bibareldragonite: {
 		num: 10749,
 		name: "bibareldragonite",
-		types: ["Dragon"],
-		baseStats: {hp: 113, atk: 146, def: 96, spa: 113, spd: 93, spe: 85},
+		types: ["Normal", "Dragon"],
+		baseStats: {hp: 83, atk: 117, def: 83, spa: 70, spd: 73, spe: 77},
 		abilities: {0: "Simple", 1: "Inner Focus", H: "Moody"},
 		heightm: 2.75,
 		weightkg: 267,
@@ -23821,7 +23821,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	bibarelblastoise: {
 		num: 10753,
 		name: "bibarelblastoise",
-		types: ["Dragon", "Water"],
+		types: ["Normal", "Water"],
 		baseStats: {hp: 79, atk: 83, def: 86, spa: 65, spd: 75, spe: 75},
 		abilities: {0: "Simple", 1: "Torrent", H: "Moody"},
 		heightm: 2.45,
