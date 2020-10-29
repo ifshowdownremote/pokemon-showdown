@@ -1875,9 +1875,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	eeveemeowth: {
 		tier: "LC",
 	},
-	bisharpmeowth: {
-		tier: "LC",
-	},
 	meowtheevee: {
 		tier: "LC",
 	},
@@ -3389,5 +3386,242 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	rioluduskull: {
 		tier: "LC",
+	},
+	magnezonevenusaur: {
+		tier: "OU",
+	},
+	reshiramtyranitar: {
+		tier: "OU",
+	},
+	reshiramsuicune: {
+		tier: "OU",
+	},
+	zekromcloyster: {
+		tier: "OU",
+	},
+	blisseyweezing: {
+		tier: "OU",
+	},
+	mewtwoblastoise: {
+		tier: "OU",
+	},
+	dialgainfernape: {
+		tier: "OU",
+	},
+	dialgasceptile: {
+		tier: "OU",
+	},
+	luxraygroudon: {
+		tier: "OU",
+	},
+	hitmontopregigigas: {
+		tier: "OU",
+	},
+	alakazamtyphlosion: {
+		tier: "OU",
+	},
+	dialgakyurem: {
+		tier: "OU",
+	},
+	slowkinggiratina: {
+		tier: "OU",
+	},
+	salamenceslaking: {
+		tier: "OU",
+	},
+	volcaronabreloom: {
+		tier: "OU",
+	},
+	magnezonedragonite: {
+		tier: "OU",
+	},
+	slowkingcelebi: {
+		tier: "OU",
+	},
+	rayquazajolteon: {
+		tier: "OU",
+	},
+	lucariogroudon: {
+		tier: "OU",
+	},
+	jirachientei: {
+		tier: "OU",
+	},
+	groudonweavile: {
+		tier: "OU",
+	},
+	kyogretalonflame: {
+		tier: "OU",
+	},
+	snorlaxgroudon: {
+		tier: "OU",
+	},
+	latiosarcanine: {
+		tier: "OU",
+	},
+	hoohaerodactyl: {
+		tier: "OU",
+	},
+	porygonzgengar: {
+		tier: "OU",
+	},
+	kecleonrayquaza: {
+		tier: "OU",
+	},
+	slowkingpalkia: {
+		tier: "OU",
+	},
+	rayquazamilotic: {
+		tier: "OU",
+	},
+	mewtwosmeargle: {
+		tier: "OU",
+	},
+	nidokingweavile: {
+		tier: "UU",
+	},
+	blisseyninjask: {
+		tier: "UU",
+	},
+	latiasweezing: {
+		tier: "UU",
+	},
+	nidokinginfernape: {
+		tier: "UU",
+	},
+	togekissweavile: {
+		tier: "UU",
+	},
+	slowbroweezing: {
+		tier: "UU",
+	},
+	tyranitarleafeon: {
+		tier: "UU",
+	},
+	lickilickydragonite: {
+		tier: "UU",
+	},
+	latiascofagrigus: {
+		tier: "UU",
+	},
+	nidokingblastoise: {
+		tier: "UU",
+	},
+	sylveonroserade: {
+		tier: "UU",
+	},
+	sylveonhydreigon: {
+		tier: "UU",
+	},
+	gengarhaxorus: {
+		tier: "UU",
+	},
+	torterrainfernape: {
+		tier: "UU",
+	},
+	ursaringhaxorus: {
+		tier: "UU",
+	},
+	heracrosshaxorus: {
+		tier: "UU",
+	},
+	snorlaxtangrowth: {
+		tier: "UU",
+	},
+	steelixgallade: {
+		tier: "UU",
+	},
+	garchompsandslash: {
+		tier: "UU",
+	},
+	metagrossscizor: {
+		tier: "UU",
+	},
+	chandeluremachamp: {
+		tier: "UU",
+	},
+	slowkingslowbro: {
+		tier: "UU",
+	},
+	togekisssuicune: {
+		tier: "UU",
+	},
+	slowkingdusclops: {
+		tier: "UU",
+	},
+	sylveonraichu: {
+		tier: "UU",
+	},
+	gardevoirninetales: {
+		tier: "UU",
+	},
+	stantlergroudon: {
+		tier: "UU",
+	},
+	machamptyranitar: {
+		tier: "UU",
+	},
+	clefablearceus: {
+		tier: "Uber",
+	},
+	hitmontopsteelix: {
+		tier: "UU",
+	},
+	rayquazaslaking: {
+		tier: "Uber",
+	},
+	aerodactylgarchomp: {
+		tier: "UU",
+	},
+	arceusclefable: {
+		tier: "Uber",
+	},
+	palkialugia: {
+		tier: "Uber",
+	},
+	solosismachop: {
+		tier: "LC",
+	},
+	onixdoduo: {
+		tier: "LC",
+	},
+	lileepshieldon: {
+		tier: "LC",
+	},
+	larvestaponyta: {
+		tier: "LC",
+	},
+	aronponyta: {
+		tier: "LC",
+	},
+	cottoneeoddish: {
+		tier: "LC",
+	},
+	larvestaaxew: {
+		tier: "LC",
+	},
+	shellderdrifloon: {
+		tier: "LC",
+	},
+	yanmalarvesta: {
+		tier: "LC",
+	},
+	larvestapawniard: {
+		tier: "LC",
+	},
+	murkrowferroseed: {
+		tier: "LC",
+	},
+	pinecoferroseed: {
+		tier: "LC",
+	},
+	misdreavustogepi: {
+		tier: "LC",
+	},
+	solosislickitung: {
+		tier: "LC",
+	},
+	magmortarscizor: {
+		tier: "UU",
 	},
 };
