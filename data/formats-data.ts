@@ -1308,12 +1308,8 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	slowbrogroudon: {
-        	randomBattleMoves: ["earthquake", "teleport", "slackoff", "scald", "stealthrock", "thunderwave", "bodypress"],
-        	randomBattleLevel: 100,
-        	randomDoubleBattleMoves: ["trickroom", "earthpower", "scald", "yawn", "bodypress", "icywind"],
-        	tier: "OU",
-        	doublesTier: "DOU",
-    	},
+		tier: "UUBL",
+	},
 	umbreonweezing: {
 		tier: "OU",
 	},
@@ -1327,7 +1323,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Uber",
 	},
 	snorlaxhitmontop: {
-		tier: "OU",
+		tier: "UU",
 	},
 	zoroarkgengar: {
 		tier: "UUBL",
@@ -1467,7 +1463,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	kyogreraichu: {
-		tier: "UU",
+		tier: "UUBL",
 	},
 	clefabletangrowth: {
 		tier: "UU",
@@ -1713,9 +1709,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	slakingazumarill: {
 		tier: "Uber",
 	},
-	rayquazasylveon: {
-		tier: "Uber",
-	},
 	groudonazumarill: {
 		tier: "Uber",
 	},
@@ -1816,7 +1809,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Uber",
 	},
 	kingdrazekrom: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	kyogrekingdra: {
 		tier: "Uber",
@@ -1864,7 +1857,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Uber",
 	},
 	tyranitargiratina: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	woopersandshrew: {
 		tier: "LC",
@@ -1948,7 +1941,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	dialgavenusaur: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	chandelureinfernape: {
         	randomBattleMoves: ["shadowball", "focusblast", "nastyplot", "vacuumwave", "uturn", "hex", "willowisp"],
@@ -1959,7 +1952,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
         	doublesTier: "DOU", 
  	},
 	galvantulaespeon: {
-		tier: "OU",
+		tier: "UU",
 	},
 	nidokinggengar: {
 		tier: "OU",
@@ -1994,7 +1987,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	exeggutormagnezone: {
-		tier: "UU",
+		tier: "UUBL",
 	},
 	magnezonetogetic: {
 		tier: "UU",
@@ -2117,7 +2110,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	drifblimklefki: {
-		tier: "OU",
+		tier: "UU",
 	},
 	blazikenbreloom: {
 		tier: "Uber",
@@ -2129,7 +2122,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	mantineferrothorn: {
-		tier: "OU",
+		tier: "UU",
 	},
 	porygonzgenesect: {
 		tier: "Uber",
@@ -2169,7 +2162,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	ninjaskslaking: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	ninjaskrampardos: {
 		tier: "OU",
@@ -2272,7 +2265,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UU",
 	},
 	lugialucario: {
-		tier: "OU",
+		tier: "UU",
 	},
 	chandelureforretress: {
 		tier: "UU",
@@ -2349,7 +2342,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
         	doublesTier: "DOU", 
  	},
 	raichuninetales: {
-		tier: "OU",
+		tier: "UU",
 	},
 	blastoisedrifblim: {
 		tier: "UU",
@@ -2403,7 +2396,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "UUBL",
 	},
 	darkraimachamp: {
-		tier: "OU",
+		tier: "UU",
 	},
 	hypnomachamp: {
 		tier: "UU",
@@ -2632,7 +2625,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	espeonumbreon: {
-		tier: "OU",
+		tier: "UU",
 	},
 	blazikensteelix: {
 		tier: "UU",
@@ -2734,9 +2727,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	kyuremprobopass: {
-		tier: "OU",
-	},
-	weezingmagnezone: {
 		tier: "OU",
 	},
 	azumarillgarchomp: {
@@ -2998,7 +2988,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Uber",
 	},
 	blazikengengar: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	palkiadialga: {
 		tier: "Uber",
@@ -3028,7 +3018,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	ninetalesinfernape: {
-		tier: "OU",
+		tier: "UU",
 	},
 	hydreigonjolteon: {
 		tier: "OU",
@@ -3049,7 +3039,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	typhlosionempoleon: {
-		tier: "OU",
+		tier: "UU",
 	},
 	slakingpinsir: {
 		tier: "OU",
@@ -3109,7 +3099,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	hoohxatu: {
-		tier: "OU",
+		tier: "UU",
 	},
 	dialgaweezing: {
 		tier: "OU",
@@ -3139,7 +3129,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "OU",
 	},
 	porygonztyphlosion: {
-		tier: "OU",
+		tier: "Uber",
 	},
 	aegislashlugia: {
 		tier: "OU",
@@ -3368,9 +3358,6 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	duskullonix: {
 		tier: "LC",
-	},
-	arboksteelix: {
-		tier: "UU",
 	},
 	typhlosionkrookodile: {
 		tier: "UU",
@@ -3623,5 +3610,11 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	magmortarscizor: {
 		tier: "UU",
+	},
+	doduoonix: {
+		tier: "LC",
+	},
+	magnezoneweezing: {
+		tier: "OU",
 	},
 };
