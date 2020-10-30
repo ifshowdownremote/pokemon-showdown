@@ -69,7 +69,7 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 
 		mod: 'gen8',
 		ruleset: ['[Gen 8] OU'],
-		banlist: ['OU', 'UUBL', 'Drizzle'],
+		banlist: ['OU', 'UUBL'],
 	},
 
 	{
