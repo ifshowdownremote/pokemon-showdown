@@ -3854,7 +3854,7 @@
 		tier: "UU",
 	},
 	dittoditto: {
-		tier: "Uber",
+		tier: "RU",
 	},
 	pawniardmeowth: {
 		tier: "LC",
