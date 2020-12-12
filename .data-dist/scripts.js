@@ -2,7 +2,7 @@
 
 const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAllyOrSelf', 'adjacentFoe']);
 
- const Scripts = {
+ const BattleScripts = {
 	gen: 8,
 	/**
 	 * runMove is the "outside" move caller. It handles deducting PP,
@@ -1339,4 +1339,4 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 	targetTypeChoices(targetType) {
 		return CHOOSABLE_TARGETS.has(targetType);
 	},
-}; exports.Scripts = Scripts;
+}; exports.BattleScripts = BattleScripts;
