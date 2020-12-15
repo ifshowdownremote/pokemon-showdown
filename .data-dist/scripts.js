@@ -1,6 +1,4 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true}); function _optionalChain(ops) { let lastAccessLHS = undefined; let value = ops[0]; let i = 1; while (i < ops.length) { const op = ops[i]; const fn = ops[i + 1]; i += 2; if ((op === 'optionalAccess' || op === 'optionalCall') && value == null) { return undefined; } if (op === 'access' || op === 'optionalAccess') { lastAccessLHS = value; value = fn(value); } else if (op === 'call' || op === 'optionalCall') { value = fn((...args) => value.call(lastAccessLHS, ...args)); lastAccessLHS = undefined; } } return value; }
-
-const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAllyOrSelf', 'adjacentFoe']);
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); function _optionalChain(ops) { let lastAccessLHS = undefined; let value = ops[0]; let i = 1; while (i < ops.length) { const op = ops[i]; const fn = ops[i + 1]; i += 2; if ((op === 'optionalAccess' || op === 'optionalCall') && value == null) { return undefined; } if (op === 'access' || op === 'optionalAccess') { lastAccessLHS = value; value = fn(value); } else if (op === 'call' || op === 'optionalCall') { value = fn((...args) => value.call(lastAccessLHS, ...args)); lastAccessLHS = undefined; } } return value; }const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAllyOrSelf', 'adjacentFoe']);
 
  const BattleScripts = {
 	gen: 8,
@@ -88,7 +86,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 
 		// Dancer Petal Dance hack
 		// TODO: implement properly
-		const noLock = externalMove && !pokemon.volatiles['lockedmove'];
+		const noLock = externalMove && !pokemon.volatiles.lockedmove;
 
 		if (zMove) {
 			if (pokemon.illusion) {
@@ -98,7 +96,6 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 			pokemon.side.zMoveUsed = true;
 		}
 		const moveDidSomething = this.useMove(baseMove, pokemon, target, sourceEffect, zMove, maxMove);
-		this.lastSuccessfulMoveThisTurn = moveDidSomething ? this.activeMove && this.activeMove.id : null;
 		if (this.activeMove) move = this.activeMove;
 		this.singleEvent('AfterMove', move, null, pokemon, target, move);
 		this.runEvent('AfterMove', pokemon, target, move);
@@ -123,11 +120,13 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 				if (this.faintMessages()) break;
 				if (dancer.fainted) continue;
 				this.add('-activate', dancer, 'ability: Dancer');
+				// @ts-ignore - the Dancer ability can't trigger on a move where target is null because it does not copy failed moves.
 				const dancersTarget = target.side !== dancer.side && pokemon.side === dancer.side ? target : pokemon;
+				// @ts-ignore
 				this.runMove(move.id, dancer, this.getTargetLoc(dancersTarget, dancer), this.dex.getAbility('dancer'), undefined, true);
 			}
 		}
-		if (noLock && pokemon.volatiles['lockedmove']) delete pokemon.volatiles['lockedmove'];
+		if (noLock && pokemon.volatiles.lockedmove) delete pokemon.volatiles.lockedmove;
 	},
 	/**
 	 * useMove is the "inside" move caller. It handles effects of the
@@ -208,7 +207,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 
 		let movename = move.name;
 		if (move.id === 'hiddenpower') movename = 'Hidden Power';
-		if (sourceEffect) attrs += `|[from]${sourceEffect.fullname}`;
+		if (sourceEffect) attrs += '|[from]' + this.dex.getEffect(sourceEffect);
 		if (zMove && move.isZ === true) {
 			attrs = '|[anim]' + movename + attrs;
 			movename = 'Z-' + movename;
@@ -287,7 +286,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 			const originalHp = pokemon.hp;
 			this.singleEvent('AfterMoveSecondarySelf', move, null, pokemon, target, move);
 			this.runEvent('AfterMoveSecondarySelf', pokemon, target, move);
-			if (pokemon && pokemon !== target && move.category !== 'Status') {
+			if (pokemon && pokemon !== target && move && move.category !== 'Status') {
 				if (pokemon.hp <= pokemon.maxhp / 2 && originalHp > pokemon.maxhp / 2) {
 					this.runEvent('EmergencyExit', pokemon, pokemon);
 				}
@@ -337,9 +336,17 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 
 		this.setActiveMove(move, pokemon, targets[0]);
 
-		const hitResult = this.singleEvent('Try', move, null, pokemon, targets[0], move) &&
-			this.singleEvent('PrepareHit', move, {}, targets[0], pokemon, move) &&
-			this.runEvent('PrepareHit', pokemon, targets[0], move);
+		let hitResult = this.singleEvent('PrepareHit', move, {}, targets[0], pokemon, move);
+		if (!hitResult) {
+			if (hitResult === false) {
+				this.add('-fail', pokemon);
+				this.attrLastMove('[still]');
+			}
+			return false;
+		}
+		this.runEvent('PrepareHit', pokemon, targets[0], move);
+
+		hitResult = this.singleEvent('Try', move, null, pokemon, targets[0], move);
 		if (!hitResult) {
 			if (hitResult === false) {
 				this.add('-fail', pokemon);
@@ -350,8 +357,10 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 
 		let atLeastOneFailure;
 		for (const step of moveSteps) {
+			// @ts-ignore
 			const hitResults = step.call(this, targets, pokemon, move);
 			if (!hitResults) continue;
+			// @ts-ignore
 			targets = targets.filter((val, i) => hitResults[i] || hitResults[i] === 0);
 			atLeastOneFailure = atLeastOneFailure || hitResults.some(val => val === false);
 			if (!targets.length) {
@@ -458,7 +467,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 				let boost;
 				if (accuracy !== true) {
 					if (!move.ignoreAccuracy) {
-						boosts = this.runEvent('ModifyBoost', pokemon, null, null, {...pokemon.boosts});
+						boosts = this.runEvent('ModifyBoost', pokemon, null, null, Object.assign({}, pokemon.boosts));
 						boost = this.clampIntRange(boosts['accuracy'], -6, 6);
 						if (boost > 0) {
 							accuracy *= boostTable[boost];
@@ -467,7 +476,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 						}
 					}
 					if (!move.ignoreEvasion) {
-						boosts = this.runEvent('ModifyBoost', target, null, null, {...target.boosts});
+						boosts = this.runEvent('ModifyBoost', target, null, null, Object.assign({}, target.boosts));
 						boost = this.clampIntRange(boosts['evasion'], -6, 6);
 						if (boost > 0) {
 							accuracy /= boostTable[boost];
@@ -564,14 +573,17 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 	tryMoveHit(target, pokemon, move) {
 		this.setActiveMove(move, pokemon, target);
 
-		let hitResult = this.singleEvent('Try', move, null, pokemon, target, move) &&
-			this.singleEvent('PrepareHit', move, {}, target, pokemon, move) &&
-			this.runEvent('PrepareHit', pokemon, target, move);
+		let hitResult = this.singleEvent('PrepareHit', move, {}, target, pokemon, move);
 		if (!hitResult) {
 			if (hitResult === false) {
 				this.add('-fail', pokemon);
 				this.attrLastMove('[still]');
 			}
+			return false;
+		}
+		this.runEvent('PrepareHit', pokemon, target, move);
+
+		if (!this.singleEvent('Try', move, null, pokemon, target, move)) {
 			return false;
 		}
 
@@ -601,8 +613,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 			// yes, it's hardcoded... meh
 			if (targetHits[0] === 2 && targetHits[1] === 5) {
 				if (this.gen >= 5) {
-					// 35-35-15-15 out of 100 for 2-3-4-5 hits
-					targetHits = this.sample([2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5]);
+					targetHits = this.sample([2, 2, 3, 3, 4, 5]);
 				} else {
 					targetHits = this.sample([2, 2, 2, 3, 3, 3, 4, 5]);
 				}
@@ -643,7 +654,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 				const boostTable = [1, 4 / 3, 5 / 3, 2, 7 / 3, 8 / 3, 3];
 				if (accuracy !== true) {
 					if (!move.ignoreAccuracy) {
-						const boosts = this.runEvent('ModifyBoost', pokemon, null, null, {...pokemon.boosts});
+						const boosts = this.runEvent('ModifyBoost', pokemon, null, null, Object.assign({}, pokemon.boosts));
 						const boost = this.clampIntRange(boosts['accuracy'], -6, 6);
 						if (boost > 0) {
 							accuracy *= boostTable[boost];
@@ -652,7 +663,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 						}
 					}
 					if (!move.ignoreEvasion) {
-						const boosts = this.runEvent('ModifyBoost', target, null, null, {...target.boosts});
+						const boosts = this.runEvent('ModifyBoost', target, null, null, Object.assign({}, target.boosts));
 						const boost = this.clampIntRange(boosts['evasion'], -6, 6);
 						if (boost > 0) {
 							accuracy /= boostTable[boost];
@@ -682,7 +693,8 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 				// purposes of Counter, Metal Burst, and Mirror Coat.
 				damage[i] = md === true || !md ? 0 : md;
 				// Total damage dealt is accumulated for the purposes of recoil (Parental Bond).
-				move.totalDamage += damage[i] ;
+				// @ts-ignore
+				move.totalDamage += damage[i];
 			}
 			if (move.mindBlownRecoil) {
 				this.damage(Math.round(pokemon.maxhp / 2), pokemon, pokemon, this.dex.getEffect('Mind Blown'), true);
@@ -738,8 +750,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 				// The previous check was for `move.multihit`, but that fails for Dragon Darts
 				const curDamage = targets.length === 1 ? move.totalDamage : d;
 				if (typeof curDamage === 'number' && targets[i].hp) {
-					const targetHPBeforeDamage = (targets[i].hurtThisTurn || 0) + curDamage;
-					if (targets[i].hp <= targets[i].maxhp / 2 && targetHPBeforeDamage > targets[i].maxhp / 2) {
+					if (targets[i].hp <= targets[i].maxhp / 2 && targets[i].hp + curDamage > targets[i].maxhp / 2) {
 						this.runEvent('EmergencyExit', targets[i], pokemon);
 					}
 				}
@@ -803,7 +814,10 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 		damage = this.spreadDamage(damage, targets, pokemon, move);
 
 		for (const i of targets.keys()) {
-			if (damage[i] === false) targets[i] = false;
+			if (!damage && damage !== 0) {
+				this.debug('damage interrupted');
+				targets[i] = false;
+			}
 		}
 
 		// 3. onHit event happens here
@@ -892,6 +906,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 				this.faint(pokemon, pokemon, move);
 			}
 			if ((damage[i] || damage[i] === 0) && !target.fainted) {
+				// @ts-ignore
 				if (move.noFaint && damage[i] >= target.hp) {
 					damage[i] = target.hp - 1;
 				}
@@ -1029,14 +1044,11 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 			if (target === false) continue;
 			if (moveData.self && !move.selfDropped) {
 				if (!isSecondary && moveData.self.boosts) {
-					const secondaryRoll = this.random(100);
-					if (typeof moveData.self.chance === 'undefined' || secondaryRoll < moveData.self.chance) {
-						this.moveHit(pokemon, pokemon, move, moveData.self, isSecondary, true);
-					}
+					// This is done solely to mimic in-game RNG behaviour. All self drops have a 100% chance of happening but still grab a random number.
+					this.random(100);
 					if (!move.multihit) move.selfDropped = true;
-				} else {
-					this.moveHit(pokemon, pokemon, move, moveData.self, isSecondary, true);
 				}
+				this.moveHit(pokemon, pokemon, move, moveData.self, isSecondary, true);
 			}
 		}
 	},
@@ -1075,6 +1087,7 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 	},
 
 	calcRecoilDamage(damageDealt, move) {
+		// @ts-ignore
 		return this.clampIntRange(Math.round(damageDealt * move.recoil[0] / move.recoil[1]), 1);
 	},
 
@@ -1127,7 +1140,8 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 		if (pokemon) {
 			const item = pokemon.getItem();
 			if (move.name === item.zMoveFrom) {
-				const zMove = this.dex.getActiveMove(item.zMove );
+				// @ts-ignore
+				const zMove = this.dex.getActiveMove(item.zMove);
 				zMove.isZOrMaxPowered = true;
 				return zMove;
 			}
@@ -1186,9 +1200,8 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 		const altForme = species.otherFormes && this.dex.getSpecies(species.otherFormes[0]);
 		const item = pokemon.getItem();
 		// Mega Rayquaza
-		if ((this.gen <= 7 || this.ruleTable.has('standardnatdex')) &&
-			_optionalChain([altForme, 'optionalAccess', _3 => _3.isMega]) && _optionalChain([altForme, 'optionalAccess', _4 => _4.requiredMove]) &&
-			pokemon.baseMoves.includes(this.toID(altForme.requiredMove)) && !item.zMove) {
+		if (_optionalChain([altForme, 'optionalAccess', _3 => _3.isMega]) && _optionalChain([altForme, 'optionalAccess', _4 => _4.requiredMove]) &&
+			pokemon.baseMoves.includes(toID(altForme.requiredMove)) && !item.zMove) {
 			return altForme.name;
 		}
 		// a hacked-in Megazard X can mega evolve into Megazard Y, but not into Megazard X
@@ -1231,8 +1244,9 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 	getMaxMove(move, pokemon) {
 		if (typeof move === 'string') move = this.dex.getMove(move);
 		if (move.name === 'Struggle') return move;
-		if (pokemon.gigantamax && pokemon.canGigantamax && move.category !== 'Status') {
-			const gMaxMove = this.dex.getMove(pokemon.canGigantamax);
+		if (pokemon.canGigantamax && move.category !== 'Status') {
+			const gMaxSpecies = this.dex.getSpecies(pokemon.canGigantamax);
+			const gMaxMove = this.dex.getMove(gMaxSpecies.isGigantamax);
 			if (gMaxMove.exists && gMaxMove.type === move.type) return gMaxMove;
 		}
 		const maxMove = this.dex.getMove(this.maxMoveTable[move.category === 'Status' ? move.category : move.type]);
@@ -1244,14 +1258,14 @@ const CHOOSABLE_TARGETS = new Set(['normal', 'any', 'adjacentAlly', 'adjacentAll
 		if (move.name === 'Struggle') return this.dex.getActiveMove(move);
 		let maxMove = this.dex.getActiveMove(this.maxMoveTable[move.category === 'Status' ? move.category : move.type]);
 		if (move.category !== 'Status') {
-			if (pokemon.gigantamax && pokemon.canGigantamax) {
-				const gMaxMove = this.dex.getActiveMove(pokemon.canGigantamax);
+			if (pokemon.canGigantamax) {
+				const gMaxSpecies = this.dex.getSpecies(pokemon.canGigantamax);
+				const gMaxMove = this.dex.getActiveMove(gMaxSpecies.isGigantamax ? gMaxSpecies.isGigantamax : '');
 				if (gMaxMove.exists && gMaxMove.type === move.type) maxMove = gMaxMove;
 			}
 			if (!_optionalChain([move, 'access', _5 => _5.maxMove, 'optionalAccess', _6 => _6.basePower])) throw new Error(`${move.name} doesn't have a maxMove basePower`);
-			if (!['gmaxdrumsolo', 'gmaxfireball', 'gmaxhydrosnipe'].includes(maxMove.id)) {
-				maxMove.basePower = move.maxMove.basePower;
-			}
+			maxMove.basePower = move.maxMove.basePower;
+			if (['gmaxdrumsolo', 'gmaxfireball', 'gmaxhydrosnipe'].includes(maxMove.id)) maxMove.basePower = 160;
 			maxMove.category = move.category;
 		}
 		maxMove.baseMove = move.id;

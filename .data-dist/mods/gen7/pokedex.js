@@ -1,4 +1,4 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const Pokedex = {
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const BattlePokedex = {
 	pikachuoriginal: {
 		inherit: true,
 		abilities: {0: "Static"},
@@ -155,13 +155,4 @@
 		inherit: true,
 		abilities: {0: "Misty Surge"},
 	},
-	justyke: {
-		inherit: true,
-		abilities: {0: "Levitate", 1: "Bulletproof", H: "Justified"},
-	},
-	equilibra: {
-		inherit: true,
-		baseStats: {hp: 102, atk: 50, def: 96, spa: 133, spd: 118, spe: 60},
-		abilities: {0: "Levitate", 1: "Bulletproof", H: "Justified"},
-	},
-}; exports.Pokedex = Pokedex;
+}; exports.BattlePokedex = BattlePokedex;
