@@ -3934,28 +3934,28 @@
 	weezingkrookodile: {
 		tier: "UU",
 	},
+	muksteelix: {
+		tier: "UU",
+	},
+	chandelurevenusaur: {
+		tier: "OU",
+	},
+	spiritombklinklang: {
+		tier: "RU",
+	},
 	suicunegenesect: {
 		tier: "UU",
 	},
 	ariadosmachamp: {
 		tier: "RU",
 	},
-	muksteelix: {
-		tier: "UU",
-	},
-	spiritombklinklang: {
+	sceptileheracross: {
 		tier: "RU",
-	},
-	chandelurevenusaur: {
-		tier: "OU",
 	},
 	torterraaggron: {
 		tier: "RU",
 	},
 	giratinaentei: {
 		tier: "OU",
-	},
-	sceptileheracross: {
-		tier: "RU",
 	},
 }; exports.BattleFormatsData = BattleFormatsData;
