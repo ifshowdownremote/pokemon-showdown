@@ -26185,7 +26185,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	dusknoirscizor: {
 		num: 10981,
 		name: "dusknoirscizor",
-		types: ["Ghost", "Steel"],
+		types: ["Ghost", "Bug"],
 		baseStats: {hp: 53, atk: 120, def: 111, spa: 61, spd: 116, spe: 58},
 		abilities: {0: "Pressure", 1: "Technician", H: "Light Metal"},
 		heightm: 20,
