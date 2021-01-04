@@ -168,7 +168,7 @@ export const Conditions: {[k: string]: ConditionData} = {
 				return;
 			}
 			this.add('-activate', pokemon, 'confusion');
-			if (!this.randomChance(33, 100)) {
+			if (!this.randomChance(1, 3)) {
 				return;
 			}
 			this.activeTarget = pokemon;
@@ -269,15 +269,7 @@ export const Conditions: {[k: string]: ConditionData} = {
 		duration: 2,
 		onStart(target, source, effect) {
 			this.effectData.move = effect.id;
-			target.addVolatile(effect.id);
-			let moveTarget: Pokemon | null = source;
-			if (effect.sourceEffect && this.dex.getMove(effect.id).target === 'normal') {
-				// this move was called by another move such as metronome and needs a random target to be determined now
-				// won't randomly choose an empty slot if there's at least one valid target
-				moveTarget = this.getRandomTarget(target, effect.id);
-			}
-			// if there are no valid targets, randomly choose one later
-			target.volatiles[effect.id].targetLoc = this.getTargetLoc(moveTarget || target, target);
+			target.addVolatile(effect.id, source);
 			this.attrLastMove('[still]');
 		},
 		onEnd(target) {
@@ -295,7 +287,7 @@ export const Conditions: {[k: string]: ConditionData} = {
 		noCopy: true,
 		onStart(pokemon) {
 			if (!this.activeMove) throw new Error("Battle.activeMove is null");
-			if (!this.activeMove.id || this.activeMove.hasBounced || this.activeMove.sourceEffect === 'snatch') return false;
+			if (!this.activeMove.id || this.activeMove.hasBounced) return false;
 			this.effectData.move = this.activeMove.id;
 		},
 		onBeforeMove(pokemon, target, move) {
@@ -626,6 +618,12 @@ export const Conditions: {[k: string]: ConditionData} = {
 			}
 			return 5;
 		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.hasType('Ice') && this.field.isWeather('hail')) {
+				return this.modify(def, 1.5);
+			}
+		},
 		onStart(battle, source, effect) {
 			if (effect?.effectType === 'Ability') {
 				if (this.gen <= 5) this.effectData.duration = 0;
@@ -663,6 +661,68 @@ export const Conditions: {[k: string]: ConditionData} = {
 		onResidualOrder: 1,
 		onResidual() {
 			this.add('-weather', 'DeltaStream', '[upkeep]');
+			this.eachEvent('Weather');
+		},
+		onEnd() {
+			this.add('-weather', 'none');
+		},
+	},
+	toxiccloud: {
+		name: 'Toxic Cloud',
+		effectType: 'Weather',
+		duration: 5,
+		durationCallback(source, effect) {
+			if (source?.hasItem('poisonrock')) {
+				return 8;
+			}
+			return 5;
+		},
+		onWeatherModifyDamage(damage, attacker, defender, move) {
+			if (defender.hasItem('utilityumbrella')) return;
+			if (move.type === 'Poison') {
+				this.debug('Toxic Cloud poison boost');
+				return this.chainModify(1.5);
+			}
+		},
+		onStart(battle, source, effect) {
+			if (effect?.effectType === 'Ability') {
+				if (this.gen <= 5) this.effectData.duration = 0;
+				this.add('-weather', 'Toxic Cloud', '[from] ability: ' + effect, '[of] ' + source);
+			} else {
+				this.add('-weather', 'Toxic Cloud');
+			}
+		},
+		onResidualOrder: 1,
+		onResidual() {
+			this.add('-weather', 'Toxic Cloud', '[upkeep]');
+			if (this.field.isWeather('toxiccloud')) this.eachEvent('Weather');
+		},
+		onWeather(target) {
+			this.damage(target.baseMaxhp / 16);
+		},
+		onEnd() {
+			this.add('-weather', 'none');
+		},
+	},
+	
+	neutralweather: {
+		name: 'Neutral Weather',
+		effectType: 'Weather',
+		duration: 1,
+		durationCallback(source, effect) {
+			return 1;
+		},
+		onStart(battle, source, effect) {
+			if (effect?.effectType === 'Ability') {
+				if (this.gen <= 5) this.effectData.duration = 0;
+				this.add('-weather', 'Neutral Weather', '[from] ability: ' + effect, '[of] ' + source);
+			} else {
+				this.add('-weather', 'Neutral Weather');
+			}
+		},
+		onResidualOrder: 1,
+		onResidual() {
+			this.add('-weather', 'Neutral Weather', '[upkeep]');
 			this.eachEvent('Weather');
 		},
 		onEnd() {
