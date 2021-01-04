@@ -1,4 +1,4 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const Formats = {
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const BattleFormats = {
 	standard: {
 		inherit: true,
 		ruleset: ['Obtainable', 'Team Preview', 'Sleep Clause Mod', 'Species Clause', 'Nickname Clause', 'OHKO Clause', 'Moody Clause', 'Evasion Moves Clause', 'Endless Battle Clause', 'HP Percentage Mod', 'Cancel Mod'],
@@ -26,15 +26,4 @@
 			this.add('rule', 'Gravity Sleep Clause: The combination of Gravity and sleep-inducing moves with imperfect accuracy are banned');
 		},
 	},
-	teampreview: {
-		inherit: true,
-		onBegin() {
-			this.add('clearpoke');
-			for (const pokemon of this.getAllPokemon()) {
-				const details = pokemon.details.replace(', shiny', '')
-					.replace(/(Arceus|Gourgeist|Genesect|Pumpkaboo|Silvally|Urshifu)(-[a-zA-Z?-]+)?/g, '$1-*');
-				this.add('poke', pokemon.side.id, details, pokemon.item ? 'item' : '');
-			}
-		},
-	},
-}; exports.Formats = Formats;
+}; exports.BattleFormats = BattleFormats;

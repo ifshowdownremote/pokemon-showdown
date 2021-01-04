@@ -1,9 +1,13 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const Items = {
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const BattleItems = {
 	abomasite: {
 		inherit: true,
 		isNonstandard: null,
 	},
 	absolite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	adamantorb: {
 		inherit: true,
 		isNonstandard: null,
 	},
@@ -81,6 +85,10 @@
 		inherit: true,
 		isNonstandard: null,
 	},
+	burndrive: {
+		inherit: true,
+		isNonstandard: null,
+	},
 	cameruptite: {
 		inherit: true,
 		isNonstandard: null,
@@ -93,6 +101,10 @@
 		inherit: true,
 		isNonstandard: null,
 	},
+	chilldrive: {
+		inherit: true,
+		isNonstandard: null,
+	},
 	clawfossil: {
 		inherit: true,
 		isNonstandard: null,
@@ -102,6 +114,10 @@
 		isNonstandard: "Unobtainable",
 	},
 	coverfossil: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	custapberry: {
 		inherit: true,
 		isNonstandard: null,
 	},
@@ -122,6 +138,10 @@
 		isNonstandard: null,
 	},
 	domefossil: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	dousedrive: {
 		inherit: true,
 		isNonstandard: null,
 	},
@@ -166,6 +186,10 @@
 		isNonstandard: "Unobtainable",
 	},
 	electriumz: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	enigmaberry: {
 		inherit: true,
 		isNonstandard: null,
 	},
@@ -255,6 +279,10 @@
 		inherit: true,
 		isNonstandard: null,
 	},
+	griseousorb: {
+		inherit: true,
+		isNonstandard: null,
+	},
 	groundgem: {
 		inherit: true,
 		isNonstandard: "Unobtainable",
@@ -317,6 +345,10 @@
 		inherit: true,
 		isNonstandard: null,
 	},
+	jabocaberry: {
+		inherit: true,
+		isNonstandard: null,
+	},
 	jawfossil: {
 		inherit: true,
 		isNonstandard: null,
@@ -354,6 +386,10 @@
 		isNonstandard: null,
 	},
 	lunaliumz: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	lustrousorb: {
 		inherit: true,
 		isNonstandard: null,
 	},
@@ -416,6 +452,10 @@
 		isNonstandard: null,
 	},
 	mewtwonitey: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	micleberry: {
 		inherit: true,
 		isNonstandard: null,
 	},
@@ -511,6 +551,10 @@
 		inherit: true,
 		isNonstandard: null,
 	},
+	rowapberry: {
+		inherit: true,
+		isNonstandard: null,
+	},
 	sablenite: {
 		inherit: true,
 		isNonstandard: null,
@@ -535,6 +579,10 @@
 		inherit: true,
 		isNonstandard: null,
 	},
+	shockdrive: {
+		inherit: true,
+		isNonstandard: null,
+	},
 	skullfossil: {
 		inherit: true,
 		isNonstandard: null,
@@ -552,6 +600,10 @@
 		isNonstandard: null,
 	},
 	solganiumz: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	souldew: {
 		inherit: true,
 		isNonstandard: null,
 	},
@@ -646,4 +698,4 @@
 		inherit: true,
 		isNonstandard: null,
 	},
-}; exports.Items = Items;
+}; exports.BattleItems = BattleItems;

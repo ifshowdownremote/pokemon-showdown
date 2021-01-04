@@ -1,4 +1,4 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const Scripts = {
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); const BattleScripts = {
 	inherit: 'gen5',
 	gen: 4,
 	init() {
@@ -101,4 +101,4 @@
 	calcRecoilDamage(damageDealt, move) {
 		return this.clampIntRange(Math.floor(damageDealt * move.recoil[0] / move.recoil[1]), 1);
 	},
-}; exports.Scripts = Scripts;
+}; exports.BattleScripts = BattleScripts;
